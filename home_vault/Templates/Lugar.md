@@ -1,0 +1,6 @@
+---
+Lugar: 
+aliases: 
+tags:
+  - Lugar
+---

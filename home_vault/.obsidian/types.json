@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Género": "text",
+    "Profesión": "text",
+    "Lugar": "multitext",
+    "Día": "number",
+    "Reinos": "multitext"
+  }
+}
