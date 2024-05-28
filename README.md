@@ -1,2 +1,3 @@
 # obsidian-vaults
-Obsidian Vaults
+My Obsidian Vaults:
+- home_vault
