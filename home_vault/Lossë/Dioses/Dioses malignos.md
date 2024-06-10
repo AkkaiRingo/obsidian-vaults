@@ -1,3 +1,3 @@
 - [[Putrefacto]]
-- [[bestia marina]]
+- [[Zeboim]]
 - [[Sargonas]]

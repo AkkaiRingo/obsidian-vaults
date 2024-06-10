@@ -9,3 +9,4 @@ tags:
 ---
 ### Inventario
 - Llaves de la celda de [[Camino del Árbol]]
+- Manzana 7/10

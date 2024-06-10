@@ -19,7 +19,7 @@ Están preparando el [[Castillo de Kalaman]] para alojar soldados de ciudades al
 La [[Gobernadora Calof Miat]] calcula que podrían alojar a un total de hasta 1000 soldados. El plan actualmente es ir trayendo soldados, hay 200 locales, podría haber otros 100 armando milicias, y si cuando quede una semana no hay esperanzas, se desalojará la ciudad de civiles para convertirla en una especie de cuartel. 
 ## Puerto
 He intentado hablar con unas gaviotas, pero no he conseguido entender mucho...
-- El [[Rey pescador]], [[Dioses buenos]] y reina o [[bestia marina]], [[Dioses malignos]] del mar
+- El [[Rey pescador]], [[Dioses buenos]] y reina o [[Zeboim]], [[Dioses malignos]] del mar
 - Favor / Permiso
 - Comer pescado muerto en el puerto mal
 - Favorito?

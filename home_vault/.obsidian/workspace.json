@@ -6,7 +6,7 @@
       {
         "id": "88d6db0df951f3aa",
         "type": "tabs",
-        "dimension": 73.87466902030009,
+        "dimension": 74.05956112852664,
         "children": [
           {
             "id": "4cc7ec751d9e33d1",
@@ -19,15 +19,17 @@
             }
           },
           {
-            "id": "d74b74d0896f6d1a",
+            "id": "16b1196521ae5501",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 5.md",
+                "file": "Lossë/Sesiones/Sesión 7.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -36,7 +38,7 @@
       {
         "id": "6d0254bf30b2d31e",
         "type": "tabs",
-        "dimension": 26.125330979699914,
+        "dimension": 25.940438871473354,
         "children": [
           {
             "id": "479a6991bde81ce8",
@@ -81,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"lugar\":concej",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,8 +120,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 5.md",
-                "collapseAll": true,
+                "file": "Lossë/Sesiones/Sesión 3.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -135,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 5.md",
+                "file": "Lossë/Sesiones/Sesión 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,11 +160,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 5.md"
+                "file": "Lossë/Sesiones/Sesión 3.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -181,34 +184,34 @@
   },
   "active": "c848b66089cc57ce",
   "lastOpenFiles": [
-    "Lossë/Personas/Camino del Árbol/Naxene Drathkala.md",
-    "Lossë/Sesiones/Sesión 5.md",
-    "Lossë/Dioses/Putrefacto.md",
+    "Lossë/Lugares/Cabo del Mentiroso",
+    "Untitled.md",
+    "Lossë/Sesiones/Sesión 7.md",
     "Lossë/Leyenda.md",
-    "Lossë/Sesiones/Sesión 4.md",
+    "Lossë/Sesiones/Sesión 3.md",
     "Lossë/Dioses/Sargonas.md",
+    "Lossë/Sesiones/Sesión 2.md",
+    "Lossë/Sesiones/Sesión 1.md",
+    "Lossë/Lugares/Cabo del Mentiroso/El emperador de las olas.md",
+    "Lossë/Sesiones/Sesión 6.md",
+    "Lossë/Lugares/Cabo del Mentiroso/Faro (CM).md",
+    "Lossë/Personas/Camino del Árbol/Zifus.md",
+    "Lossë/Personas/Camino del Árbol/Shalvus Martholio.md",
+    "Lossë/Sesiones/Sesión 5.md",
+    "Lossë/PCs/Lossë.md",
+    "Lossë/Dioses/Zeboim.md",
+    "Lossë/Dioses/Dioses malignos.md",
+    "Diddy/Session notes.md",
+    "Lossë/Personas/Camino del Árbol/Beldora.md",
+    "Lossë/Personas/Camino del Árbol/Naxene Drathkala.md",
+    "Lossë/Dioses/Putrefacto.md",
+    "Lossë/Sesiones/Sesión 4.md",
     "Lossë/Dioses/Rey pescador.md",
     "Templates/Dios.md",
     "Templates/Lugar.md",
-    "Lossë/Sesiones/Sesión 3.md",
     "Templates/Persona.md",
-    "Lossë/Dioses/Dioses malignos.md",
-    "Lossë/Criaturas/hombres pez.md",
-    "Lossë/PCs/Lossë.md",
-    "Lossë/Lugares/Kalaman (ciudad)/Kalaman (ciudad).md",
     "Untitled.canvas",
-    "Lossë/Sesiones/Sesión 1.md",
-    "Lossë/Personas/Kalaman (ciudad)/Lord Soth.md",
     "Lossë/Lugares/Camino del Árbol",
-    "Lossë/Lugares/Camino del Árbol/Gremio de ladrones (CA).md",
-    "Lossë/Personas/Camino del Árbol/Beldora.md",
-    "Lossë/PCs/Marco.md",
-    "Lossë/PCs/Lance.md",
-    "Lossë/Sesiones/Sesión 2.md",
-    "Lossë/Lugares/Silvanesti.md",
-    "Lossë/Lugares/Kalaman (ciudad)/Salón Gremial (K).md",
-    "Lossë/Personas/Kalaman (ciudad)/murloc.md",
-    "Lossë/Personas/Camino del Árbol/Ivin del Escudo Verde.md",
     "Lossë/Personas/Camino del Árbol",
     "Lossë/Personas/Kalaman (ciudad)",
     "Lossë/Imágenes/Pasted image 20240515234139.png",
