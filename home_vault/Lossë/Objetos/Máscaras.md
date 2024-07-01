@@ -1,6 +1,7 @@
 ---
 aliases:
   - máscaras
+  - máscara
 ---
 
 [[117]]

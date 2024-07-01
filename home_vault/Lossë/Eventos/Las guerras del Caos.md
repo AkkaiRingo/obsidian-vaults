@@ -1,0 +1,1 @@
+[[reina dragón|Takishis]] nombró a [[Sargonas]] su consorte y se alzaron, dando comienzo a esta guerra en la que varios [[Dioses malignos]] se unieron a ellos. 

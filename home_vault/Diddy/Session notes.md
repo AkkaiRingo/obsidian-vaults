@@ -122,3 +122,5 @@ Nos hemos encontrado un grupo de [[Terran]], civiles y marines, huyendo de una t
 Llegamos al asentamiento con los civiles y soldados a los que ayudamos. Están en malas condiciones, no es defendible con los recursos que tienen. Haremos noche aquí, pero mañana lo que queda de los marines lanzarán un ataque contra los [[Zergs]] que rodean el laboratorio; nosotros aprovecharemos la distracción para infiltrarnos en el laboratorio. 
 Por la noche han atacado los [[Zergs]]. Han matado a varias de las personas que se resguardaban aquí, pero hemos conseguido matarlos. 
 Salimos hacia el laboratorio. Iremos con los supervivientes de la zona, intentando evitar zonas peligrosas que conocen, y cuando nos acerquemos al destino, nos desmarcaremos de la columna e intentaremos infiltrarnos mientras los soldados distraen con su ataque. 
+# SESIÓN 14 - 12/06/2024
+### Diddy

@@ -9,4 +9,9 @@ tags:
 ---
 ### Inventario
 - Llaves de la celda de [[Camino del Árbol]]
-- Manzana 7/10
+- Manzana 9/10
+- [[Máscaras]] básicas
+- [[Máscaras|máscara]] solámnica de alta calidad (5GP)
+
+#### Mascarada
+- Armas escondidas 15 DEX (Sleight of Hand)
