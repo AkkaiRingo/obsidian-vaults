@@ -124,3 +124,12 @@ Por la noche han atacado los [[Zergs]]. Han matado a varias de las personas que 
 Salimos hacia el laboratorio. Iremos con los supervivientes de la zona, intentando evitar zonas peligrosas que conocen, y cuando nos acerquemos al destino, nos desmarcaremos de la columna e intentaremos infiltrarnos mientras los soldados distraen con su ataque. 
 # SESIÓN 14 - 12/06/2024
 ### Diddy
+La nave de Harold se ha caído y los zergs le han rodeado, pero ha conseguido sobrevivir los suficiente hasta haberle sacado. 
+Nos hemos infiltrado en la base.
+Hemos encontrado un vídeo y he copiado el disco de un portátil, los datos están dañados, tendré que recuperarlos más tarde. 
+Hay huevos de criaturas extrañas. Dentro hay restos de Terran, parecen los científicos del laboratorio. 
+Hemos conseguido una tarjeta de acceso de uno de los cadáveres que había en los huevos. 
+# SESIÓN 15 - 03/07/2024
+### Diddy
+La persona a cargo del laboratorio era la Dra Ariel Hanson. He encontrado un mapa de esta planta. 
+Hemos encontrado documentos que hablan de que estaban intentando reavivar una investigación en la que se estaban creando híbridos entre zergs y terran. 
