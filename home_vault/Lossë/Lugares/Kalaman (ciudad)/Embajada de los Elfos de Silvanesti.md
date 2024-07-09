@@ -6,6 +6,6 @@ aliases:
 tags:
   - Lugar
 ---
-[[117]]
+[[122]]
 La embajada de los elfos [[Silvanesti]].
 Reside aquí [[Dálamar]].

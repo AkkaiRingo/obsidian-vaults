@@ -1,6 +1,6 @@
 ---
 Fecha: 2024-06-10
-Día: 114
+Día: "[[119]]"
 Lugar:
   - "[[Cabo del Mentiroso]]"
   - "[[Faro (CM)]]"
@@ -15,8 +15,8 @@ Lugar:
 tags:
   - "#Sesión"
 ---
-# [[114]], [[Cabo del Mentiroso]]
-## Faro
+# [[119]], [[Cabo del Mentiroso]]
+## [[Faro (CM)]]
 ### [[Antiguo Santuario del Rey Pescador]]
 Hemos acabado con la [[Saga de mar]] y los [[hombres pez]]. Ha invocado unas especie de gólems hemos de mandíbulas de criaturas marinas. 
 Hay muchas cajas de mercancía, que parece que se han sacado de naufragios de barcos. Hay mercancías de todas partes. 

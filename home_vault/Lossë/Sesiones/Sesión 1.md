@@ -1,6 +1,6 @@
 ---
 Fecha: 2024-04-29
-Día: 117
+Día: "[[122]]"
 Lugar:
   - "[[Kalaman (ciudad)]]"
   - "[[Castillo de Kalaman|Castillo (K)]]"
@@ -10,7 +10,7 @@ Lugar:
 tags:
   - "#Sesión"
 ---
-# [[117]], [[Kalaman (ciudad)]]
+# [[122]], [[Kalaman (ciudad)]]
 Llegamos a [[Kalaman (ciudad)]]. He venido con [[Marco]], un ayudante del [[Oráculo]], y al llegar nos hemos juntado con un caballero, [[Lance]].
 ## [[Castillo de Kalaman]]
 Hemos visitamos el [[Castillo de Kalaman]] para hablar con la [[Gobernadora Calof Miat]] y [[Fitzban el Fabuloso]]. 
@@ -20,7 +20,7 @@ Nos han contado que son parte de un grupo de cuatro personas:
 - [[Dálamar]], [[Embajada de los Elfos de Silvanesti]]
 - [[Capitán Ramata]], Barracones
 
-Son los únicos (además de nosotros) que saben del [[El Vaticinio]] que asolará y destruirá [[Kalaman (ciudad)]] en 117 días. 
+Son los únicos (además de nosotros) que saben del [[El Vaticinio]] que asolará y destruirá [[Kalaman (ciudad)]] en [[122]] días. 
 Nos ha dado una pieza de ajedrez que nos servirá a modo de insignia como para obtener acceso al [[Castillo de Kalaman]] y otras zonas o servicios de [[Kalaman (ciudad)]]. 
 Nos han dado el título de "[[Vallado]]"? Tenemos 1GP al día, alojamiento gratuito en la posada y descuentos en los [[Clanes Gemelos]].
 ## [[Embajada de los Elfos de Silvanesti]]

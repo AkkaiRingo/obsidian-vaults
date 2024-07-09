@@ -1,13 +1,16 @@
 ---
 Fecha: 2024-06-17
-Día: 113
+Día:
+  - "[[118]]"
+  - "[[117]]"
+  - "[[116]]"
 Lugar:
   - "[[Kalaman (ciudad)]]"
   - "[[Baliza firme]]"
 tags:
   - "#Sesión"
 ---
-# [[113]], [[Kalaman (ciudad)]]
+# [[118]], [[Kalaman (ciudad)]]
 ## Biblioteca
 [[Lance]] y yo hemos ido a la Biblioteca de [[Fitzban el Fabuloso]]. [[Lance]] ha descubierto que en el [[Filo de la Destructora]] hay un templo a [[Zeboim|la destructora]]. Es uno de tantos construido por los habitantes de la antigua ciudad de [[Nihileto]], antigua ciudad de los [[Istar]], que andaban investigando los dioses marinos. 
 
@@ -27,7 +30,7 @@ El [[Capitán Ramata]] dice que investigaron el templo hace cosa de un mes, un c
 
 Dice que cada vez hay más rumores sobre serpientes que andan en vez de reptar (al Norte) o cabras carnívoras (al Sur), pescados que andan (al Este). Rumores que cada vez se oyen más, se los está empezando a tomar en serio. 
 
-# [[112]], [[Kalaman (ciudad)]]
+# [[117]], [[Kalaman (ciudad)]]
 ## Barracones
 El [[Capitán Ramata]] quería hablar con nosotros. La sacerdotisa [[Meulara]] ha vuelto del santuario del [[Faro (CM)]]. Dice que aparecieron de pronto [[tormentas verdes]], y al salir vieron un barco que estaba demasiado roto como para poder surcar los mares... Sintió muchas *vibes* de maldad y destrucción; tormentas rodeaban al barco el poco tiempo que lo vislumbraron; claramente se trata de [[El emperador de las olas]]. Fueron de noche y el cielo estaba completamente cubierto. 
 
@@ -37,9 +40,9 @@ Pensaba que las [[tormentas verdes]] eran cosa de la [[Saga de mar]] a la que ma
 
 Es posible que los seguidores de [[Zeboim]] sintieran que [[Meulara]] y sus ayudantes estaban intentando purificar el templo del [[Faro (CM)]] y que por la noche hayan ido a evitarlo. 
 
-Vamos a intentar usar ésto a nuestro favor. En el día [[109]] saldremos con [[Meulara]] y algunos hombres del [[Capitán Ramata]] hacia el [[Faro (CM)]]; durante el día (seguramente ya será [[108]]) [[Meulara]] purificará el templo, como para tener tiempo de volverse y no ponerles en peligro; nosotros esperaremos a la noche a que venga [[El emperador de las olas]].  
+Vamos a intentar usar ésto a nuestro favor. En el día [[114]] saldremos con [[Meulara]] y algunos hombres del [[Capitán Ramata]] hacia el [[Faro (CM)]]; durante el día (seguramente ya será [[108]]) [[Meulara]] purificará el templo, como para tener tiempo de volverse y no ponerles en peligro; nosotros esperaremos a la noche a que venga [[El emperador de las olas]].  
 
-Nos vamos a preparar un poco para el [[Baile de mascarada]] del día [[110]]. [[Marco]] ha conseguido falsificar los papeles que necesitamos. 
+Nos vamos a preparar un poco para el [[Baile de mascarada]] del día [[115]]. [[Marco]] ha conseguido falsificar los papeles que necesitamos. 
 
-# [[111]], [[Kalaman (ciudad)]]
+# [[116]], [[Kalaman (ciudad)]]
 [[Marco]] me ha ayudado a robar un par de monedas de oro jeje

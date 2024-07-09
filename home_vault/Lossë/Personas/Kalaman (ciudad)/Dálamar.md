@@ -8,6 +8,6 @@ Lugar:
 tags:
   - Persona
 ---
-[[117]]
+[[122]]
 Reside en la [[Embajada de los Elfos de Silvanesti]].
 Amigo de [[Fitzban el Fabuloso]], fueron ellos dos quienes trajeron [[El Vaticinio]] ante la [[Gobernadora Calof Miat]].

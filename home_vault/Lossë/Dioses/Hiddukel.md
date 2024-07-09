@@ -4,7 +4,7 @@ Reinos:
   - Engaño
   - Subterfugio
   - Ambición
-Símbolos: Balanza rota
+Símbolos: Balanza rota, Mano derecha, Mano con tres dedos pintados
 aliases: 
 tags:
   - Dios

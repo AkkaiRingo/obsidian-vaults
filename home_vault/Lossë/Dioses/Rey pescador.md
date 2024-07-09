@@ -7,5 +7,5 @@ aliases:
 tags:
   - Dios
 ---
-[[116]]
+[[121]]
 Dios del mar. Su símbolo es una gran ave azul (phoenix), pero las aves de la costa también suelen estar relacionadas con él.

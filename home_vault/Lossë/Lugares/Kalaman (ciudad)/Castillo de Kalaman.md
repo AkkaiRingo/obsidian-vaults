@@ -6,5 +6,5 @@ aliases:
 tags:
   - Lugar
 ---
-[[117]]
+[[122]]
 Se encuentra en el centro de la ciudad. Es de edificación antigua.

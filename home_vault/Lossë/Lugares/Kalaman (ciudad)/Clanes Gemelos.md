@@ -6,7 +6,7 @@ aliases:
 tags:
   - Lugar
 ---
-[[117]]
+[[122]]
 Una nueva forja de enanos. 
 Están en [[Kalaman (ciudad)]] por un favor que les ha pedido su amigo [[Fitzban el Fabuloso]].
 Usan tecnología de gnomos. 

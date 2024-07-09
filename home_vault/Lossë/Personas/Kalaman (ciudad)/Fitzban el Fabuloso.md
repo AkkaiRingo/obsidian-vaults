@@ -8,7 +8,7 @@ Lugar:
 tags:
   - Persona
 ---
-[[117]]
+[[122]]
 Siete canarios revolotean a su alrededor. No parecen comportarse como animales corrientes. 
-[[114]]
+[[119]]
 Parece que dependiendo del día, tiene más o menos canarios. 

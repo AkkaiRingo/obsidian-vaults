@@ -1,4 +1,4 @@
-[[117]]
+[[122]]
 *Si no se pone fín a la amenaza sin nombre del norte, [[Kalaman (ciudad)]] será destruida*
  
 [[Dálamar]] nos ha dado las palabras exactas. 

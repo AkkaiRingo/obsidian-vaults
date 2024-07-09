@@ -7,5 +7,5 @@ Lugar:
 tags:
   - PJ
 ---
-[[117]]
+[[122]]
 Un ayudante del [[Oráculo]].

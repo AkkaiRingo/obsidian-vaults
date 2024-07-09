@@ -4,5 +4,5 @@ aliases:
   - máscara
 ---
 
-[[117]]
+[[122]]
 Podrían ser para el [[Baile de mascarada]]. Algunas son de mimbre. 

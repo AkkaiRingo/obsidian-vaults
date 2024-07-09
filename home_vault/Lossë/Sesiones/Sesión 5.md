@@ -1,6 +1,6 @@
 ---
 Fecha: 2024-05-27
-Día: 115
+Día: "[[120]]"
 Lugar:
   - "[[Camino del Árbol]]"
   - Puerto (CA)
@@ -8,7 +8,7 @@ Lugar:
 tags:
   - "#Sesión"
 ---
-# [[115]], [[Camino del Árbol]]
+# [[120]], [[Camino del Árbol]]
 ## Puerto
 [[Lance]] dice que [[Moldabrisa el Largo]] parece un seguidor de uno de los [[Dioses malignos]], [[Sargonas]], dios del fuego y la venganza. Uno de sus dogmas es "que una arma nunca te amenace dos veces", por éso rompieron nuestras armas. Va de rojo y con símbolos de un pájaro negro (un cóndor). Han pintado estos símbolos en la armadura robada de [[Lance]].
 

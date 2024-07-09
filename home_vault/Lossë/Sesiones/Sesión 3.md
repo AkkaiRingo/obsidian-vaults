@@ -1,6 +1,6 @@
 ---
 Fecha: 2024-05-13
-Día: 116
+Día: "[[121]]"
 Lugar:
   - "[[Kalaman (ciudad)]]"
   - "[[Castillo de Kalaman]]"
@@ -12,7 +12,7 @@ Lugar:
 tags:
   - "#Sesión"
 ---
-# [[116]], [[Kalaman (ciudad)]]
+# [[121]], [[Kalaman (ciudad)]]
 ## [[Castillo de Kalaman]]
 Hemos ido a hablar con la [[Gobernadora Calof Miat]], nos dejará copiar el aval del "noble de nombre complicado" [[murloc]].
 Están preparando el [[Castillo de Kalaman]] para alojar soldados de ciudades aliadas, que vendrán disfrazados de mercaderes. 
@@ -24,7 +24,7 @@ He intentado hablar con unas gaviotas, pero no he conseguido entender mucho...
 - Comer pescado muerto en el puerto mal
 - Favorito?
 - no comer moluscos de barco o ave mala --> [[Dragón tortuga]]?
-# [[116]], [[Camino del Árbol]]
+# [[121]], [[Camino del Árbol]]
 ## Concejalía
 Hemos hablado con un señor enano [[Ivin del Escudo Verde]], está a cargo de la concejalía. 
 Dice que desde que se detuvo a la [[familia Helgar]] que anduvo involucrada con el [[Culto]] de [[Dioses malignos]], no ha habido movimientos similares, sin embargo, las actividades de "maleantes" han aumentado. 

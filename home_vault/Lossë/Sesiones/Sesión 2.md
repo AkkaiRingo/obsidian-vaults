@@ -1,6 +1,6 @@
 ---
 Fecha: 2024-05-06
-Día: 117
+Día: "[[122]]"
 Lugar:
   - "[[Kalaman (ciudad)]]"
   - Biblioteca (K)
@@ -16,7 +16,7 @@ Lugar:
 tags:
   - "#Sesión"
 ---
-# [[117]], [[Kalaman (ciudad)]]
+# [[122]], [[Kalaman (ciudad)]]
 ## Biblioteca
 Vamos a ir a hablar con [[Fitzban el Fabuloso]]. Está investigando si hay alguna forma de dormir un [[Dragón tortuga]] que hay en la bahía de [[Kalaman (ciudad)]]. Dice que hace tiempo había un gran negocio de "Viagra" en las calles de la ciudad.  Le hemos preguntado por el dueño de los [[Clanes Gemelos]]. Dice que la [[Gobernadora Calof Miat]] debería saber quién es el dueño del edificio. 
 ## [[Castillo de Kalaman]]

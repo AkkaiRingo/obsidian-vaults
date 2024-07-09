@@ -8,5 +8,5 @@ Lugar:
 tags:
   - Persona
 ---
-[[117]]
+[[122]]
 Parece convencida de que se conseguirá detener la catástrofe de [[El Vaticinio]] porque la ciudad de [[Kalaman (ciudad)]] sobrevivirá. 

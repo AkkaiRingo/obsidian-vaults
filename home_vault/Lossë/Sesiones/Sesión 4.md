@@ -1,6 +1,6 @@
 ---
 Fecha: 2024-05-20
-Día: 116
+Día: "[[121]]"
 Lugar:
   - "[[Camino del Árbol]]"
   - Puerto (CA)
@@ -8,7 +8,7 @@ Lugar:
 tags:
   - "#Sesión"
 ---
-# [[116]], [[Camino del Árbol]]
+# [[121]], [[Camino del Árbol]]
 ## Puerto
 Se ha enzarzado un combate, ha habido un par de muertes y han terminado por venir los alguaciles de la ciudad. Parece que los rufianes de [[Moldabrisa el Largo]] tienen amenazados a los alguaciles o algo, pero se han llevado detenidos a [[Lance]] y a [[Marco]]; yo he conseguido escabullirme. 
 

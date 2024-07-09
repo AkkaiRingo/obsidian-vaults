@@ -1,6 +1,6 @@
 ---
 Fecha: 2024-06-03
-Día: 115
+Día: "[[120]]"
 Lugar:
   - "[[Camino del Árbol]]"
   - Salón Gremial (CA)
@@ -11,7 +11,7 @@ Lugar:
 tags:
   - "#Sesión"
 ---
-# 115, [[Camino del Árbol]]
+# [[120]], [[Camino del Árbol]]
 ## Salón Gremial (CA)
 
 [[Lance]] se va a quedar a dormir, que esta noche no ha descansado, y mientras tanto [[Marco]] y yo iremos a hacer un par de recados: por un lado, hablar con [[Beldora]] para "cobrar", y a buscar algún barco que nos pueda llevar al [[Cabo del Mentiroso]]. 

@@ -9,5 +9,5 @@ tags:
 aliases:
   - concejal
 ---
-[[117]]
+[[122]]
 Pertenece a la [[familia Helgar]]. Llevaba el [[Culto]] a los [[Dioses malignos]], el [[Putrefacto]].
