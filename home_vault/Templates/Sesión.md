@@ -1,6 +1,8 @@
 ---
-Fecha: {{date}}
-Día: 0
+Fecha:
+  "{ date }": 
+Día:
+  - "000"
 Lugar: 
 tags:
   - "#Sesión"

@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "73b6db776a392fed",
+        "id": "220479fc4fb9b12c",
         "type": "tabs",
         "children": [
           {
-            "id": "fb04b569a560ce5a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "ade28cd15d80f317",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lossë/Sesiones/Sesión 9.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "ce93d4fce7db4073",
+            "id": "a8809fb472e531b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lossë/PCs/Lossë.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2109c7c6bef60cf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lossë/Personas/Kalaman (ciudad)/Lord Bacaris el menor.md",
+                "file": "Diddy/Session notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "109",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 211.5
   },
   "right": {
     "id": "75e87a799dde3557",
@@ -122,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 9.md",
-                "collapseAll": false,
+                "file": "Diddy/Session notes.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 9.md",
+                "file": "Diddy/Session notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 9.md"
+                "file": "Diddy/Session notes.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -182,39 +145,41 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "janitor:Janitor: scan vault": false
+      "janitor:Janitor: scan vault": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ade28cd15d80f317",
+  "active": "a8809fb472e531b5",
   "lastOpenFiles": [
-    "Lossë/PCs/Lossë.md",
-    "Lossë/Dioses/reina dragón.md",
-    "Lossë/Eventos/Las guerras del Caos.md",
-    "Lossë/Eventos/Baile de mascarada.md",
-    "Lossë/Personas/Kalaman (ciudad)/Zoltán.md",
-    "Lossë/Sesiones/Sesión 9.md",
-    "Lossë/Personas/Kalaman (ciudad)/Lord Bacaris el menor.md",
-    "Villa de Lord Bacaris el joven.md",
-    "Lossë/Sesiones/Sesión 8.md",
-    "Lossë/Dioses/Hiddukel.md",
-    "Lossë/Objetos/Máscaras.md",
-    "Lossë/Dioses/Zeboim.md",
-    "Lossë/Dioses/Putrefacto.md",
-    "Untitled 1.md",
-    "Lossë/Lugares/Trono de coral.md",
-    "Lossë/Sesiones/Sesión 7.md",
-    "Lossë/Personas/Kalaman (ciudad)/Fitzban el Fabuloso.md",
-    "Akil (Ideas).md",
-    "Diddy/Session notes.md",
-    "Lossë/Leyenda.md",
-    "Lossë/Lugares/Cabo del Mentiroso",
-    "Lossë/Sesiones/Sesión 3.md",
-    "Lossë/Dioses/Sargonas.md",
+    "Excalidraw/Akil_FlowChart.png",
+    "Excalidraw/Akil.excalidraw.md",
+    "Akil.md",
+    "Lossë/Sesiones/Sesión 10.md",
     "Lossë/Sesiones/Sesión 2.md",
     "Lossë/Sesiones/Sesión 1.md",
-    "Lossë/Lugares/Cabo del Mentiroso/El emperador de las olas.md",
+    "Templates/Sesión.md",
+    "122.md",
+    "Lossë/PCs/Lossë.md",
+    "114.md",
+    "Lossë/Sesiones/Sesión 9.md",
+    "115.md",
+    "Lossë/Sesiones/Sesión 8.md",
+    "116.md",
+    "117.md",
+    "118.md",
+    "Lossë/Sesiones/Sesión 7.md",
+    "119.md",
     "Lossë/Sesiones/Sesión 6.md",
+    "Lossë/Sesiones/Sesión 5.md",
+    "120.md",
+    "Lossë/Sesiones/Sesión 4.md",
+    "Lossë/Sesiones/Sesión 3.md",
+    "121.md",
+    "Lossë/PCs/Lance.md",
+    "Lossë/Personas/Kalaman (ciudad)/Sirac.md",
+    "Excalidraw",
     "Untitled.canvas",
+    "Lossë/Lugares/Cabo del Mentiroso",
     "Lossë/Lugares/Camino del Árbol",
     "Lossë/Personas/Camino del Árbol",
     "Lossë/Personas/Kalaman (ciudad)",
@@ -226,7 +191,6 @@
     "Lossë/Dioses",
     "Lossë/Imágenes/Pasted image 20240514182809.png",
     "Lossë/Imágenes/Pasted image 20240514182733.png",
-    "Lossë/Imágenes",
-    "Diddy/max.png"
+    "Diddy/Notas/max.png"
   ]
 }

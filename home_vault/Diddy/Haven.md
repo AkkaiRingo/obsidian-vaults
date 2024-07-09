@@ -1,1 +1,0 @@
-Es un planeta muy frondoso. Actualmente sumido en guerra por la invasión Zerg. Está infestado por, no solo criaturas, sino una sustancia viscosa, huevos etc. 
