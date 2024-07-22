@@ -8,7 +8,7 @@
   "expiredAttribute": "expires",
   "expiredDateFormat": "YYYY-MM-DD",
   "sizeLimitKb": 1024,
-  "processOrphans": true,
+  "processOrphans": false,
   "processEmpty": true,
   "processExpired": false,
   "processBig": false,

@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "220479fc4fb9b12c",
+        "id": "af22f5b27b73d200",
         "type": "tabs",
         "children": [
           {
-            "id": "a8809fb472e531b5",
+            "id": "979f3ef114eaa29c",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "6e0755a9bdb9a0b0",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diddy/Session notes.md",
+                "file": "Lossë/Sesiones/Sesión 11.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "109",
+                "query": "nihileto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diddy/Session notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diddy/Session notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Diddy/Session notes.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -134,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,21 +156,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a8809fb472e531b5",
+  "active": "979f3ef114eaa29c",
   "lastOpenFiles": [
-    "Excalidraw/Akil_FlowChart.png",
-    "Excalidraw/Akil.excalidraw.md",
-    "Akil.md",
+    "Música/Pasted image 20240721132215.png",
+    "Música",
+    "Lossë/Sesiones/Sesión 11.md",
+    "Lossë/Sesiones/Sesión 8.md",
+    "Lossë/Personas/Kalaman (ciudad)/Dálamar.md",
+    "Templates/Sesión.md",
     "Lossë/Sesiones/Sesión 10.md",
+    "Lossë/Lugares/Kalaman (ciudad)/Kalaman (ciudad).md",
+    "Excalidraw/Akil_FlowChart.png",
+    "Música/Reaper.md",
+    "Lossë/Leyenda.md",
+    "Akil.md",
+    "Excalidraw/Akil.excalidraw.md",
+    "Diddy/Session notes.md",
     "Lossë/Sesiones/Sesión 2.md",
     "Lossë/Sesiones/Sesión 1.md",
-    "Templates/Sesión.md",
     "122.md",
     "Lossë/PCs/Lossë.md",
     "114.md",
     "Lossë/Sesiones/Sesión 9.md",
     "115.md",
-    "Lossë/Sesiones/Sesión 8.md",
     "116.md",
     "117.md",
     "118.md",
@@ -171,12 +186,6 @@
     "119.md",
     "Lossë/Sesiones/Sesión 6.md",
     "Lossë/Sesiones/Sesión 5.md",
-    "120.md",
-    "Lossë/Sesiones/Sesión 4.md",
-    "Lossë/Sesiones/Sesión 3.md",
-    "121.md",
-    "Lossë/PCs/Lance.md",
-    "Lossë/Personas/Kalaman (ciudad)/Sirac.md",
     "Excalidraw",
     "Untitled.canvas",
     "Lossë/Lugares/Cabo del Mentiroso",
@@ -188,7 +197,6 @@
     "Lossë/Lugares/Kalaman (ciudad)",
     "Lossë/Grupos",
     "Lossë/Criaturas",
-    "Lossë/Dioses",
     "Lossë/Imágenes/Pasted image 20240514182809.png",
     "Lossë/Imágenes/Pasted image 20240514182733.png",
     "Diddy/Notas/max.png"

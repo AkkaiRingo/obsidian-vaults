@@ -1,6 +1,6 @@
 ---
 Fecha:
-  "{ date }": 
+ {{date}}
 Día:
   - "000"
 Lugar: 
