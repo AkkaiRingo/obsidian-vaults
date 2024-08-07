@@ -4,7 +4,12 @@ Día:
   - "[[113]]"
 Lugar:
   - "[[Kalaman (ciudad)]]"
-  - "[[Baliza firme]]"
+  - "[[Puerta del Soldado]]"
+  - "[[Embajada de los Elfos de Silvanesti|Embajada Elfos (K)]]"
+  - "[[Castillo de Kalaman|Castillo (K)]]"
+  - Barracones (K)
+  - "[[Cabo del Mentiroso]]"
+  - "[[Faro (CM)]]"
 tags:
   - "#Sesión"
 ---
@@ -21,4 +26,4 @@ El [[Capitán Ramata]] dice que en el [[antiguo aserradero]], cerca del [[Alcáz
 Hemos tenido que insistirle, pero hemos conseguido convencerle de que no venga con nosotros y otros 20 hombres al [[Faro (CM)]] a abordar al barco...
 # [[Cabo del Mentiroso]]
 ## [[Faro (CM)]]
-Hemos venido con [[Benwick]], [[Meulara]] y varios hombres del [[Capitán Ramata]]. Al poco de empezar el ritual, [[Luinil]] ha visto que se acercaba el [[Dragón tortuga]]. Hemos conseguido escondernos en una habitación. El ataque ha remitido, y oímos ruídos en el piso de arriba. Através de [[Luinil]] veo un hombre extraño, creo que es un clérigo de [[Zeboim]] que viene a echar por tierra nuestros avances. 
+Hemos venido con [[Benwick]], [[Meulara]] y varios hombres del [[Capitán Ramata]]. Al poco de empezar el ritual, [[Luinil]] ha visto que se acercaba el [[Dragón tortuga]]. Hemos conseguido escondernos en una habitación. El ataque ha remitido, y oímos ruídos en el piso de arriba. Através de [[Luinil]] veo un hombre extraño, creo que es un clérigo de [[Zeboim]], un [[sacerdote del profundo]], que viene a echar por tierra nuestros avances. 

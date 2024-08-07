@@ -21,7 +21,7 @@ El invitado que me reconoció como [[Silvanesti]] (20) ha venido ha hablar conmi
 
 Hemos entrado a la sala VIP y nos han hecho una especie de prueba de acceso. Había una figura con una máscara de metal que nos hacía preguntas que solo nosotros oíamos; creemos que es un árbitro de [[Hiddukel]]. 
 
-Nos han puesto a [[Lance]] y a mí una prueba de acceso. A él le han pedido que mate al otro caballero solámnico, [[Benwick]]. A mí, me han pedido que entregue 500 GP. 
+Nos han puesto a [[Lance]] y a mí una prueba de acceso. A él le han pedido que mate al otro caballero solámnico, [[Benwick]]. A mí, me han pedido que entregue 500 GP para el próximo baile. 
 
 # [[114]], [[Kalaman (ciudad)]]
 ## [[Baliza firme]]

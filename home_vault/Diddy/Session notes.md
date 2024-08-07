@@ -133,3 +133,14 @@ Hemos conseguido una tarjeta de acceso de uno de los cadáveres que había en lo
 ### Diddy
 La persona a cargo del laboratorio era la Dra Ariel Hanson. He encontrado un mapa de esta planta. 
 Hemos encontrado documentos que hablan de que estaban intentando reavivar una investigación en la que se estaban creando híbridos entre zergs y terran. 
+He conseguido códigos de acceso para abrir varias puertas, pero hay algunas que necesitan tarjetas específicas. 
+**Me llevo una copia de un disco**
+He activado algunas torreta de seguridad que han limpiado a vari8as de las criaturas que se veían en las cámaras de zonas más avanzadas, pero parece que también nos detecta a nosotros como intrusos...
+Estoy en una sala oscura, hay agua en el suelo, noto una presencia extraña en el fondo, observándome... 
+# SESIÓN 16 - 24/07/2024
+### Diddy
+Hemos combatido varias criaturas más. En una sala, hemos encontrado un montón de "huevos" incubando y había una especie de zerg araña, reina de enjambre. 
+# SESIÓN 17 - 07/08/2024
+### Diddy
+Después de matar a más criaturas, hemos encontrado una tarjeta de acceso y hemos podido entrar al laboratorio superior. Hemos encontrado el cadáver de la doctora Hanson y su tarjeta personal. En los ordenadores, hemos encontrado notas escritas de su diario y notas de voz. Hablan de cómo han llevado a cabo experimentos, secuestrando terrans e infestándolos para convertirlos en los zombies que hemos estado combatiendo. Hablaba de un sujeto de experimentos, Abel, que aún recordaba su nombre y mostraba más inteligencia de lo esperado. 
+Flynn y Tycus se han separado del grupo y han ido a investigar un túnel. Les veo en las cámaras de seguridad, creo que van a empezar algo...
