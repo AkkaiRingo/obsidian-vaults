@@ -6,6 +6,9 @@ Día:
 Lugar:
   - "[[Cabo del Mentiroso]]"
   - "[[Faro (CM)]]"
+  - "[[Kalaman (ciudad)]]"
+  - Barracones (K)
+  - Mar hacia el santuario de Zeboim
 tags:
   - "#Sesión"
 ---
