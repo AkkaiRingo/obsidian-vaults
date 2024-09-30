@@ -24,5 +24,4 @@ El [[Capitán Ramata]] no se ha creído que simplemente nos hayamos encontrado c
 
 # [[112]], [[Kalaman (ciudad)]]
 Partimos hacia el [[Santuario a Zeboim]] que encontramos en el mapa. 
-
 ## Mar hacia el [[Santuario a Zeboim]]
