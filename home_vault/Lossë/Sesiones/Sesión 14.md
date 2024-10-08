@@ -4,6 +4,10 @@ Día:
   - "[[111]]"
 Lugar:
   - "[[Kalaman (ciudad)]]"
+  - "[[Castillo de Kalaman|Castillo (K)]]"
+  - "[[Camino del Árbol]]"
+  - Puerto (CA)
+  - "[[Baliza firme]]"
 tags:
   - "#Sesión"
 ---

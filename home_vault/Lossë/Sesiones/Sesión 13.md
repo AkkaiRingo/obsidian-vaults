@@ -2,7 +2,14 @@
 Fecha: 2024-08-12
 Día:
   - "[[112]]"
-Lugar: Mar hacia el santuario de Zeboim
+Lugar:
+  - Mar hacia el santuario de Zeboim
+  - "[[Kalaman (ciudad)]]"
+  - Barracones (K)
+  - Biblioteca (K)
+  - "[[Clanes Gemelos|Forja (K)]]"
+  - "[[Camino del Árbol]]"
+  - Salón Gremial (CA)
 tags:
   - "#Sesión"
 ---

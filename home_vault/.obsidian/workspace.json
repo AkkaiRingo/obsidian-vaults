@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39196969b1ce6633",
+            "id": "c9f935f41093c43c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 14.md",
+                "file": "Lossë/Sesiones/Sesión 13.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 14.md",
+                "file": "Lossë/Sesiones/Sesión 13.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 14.md",
+                "file": "Lossë/Sesiones/Sesión 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 14.md"
+                "file": "Lossë/Sesiones/Sesión 13.md"
               }
             }
           }
@@ -148,14 +148,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "39196969b1ce6633",
+  "active": "c9f935f41093c43c",
   "lastOpenFiles": [
+    "Diddy/Session notes.md",
+    "Lossë/Sesiones/Sesión 15.md",
+    "Lossë/Sesiones/Sesión 14.md",
+    "Lossë/Sesiones/Sesión 13.md",
     "Lossë/Sesiones/Sesión 12.md",
+    "Lossë/PCs/Lossë.md",
+    "Lossë/Lugares/Kalaman (ciudad)/Castillo de Kalaman.md",
+    "Untitled.md",
     "Lossë/Sesiones/Sesión 3.md",
     "Lossë/Sesiones/Sesión 1.md",
-    "Lossë/Sesiones/Sesión 14.md",
     "112.md",
-    "Diddy/Session notes.md",
     "Lossë/Sesiones/Sesión 11.md",
     "Música/Reaper.md",
     "Música/Warrior of the Mind.md",
@@ -174,11 +179,6 @@
     "Lossë/Lugares/Kalaman (ciudad)/Kalaman (ciudad).md",
     "Lossë/Leyenda.md",
     "Akil.md",
-    "Lossë/Sesiones/Sesión 2.md",
-    "122.md",
-    "Lossë/PCs/Lossë.md",
-    "114.md",
-    "115.md",
     "Excalidraw",
     "Untitled.canvas",
     "Lossë/Lugares/Cabo del Mentiroso",
