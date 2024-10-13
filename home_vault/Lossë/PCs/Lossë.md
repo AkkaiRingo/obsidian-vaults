@@ -12,7 +12,7 @@ tags:
 - Manzana 10/10
 - [[Máscaras]] básicas
 - [[Máscaras|máscara]] solámnica de alta calidad (5GP)
-- 
+- Piedra mensajera
 
 #### Mascarada
 - Armas escondidas 15 DEX (Sleight of Hand)

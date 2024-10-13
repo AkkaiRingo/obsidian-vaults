@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8a79b98660e419f6",
+        "id": "2ec8d20dd87a146b",
         "type": "tabs",
         "children": [
           {
-            "id": "c9f935f41093c43c",
+            "id": "b1efba60b8eca294",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 13.md",
+                "file": "Lossë/Sesiones/Sesión 16.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 13.md",
+                "file": "Lossë/Sesiones/Sesión 16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 13.md",
+                "file": "Lossë/Sesiones/Sesión 16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 13.md"
+                "file": "Lossë/Sesiones/Sesión 16.md"
               }
             }
           }
@@ -148,21 +150,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c9f935f41093c43c",
+  "active": "b1efba60b8eca294",
   "lastOpenFiles": [
-    "Diddy/Session notes.md",
-    "Lossë/Sesiones/Sesión 15.md",
-    "Lossë/Sesiones/Sesión 14.md",
-    "Lossë/Sesiones/Sesión 13.md",
-    "Lossë/Sesiones/Sesión 12.md",
     "Lossë/PCs/Lossë.md",
-    "Lossë/Lugares/Kalaman (ciudad)/Castillo de Kalaman.md",
+    "Lossë/Sesiones/Sesión 15.md",
+    "Lossë/Sesiones/Sesión 16.md",
     "Untitled.md",
+    "Música/Reaper.md",
+    "Lossë/Leyenda.md",
+    "Lossë/Personas/Kalaman (ciudad)/Fitzban el Fabuloso.md",
+    "Lossë/Sesiones/Sesión 13.md",
+    "Diddy/Session notes.md",
+    "Lossë/Sesiones/Sesión 14.md",
+    "Lossë/Sesiones/Sesión 12.md",
+    "Lossë/Lugares/Kalaman (ciudad)/Castillo de Kalaman.md",
     "Lossë/Sesiones/Sesión 3.md",
     "Lossë/Sesiones/Sesión 1.md",
     "112.md",
     "Lossë/Sesiones/Sesión 11.md",
-    "Música/Reaper.md",
     "Música/Warrior of the Mind.md",
     "Excalidraw/Akil.excalidraw.md",
     "Lossë/Sesiones/Sesión 10.md",
@@ -176,9 +181,6 @@
     "Música",
     "Lossë/Personas/Kalaman (ciudad)/Dálamar.md",
     "Templates/Sesión.md",
-    "Lossë/Lugares/Kalaman (ciudad)/Kalaman (ciudad).md",
-    "Lossë/Leyenda.md",
-    "Akil.md",
     "Excalidraw",
     "Untitled.canvas",
     "Lossë/Lugares/Cabo del Mentiroso",

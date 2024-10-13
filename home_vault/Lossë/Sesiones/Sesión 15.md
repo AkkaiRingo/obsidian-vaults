@@ -3,6 +3,7 @@ Fecha: 2024-09-30
 Día:
   - "[[111]]"
   - "[[110]]"
+  - "[[109]]"
 Lugar:
   - "[[Kalaman (ciudad)]]"
   - "[[Baliza firme]]"
