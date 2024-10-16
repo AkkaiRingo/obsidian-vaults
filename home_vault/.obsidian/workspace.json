@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2ec8d20dd87a146b",
+        "id": "aee96842e75219c8",
         "type": "tabs",
         "children": [
           {
-            "id": "b1efba60b8eca294",
+            "id": "cb25796f81eaee28",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 16.md",
+                "file": "Diddy/Session notes.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 16.md",
+                "file": "Diddy/Session notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 16.md",
+                "file": "Diddy/Session notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 16.md"
+                "file": "Diddy/Session notes.md"
               }
             }
           }
@@ -150,11 +148,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b1efba60b8eca294",
+  "active": "c848b66089cc57ce",
   "lastOpenFiles": [
+    "Diddy/Notas/Pasted image 20241016205503.png",
+    "Diddy/Notas/Pasted image 20241016205428.png",
+    "Lossë/Sesiones/Sesión 16.md",
     "Lossë/PCs/Lossë.md",
     "Lossë/Sesiones/Sesión 15.md",
-    "Lossë/Sesiones/Sesión 16.md",
     "Untitled.md",
     "Música/Reaper.md",
     "Lossë/Leyenda.md",
@@ -180,7 +180,6 @@
     "Música/Pasted image 20240721132215.png",
     "Música",
     "Lossë/Personas/Kalaman (ciudad)/Dálamar.md",
-    "Templates/Sesión.md",
     "Excalidraw",
     "Untitled.canvas",
     "Lossë/Lugares/Cabo del Mentiroso",

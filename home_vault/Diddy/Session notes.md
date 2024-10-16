@@ -144,3 +144,18 @@ Hemos combatido varias criaturas más. En una sala, hemos encontrado un montón 
 ### Diddy
 Después de matar a más criaturas, hemos encontrado una tarjeta de acceso y hemos podido entrar al laboratorio superior. Hemos encontrado el cadáver de la doctora Hanson y su tarjeta personal. En los ordenadores, hemos encontrado notas escritas de su diario y notas de voz. Hablan de cómo han llevado a cabo experimentos, secuestrando terrans e infestándolos para convertirlos en los zombies que hemos estado combatiendo. Hablaba de un sujeto de experimentos, Abel, que aún recordaba su nombre y mostraba más inteligencia de lo esperado. 
 Flynn y Tycus se han separado del grupo y han ido a investigar un túnel. Les veo en las cámaras de seguridad, creo que van a empezar algo...
+# SESIÓN 18 - 16/10/2024
+
+### Diddy
+Flynn y Tycus han empezado un combate con las criaturas que quedaban en una de las salas cerradas. 
+Hemos avanzado un poco y por alguna razón que desconozco, Vaxir a roto uno de los ordenadores que había...
+He tenido una especie de visión, parecido a la vez anterior, en la que estaba en la oscuridad, hacía frío, y ha aparecido una criatura, parecía protos. 
+
+![[Pasted image 20241016205428.png]]
+
+Me ha preguntado qué soy, le he dicho que Terran, me ha preguntado si siento la energía, le he dicho que sí. Ha dicho que qué curioso, me ha intentado coger, lo he esquivado. He visto una imagen de un bosque con pirámides doradas y luces azules. 
+
+![[Pasted image 20241016205503.png]]
+
+Al volver de la visión, he sentido una fuerza psiónica muy opresora. 
+Hemos llegado a la sala de los generadores y hemos acabado con las criaturas que había en ella. 
