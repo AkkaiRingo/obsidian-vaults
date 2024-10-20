@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aee96842e75219c8",
+        "id": "003d75426a04ade6",
         "type": "tabs",
         "children": [
           {
-            "id": "cb25796f81eaee28",
+            "id": "e5adfa91b5a154b9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diddy/Session notes.md",
+                "file": "Lossë/Sesiones/Sesión 17.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diddy/Session notes.md",
+                "file": "Lossë/Sesiones/Sesión 17.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diddy/Session notes.md",
+                "file": "Lossë/Sesiones/Sesión 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diddy/Session notes.md"
+                "file": "Lossë/Sesiones/Sesión 17.md"
               }
             }
           }
@@ -148,38 +150,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c848b66089cc57ce",
+  "active": "e5adfa91b5a154b9",
   "lastOpenFiles": [
+    "Lossë/Lugares/ruinas nihiléticas.md",
+    "Lossë/Sesiones/Sesión 17.md",
+    "Lossë/PCs/Lossë.md",
+    "Lossë/Sesiones/Sesión 11.md",
+    "Lossë/Sesiones/Sesión 10.md",
+    "Lossë/Sesiones/Sesión 9.md",
+    "Lossë/Sesiones/Sesión 8.md",
+    "Lossë/Sesiones/Sesión 7.md",
+    "Lossë/Sesiones/Sesión 6.md",
+    "Lossë/Objetos/Máscaras.md",
+    "Lossë/Sesiones/Sesión 16.md",
+    "nihiletos.md",
+    "Diddy/Session notes.md",
     "Diddy/Notas/Pasted image 20241016205503.png",
     "Diddy/Notas/Pasted image 20241016205428.png",
-    "Lossë/Sesiones/Sesión 16.md",
-    "Lossë/PCs/Lossë.md",
     "Lossë/Sesiones/Sesión 15.md",
-    "Untitled.md",
     "Música/Reaper.md",
     "Lossë/Leyenda.md",
     "Lossë/Personas/Kalaman (ciudad)/Fitzban el Fabuloso.md",
     "Lossë/Sesiones/Sesión 13.md",
-    "Diddy/Session notes.md",
     "Lossë/Sesiones/Sesión 14.md",
     "Lossë/Sesiones/Sesión 12.md",
     "Lossë/Lugares/Kalaman (ciudad)/Castillo de Kalaman.md",
     "Lossë/Sesiones/Sesión 3.md",
     "Lossë/Sesiones/Sesión 1.md",
     "112.md",
-    "Lossë/Sesiones/Sesión 11.md",
     "Música/Warrior of the Mind.md",
     "Excalidraw/Akil.excalidraw.md",
-    "Lossë/Sesiones/Sesión 10.md",
-    "Lossë/Sesiones/Sesión 8.md",
-    "Santuario a Zeboim.md",
-    "Lossë/Sesiones/Sesión 9.md",
-    "Lossë/Lugares/Cabo del Mentiroso/El emperador de las olas.md",
-    "Lossë/Dioses/Zeboim.md",
     "Excalidraw/Akil_FlowChart.png",
     "Música/Pasted image 20240721132215.png",
     "Música",
-    "Lossë/Personas/Kalaman (ciudad)/Dálamar.md",
     "Excalidraw",
     "Untitled.canvas",
     "Lossë/Lugares/Cabo del Mentiroso",

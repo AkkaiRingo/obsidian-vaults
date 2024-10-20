@@ -1,0 +1,4 @@
+---
+aliases:
+  - Ruinas nihiléticas
+---

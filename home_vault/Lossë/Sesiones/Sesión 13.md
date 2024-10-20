@@ -45,7 +45,7 @@ Le hemos hablado de todo lo que hemos visto y le hemos enseñado los documentos 
 Nos ha confirmado que el amuleto es el que controla al [[Dragón tortuga]]. Dice que en el lugar correcto, podremos hacer un ritual para dejar del todo letárgica a la criatura. 
 El broche tiene símbolos [[Nihiléticos]]. 
 El anillo con tormentas se ilumina al detectar magia de [[Zeboim]]. 
-El barco [[El emperador de las olas|Emperador]] que hemos destruido era uno de los templos a [[Zeboim]] así que ya solo queda uno, las [[ruinas nihileticas]], y tiene muchas probabilidades de ser el lugar en el que podemos hacer el ritual con el amuleto de [[Zeboim]]. [[Fitzban el Fabuloso]] nos ha dicho que puede preparar un pergamino para que [[Lance]] haga el ritual cuando encontremos el templo. 
+El barco [[El emperador de las olas|Emperador]] que hemos destruido era uno de los templos a [[Zeboim]] así que ya solo queda uno, las [[ruinas nihiléticas]], y tiene muchas probabilidades de ser el lugar en el que podemos hacer el ritual con el amuleto de [[Zeboim]]. [[Fitzban el Fabuloso]] nos ha dicho que puede preparar un pergamino para que [[Lance]] haga el ritual cuando encontremos el templo. 
 ## [[Clanes Gemelos|Forja (K)]]
 Hemos ido a vender un par de cosas y nos quedaremos a tomarnos algo con ellos antes de volvernos a la posada. 
 # [[111]], [[Camino del Árbol]]
