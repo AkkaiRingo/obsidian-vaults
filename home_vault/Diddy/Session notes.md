@@ -135,7 +135,7 @@ La persona a cargo del laboratorio era la Dra Ariel Hanson. He encontrado un map
 Hemos encontrado documentos que hablan de que estaban intentando reavivar una investigación en la que se estaban creando híbridos entre zergs y terran. 
 He conseguido códigos de acceso para abrir varias puertas, pero hay algunas que necesitan tarjetas específicas. 
 **Me llevo una copia de un disco**
-He activado algunas torreta de seguridad que han limpiado a vari8as de las criaturas que se veían en las cámaras de zonas más avanzadas, pero parece que también nos detecta a nosotros como intrusos...
+He activado algunas torreta de seguridad que han limpiado a varias de las criaturas que se veían en las cámaras de zonas más avanzadas, pero parece que también nos detecta a nosotros como intrusos...
 Estoy en una sala oscura, hay agua en el suelo, noto una presencia extraña en el fondo, observándome... 
 # SESIÓN 16 - 24/07/2024
 ### Diddy
@@ -159,3 +159,16 @@ Me ha preguntado qué soy, le he dicho que Terran, me ha preguntado si siento la
 
 Al volver de la visión, he sentido una fuerza psiónica muy opresora. 
 Hemos llegado a la sala de los generadores y hemos acabado con las criaturas que había en ella. 
+
+# SESIÓN 19 - 12/11/2024
+### Diddy
+Hemos encontrado la sala del generador, la consola dice que hay varios servicios caídos, con ayuda de Harold estamos reparando lo posible para volver a poner en marcha el generador.
+En la sala de los servidores he encontrado otra consola con información de dos proyectos:
+- proyecto trípode
+- proyecto aberración: información y planos genéticos de experimentos con criaturas
+![[Pasted image 20241112194609.png]]
+
+El servidor se ha quedado freezeado, pero me he descargado la información de los dos proyectos.
+Harold ha terminado de arreglar el generador, pero ha saltado una alarma y han aparecido muchos zergs. 
+### Kiara
+Ya iba siendo hora de salir a jugar y a limpiar. 
