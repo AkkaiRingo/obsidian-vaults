@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "563eb262c0206d77",
+        "id": "15a5e00649841fd8",
         "type": "tabs",
         "children": [
           {
-            "id": "41ff9ef88fef448b",
+            "id": "3c716929f9a64292",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diddy/Session notes.md",
+                "file": "Lossë/Sesiones/Sesión 18.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Session notes"
+              "title": "Sesión 18"
             }
           }
         ]
@@ -139,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diddy/Session notes.md"
+                "file": "Lossë/Sesiones/Sesión 18.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Session notes"
+              "title": "Outline of Sesión 18"
             }
           }
         ],
@@ -164,10 +166,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "41ff9ef88fef448b",
+  "active": "c848b66089cc57ce",
   "lastOpenFiles": [
-    "Pasted image 20241112194609.png",
     "Lossë/Sesiones/Sesión 17.md",
+    "Lossë/Sesiones/Sesión 18.md",
+    "Diddy/Notas/Pasted image 20241112194609.png",
+    "Diddy/Session notes.md",
     "Lossë/Lugares/ruinas nihiléticas.md",
     "Lossë/PCs/Lossë.md",
     "Lossë/Sesiones/Sesión 11.md",
@@ -179,7 +183,6 @@
     "Lossë/Objetos/Máscaras.md",
     "Lossë/Sesiones/Sesión 16.md",
     "nihiletos.md",
-    "Diddy/Session notes.md",
     "Diddy/Notas/Pasted image 20241016205503.png",
     "Diddy/Notas/Pasted image 20241016205428.png",
     "Lossë/Sesiones/Sesión 15.md",
@@ -193,7 +196,6 @@
     "Lossë/Sesiones/Sesión 3.md",
     "Lossë/Sesiones/Sesión 1.md",
     "112.md",
-    "Música/Warrior of the Mind.md",
     "Excalidraw/Akil_FlowChart.png",
     "Música/Pasted image 20240721132215.png",
     "Música",

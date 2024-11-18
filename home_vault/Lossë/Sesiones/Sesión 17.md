@@ -5,6 +5,7 @@ Día:
 Lugar:
   - "[[Bahía de Kalaman]]"
   - "[[Santuario a Zeboim]]"
+  - "[[ruinas nihiléticas|Ruinas nihiléticas]]"
 tags:
   - "#Sesión"
 ---
