@@ -8,22 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3c716929f9a64292",
+            "id": "c8478858561dae8c",
             "type": "leaf",
             "pinned": true,
             "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "94ea82eb959a266a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 18.md",
+                "file": "Sesión 19.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Sesión 18"
+              "title": "Sesión 19"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,10 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 18.md"
+                "file": "Sesión 19.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 18"
+              "title": "Outline of Sesión 19"
             }
           }
         ],
@@ -166,14 +177,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c848b66089cc57ce",
+  "active": "94ea82eb959a266a",
   "lastOpenFiles": [
-    "Lossë/Sesiones/Sesión 17.md",
+    "Lossë/PCs/Lossë.md",
+    "Sesión 19.md",
     "Lossë/Sesiones/Sesión 18.md",
+    "Untitled.md",
+    "Lossë/Sesiones/Sesión 17.md",
     "Diddy/Notas/Pasted image 20241112194609.png",
     "Diddy/Session notes.md",
     "Lossë/Lugares/ruinas nihiléticas.md",
-    "Lossë/PCs/Lossë.md",
     "Lossë/Sesiones/Sesión 11.md",
     "Lossë/Sesiones/Sesión 10.md",
     "Lossë/Sesiones/Sesión 9.md",
@@ -195,7 +208,6 @@
     "Lossë/Lugares/Kalaman (ciudad)/Castillo de Kalaman.md",
     "Lossë/Sesiones/Sesión 3.md",
     "Lossë/Sesiones/Sesión 1.md",
-    "112.md",
     "Excalidraw/Akil_FlowChart.png",
     "Música/Pasted image 20240721132215.png",
     "Música",

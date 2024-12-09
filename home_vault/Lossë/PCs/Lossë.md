@@ -13,6 +13,7 @@ tags:
 - [[Máscaras]] básicas
 - [[Máscaras|máscara]] solámnica de alta calidad (5GP)
 - Piedra mensajera
+- núcleo de dron [[Istarian]]
 
 #### Mascarada
 - Armas escondidas 15 DEX (Sleight of Hand)
