@@ -172,3 +172,8 @@ El servidor se ha quedado freezeado, pero me he descargado la información de lo
 Harold ha terminado de arreglar el generador, pero ha saltado una alarma y han aparecido muchos zergs. 
 ### Kiara
 Ya iba siendo hora de salir a jugar y a limpiar. 
+# SESIÓN 20 - 11/12/2024
+### Kiara
+Vamos a seguir explorando, aún tenemos que encontrar a la reina y asegurarla, así que la misión aún no se ha completado. 
+Hemos entrado a un túnel de membrana, han aparecido unas esporas que lo han cubierto todo y al abrir los ojos, estábamos separados en dos grupos. 
+Hemos acabado atravesando un laberinto, y al final hemos llegado, los dos grupos, a una sala enorme, con lo que parece ser la reina. 
