@@ -6,6 +6,7 @@ Lugar:
   - Silvanesti
 tags:
   - PJ
+  - "#inspiration"
 ---
 ### Inventario
 - Llaves de la celda de [[Camino del Árbol]]

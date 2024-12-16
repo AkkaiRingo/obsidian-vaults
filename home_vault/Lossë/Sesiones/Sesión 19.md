@@ -19,3 +19,4 @@ Viene más gente a investigar la zona, vamos a huir, parece que la piedra era lo
 Se ha vuelto a escuchar el mismo mensaje. [[Marco]] dice que podemos usar nuestras aptitudes mágicas para mandar mensajes y contestar. Hemos hablado con él, se llama [[Samul]] es un mago de las antiguas torres de [[Istar]], está sumergido y le utilizan para reconstruir cosas, hay magia nigromántica, algo se acerca, hablan del [[varón tiburón]], hay cerca una especie de [[Trono de coral]]. Ha restaurado por lo menos media docena de artefactos. 
 Volvemos a [[Kalaman (ciudad)]]. 
 Al pasar por [[Camino del Árbol]] hemos oído rumores de que no quedan concejales con vida, la milicia se ha revelado y el [[Capitán Ramata]] está intentando gestionar la situación. 
+[[Lord Bacaris el menor]] ha cancelado indefinidamente las [[Baile de mascarada]]
