@@ -4,6 +4,8 @@ Día:
   - "[[105]]"
 Lugar:
   - "[[Kalaman (ciudad)]]"
+  - "[[Castillo de Kalaman]]"
+  - "[[Villa de Lord Bacaris el joven]]"
 tags:
   - "#Sesión"
 ---
