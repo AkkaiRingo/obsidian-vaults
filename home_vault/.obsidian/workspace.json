@@ -4,27 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "6a7ebc61b105152d",
+        "id": "96ad9bc115b1c5f0",
         "type": "tabs",
         "children": [
           {
-            "id": "6b01a3426837ad6a",
+            "id": "15e4eb5263b65f26",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 21.md",
+                "file": "Lossë/Sesiones/Sesión 22.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Sesión 21"
+              "title": "Sesión 22"
             }
           },
           {
-            "id": "e7f8027f97e05077",
+            "id": "6cc74e66e4987a3f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "enmas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,10 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 21.md"
+                "file": "Lossë/Sesiones/Sesión 22.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 21"
+              "title": "Outline of Sesión 22"
             }
           }
         ],
@@ -176,36 +176,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c848b66089cc57ce",
+  "active": "15e4eb5263b65f26",
   "lastOpenFiles": [
+    "Lossë/Sesiones/Sesión 20.md",
+    "Lossë/Sesiones/Sesión 22.md",
+    "Lossë/Sesiones/Sesión 9.md",
+    "Lossë/Sesiones/Sesión 14.md",
+    "Lossë/Sesiones/Sesión 10.md",
+    "Lossë/Sesiones/Sesión 8.md",
+    "Lossë/Sesiones/Sesión 13.md",
+    "Lossë/Sesiones/Sesión 19.md",
+    "Lossë/Sesiones/Sesión 21.md",
+    "Lossë/Personas/Kalaman (ciudad)/Fitzban el Fabuloso.md",
+    "Lossë/Dioses/Rey pescador.md",
+    "Lossë/PCs/Lossë.md",
+    "Lossë/PCs/Marco.md",
+    "Untitled 1.md",
+    "Música/Reaper.md",
     "Lossë/Eventos/Baile de mascarada.md",
     "Lossë/Sesiones/Sesión 2.md",
-    "Lossë/Sesiones/Sesión 21.md",
-    "Lossë/Sesiones/Sesión 20.md",
     "Lossë/Lugares/Kalaman (ciudad)/Kalaman (ciudad).md",
     "Lossë/Lugares/Kalaman (ciudad)/Castillo de Kalaman.md",
-    "Lossë/PCs/Lossë.md",
-    "Lossë/Sesiones/Sesión 10.md",
     "Lossë/Sesiones/Sesión 11.md",
     "Lossë/Objetos/objeto desconocido.md",
     "Lossë/Imágenes/05-003.dalamar.png",
     "Lossë/Sesiones/Sesión 12.md",
-    "Lossë/Sesiones/Sesión 13.md",
-    "Lossë/Sesiones/Sesión 14.md",
     "Lossë/Sesiones/Sesión 15.md",
     "Lossë/Sesiones/Sesión 18.md",
-    "Lossë/Sesiones/Sesión 19.md",
     "Lossë/Sesiones/Sesión 17.md",
     "Diddy/Session notes.md",
     "Diddy/Notas/Pasted image 20241112194609.png",
-    "Lossë/Lugares/ruinas nihiléticas.md",
-    "Lossë/Sesiones/Sesión 9.md",
-    "Lossë/Sesiones/Sesión 8.md",
-    "Lossë/Sesiones/Sesión 7.md",
-    "Lossë/Sesiones/Sesión 6.md",
-    "Lossë/Objetos/Máscaras.md",
-    "Lossë/Sesiones/Sesión 16.md",
-    "nihiletos.md",
     "Diddy/Notas/Pasted image 20241016205503.png",
     "Diddy/Notas/Pasted image 20241016205428.png",
     "Excalidraw/Akil_FlowChart.png",

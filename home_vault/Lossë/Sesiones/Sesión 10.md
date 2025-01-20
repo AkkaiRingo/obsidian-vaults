@@ -19,7 +19,7 @@ La parejita siguen juntos, en una mesa. [[Zoltán]] está borracho perdido así 
 La barda [[Tetra Vhanx]] pone cara de aburrida, pero es fingida, está observando a toda la sala. Mira con interés a [[Lance]], y su mirada y la mía se han cruzado varias veces. 
 El invitado que me reconoció como [[Silvanesti]] (20) ha venido ha hablar conmigo. Está interesado en que los [[Silvanesti]] se unan a los negocios de la zona y me ha dado una moneda con una balanza (parecido al símbolo de [[Hiddukel]]), creo que es la entrada para la zona VIP. Le he dicho que soy mestiza de elfos y humanos, y que al morir mi familia humana, he heredado las tierras de [[Kalaman (ciudad)]] y con ello he descubierto mi ascendencia mestiza, y que por éso no conocían de mí en los círculos de nobles, y que estoy aquí para conseguir información de la nobleza y sus negocios, por si le pudiera interesar a mi familia [[Silvanesti]] involucrarse en ellos. 
 
-Hemos entrado a la sala VIP y nos han hecho una especie de prueba de acceso. Había una figura con una máscara de metal que nos hacía preguntas que solo nosotros oíamos; creemos que es un árbitro de [[Hiddukel]]. 
+Hemos entrado a la sala VIP y nos han hecho una especie de prueba de acceso. Había una figura con una [[máscara de metal]] que nos hacía preguntas que solo nosotros oíamos; creemos que es un árbitro de [[Hiddukel]]. 
 
 Nos han puesto a [[Lance]] y a mí una prueba de acceso. A él le han pedido que mate al otro caballero solámnico, [[Benwick]]. A mí, me han pedido que entregue 500 GP para el próximo baile. 
 
