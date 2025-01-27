@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15e4eb5263b65f26",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lossë/Sesiones/Sesión 22.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Sesión 22"
-            }
-          },
-          {
             "id": "6cc74e66e4987a3f",
             "type": "leaf",
             "state": {
@@ -32,8 +16,25 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "096fa40fa0a3ad74",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lossë/Sesiones/Sesión 23.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Sesión 23"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,10 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 22.md"
+                "file": "Lossë/Sesiones/Sesión 23.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 22"
+              "title": "Outline of Sesión 23"
             }
           }
         ],
@@ -176,10 +177,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15e4eb5263b65f26",
+  "active": "096fa40fa0a3ad74",
   "lastOpenFiles": [
-    "Lossë/Sesiones/Sesión 20.md",
+    "Lossë/Sesiones/Sesión 3.md",
+    "Lossë/Sesiones/Sesión 23.md",
     "Lossë/Sesiones/Sesión 22.md",
+    "Lossë/PCs/Lossë.md",
+    "Lossë/PCs/Marco.md",
+    "Lossë/Sesiones/Sesión 20.md",
     "Lossë/Sesiones/Sesión 9.md",
     "Lossë/Sesiones/Sesión 14.md",
     "Lossë/Sesiones/Sesión 10.md",
@@ -189,8 +194,6 @@
     "Lossë/Sesiones/Sesión 21.md",
     "Lossë/Personas/Kalaman (ciudad)/Fitzban el Fabuloso.md",
     "Lossë/Dioses/Rey pescador.md",
-    "Lossë/PCs/Lossë.md",
-    "Lossë/PCs/Marco.md",
     "Untitled 1.md",
     "Música/Reaper.md",
     "Lossë/Eventos/Baile de mascarada.md",
@@ -203,8 +206,6 @@
     "Lossë/Sesiones/Sesión 12.md",
     "Lossë/Sesiones/Sesión 15.md",
     "Lossë/Sesiones/Sesión 18.md",
-    "Lossë/Sesiones/Sesión 17.md",
-    "Diddy/Session notes.md",
     "Diddy/Notas/Pasted image 20241112194609.png",
     "Diddy/Notas/Pasted image 20241016205503.png",
     "Diddy/Notas/Pasted image 20241016205428.png",
