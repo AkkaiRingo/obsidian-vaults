@@ -177,3 +177,8 @@ Ya iba siendo hora de salir a jugar y a limpiar.
 Vamos a seguir explorando, aún tenemos que encontrar a la reina y asegurarla, así que la misión aún no se ha completado. 
 Hemos entrado a un túnel de membrana, han aparecido unas esporas que lo han cubierto todo y al abrir los ojos, estábamos separados en dos grupos. 
 Hemos acabado atravesando un laberinto, y al final hemos llegado, los dos grupos, a una sala enorme, con lo que parece ser la reina. 
+# SESIÓN 21 - 05/02/2025
+### Kiara
+Hemos luchado contra la criatura principal y sus secuaces, está siendo un combate duro...
+### Diddy
+Pero la hemos derrotado, aunque la misión era capturarla y llevarla de vuelta...

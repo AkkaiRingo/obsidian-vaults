@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "96ad9bc115b1c5f0",
+        "id": "110c0bd4a468d582",
         "type": "tabs",
         "children": [
           {
-            "id": "6cc74e66e4987a3f",
+            "id": "5676c6d91aeea42a",
             "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "63a2ac555c828388",
-            "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 24.md",
+                "file": "Diddy/Session notes.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Sesión 24"
+              "title": "Session notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -152,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lossë/Sesiones/Sesión 24.md"
+                "file": "Diddy/Session notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 24"
+              "title": "Outline of Session notes"
             }
           }
         ],
@@ -177,11 +168,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "63a2ac555c828388",
+  "active": "5676c6d91aeea42a",
   "lastOpenFiles": [
+    "Lossë/Sesiones/Sesión 24.md",
     "Lossë/Sesiones/Sesión 22.md",
     "Lossë/Sesiones/Sesión 23.md",
-    "Lossë/Sesiones/Sesión 24.md",
     "Untitled 1.md",
     "Lossë/Sesiones/Sesión 3.md",
     "Lossë/PCs/Lossë.md",
