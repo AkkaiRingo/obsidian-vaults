@@ -20,6 +20,8 @@ tags:
 - joyas de vampiro
 - ropajes de noble [[solámnico]]
 - máscara [[solámnica]] (lobo)
+- candado (DC 12) sin llave
+- cadena 10 ft
 
 #### Mascarada
 - Armas escondidas 15 DEX (Sleight of Hand)
