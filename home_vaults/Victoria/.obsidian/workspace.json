@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "167681730def3644",
+    "type": "split",
+    "children": [
+      {
+        "id": "f71f60e3727b2087",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caf70a5d78f87bd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory/Diario de Victoria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diario de Victoria"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b84af7c78181131",
+    "type": "split",
+    "children": [
+      {
+        "id": "91213ef6127948e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c848b66089cc57ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "734de9724f167e79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "enmas",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b4fd2e24002f3464",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211.5
+  },
+  "right": {
+    "id": "75e87a799dde3557",
+    "type": "split",
+    "children": [
+      {
+        "id": "04867cfe6c99e41e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e70bcf41897d6ea6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diddy/Session notes.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Session notes"
+            }
+          },
+          {
+            "id": "f948e0bc4fffc75c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diddy/Session notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Session notes"
+            }
+          },
+          {
+            "id": "ae0cf0518d0a68b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "54452f63a3534d1a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Backstory/Diario de Victoria.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Diario de Victoria"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "caf70a5d78f87bd0",
+  "lastOpenFiles": [
+    "Backstory",
+    "Backstory/Diario de Victoria.md",
+    "Welcome.md",
+    "Excalidraw/Drawing 2025-03-01 17.47.07.excalidraw.md",
+    "Excalidraw",
+    "Templates/Dios.md",
+    "Templates/Sesión.md",
+    "Templates/Persona.md",
+    "Templates/Lugar.md",
+    "Templates",
+    "Sesiones/Sesión 25.md",
+    "Lossë/PCs/Lossë.md",
+    "Lossë/Sesiones/Sesión 25.md",
+    "Lossë/Sesiones/Sesión 24.md",
+    "Diddy/Session notes.md",
+    "Lossë/Sesiones/Sesión 22.md",
+    "Lossë/Sesiones/Sesión 23.md",
+    "Untitled 1.md",
+    "Lossë/Sesiones/Sesión 3.md",
+    "Lossë/PCs/Marco.md",
+    "Lossë/Sesiones/Sesión 20.md",
+    "Lossë/Sesiones/Sesión 9.md",
+    "Lossë/Sesiones/Sesión 14.md",
+    "Lossë/Sesiones/Sesión 10.md",
+    "Lossë/Sesiones/Sesión 8.md",
+    "Lossë/Sesiones/Sesión 13.md",
+    "Lossë/Sesiones/Sesión 19.md",
+    "Lossë/Sesiones/Sesión 21.md",
+    "Lossë/Imágenes/05-003.dalamar.png",
+    "Diddy/Notas/Pasted image 20241112194609.png",
+    "Diddy/Notas/Pasted image 20241016205503.png",
+    "Diddy/Notas/Pasted image 20241016205428.png",
+    "Excalidraw/Akil_FlowChart.png",
+    "Música/Pasted image 20240721132215.png",
+    "Música",
+    "Untitled.canvas",
+    "Lossë/Lugares/Cabo del Mentiroso",
+    "Lossë/Lugares/Camino del Árbol",
+    "Lossë/Personas/Camino del Árbol",
+    "Lossë/Personas/Kalaman (ciudad)",
+    "Lossë/Imágenes/Pasted image 20240515234139.png",
+    "Lossë/Lugares/Kalaman (ciudad)",
+    "Lossë/Grupos",
+    "Lossë/Criaturas",
+    "Lossë/Imágenes/Pasted image 20240514182809.png",
+    "Lossë/Imágenes/Pasted image 20240514182733.png",
+    "Diddy/Notas/max.png"
+  ]
+}
