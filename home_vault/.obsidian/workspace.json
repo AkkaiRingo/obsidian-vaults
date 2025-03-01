@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesión 25.md",
+                "file": "Lossë/Sesiones/Sesión 25.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,8 +36,21 @@
               "icon": "lucide-file",
               "title": "Lossë"
             }
+          },
+          {
+            "id": "fde574e5872c8696",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesión 25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 25"
+              "title": "Outline"
             }
           }
         ],
@@ -184,10 +196,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "96694af537265cb5",
+  "active": "fde574e5872c8696",
   "lastOpenFiles": [
     "Lossë/PCs/Lossë.md",
-    "Sesión 25.md",
+    "Lossë/Sesiones/Sesión 25.md",
     "Lossë/Sesiones/Sesión 24.md",
     "Diddy/Session notes.md",
     "Lossë/Sesiones/Sesión 22.md",
