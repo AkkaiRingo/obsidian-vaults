@@ -1,0 +1,15 @@
+---
+Género: Hombre
+En vida: N/A
+Clan: 
+Maestro: N/A
+Tipo de V.: Vampiro Ascendido
+Lugar:
+  - "[[Svitanie]]"
+tags:
+  - Persona
+  - Vampiro
+aliases:
+  - Alastor
+---
+ 
