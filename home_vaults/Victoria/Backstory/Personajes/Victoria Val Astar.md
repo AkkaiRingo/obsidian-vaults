@@ -1,8 +1,8 @@
 ---
 Género: Mujer
 En vida: "[[Victoria del Alba]]"
-Clan: 
-Maestro: "[[Alastor Val Clan]]"
+Clan: "[[Astar]]"
+Maestro: "[[Alastor Val Astar]]"
 Tipo de V.: Vampiro
 Lugar:
   - "[[Svitanie]]"
@@ -14,6 +14,6 @@ aliases:
   - Victoria
 ---
 
-![[Victoria Val Clan dress.jpg]]
-![[Victoria Val Clan Armor.jpg]]
-![[Victoria Val Clan portrait.jpg]]
+![[Victoria Val Astar dress.jpg]]
+![[Victoria Val Astar Armor.jpg]]
+![[Victoria Val Astar portrait.jpg]]

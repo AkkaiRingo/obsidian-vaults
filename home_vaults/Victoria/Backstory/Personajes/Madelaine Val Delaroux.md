@@ -1,8 +1,8 @@
 ---
 Género: Mujer
 En vida: "[[Madelaine Bescond]]"
-Clan: 
-Maestro: "[[Victoria Val Clan]]"
+Clan: "[[Astar]]"
+Maestro: "[[Victoria Val Astar]]"
 Tipo de V.: Spawn
 Lugar:
   - "[[Svitanie]]"
@@ -10,7 +10,7 @@ Lugar:
 tags:
   - Persona
   - Vampiro
-aliases:
+aliases: 
 ---
 ![[Madelaine Val Delaroux portrait.jpg]]
 ![[Madelaine Val Delaroux outfit.jpg]]

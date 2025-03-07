@@ -4,10 +4,10 @@
 
 - [[Jonathan del Alba]]
 - [[Victoria del Alba]] (Humana)
-- [[Victoria Val Clan]] (Vampira)
+- [[Victoria Val Astar]] (Vampira)
 - [[Madelaine Bescond]] (Humana)
 - [[Madelaine Val Delaroux]] (Vampira)
-- [[Alastor Val Clan]] 
+- [[Alastor Val Astar]] 
 
 - Hijos de [[Madelaine]] y [[Jonathan]] (2):
 	- Lucy
@@ -15,7 +15,7 @@
 	- Mina
 	- Claudia
 
-- Algo con Lilith/Lilit/Lilitu → nombre del clan? nombre del pueblo?
+- Algo con Lilith/Lilit/Lilitu → nombre del pueblo?
 - Lioncourt?
 
 - País → ? [[Svitanie]] (Alba/Amanecer en Eslovaco)
@@ -29,4 +29,4 @@
 	- Cúpula de líderes del [[Gremio]] → [[La Lumbre del Noctívago]]
 	- Compuesto de distintas órdenes de cazadores
 
-- El ataúd de [[Victoria Val Clan|Victoria]] está al fondo de un lago
+- El ataúd de [[Victoria Val Astar|Victoria]] está al fondo de un lago

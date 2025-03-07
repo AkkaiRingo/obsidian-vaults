@@ -11,10 +11,14 @@
             "id": "7902418cfd353ad6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Backstory/Personajes/Madelaine Val Delaroux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Madelaine Val Delaroux"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Alastor",
+                "query": "Clan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Backstory/Personajes/Madelaine Val Delaroux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Madelaine Val Delaroux"
             }
           }
         ],
@@ -165,27 +170,27 @@
   },
   "active": "7902418cfd353ad6",
   "lastOpenFiles": [
-    "Images/Victoria del Alba.jpg",
-    "Images/Victoria Val Clan dress.jpg",
+    "Images/Victoria Val Astar portrait.jpg",
+    "Images/Victoria Val Astar dress.jpg",
+    "Images/Victoria Val Astar Armor.jpg",
     "Images/Madelaine Val Delaroux outfit.jpg",
-    "Images/Victoria Val Clan portrait.jpg",
-    "Images/Madelaine Bescond.jpg",
-    "Images/Victoria Val Clan Armor.jpg",
-    "Images/Madelaine Val Delaroux portrait.jpg",
-    "Backstory/Personajes/Victoria Val Clan.md",
-    "Backstory/Personajes/Victoria del Alba.md",
-    "Backstory/Personajes/Madelaine Val Delaroux.md",
-    "Backstory/Personajes/Madelaine Bescond.md",
+    "Backstory/Personajes/Victoria Val Astar.md",
     "Templates/Vampiro.md",
-    "Images",
-    "Backstory/Personajes/Alastor Val Clan.md",
     "Backstory/Nombres.md",
+    "Backstory/Personajes/Madelaine Val Delaroux.md",
+    "Backstory/Diario de Victoria.md",
+    "Backstory/Backstory.md",
+    "Backstory/Personajes/Alastor Val Astar.md",
+    "Images/Victoria del Alba.jpg",
+    "Images/Madelaine Bescond.jpg",
+    "Images/Madelaine Val Delaroux portrait.jpg",
+    "Backstory/Personajes/Victoria del Alba.md",
+    "Backstory/Personajes/Madelaine Bescond.md",
+    "Images",
     "Templates/Persona.md",
     "Backstory/Grupos/Noctívago.md",
     "Backstory/Grupos",
-    "Backstory/Backstory.md",
     "Backstory/Personajes",
-    "Backstory/Diario de Victoria.md",
     "Victoria.md",
     "Templates/Dios.md",
     "Templates/Sesión.md",
