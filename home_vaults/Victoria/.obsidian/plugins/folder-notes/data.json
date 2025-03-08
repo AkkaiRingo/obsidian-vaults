@@ -25,7 +25,7 @@
     "id": "",
     "folderPath": "",
     "title": "{{folderName}} overview",
-    "showTitle": false,
+    "showTitle": true,
     "depth": 3,
     "includeTypes": [
       "folder",
@@ -38,7 +38,7 @@
     "showEmptyFolders": false,
     "onlyIncludeSubfolders": false,
     "storeFolderCondition": true,
-    "showFolderNotes": false,
+    "showFolderNotes": true,
     "disableCollapseIcon": true
   },
   "useSubmenus": true,
