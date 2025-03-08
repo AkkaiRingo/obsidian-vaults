@@ -1,7 +1,7 @@
 ---
 Género: Mujer
 En vida: "[[Victoria del Alba]]"
-Clan: "[[Astar]]"
+Clan: "[[Clan Astar|Astar]]"
 Maestro: "[[Alastor Val Astar]]"
 Tipo de V.: Vampiro
 Lugar:

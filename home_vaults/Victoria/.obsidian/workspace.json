@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "e4bb56a0fd5b6486",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "4898f651b69f0119",
             "type": "leaf",
             "pinned": true,
@@ -22,61 +34,9 @@
               "icon": "lucide-file",
               "title": "Glosario"
             }
-          },
-          {
-            "id": "8bb755c8f57306ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory/Grupos/Astar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Astar"
-            }
-          },
-          {
-            "id": "4cde6243ebc1d268",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory/Grupos/Bescond.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bescond"
-            }
-          },
-          {
-            "id": "e4bb56a0fd5b6486",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "41faa83d4cd89551",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory/Diario de Victoria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diario de Victoria"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Astar",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -197,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backstory/Diario de Victoria.md",
+                "file": "Backstory/Glosario.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Diario de Victoria"
+              "title": "Outline of Glosario"
             }
           }
         ],
@@ -225,36 +185,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "41faa83d4cd89551",
+  "active": "c848b66089cc57ce",
   "lastOpenFiles": [
-    "Backstory/Backstory.md",
+    "Backstory/Lugares/Lioncourt.md",
     "Backstory/Glosario.md",
-    "Backstory/Grupos/Bescond.md",
+    "Backstory/Grupos/Familia Bescond.md",
+    "Backstory/Lugares/Castillo de Bescond.md",
+    "Backstory/Personas/Arthur Bescond.md",
+    "Backstory/Grupos/Clan Astar.md",
+    "Backstory/Personas/Alastor Val Astar.md",
+    "Backstory/Personas/Victoria Val Astar.md",
+    "Backstory/Personas/Madelaine Val Astar.md",
+    "Backstory/Backstory.md",
+    "Backstory/Diario de Victoria.md",
     "Backstory/Grupos/Gremio de la Luminaria.md",
     "Backstory/Grupos/La Lumbre del Noctívago.md",
     "Backstory/Grupos/Órden del Lucero del Alba.md",
     "Backstory/Grupos/Corte de Vairae.md",
-    "Backstory/Grupos/Astar.md",
-    "Backstory/Lugares/Lioncourt.md",
     "Templates/Grupo.md",
     "Images/Lioncourt.jpg",
-    "Backstory/Lugares/Castillo de Bescond.md",
     "Backstory/Personas/Victoria del Alba.md",
     "Backstory/Personas/Jonathan del Alba.md",
     "Backstory/Lugares/Orfanato Lucero del Alba.md",
     "Templates/Vampiro.md",
     "Backstory/Grupos/Noctívago.md",
-    "Backstory/Diario de Victoria.md",
     "Backstory/Personas/Vairae.md",
     "Templates/Persona.md",
-    "Backstory/Personas/Madelaine Val Astar.md",
-    "Backstory/Personas/Victoria Val Astar.md",
     "Madelaine.md",
     "Templates/Lugar.md",
     "Templates/Sesión.md",
-    "Templates/Dios.md",
     "Backstory/Dioses",
-    "Backstory/Dioses/El Luminarca.md",
     "Images/Orfanato Lucero del Alba.jpg",
     "Images/Castillo de Bescond.jpg",
     "3c25b3896aec53650e76b261226e559c.jpg",

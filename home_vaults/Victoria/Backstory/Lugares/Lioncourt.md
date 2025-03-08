@@ -5,7 +5,7 @@ Ubicación:
   - "[[Continente]]"
 Afiliación:
   - "[[Órden del Lucero del Alba]]"
-  - "[[Bescond]]"
+  - "[[Familia Bescond]]"
 aliases: 
 tags:
   - Lugar

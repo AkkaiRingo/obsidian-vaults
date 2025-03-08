@@ -1,7 +1,7 @@
 ---
 Género: Mujer
 En vida: "[[Madelaine Bescond]]"
-Clan: "[[Astar]]"
+Clan: "[[Clan Astar|Astar]]"
 Maestro: "[[Victoria Val Astar]]"
 Tipo de V.: Spawn
 Lugar:

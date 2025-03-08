@@ -11,7 +11,8 @@ Miembros:
   - "[[Jonathan del Alba]]"
   - "[[Lucy Bescond]]"
   - "[[Arthur Bescond]]"
-aliases: 
+aliases:
+  - Bescond
 tags:
   - "#Grupo"
 ---

@@ -8,7 +8,8 @@ Miembros:
   - "[[Alastor Val Astar]]"
   - "[[Victoria Val Astar]]"
   - "[[Madelaine Val Astar]]"
-aliases: 
+aliases:
+  - Astar
 tags:
   - "#Grupo"
   - "#Clan"

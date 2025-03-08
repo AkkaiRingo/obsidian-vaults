@@ -1,7 +1,7 @@
 ---
 Género: Hombre
 En vida: N/A
-Clan: "[[Astar]]"
+Clan: "[[Clan Astar|Astar]]"
 Maestro: N/A
 Tipo de V.: Vampiro Ascendido
 Lugar:
