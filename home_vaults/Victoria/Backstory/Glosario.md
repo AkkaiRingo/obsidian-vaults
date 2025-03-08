@@ -1,0 +1,42 @@
+Pinterest: [https://pin.it/1DhSganDR](https://pin.it/1DhSganDR) 
+#### Lugares
+| Nombre                       | Notas                                                                                                        |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| [[Orfanato Lucero del Alba]] | Orfanato de [[Jonathan del Alba\|Jonathan]] y [[Victoria del Alba\|Victoria]], [[Órden del Lucero del Alba]] |
+| [[Castillo de Bescond]]      | Castillo de la familia [[Bescond]]                                                                           |
+| [[Lioncourt]] #TBD     | Pueblo de [[Victoria del Alba\|Victoria]]                                                                    |
+| [[Bosque]] #TBD              | Bosque al rededor de [[Lioncourt]]                                                                     |
+| [[Lago]] #TBD                | El ataúd de [[Victoria Val Astar\|Victoria]] está al fondo de un lago                                        |
+| [[Capital]] #TBD             | Capital de [[Svitanie]]                                                                                      |
+| El [[Arterial]]<br>          | Río principal que recorre toda [[Svitanie]]                                                                  |
+| [[Svitanie]]                 | País, Alba/Amanecer en Eslovaco, [[Svitanie\|Valle del Hoyuelo]]                                             |
+| [[Continente]] #TBD          | Continente                                                                                                   |
+#### Personas
+| Nombre                  | Notas                                                                                           |
+| ----------------------- | ----------------------------------------------------------------------------------------------- |
+| [[Madelaine Bescond]]   | PJ-2 (Humana)                                                                                   |
+| [[Madelaine Val Astar]] | PJ-2 (Vampira) ([[Madelaine Val Astar\|Madelaine Delaroux]])                                    |
+| [[Jonathan del Alba]]   | Hermano adoptivo de [[Victoria del Alba\|Victoria]], pareja de [[Madelaine Bescond\|Madelaine]] |
+| [[Victoria del Alba]]   | PJ-3 (Humana)                                                                                   |
+| [[Victoria Val Astar]]  | PJ-3 (Vampira)                                                                                  |
+| [[Alastor Val Astar]]   | Maestro de [[Victoria Val Astar\|Victoria]]                                                     |
+| [[Lucy Bescond]]        | Hija mayor de [[Madelaine Bescond\|Madelaine]] y [[Jonathan del Alba\|Jonathan]]                |
+| [[Arthur Bescond]]      | Hijo menor de [[Madelaine Bescond\|Madelaine]] y [[Jonathan del Alba\|Jonathan]]                |
+| [[Vairae]]              | Líder de la corte de vampiros de [[Svitanie]]                                                   |
+#### Grupos
+| Nombre                        | Notas                                                                                                                 |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| [[Gremio de la Luminaria]]    | Organización que rige [[Svitanie]], compuesto de órdenes de [[Noctívago\|noctívagos]], seguidores de [[El Luminarca]] |
+| [[Noctívago]]                 | Cazadores de monstruos del [[Gremio de la Luminaria]]                                                                 |
+| [[La Lumbre del Noctívago]]   | Cúpula de líderes del [[Gremio de la Luminaria]], asentada en [[Capital]]                                             |
+| [[Órden del Lucero del Alba]] | Órden del [[Gremio de la Luminaria\|Gremio]], asentada en [[Lioncourt]]                                               |
+| Familia [[Bescond]]           | Familia regente de [[Lioncourt]]                                                                                      |
+| [[Corte de Vairae]]           | Corte de vampiros de [[Svitanie]]                                                                                     |
+| Clan [[Astar]]                | Clan de [[Alastor Val Astar]]                                                                                         |
+
+---
+#### Nombres sin usar
+- Mina
+- Claudia
+- Lilith/Lilit/Lilitu
+- Eden

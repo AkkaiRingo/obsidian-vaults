@@ -6,10 +6,11 @@ Maestro: "[[Alastor Val Astar]]"
 Tipo de V.: Vampiro
 Lugar:
   - "[[Svitanie]]"
-  - "[[Pueblo Victoria]]"
+  - "[[Lioncourt]]"
 tags:
   - Persona
   - Vampiro
+  - "#PJ"
 aliases:
   - Victoria
 ---

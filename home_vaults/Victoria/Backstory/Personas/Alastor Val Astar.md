@@ -12,4 +12,4 @@ tags:
 aliases:
   - Alastor
 ---
- 
+ ![[Alastor Val Astar.jpg]]

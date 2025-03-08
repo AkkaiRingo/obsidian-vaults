@@ -4,24 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "e255830c2b521df1",
+        "id": "88de6de8adf91aea",
         "type": "tabs",
         "children": [
           {
-            "id": "7902418cfd353ad6",
+            "id": "4898f651b69f0119",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory/Glosario.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Glosario"
+            }
+          },
+          {
+            "id": "8bb755c8f57306ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory/Personajes/Madelaine Val Delaroux.md",
+                "file": "Backstory/Grupos/Astar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Madelaine Val Delaroux"
+              "title": "Astar"
+            }
+          },
+          {
+            "id": "4cde6243ebc1d268",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory/Grupos/Bescond.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bescond"
+            }
+          },
+          {
+            "id": "e4bb56a0fd5b6486",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "41faa83d4cd89551",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory/Diario de Victoria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diario de Victoria"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -53,9 +108,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Clan",
-                "matchingCase": false,
-                "explainSearch": false,
+                "query": "Astar",
+                "matchingCase": true,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -78,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 233.5
   },
   "right": {
     "id": "75e87a799dde3557",
@@ -94,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diddy/Session notes.md",
+                "file": "Backstory/Diario de Victoria.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session notes"
+              "title": "Backlinks for Diario de Victoria"
             }
           },
           {
@@ -113,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diddy/Session notes.md",
+                "file": "Backstory/Diario de Victoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session notes"
+              "title": "Outgoing links from Diario de Victoria"
             }
           },
           {
@@ -128,7 +183,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -140,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backstory/Personajes/Madelaine Val Delaroux.md",
+                "file": "Backstory/Diario de Victoria.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Madelaine Val Delaroux"
+              "title": "Outline of Diario de Victoria"
             }
           }
         ],
@@ -168,53 +225,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7902418cfd353ad6",
+  "active": "41faa83d4cd89551",
   "lastOpenFiles": [
-    "Images/Victoria Val Astar portrait.jpg",
-    "Images/Victoria Val Astar dress.jpg",
-    "Images/Victoria Val Astar Armor.jpg",
-    "Images/Madelaine Val Delaroux outfit.jpg",
-    "Backstory/Personajes/Victoria Val Astar.md",
-    "Templates/Vampiro.md",
-    "Backstory/Nombres.md",
-    "Backstory/Personajes/Madelaine Val Delaroux.md",
-    "Backstory/Diario de Victoria.md",
     "Backstory/Backstory.md",
-    "Backstory/Personajes/Alastor Val Astar.md",
-    "Images/Victoria del Alba.jpg",
-    "Images/Madelaine Bescond.jpg",
-    "Images/Madelaine Val Delaroux portrait.jpg",
-    "Backstory/Personajes/Victoria del Alba.md",
-    "Backstory/Personajes/Madelaine Bescond.md",
-    "Images",
-    "Templates/Persona.md",
+    "Backstory/Glosario.md",
+    "Backstory/Grupos/Bescond.md",
+    "Backstory/Grupos/Gremio de la Luminaria.md",
+    "Backstory/Grupos/La Lumbre del Noctívago.md",
+    "Backstory/Grupos/Órden del Lucero del Alba.md",
+    "Backstory/Grupos/Corte de Vairae.md",
+    "Backstory/Grupos/Astar.md",
+    "Backstory/Lugares/Lioncourt.md",
+    "Templates/Grupo.md",
+    "Images/Lioncourt.jpg",
+    "Backstory/Lugares/Castillo de Bescond.md",
+    "Backstory/Personas/Victoria del Alba.md",
+    "Backstory/Personas/Jonathan del Alba.md",
+    "Backstory/Lugares/Orfanato Lucero del Alba.md",
+    "Templates/Vampiro.md",
     "Backstory/Grupos/Noctívago.md",
-    "Backstory/Grupos",
-    "Backstory/Personajes",
-    "Victoria.md",
-    "Templates/Dios.md",
-    "Templates/Sesión.md",
+    "Backstory/Diario de Victoria.md",
+    "Backstory/Personas/Vairae.md",
+    "Templates/Persona.md",
+    "Backstory/Personas/Madelaine Val Astar.md",
+    "Backstory/Personas/Victoria Val Astar.md",
+    "Madelaine.md",
     "Templates/Lugar.md",
+    "Templates/Sesión.md",
+    "Templates/Dios.md",
+    "Backstory/Dioses",
+    "Backstory/Dioses/El Luminarca.md",
+    "Images/Orfanato Lucero del Alba.jpg",
+    "Images/Castillo de Bescond.jpg",
+    "3c25b3896aec53650e76b261226e559c.jpg",
+    "Images/Capital Catedral.jpg",
+    "Images/Capital.jpg",
+    "Images/Arterial Nevado.jpg",
+    "Images/Arterial Bosque.jpg",
+    "Images/Svitanie Vista Acantilado.jpg",
+    "Images/Svitanie Muro.jpg",
+    "Backstory/Lugares",
+    "Images",
+    "Backstory/Grupos",
+    "Backstory/Personas",
     "Templates",
     "Backstory",
-    "Welcome.md",
-    "Excalidraw/Drawing 2025-03-01 17.47.07.excalidraw.md",
     "Excalidraw",
-    "Sesiones/Sesión 25.md",
-    "Lossë/PCs/Lossë.md",
-    "Lossë/Sesiones/Sesión 25.md",
-    "Lossë/Sesiones/Sesión 24.md",
-    "Diddy/Session notes.md",
-    "Lossë/Sesiones/Sesión 22.md",
-    "Lossë/Sesiones/Sesión 23.md",
-    "Lossë/Sesiones/Sesión 3.md",
-    "Lossë/Imágenes/05-003.dalamar.png",
-    "Diddy/Notas/Pasted image 20241112194609.png",
-    "Diddy/Notas/Pasted image 20241016205503.png",
     "Música",
     "Untitled.canvas",
-    "Lossë/Lugares/Cabo del Mentiroso",
-    "Lossë/Lugares/Camino del Árbol",
-    "Lossë/Personas/Camino del Árbol"
+    "Lossë/Lugares/Cabo del Mentiroso"
   ]
 }

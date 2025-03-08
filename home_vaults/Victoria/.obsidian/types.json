@@ -30,6 +30,10 @@
     "excalidraw-open-md": "checkbox",
     "Fecha": "date",
     "F. Paternales": "multitext",
-    "F. Fraternales": "multitext"
+    "F. Fraternales": "multitext",
+    "Afiliación": "multitext",
+    "Ubicación": "multitext",
+    "Dominios": "multitext",
+    "Miembros": "multitext"
   }
 }

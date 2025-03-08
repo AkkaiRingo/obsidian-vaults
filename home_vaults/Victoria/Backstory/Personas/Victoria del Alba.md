@@ -4,7 +4,7 @@ Raza: Humano
 Profesión: "[[Noctívago]]"
 Lugar:
   - "[[Svitanie]]"
-  - "[[Pueblo Victoria]]"
+  - "[[Lioncourt]]"
 F. Paternales:
   - N/A
 F. Fraternales:
@@ -15,5 +15,6 @@ tags:
   - Persona
 aliases:
   - Victoria
+  - Vicky
 ---
 ![[Victoria del Alba.jpg]]

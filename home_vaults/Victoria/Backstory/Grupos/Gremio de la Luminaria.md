@@ -1,14 +1,13 @@
 ---
 Agrupación: Gremio
 Afiliación:
-  - "[[Gremio de la Luminaria]]"
+  - "[[El Luminarca]]"
 Ubicación:
   - "[[Svitanie]]"
 Miembros: 
 aliases:
-  - Noctívagos
-  - noctívago
-  - noctívagos
+  - Gremio
+  - La Luminaria
 tags:
   - "#Grupo"
 ---

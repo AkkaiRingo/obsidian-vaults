@@ -1,5 +1,5 @@
 ---
-Género: 
+Género: Hombre
 Raza: 
 Profesión: 
 Afiliación: 

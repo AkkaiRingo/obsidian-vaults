@@ -4,7 +4,7 @@ Raza: Humano
 Profesión: Noble
 Lugar:
   - "[[Svitanie]]"
-  - "[[Pueblo Victoria]]"
+  - "[[Lioncourt]]"
 F. Paternales:
   - N/A
 F. Fraternales:

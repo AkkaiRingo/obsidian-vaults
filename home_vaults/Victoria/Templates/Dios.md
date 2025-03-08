@@ -1,7 +1,8 @@
 ---
 Alineamiento: 
-Reinos: 
+Dominios: 
 Símbolos: 
+Afiliación: 
 aliases: 
 tags:
   - Dios

@@ -6,11 +6,14 @@ Maestro: "[[Victoria Val Astar]]"
 Tipo de V.: Spawn
 Lugar:
   - "[[Svitanie]]"
-  - "[[Pueblo Victoria]]"
+  - "[[Lioncourt]]"
 tags:
   - Persona
   - Vampiro
-aliases: 
+  - "#PJ"
+aliases:
+  - Madelaine Delaroux
+  - Madelaine
 ---
 ![[Madelaine Val Delaroux portrait.jpg]]
 ![[Madelaine Val Delaroux outfit.jpg]]

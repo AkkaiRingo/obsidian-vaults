@@ -1,14 +1,15 @@
 ---
-Agrupación: Gremio
+Agrupación: Órden
 Afiliación:
   - "[[Gremio de la Luminaria]]"
+  - "[[El Luminarca]]"
 Ubicación:
   - "[[Svitanie]]"
+  - "[[Capital]]"
 Miembros: 
 aliases:
-  - Noctívagos
-  - noctívago
-  - noctívagos
+  - La Lumbre
+  - La cúpula
 tags:
   - "#Grupo"
 ---
