@@ -9,6 +9,8 @@ aliases:
   - Noctívagos
   - noctívago
   - noctívagos
+  - noctívaga
+  - noctívagas
 tags:
   - "#Grupo"
 ---

@@ -34,9 +34,35 @@
               "icon": "lucide-file",
               "title": "Glosario"
             }
+          },
+          {
+            "id": "f2de72e85a94726d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/Excalidraw.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Excalidraw"
+            }
+          },
+          {
+            "id": "702532020ce255b0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Timeline.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Timeline"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -157,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backstory info/Glosario.md",
+                "file": "Excalidraw/Timeline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Glosario"
+              "title": "Outline of Timeline"
             }
           }
         ],
@@ -183,17 +209,22 @@
       "command-palette:Open command palette": false,
       "janitor:Janitor: scan vault": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c848b66089cc57ce",
+  "active": "702532020ce255b0",
   "lastOpenFiles": [
+    "Excalidraw/Timeline.md",
+    "Excalidraw/Excalidraw.md",
     "Backstory info/Backstory.md",
-    "Backstory info/Lugares/Orfanato Lucero del Alba.md",
+    "Excalidraw",
     "Backstory info/Grupos/Orden del Lucero del Alba.md",
+    "Backstory info/Grupos/Noctívago.md",
+    "Backstory info/Glosario.md",
+    "Backstory info/Lugares/Orfanato Lucero del Alba.md",
     "Backstory info/Grupos/La Lumbre del Noctívago.md",
     "Backstory info/Grupos/Gremio de la Luminaria.md",
-    "Backstory info/Glosario.md",
     "Backstory info/Lugares/Edén.md",
     "Images/Edén.jpg",
     "Backstory info/Grupos/Clan Astar.md",
@@ -213,9 +244,6 @@
     "Backstory info/Personas/Jonathan del Alba.md",
     "Backstory info/Personas/Arthur Bescond.md",
     "Templates/Persona.md",
-    "Backstory info/Grupos/Grupos.md",
-    "Backstory info/Personas/Alastor Val Astar.md",
-    "Backstory info/Personas/Personas.md",
     "Untitled/Untitled.canvas",
     "Untitled",
     "Test folder",
@@ -234,7 +262,6 @@
     "Backstory info/Personas",
     "Templates",
     "Backstory info",
-    "Excalidraw",
     "Untitled.canvas"
   ]
 }
