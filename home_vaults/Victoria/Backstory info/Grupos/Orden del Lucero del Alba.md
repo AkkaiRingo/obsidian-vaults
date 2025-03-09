@@ -1,5 +1,5 @@
 ---
-Agrupación: Órden
+Agrupación: Orden
 Afiliación:
   - "[[Gremio de la Luminaria]]"
   - "[[La Lumbre del Noctívago]]"
@@ -11,6 +11,7 @@ Miembros:
   - "[[Victoria del Alba]]"
 aliases:
   - Lucero del Alba
+  - del Alba
 tags:
   - "#Grupo"
 ---

@@ -3,10 +3,11 @@ Categoría: Orfanato
 Ubicación:
   - "[[Lioncourt]]"
   - "[[Svitanie]]"
-  - "[[Continente]]"
+  - "[[Las tierras conocidas]]"
 Afiliación:
-  - "[[Órden del Lucero del Alba]]"
-aliases: 
+  - "[[Orden del Lucero del Alba]]"
+aliases:
+  - orfanato
 tags:
   - Lugar
 ---

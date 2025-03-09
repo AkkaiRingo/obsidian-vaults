@@ -2,7 +2,7 @@
 Agrupación: Familia
 Afiliación:
   - "[[Gremio de la Luminaria]]"
-  - "[[Órden del Lucero del Alba]]"
+  - "[[Orden del Lucero del Alba]]"
 Ubicación:
   - "[[Svitanie]]"
   - "[[Lioncourt]]"

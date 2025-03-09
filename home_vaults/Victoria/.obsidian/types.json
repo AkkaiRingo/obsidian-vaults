@@ -34,6 +34,8 @@
     "Afiliación": "multitext",
     "Ubicación": "multitext",
     "Dominios": "multitext",
-    "Miembros": "multitext"
+    "Miembros": "multitext",
+    "Familia": "multitext",
+    "F. Filiales": "multitext"
   }
 }

@@ -2,9 +2,9 @@
 Categoría: Pueblo
 Ubicación:
   - "[[Svitanie]]"
-  - "[[Continente]]"
+  - "[[Las tierras conocidas]]"
 Afiliación:
-  - "[[Órden del Lucero del Alba]]"
+  - "[[Orden del Lucero del Alba]]"
   - "[[Familia Bescond]]"
 aliases: 
 tags:

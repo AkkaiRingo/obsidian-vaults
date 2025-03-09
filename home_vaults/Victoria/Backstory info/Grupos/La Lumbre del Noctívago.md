@@ -5,11 +5,11 @@ Afiliación:
   - "[[El Luminarca]]"
 Ubicación:
   - "[[Svitanie]]"
-  - "[[Capital]]"
+  - "[[Edén]]"
 Miembros: 
 aliases:
   - La Lumbre
-  - La cúpula
+  - La Cúpula
 tags:
   - "#Grupo"
 ---

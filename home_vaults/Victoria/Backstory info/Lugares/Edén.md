@@ -2,7 +2,7 @@
 Categoría: Ciudad
 Ubicación:
   - "[[Svitanie]]"
-  - "[[Continente]]"
+  - "[[Las tierras conocidas]]"
 Afiliación:
   - "[[Gremio de la Luminaria]]"
   - "[[La Lumbre del Noctívago]]"
@@ -10,5 +10,5 @@ aliases:
 tags:
   - Lugar
 ---
-![[Capital.jpg]]
+![[Edén.jpg]]
 ![[Capital Catedral.jpg]]

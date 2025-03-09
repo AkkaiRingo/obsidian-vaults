@@ -11,7 +11,10 @@ F. Paternales:
 F. Fraternales:
   - "[[Arthur Bescond]]"
 Pareja: N/A
-F. Filiales: N/A
+F. Filiales:
+  - N/A
+Familia:
+  - "[[Familia Bescond|Bescond]]"
 tags:
   - Persona
 aliases:

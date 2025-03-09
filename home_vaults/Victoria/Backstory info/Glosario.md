@@ -2,15 +2,16 @@ Pinterest: [https://pin.it/1DhSganDR](https://pin.it/1DhSganDR) 
 #### Lugares
 | Nombre                       | Notas                                                                                                        |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| [[Orfanato Lucero del Alba]] | Orfanato de [[Jonathan del Alba\|Jonathan]] y [[Victoria del Alba\|Victoria]], [[Órden del Lucero del Alba]] |
+| [[Orfanato Lucero del Alba]] | Orfanato de [[Jonathan del Alba\|Jonathan]] y [[Victoria del Alba\|Victoria]], [[Orden del Lucero del Alba]] |
 | [[Castillo de Bescond]]      | Castillo de la [[Familia Bescond]]                                                                           |
-| [[Lioncourt]] #TBD     | Pueblo de [[Victoria del Alba\|Victoria]]                                                                    |
+| [[Lioncourt]]                | Pueblo de [[Victoria del Alba\|Victoria]]                                                                    |
 | [[Bosque]] #TBD              | Bosque al rededor de [[Lioncourt]]                                                                           |
 | [[Lago]] #TBD                | El ataúd de [[Victoria Val Astar\|Victoria]] está al fondo de un lago                                        |
-| [[Capital]] #TBD             | Capital de [[Svitanie]]                                                                                      |
+| [[Edén]]                     | Capital de [[Svitanie]]                                                                                      |
 | El [[Arterial]]<br>          | Río principal que recorre toda [[Svitanie]]                                                                  |
 | [[Svitanie]]                 | País, Alba/Amanecer en Eslovaco, [[Svitanie\|Valle del Hoyuelo]]                                             |
-| [[Continente]] #TBD          | Continente                                                                                                   |
+| [[Cordilleras del Pestañal]] | País                                                                                                         |
+| [[Las tierras conocidas]]    | Continente                                                                                                   |
 #### Personas
 | Nombre                  | Notas                                                                                           |
 | ----------------------- | ----------------------------------------------------------------------------------------------- |
@@ -28,8 +29,8 @@ Pinterest: [https://pin.it/1DhSganDR](https://pin.it/1DhSganDR) 
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | [[Gremio de la Luminaria]]    | Organización que rige [[Svitanie]], compuesto de órdenes de [[Noctívago\|noctívagos]], seguidores de [[El Luminarca]] |
 | [[Noctívago]]                 | Cazadores de monstruos del [[Gremio de la Luminaria]]                                                                 |
-| [[La Lumbre del Noctívago]]   | Cúpula de líderes del [[Gremio de la Luminaria]], asentada en [[Capital]]                                             |
-| [[Órden del Lucero del Alba]] | Órden del [[Gremio de la Luminaria\|Gremio]], asentada en [[Lioncourt]]                                               |
+| [[La Lumbre del Noctívago]]   | Cúpula de líderes del [[Gremio de la Luminaria]], asentada en [[Edén]]                                             |
+| [[Orden del Lucero del Alba]] | Órden del [[Gremio de la Luminaria\|Gremio]], asentada en [[Lioncourt]]                                               |
 | [[Familia Bescond]]           | Familia regente de [[Lioncourt]]                                                                                      |
 | [[Corte de Vairae]]           | Corte de vampiros de [[Svitanie]]                                                                                     |
 | [[Clan Astar]]                | Clan de [[Alastor Val Astar]]                                                                                         |
@@ -39,4 +40,3 @@ Pinterest: [https://pin.it/1DhSganDR](https://pin.it/1DhSganDR) 
 - Mina
 - Claudia
 - Lilith/Lilit/Lilitu
-- Eden

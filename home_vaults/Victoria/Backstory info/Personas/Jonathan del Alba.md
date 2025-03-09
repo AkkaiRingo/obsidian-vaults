@@ -10,7 +10,12 @@ F. Paternales:
 F. Fraternales:
   - "[[Victoria del Alba]]"
 Pareja: "[[Madelaine Bescond]]"
-F. Filiales: 
+F. Filiales:
+  - "[[Lucy Bescond]]"
+  - "[[Arthur Bescond]]"
+Familia:
+  - "[[Orden del Lucero del Alba|del Alba]]"
+  - "[[Familia Bescond|Bescond]]"
 tags:
   - Persona
 aliases:

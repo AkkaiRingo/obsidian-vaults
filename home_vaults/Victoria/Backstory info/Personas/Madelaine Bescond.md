@@ -10,7 +10,11 @@ F. Paternales:
 F. Fraternales:
   - N/A
 Pareja: "[[Jonathan del Alba]]"
-F. Filiales: 
+F. Filiales:
+  - "[[Lucy Bescond]]"
+  - "[[Arthur Bescond]]"
+Familia:
+  - "[[Familia Bescond|Bescond]]"
 tags:
   - Persona
 aliases:

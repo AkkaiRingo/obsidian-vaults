@@ -1,7 +1,7 @@
 ---
 Categoría: País
 Ubicación:
-  - "[[Continente]]"
+  - "[[Las tierras conocidas]]"
 Afiliación:
   - "[[Gremio de la Luminaria]]"
   - "[[Corte de Vairae]]"

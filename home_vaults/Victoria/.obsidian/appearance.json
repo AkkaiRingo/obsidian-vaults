@@ -1,5 +1,8 @@
 {
   "accentColor": "#af423c",
   "cssTheme": "Prism",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "justify"
+  ]
 }

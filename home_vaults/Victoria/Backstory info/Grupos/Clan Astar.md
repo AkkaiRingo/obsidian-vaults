@@ -1,5 +1,5 @@
 ---
-Agrupación: Clan
+Líder: 
 Afiliación:
   - "[[Corte de Vairae]]"
 Ubicación:
@@ -8,9 +8,11 @@ Miembros:
   - "[[Alastor Val Astar]]"
   - "[[Victoria Val Astar]]"
   - "[[Madelaine Val Astar]]"
+Agrupación: Clan
 aliases:
   - Astar
 tags:
   - "#Grupo"
   - "#Clan"
+  - Clan
 ---

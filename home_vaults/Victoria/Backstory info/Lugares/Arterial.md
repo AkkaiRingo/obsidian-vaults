@@ -2,7 +2,7 @@
 Categoría: Río
 Ubicación:
   - "[[Svitanie]]"
-  - "[[Continente]]"
+  - "[[Las tierras conocidas]]"
 Afiliación: 
 aliases: 
 tags:
