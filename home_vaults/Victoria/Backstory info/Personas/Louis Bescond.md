@@ -1,24 +1,21 @@
 ---
-Género: Mujer
+Género: Hombre
 Raza: Humano
 Profesión: Noble
 Lugar:
   - "[[Svitanie]]"
   - "[[Lioncourt]]"
 F. Paternales:
-  - "[[Louis Bescond]]"
-  - "[[Claudia Bescond]]"
+  - N/A
 F. Fraternales:
   - N/A
-Pareja: "[[Jonathan del Alba]]"
+Pareja: "[[Claudia Bescond]]"
 F. Filiales:
-  - "[[Lucy Bescond]]"
-  - "[[Arthur Bescond]]"
+  - "[[Madelaine Bescond]]"
 Familia:
   - "[[Familia Bescond|Bescond]]"
 tags:
   - Persona
 aliases:
-  - Madelaine
+  - Louis
 ---
-![[Madelaine Bescond.jpg]]
