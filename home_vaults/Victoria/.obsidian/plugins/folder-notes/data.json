@@ -1,10 +1,10 @@
 {
-  "syncFolderName": false,
+  "syncFolderName": true,
   "ctrlKey": true,
   "altKey": false,
   "hideFolderNote": true,
   "templatePath": "",
-  "autoCreate": true,
+  "autoCreate": false,
   "enableCollapsing": false,
   "excludeFolders": [],
   "whitelistFolders": [],
@@ -25,8 +25,8 @@
     "id": "",
     "folderPath": "",
     "title": "{{folderName}} overview",
-    "showTitle": true,
-    "depth": 3,
+    "showTitle": false,
+    "depth": 10,
     "includeTypes": [
       "folder",
       "markdown"
@@ -38,7 +38,7 @@
     "showEmptyFolders": true,
     "onlyIncludeSubfolders": false,
     "storeFolderCondition": true,
-    "showFolderNotes": true,
+    "showFolderNotes": false,
     "disableCollapseIcon": true
   },
   "useSubmenus": true,
@@ -48,7 +48,7 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "general",
+  "settingsTab": "folder_overview",
   "supportedFileTypes": [
     "md",
     "canvas"
@@ -58,8 +58,8 @@
   "cursiveName": false,
   "cursiveNameInPath": false,
   "disableOpenFolderNoteOnClick": false,
-  "openByClick": true,
-  "openWithCtrl": false,
+  "openByClick": false,
+  "openWithCtrl": true,
   "openWithAlt": false,
   "excludeFolderDefaultSettings": {
     "type": "folder",
