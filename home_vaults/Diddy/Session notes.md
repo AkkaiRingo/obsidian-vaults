@@ -182,3 +182,9 @@ Hemos acabado atravesando un laberinto, y al final hemos llegado, los dos grupos
 Hemos luchado contra la criatura principal y sus secuaces, está siendo un combate duro...
 ### Diddy
 Pero la hemos derrotado, aunque la misión era capturarla y llevarla de vuelta...
+# SESIÓN 22 - 12/03/2025
+### Diddy
+[[Harold]] ha cortado la cabeza de la [[madre de la colmena]]. La misión era recuperarla, pero la hemos tenido que matar. Por ahora nos llevaremos la cabeza. 
+Salimos del laboratorio y los [[terran]] están atrincherados, pensábamos que para recibirnos, pero parecen alterados. 
+Nos han apresado. Dicen que cuando se activó el generador del laboratorio, decodificaron información de las investigaciones que estaba haciendo [[moebius]] que han llevado a muchos de los problemas que ha habido en el planeta y nos culpan. Quieren contactar con el [[dominio]] para entregarnos. 
+Nos hemos juntado con [[Natasha]] y [[Wong]]. Hemos causado un poco de jaleo para llamar la atención de los guardias, romper las cámaras de seguridad. [[Vaxir]] se ha teletransportado a la nave y ha mandado un mensaje de parte de [[Tydus]], no sé muy a quién. He conseguido salir en invisible pero ha saltado la alarma, se han dado cuenta. 
