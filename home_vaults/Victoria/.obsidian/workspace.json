@@ -236,15 +236,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "janitor:Janitor: scan vault": false,
-      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4f2dbf6c0478f61d",
+  "active": "c848b66089cc57ce",
   "lastOpenFiles": [
     "Backstory info/Personas/Madelaine Bescond.md",
     "Backstory info/Personas/Louis Bescond.md",
-    "Claudia Bescond.md",
+    "Backstory info/Personas/Claudia Bescond.md",
     "Excalidraw/Timeline.md",
     "Backstory info/Glosario.md",
     "Backstory info/Dioses/Dioses.md",
