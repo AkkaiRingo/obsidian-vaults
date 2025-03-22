@@ -3,7 +3,7 @@
   "ctrlKey": true,
   "altKey": false,
   "hideFolderNote": true,
-  "templatePath": "",
+  "templatePath": "Templates/Overview.md",
   "autoCreate": false,
   "enableCollapsing": false,
   "excludeFolders": [],
@@ -48,7 +48,7 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "folder_overview",
+  "settingsTab": "general",
   "supportedFileTypes": [
     "md",
     "canvas"

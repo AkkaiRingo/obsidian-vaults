@@ -1,8 +1,6 @@
 ---
 Categoría: Pueblo
-Ubicación:
-  - "[[Svitanie]]"
-  - "[[Las tierras conocidas]]"
+Ubicación: "[[Svitanie]]"
 Afiliación:
   - "[[Orden del Lucero del Alba]]"
   - "[[Familia Bescond]]"

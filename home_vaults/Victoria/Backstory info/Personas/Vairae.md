@@ -2,7 +2,7 @@
 Género: Hombre
 Raza: 
 Profesión: 
-Lugar: 
+Lugar: "[[Svitanie]]"
 F. Paternales: 
 F. Fraternales: 
 Pareja: 

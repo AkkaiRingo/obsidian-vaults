@@ -1,7 +1,6 @@
 ---
 Categoría: Continente
-Ubicación:
-  - "[[Janthiria]]"
+Ubicación: "[[Janthiria]]"
 Afiliación:
   - N/A
 aliases: 

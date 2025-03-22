@@ -2,9 +2,7 @@
 Género: Hombre
 Raza: Humano
 Profesión: "[[Noctívago]]"
-Lugar:
-  - "[[Svitanie]]"
-  - "[[Lioncourt]]"
+Lugar: "[[Lioncourt]]"
 F. Paternales:
   - N/A
 F. Fraternales:
@@ -20,5 +18,6 @@ tags:
   - Persona
 aliases:
   - Jonathan
+  - Jonathan Bescond
 ---
 ![[Jonathan del Alba.jpg]]

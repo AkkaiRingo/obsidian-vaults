@@ -4,9 +4,7 @@ En vida: "[[Victoria del Alba]]"
 Clan: "[[Clan Astar|Astar]]"
 Maestro: "[[Alastor Val Astar]]"
 Tipo de V.: Vampiro
-Lugar:
-  - "[[Svitanie]]"
-  - "[[Lioncourt]]"
+Lugar: "[[Lioncourt]]"
 tags:
   - Persona
   - Vampiro
@@ -14,7 +12,6 @@ tags:
 aliases:
   - Victoria
 ---
-
 ![[Victoria Val Astar dress.jpg]]
 ![[Victoria Val Astar Armor.jpg]]
 ![[Victoria Val Astar portrait.jpg]]

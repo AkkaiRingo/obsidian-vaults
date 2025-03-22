@@ -2,9 +2,7 @@
 Género: Mujer
 Raza: Humano
 Profesión: Menor
-Lugar:
-  - "[[Svitanie]]"
-  - "[[Lioncourt]]"
+Lugar: "[[Lioncourt]]"
 F. Paternales:
   - "[[Madelaine Bescond]]"
   - "[[Jonathan del Alba]]"

@@ -1,8 +1,6 @@
 ---
 Categoría: Ciudad
-Ubicación:
-  - "[[Svitanie]]"
-  - "[[Las tierras conocidas]]"
+Ubicación: "[[Svitanie]]"
 Afiliación:
   - "[[Gremio de la Luminaria]]"
   - "[[La Lumbre del Noctívago]]"

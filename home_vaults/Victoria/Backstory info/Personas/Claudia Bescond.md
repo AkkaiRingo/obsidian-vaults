@@ -2,9 +2,7 @@
 Género: Mujer
 Raza: Humano
 Profesión: Noble
-Lugar:
-  - "[[Svitanie]]"
-  - "[[Lioncourt]]"
+Lugar: "[[Lioncourt]]"
 F. Paternales:
   - N/A
 F. Fraternales:

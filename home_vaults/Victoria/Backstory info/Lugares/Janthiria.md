@@ -1,6 +1,6 @@
 ---
 Categoría: Mundo
-Ubicación: 
+Ubicación: N/A
 Afiliación:
   - N/A
 aliases: 

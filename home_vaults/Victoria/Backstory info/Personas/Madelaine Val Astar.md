@@ -4,9 +4,7 @@ En vida: "[[Madelaine Bescond]]"
 Clan: "[[Clan Astar|Astar]]"
 Maestro: "[[Victoria Val Astar]]"
 Tipo de V.: Spawn
-Lugar:
-  - "[[Svitanie]]"
-  - "[[Lioncourt]]"
+Lugar: "[[Lioncourt]]"
 tags:
   - Persona
   - Vampiro

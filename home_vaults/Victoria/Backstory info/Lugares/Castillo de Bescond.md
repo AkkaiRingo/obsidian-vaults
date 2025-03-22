@@ -1,9 +1,6 @@
 ---
 Categoría: Castillo
-Ubicación:
-  - "[[Lioncourt]]"
-  - "[[Svitanie]]"
-  - "[[Las tierras conocidas]]"
+Ubicación: "[[Lioncourt]]"
 Afiliación:
   - "[[Orden del Lucero del Alba]]"
   - "[[Familia Bescond]]"

@@ -1,7 +1,13 @@
+# Mortales
 ```dataview 
-table Familia, Raza from #Persona
-where !Clan
+table Raza, Profesión, Lugar
+where startswith(file.folder, this.file.folder) and !regexmatch(file.name, this.file.name) and !Clan
+sort file.name ASC
 ```
+# Vampiros
 ```dataview
-table Clan from #Vampiro 
+table Clan, tipo-de-v as "Tipo de Vampiro", Maestro 
+from #Vampiro
+where startswith(file.folder, this.file.folder) and !regexmatch(file.name, this.file.name)
+sort file.name ASC
 ```

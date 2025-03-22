@@ -1,3 +1,9 @@
 {
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "Backstory info/Backstory",
+    "Backstory info/Glosario",
+    "Backstory info/Diario de Victoria",
+    "Templates/"
+  ]
 }
