@@ -3,9 +3,7 @@ Agrupación: Orden
 Afiliación:
   - "[[Gremio de la Luminaria]]"
   - "[[La Lumbre del Noctívago]]"
-Ubicación:
-  - "[[Svitanie]]"
-  - "[[Lioncourt]]"
+Ubicación: "[[Lioncourt]]"
 Miembros:
   - "[[Jonathan del Alba]]"
   - "[[Victoria del Alba]]"

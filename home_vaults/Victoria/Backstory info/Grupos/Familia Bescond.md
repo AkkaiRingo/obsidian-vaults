@@ -3,9 +3,7 @@ Agrupación: Familia
 Afiliación:
   - "[[Gremio de la Luminaria]]"
   - "[[Orden del Lucero del Alba]]"
-Ubicación:
-  - "[[Svitanie]]"
-  - "[[Lioncourt]]"
+Ubicación: "[[Lioncourt]]"
 Miembros:
   - "[[Madelaine Bescond]]"
   - "[[Jonathan del Alba]]"

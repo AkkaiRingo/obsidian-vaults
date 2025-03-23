@@ -15,7 +15,7 @@ Afiliación:
   - Creadores del Crisol
   - Panteón Crisolar
 aliases:
-  - Guardian de la Luminaria
+  - Guardián de la Luminaria
 tags:
   - Dios
 ---

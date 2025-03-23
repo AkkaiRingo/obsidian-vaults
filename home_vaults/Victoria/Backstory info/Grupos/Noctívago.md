@@ -2,8 +2,7 @@
 Agrupación: Gremio
 Afiliación:
   - "[[Gremio de la Luminaria]]"
-Ubicación:
-  - "[[Svitanie]]"
+Ubicación: "[[Svitanie]]"
 Miembros: 
 aliases:
   - Noctívagos

@@ -2,8 +2,7 @@
 Líder: "[[Vairae]]"
 Afiliación:
   - "[[Corte de Vairae]]"
-Ubicación:
-  - "[[Svitanie]]"
+Ubicación: "[[Svitanie]]"
 Miembros:
   - "[[Vairae]]"
   - "[[Alastor Val Astar]]"

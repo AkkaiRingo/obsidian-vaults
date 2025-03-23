@@ -1,6 +1,6 @@
 ---
 Género: Mujer
-Raza: Humano
+Raza: Semi-elfo
 Profesión: "[[Noctívago]]"
 Lugar: "[[Lioncourt]]"
 F. Paternales:

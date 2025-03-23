@@ -1,11 +1,9 @@
 ---
-Agrupación: Órden
+Agrupación: Orden
 Afiliación:
   - "[[Gremio de la Luminaria]]"
   - "[[El Luminarca]]"
-Ubicación:
-  - "[[Svitanie]]"
-  - "[[Edén]]"
+Ubicación: "[[Edén]]"
 Miembros: 
 aliases:
   - La Lumbre
