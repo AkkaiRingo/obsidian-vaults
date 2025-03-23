@@ -1,10 +1,10 @@
 ---
-Líder: "[[Vairae]]"
+Líder: "[[Backstory info/Personas/Vairae]]"
 Afiliación:
   - "[[Corte de Vairae]]"
 Ubicación: "[[Svitanie]]"
 Miembros:
-  - "[[Vairae]]"
+  - "[[Backstory info/Personas/Vairae]]"
   - "[[Alastor Val Astar]]"
   - "[[Victoria Val Astar]]"
 Agrupación: Clan

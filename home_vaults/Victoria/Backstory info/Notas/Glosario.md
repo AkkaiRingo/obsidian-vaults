@@ -25,7 +25,7 @@ Pinterest: [https://pin.it/1DhSganDR](https://pin.it/1DhSganDR) 
 | [[Alastor Val Astar]]   | Maestro de [[Victoria Val Astar\|Victoria]]                                                     |
 | [[Lucy Bescond]]        | Hija mayor de [[Madelaine Bescond\|Madelaine]] y [[Jonathan del Alba\|Jonathan]]                |
 | [[Arthur Bescond]]      | Hijo menor de [[Madelaine Bescond\|Madelaine]] y [[Jonathan del Alba\|Jonathan]]                |
-| [[Vairae]]              | Líder de la corte de vampiros de [[Svitanie]]                                                   |
+| [[Backstory info/Personas/Vairae]]              | Líder de la corte de vampiros de [[Svitanie]]                                                   |
 #### Grupos
 | Nombre                        | Notas                                                                                                                 |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------- |

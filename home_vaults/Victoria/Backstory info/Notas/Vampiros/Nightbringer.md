@@ -1,0 +1,3 @@
+- Creado por ritual de un Umbral Lord
+- Suelen estar más lejos o de manera satelital
+- Se les ve Nosferatu

@@ -1,0 +1,56 @@
+| [[Vairae]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Nacidos de lo Oscuro]]                                                                                                                                                                                                                                                                                                                                                                                                                                                   | [[Ritualistas]]                                                                                                                                                                                                                                                                                           |
+| - [[Primordial]]: [[Gulthias]]. Historia borrada por [[Vairae]]. Solo se sabe que de su estaca nació el árbol. <br>    <br>- [[Gulthias]] afecta, pero no tanto                                                                                                                                                                                                                                                                                                            | - [[Primogénito]]: Dado de comer a [[Alastor Val Astar\|Alastor]]<br>    <br>- [[Gulthias]] afecta mucho                                                                                                                                                                                                  |
+| [[Vampiro Ascendido]]: [[Alastor Val Astar]]                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                           |
+| - [[Alastor Val Astar\|Alastor]] era un [[Vampiro Natural]] tradicional y le ascendieron por ritual mágico de [[Vairae]] a una especie de “súper vampiro”, incluso por encima de un [[Umbral Lord]]. Le dió para comerse al primero de entre los [[Umbral Lord]], que había aprovechado la ausencia de [[Vairae]] para dar por saco a los naturales junto con el resto de [[Umbral Lord\|Umbrals]]<br>    <br>- [[Vairae]] ha borrado la noción del [[Vampiro Natural]] natural primigenio |                                                                                                                                                                                                                                                                                                           |
+| [[Vampiro Natural]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                | [[Umbral Lord]]                                                                                                                                                                                                                                                                                           |
+| - Tiene que alimentarse<br>- Si se alimenta de un [[Vampiro Natural]] superior (lo que incluye un [[Umbral Lord]]) aumenta de poder.<br>- Ascensión por tomar sangre del maestro<br>- El mayor enemigo de un [[Vampiro Natural]] es otro [[Vampiro Natural]]                                                                                                                                                                                                                                       | - Tiene que cambiar periódicamente de cuerpo. Este tiempo se alarga si el nuevo cuerpo es un innato de lo oscuro. Cada 1d100 de años +1 por cada cambio. Un cuerpo de spawn asegura 100 años + 1 por cambio)<br>- Ascensión por ritual <br>- Entre los [[Umbral Lord\|Umbrals]] cooperar no es algo raro. |
+| [[Spawn Ascendido]]: [[Victoria Val Astar]]                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                           |
+| - Primera y única [[Spawn]] de [[Alastor Val Astar\|Alastor]] una vez habiéndose comido al [[Primogénito]]. <br>- Resentimiento por parte de todos los spawns<br>- Cotizada por los [[Umbral Lord\|Umbral Lords]]                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                           |
+| [[Spawn]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | [[Nightbringer]]                                                                                                                                                                                                                                                                                          |
+| - Creado por mordedura de [[Vampiro Natural]]<br>- Suelen pulular más cerca de los [[Vampiro Natural\|Vampiros]]                                                                                                                                                                                                                                                                                                                                                                           | - Creado por ritual de un [[Umbral Lord]]<br>- Suelen estar más lejos o de manera satelital<br>- Se les ve *Nosferatu*                                                                                                                                                                                    |
+| [[Familiar Vampírico]]                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                           |
+
+En el año 0, justo los [[Vampiro Natural|Vampiros]] están un poco puteados por motivo X. La mayoría de los vampiros Naturales superiores ya no están.
+
+[[Vairae]] quiere un equilibrio entre ambos bandos.
+
+[[Gulthias]] cercena el vínculo con los Poderes Oscuros, de modo que los naturales no sufren tanto porque tienen estos poderes de manera innata”, mientras que los [[Umbral Lord|Umbral]] no.
+
+  
+  
+
+Para los naturales tras el nombre llevan el Va + iniciales del más tocho y punto. 
+
+Ejemplo: Nerissa Val Achazriel. 
+
+Para los ritualistas: De Vairae. 
+
+Ejemplo: Mith De Vairae. 
+
+  
+
+Alastor Val Kairen
+
+Victoria Val Kairen
+
+Spawn Val Kairen
+
+Myth de Vairae
+
+Apéndice de Myth 
+
+  
+
+TODO:
+
+- buscar nombres de clanes de [[Vampiro Natural|Vampiros Naturales]]
+    
+- nombres de [[Primigenio]]/[[Primogénito]] etc.
+    
+- buscar nombres de [[Umbral Lord|Umbral Lords]]
+    
+- nombres de tipo de vampiro (natural/nacido de los oscuro; ritualistas/etc.)
+    
+- especificar más el backstory de [[Victoria Val Astar|Victoria]]

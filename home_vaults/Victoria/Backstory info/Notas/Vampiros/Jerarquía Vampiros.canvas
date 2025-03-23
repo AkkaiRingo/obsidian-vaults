@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"2eab3786c8f1c017","type":"group","x":-1520,"y":-130,"width":440,"height":760,"color":"1","label":"Vampiro Ascendido"},
+		{"id":"0e3ce130aeca1012","type":"group","x":-1000,"y":280,"width":440,"height":700,"color":"1","label":"Spawn Ascendido"},
+		{"id":"4a7a7f4cdc8ec81d","type":"file","file":"Backstory info/Notas/Vampiros/Ritualistas.md","x":-20,"y":-200,"width":460,"height":760,"color":"6"},
+		{"id":"7c0c45c680e8928a","type":"file","file":"Backstory info/Notas/Vampiros/Nacidos de lo Oscuro.md","x":-520,"y":-200,"width":480,"height":760,"color":"1"},
+		{"id":"bf90a0e657462c08","type":"file","file":"Backstory info/Personas/Vairae.md","x":-130,"y":-400,"width":180,"height":80,"color":"2"},
+		{"id":"7b587ea8ab2941df","type":"file","file":"Backstory info/Notas/Vampiros/Vampiro Natural.md","x":-480,"y":0,"width":400,"height":300},
+		{"id":"9d21b160afff36b2","type":"file","file":"Backstory info/Notas/Vampiros/Spawn.md","x":-480,"y":320,"width":400,"height":200},
+		{"id":"ff4f75a4a5cbb263","type":"file","file":"Backstory info/Notas/Vampiros/Umbral Lord.md","x":10,"y":0,"width":400,"height":300},
+		{"id":"75d40d4b338039ee","type":"file","file":"Backstory info/Notas/Vampiros/Nightbringer.md","x":10,"y":320,"width":400,"height":200},
+		{"id":"93f9a21373380bc0","type":"file","file":"Backstory info/Personas/Victoria Val Astar.md","x":-980,"y":300,"width":400,"height":520},
+		{"id":"64192b17c3d19fa2","type":"file","file":"Backstory info/Notas/Vampiros/Familiar Vampírico.md","x":-240,"y":580,"width":400,"height":96},
+		{"id":"9fa4218ae28e6757","x":-980,"y":820,"width":400,"height":134,"type":"file","file":"Backstory info/Personas/Victoria Val Astar.md"},
+		{"id":"b098d0c74af6c0f4","type":"file","file":"Backstory info/Personas/Alastor Val Astar.md","x":-1500,"y":-110,"width":400,"height":520},
+		{"id":"4e2c09863ea22982","x":-1500,"y":410,"width":400,"height":190,"type":"file","file":"Backstory info/Personas/Alastor Val Astar.md"}
+	],
+	"edges":[]
+}
