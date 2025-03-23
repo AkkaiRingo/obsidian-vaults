@@ -10,7 +10,7 @@ tags:
 ---
 ### Inventario
 - Llaves de la celda de [[Camino del Árbol]]
-- Manzana 9/10
+- Manzana 7/10
 - [[Máscaras]] básicas
 - [[Máscaras|máscara]] solámnica de alta calidad (5GP)
 - Piedra mensajera
