@@ -189,7 +189,12 @@ Salimos del laboratorio y los [[terran]] están atrincherados, pensábamos que p
 Nos han apresado. Dicen que cuando se activó el generador del laboratorio, decodificaron información de las investigaciones que estaba haciendo [[moebius]] que han llevado a muchos de los problemas que ha habido en el planeta y nos culpan. Quieren contactar con el [[dominio]] para entregarnos. 
 Nos hemos juntado con [[Natasha]] y [[Wong]]. Hemos causado un poco de jaleo para llamar la atención de los guardias, romper las cámaras de seguridad. [[Vaxir]] se ha teletransportado a la nave y ha mandado un mensaje de parte de [[Tydus]], no sé muy a quién. He conseguido salir en invisible pero ha saltado la alarma, se han dado cuenta. 
 # SESIÓN 23 - 26/03/2025
+### Alice
+Wiiiiiiiiiiiiii
 ### Diddy
 Después de bastante lío, he conseguido recuperar la cabeza (con un maravilloso carrito que he encontrado), me he juntado con el equipo, hemos recuperado todo el equipo de armamento y sus armaduras, recuperado a [[Natasha]] y vuelto a la nave. 
 Estamos en órbita baja. Los [[Zergs]] se ven cerca. 
 He conseguido hackear las comunicaciones de las instalaciones, he interceptado sus comunicaciones hacia fuera y tengo localizada la información que tenían de las investigaciones que se estaban llevando a cabo en el laboratorio. También hemos visto un comunicado de un cifrado extraño, [[Vaxir]] dice que es un cifrado [[Protos]], dicen que vienen. 
+# SESIÓN 24 - 02/04/2025
+### Diddy
+Al final hemos bajado a por [[Zeratul]], he conectado mentalmente con él y he visto de nuevo a esa criatura con tentáculos. Lo hemos sacado de las instalaciones. Está en nuestra nave, pero sus ojos son distintos, no son los que le vi la otra vez, son los de la criatura que veo en las visiones. 
