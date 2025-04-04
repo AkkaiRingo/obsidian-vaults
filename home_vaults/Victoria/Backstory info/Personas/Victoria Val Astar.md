@@ -3,7 +3,7 @@ Género: Mujer
 En vida: "[[Victoria del Alba]]"
 Clan: "[[Clan Astar|Astar]]"
 Maestro: "[[Alastor Val Astar]]"
-Tipo de V.: "[[Spawn Ascendido]]"
+Tipo de V.: "[[Lamia Alastora]]"
 Lugar: "[[Lioncourt]]"
 tags:
   - Persona
@@ -13,9 +13,10 @@ aliases:
   - Victoria
 ---
 ![[Victoria Val Astar dress.jpg]]
+Primera y única [[Lamia Alastora]] de [[Alastor Val Astar|Alastor]] una vez habiéndose comido al [[Provecto]]. 
+- Resentimiento por parte de todas las [[Lamia|Lamias]]
+- Cotizada por los [[Umbral Lord|Umbral Lords]]
+
+
 ![[Victoria Val Astar Armor.jpg]]
 ![[Victoria Val Astar portrait.jpg]]
-
-Primera y única [[Spawn]] de [[Alastor Val Astar|Alastor]] una vez habiéndose comido al [[Primogénito]]. 
-- Resentimiento por parte de todos los spawns
-- Cotizada por los [[Umbral Lord|Umbral Lords]]

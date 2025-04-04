@@ -1,0 +1,1 @@
+Sirviente o ayudante creado por un [[Vampiros|vampiro]]. No se considera [[Vampiros|vampiro]], pero tiene más aptitudes que el mortal medio. 

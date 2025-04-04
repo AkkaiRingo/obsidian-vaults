@@ -1,2 +1,0 @@
- - Primogénito: Dado de comer a Alastor
-- Gulthias afecta mucho

@@ -3,7 +3,7 @@ Género: Hombre
 En vida: N/A
 Clan: "[[Clan Astar|Astar]]"
 Maestro: N/A
-Tipo de V.: "[[Vampiro Ascendido]]"
+Tipo de V.: "[[Alastoras]]"
 Lugar: "[[Svitanie]]"
 tags:
   - Persona
@@ -12,6 +12,6 @@ aliases:
   - Alastor
 ---
 ![[Alastor Val Astar.jpg]]
-![[Alastor Val Astar Ascension.jpg]]
+[[Alastor Val Astar|Alastor]] era un [[Vrikolaka]] y [[Vairae]] le ascendió a través de un ritual mágico a un nuevo tipo de [[Vampiros|vampiro]], un [[Alastoras]], convirtiéndose incluso más poderoso que un [[Umbral Lord]]. Le dio para comerse al [[Provecto]] [[Liturgo]], que había aprovechado la ausencia de [[Vairae]] para atacar a los [[Hematófago|Hematófagos]] junto con el resto de [[Umbral Lord|Umbral Lords]].
 
-[[Alastor Val Astar|Alastor]] era un [[Vampiro Natural]] y le ascendieron por ritual mágico de [[Vairae]] a una especie de [[Vampiro Ascendido]], incluso por encima de un [[Umbral Lord]]. Le dió para comerse al [[Primogénito]] de entre los [[Umbral Lord]], que había aprovechado la ausencia de [[Vairae]] para dar por saco a los naturales junto con el resto de [[Umbrals]]
+![[Alastor Val Astar Ascension.jpg]]

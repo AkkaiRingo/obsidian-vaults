@@ -25,7 +25,7 @@ Pinterest: [https://pin.it/1DhSganDR](https://pin.it/1DhSganDR) 
 | [[Alastor Val Astar]]   | Maestro de [[Victoria Val Astar\|Victoria]]                                                     |
 | [[Lucy Bescond]]        | Hija mayor de [[Madelaine Bescond\|Madelaine]] y [[Jonathan del Alba\|Jonathan]]                |
 | [[Arthur Bescond]]      | Hijo menor de [[Madelaine Bescond\|Madelaine]] y [[Jonathan del Alba\|Jonathan]]                |
-| [[Backstory info/Personas/Vairae]]              | Líder de la corte de vampiros de [[Svitanie]]                                                   |
+| [[Vairae]]              | Líder de la corte de [[Vampiros\|vampiros]] de [[Svitanie]]                                     |
 #### Grupos
 | Nombre                        | Notas                                                                                                                 |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ Pinterest: [https://pin.it/1DhSganDR](https://pin.it/1DhSganDR) 
 | [[La Lumbre del Noctívago]]   | Cúpula de líderes del [[Gremio de la Luminaria]], asentada en [[Edén]]                                                |
 | [[Orden del Lucero del Alba]] | Órden del [[Gremio de la Luminaria\|Gremio]], asentada en [[Lioncourt]]                                               |
 | [[Familia Bescond]]           | Familia regente de [[Lioncourt]]                                                                                      |
-| [[Corte de Vairae]]           | Corte de vampiros de [[Svitanie]]                                                                                     |
+| [[Corte de Vairae]]           | Corte de [[Vampiros\|vampiros]] de [[Svitanie]]                                                                       |
 | [[Clan Astar]]                | Clan de [[Alastor Val Astar]]                                                                                         |
 
 ---

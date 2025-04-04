@@ -3,7 +3,7 @@ Género: Mujer
 En vida: "[[Madelaine Bescond]]"
 Clan: "[[Clan Astar|Astar]]"
 Maestro: "[[Victoria Val Astar]]"
-Tipo de V.: "[[Spawn]]"
+Tipo de V.: "[[Lamia]]"
 Lugar: "[[Lioncourt]]"
 tags:
   - Persona

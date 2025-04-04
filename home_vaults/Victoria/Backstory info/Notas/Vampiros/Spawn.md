@@ -1,2 +1,0 @@
-- Creado por mordedura de [[Vampiro Natural|Vampiro]]
-- Suelen pulular más cerca de los [[Vampiro Natural|Vampiros]]
