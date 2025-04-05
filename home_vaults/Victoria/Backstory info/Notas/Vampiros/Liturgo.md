@@ -4,5 +4,5 @@ aliases:
   - litúrgico
   - litúrgicos
 ---
- - [[Provecto]]: Dado de comer a [[Alastor Val Astar|Alastor]]
+ - [[Provecto Liturgo]]: Dado de comer a [[Alastor Val Astar|Alastor]]
 - [[Gulthias]] afecta mucho

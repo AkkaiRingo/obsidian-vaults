@@ -1,10 +1,12 @@
 ---
 aliases:
-  - Vampiros
+  - Vampiro
   - vampiro
   - vampiros
   - Vampira
   - vampira
   - Vampiras
   - vampiras
+  - vampírico
+  - vampírica
 ---

@@ -17,6 +17,6 @@ TODO:
 - [ ] buscar nombres de clanes de [[Vrikolaka|Vrikolakas]]
 - [ ] buscar nombres de [[Vrikolaka|Vrikolakas]]
 - [ ] buscar nombres de [[Umbral Lord|Umbral Lords]]
-- [x] nombres de [[Primogénito]]/[[Provecto]] etc.
+- [x] nombres de [[Primogénito]]/[[Provecto Liturgo]] etc.
 - [x] nombres de tipo de [[Vampiros|vampiro]] (natural/nacido de los oscuro; ritualistas/etc.)
 - [ ] especificar más el backstory de [[Victoria Val Astar|Victoria]]

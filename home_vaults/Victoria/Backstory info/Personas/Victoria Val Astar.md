@@ -13,7 +13,7 @@ aliases:
   - Victoria
 ---
 ![[Victoria Val Astar dress.jpg]]
-Primera y única [[Lamia Alastora]] de [[Alastor Val Astar|Alastor]] una vez habiéndose comido al [[Provecto]]. 
+Primera y única [[Lamia Alastora]] de [[Alastor Val Astar|Alastor]] una vez habiéndose comido al [[Provecto Liturgo]]. 
 - Resentimiento por parte de todas las [[Lamia|Lamias]]
 - Cotizada por los [[Umbral Lord|Umbral Lords]]
 
