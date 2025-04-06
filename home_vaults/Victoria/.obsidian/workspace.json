@@ -4,90 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "518390bf20a1f400",
+        "id": "a0438a2a04f8560f",
         "type": "tabs",
         "children": [
           {
-            "id": "e5f331456a7d700f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Backstory info/Notas/Vampiros/_Jerarquía Vampiros.canvas",
-                "viewState": {
-                  "x": -187.1743146642491,
-                  "y": 623.3813677178707,
-                  "zoom": -0.6640742296792863
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "_Jerarquía Vampiros"
-            }
-          },
-          {
-            "id": "371b478e81e80af5",
+            "id": "a3c38e3550badc49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Notas/Vampiros/Alastoras.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Alastoras"
-            }
-          },
-          {
-            "id": "63ffe3c4163d9957",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Notas/Vampiros/Lamia Alastora.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Lamia Alastora"
-            }
-          },
-          {
-            "id": "8c530c7c36a4a54b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Notas/Vampiros/_Lore de Vampiros.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "_Lore de Vampiros"
-            }
-          },
-          {
-            "id": "b8a6df95f92979af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Notas/Vampiros/Hematófago.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Hematófago"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "primogénito",
+                "query": "Primogénito",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -248,44 +178,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b8a6df95f92979af",
+  "active": "a3c38e3550badc49",
   "lastOpenFiles": [
-    "Backstory info/Notas/Vampiros/_Jerarquía Vampiros.canvas",
-    "Backstory info/Notas/Vampiros/_Lore de Vampiros.md",
-    "Backstory info/Personas/Victoria Val Astar.md",
-    "Backstory info/Personas/Vairae.md",
-    "Backstory info/Notas/Vampiros/Provecto Liturgo.md",
-    "Backstory info/Notas/Vampiros/Liturgo.md",
-    "Backstory info/Notas/Vampiros/Alastoras.md",
-    "Backstory info/Personas/Alastor Val Astar.md",
     "Backstory info/Notas/Vampiros/Vampiros.md",
-    "Backstory info/Notas/Vampiros/Lamia Alastora.md",
+    "Backstory info/Notas/Vampiros/Familiar Vampírico.md",
+    "Backstory info/Notas/Vampiros/_Jerarquía Vampiros.canvas",
+    "Familiar  vampírico.jpg",
     "Backstory info/Notas/Vampiros/Lamia.md",
+    "Backstory info/Notas/Vampiros/Nightbringer.md",
+    "Backstory info/Notas/Vampiros/Umbral Lord.md",
     "Backstory info/Notas/Vampiros/Vrikolaka.md",
-    "Backstory info/Notas/Vampiros/_Nombres jerarquía.md",
-    "Backstory info/Notas/Vampiros/Primogénito.md",
-    "Backstory info/Notas/Vampiros/Primogénito Inmemorial.md",
-    "Backstory info/Notas/Timeline.md",
-    "Backstory info/Notas/Vampiros/Liturgia.md",
     "Backstory info/Notas/Vampiros/Hematófago.md",
-    "Backstory info/Notas/Glosario.md",
-    "Backstory info/Grupos/Corte de Vairae.md",
+    "Backstory info/Notas/Vampiros/Primigenio.md",
+    "Backstory info/Notas/Vampiros/Primogénito Inmemorial.md",
+    "Backstory info/Notas/Vampiros/Alastoras.md",
+    "Backstory info/Notas/Vampiros/Provecto Liturgo.md",
+    "Backstory info/Notas/Vampiros/Sacramento.md",
+    "Backstory info/Notas/Vampiros/Liturgia.md",
+    "Backstory info/Notas/Vampiros/Liturgo.md",
+    "Backstory info/Notas/Vampiros/Lamia Alastora.md",
+    "Backstory info/Personas/Gulthias.md",
+    "Backstory info/Personas/Vairae.md",
+    "Backstory info/Personas/Victoria Val Astar.md",
+    "Vairae.jpg",
+    "Backstory info/Personas/Claudia Bescond.md",
+    "Backstory info/Lugares/Lioncourt.md",
+    "Backstory info/Notas/Vampiros/Jerarquía.md",
+    "Backstory info/Notas/Vampiros/_Jerarquía resumen.md",
+    "Backstory info/Notas/Vampiros/_Lore de Vampiros.md",
+    "Backstory info/Personas/Alastor Val Astar.md",
+    "Backstory info/Notas/Timeline.md",
     "Images/Victoria Val Astar dress.jpg",
     "Images/Vrikolaka.jpg",
     "Images/Alastor Val Astar Ascension.jpg",
     "Images/Alastor Val Astar.jpg",
     "Images/Victoria Val Astar Armor.jpg",
-    "Alastor.md",
-    "Backstory info/Notas/Vampiros/Umbral Lord.md",
     "Images/Umbral Lord.jpg",
     "Images/Lamia.jpg",
     "Images/Nightbringer.jpg",
-    "Backstory info/Notas/Vampiros/Sacramento.md",
-    "Backstory info/Notas/Vampiros/Nightbringer.md",
-    "Images/Sacramento.jpg",
-    "Backstory info/Notas/Vampiros/Familiar Vampírico.md",
-    "Backstory info/Personas/Personas.md",
-    "Images/Victoria Val Astar portrait.jpg",
     "Excalidraw",
     "Backstory info/Notas/Vampiros",
     "Backstory info/Notas",

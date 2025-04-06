@@ -1,8 +1,11 @@
 ---
+Rama: "[[Hematófago]]"
 aliases:
   - Vrikolakas
 ---
-![[Vrikolaka.jpg]]
-- Tiene que alimentarse de sangre
-- Si se alimenta de un [[Vampiros|vampiro]] superior (ya sea un [[Hematófago]] o un [[Umbral Lord]]) aumenta de poder.
+- Creado cuando una [[Lamia]] asciende
+- Si se alimenta de un [[Vampiros|vampiro]] superior (ya sea un [[Hematófago]] o un [[Liturgo]]) aumenta de poder
 - El mayor enemigo de un [[Vrikolaka]] es otro [[Vrikolaka]]
+---
+
+![[Vrikolaka.jpg]]

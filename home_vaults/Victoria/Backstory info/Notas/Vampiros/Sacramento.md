@@ -1,4 +1,7 @@
-![[Sacramento.jpg]]
 Ritual [[Liturgo|litúrgico]] de renovación de cuerpo para un [[Umbral Lord]], también conocido como ritual de ascensión de un [[Nightbringer]]. 
 El [[Umbral Lord]] se reúne con sus [[Nightbringer|Nightbringers]] y éstos devoran su cuerpo y su sangre. De entre ellos, en uno renacerá el [[Umbral Lord]].  Los [[Nightbringer|Nightbringers]] lo ven como un honor, pues a su entender son elegidos para la verdadera inmortalidad, pero en realidad es la voluntad del [[Umbral Lord]] original la que perdura. 
 Los [[Umbral Lord|Umbral Lords]] deben realizar este ritual una vez cada 1d100 +1 años, dependiendo del nuevo cuerpo que hayan obtenido. Este tiempo se alarga si el nuevo cuerpo es un [[Hematófago]]. Un cuerpo de [[Lamia]] asegura 101 años por cambio.
+
+---
+
+![[Sacramento.jpg]]

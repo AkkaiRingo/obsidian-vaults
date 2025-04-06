@@ -1,1 +1,4 @@
-Creada por un [[Alastoras]]. 
+---
+Rama: "[[Hematófago]]"
+---
+- [[Lamia]] creada por un [[Alastoras]]

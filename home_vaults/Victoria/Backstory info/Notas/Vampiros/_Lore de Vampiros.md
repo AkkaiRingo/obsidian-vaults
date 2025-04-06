@@ -1,4 +1,4 @@
-En el año 0, los [[Hematófago|Hematófagos]] están un poco puteados por motivo X. La mayoría de los [[Vrikolaka|Vrikolakas]] [[Primogénito|primigenios]] ya no están.
+En el año 0, los [[Hematófago|Hematófagos]] están un poco puteados por motivo X. La mayoría de los [[Vrikolaka|Vrikolakas]] [[Primigenio|primigenios]] ya no están.
 [[Vairae]] quiere un equilibrio entre ambos bandos.
 
 Para los [[Hematófago|Hematófogos]] tras el nombre llevan el Va + iniciales del más tocho. 
@@ -17,6 +17,6 @@ TODO:
 - [ ] buscar nombres de clanes de [[Vrikolaka|Vrikolakas]]
 - [ ] buscar nombres de [[Vrikolaka|Vrikolakas]]
 - [ ] buscar nombres de [[Umbral Lord|Umbral Lords]]
-- [x] nombres de [[Primogénito]]/[[Provecto Liturgo]] etc.
+- [x] nombres de [[Primigenio]]/[[Provecto Liturgo]] etc.
 - [x] nombres de tipo de [[Vampiros|vampiro]] (natural/nacido de los oscuro; ritualistas/etc.)
 - [ ] especificar más el backstory de [[Victoria Val Astar|Victoria]]
