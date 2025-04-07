@@ -1,3 +1,7 @@
+---
+tags:
+  - hidden
+---
 En el año 0, los [[Hematófago|Hematófagos]] están un poco puteados por motivo X. La mayoría de los [[Vrikolaka|Vrikolakas]] [[Primigenio|primigenios]] ya no están.
 [[Vairae]] quiere un equilibrio entre ambos bandos.
 

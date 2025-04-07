@@ -1,3 +1,7 @@
+---
+tags:
+  - hidden
+---
 *Fecha (mortal)*
 
 No soporto verles juntos.
@@ -14,12 +18,7 @@ En cuyo caso, el único objetivo que puede ser odiado por ser culpable de mi des
 
 No soporto la realidad que me veo obligada a recordar siempre que les veo juntos. 
 
-  
-
 ---
-
-  
-
 *Fecha ([[Vampiros|vampira]])*
 
 La inmortalidad no es lo que esperaba. Pero en cierta manera, tiene sentido, pues la inmortalidad es un concepto definido por los mortales. 

@@ -1,3 +1,7 @@
+---
+tags:
+  - hidden
+---
 Pinterest: [https://pin.it/1DhSganDR](https://pin.it/1DhSganDR) 
 #### Lugares
 | Nombre                        | Notas                                                                                                        |

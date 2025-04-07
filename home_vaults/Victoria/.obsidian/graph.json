@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-tag:#hidden  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -11,14 +11,14 @@
       "query": "tag:#PJ  ",
       "color": {
         "a": 1,
-        "rgb": 13779265
+        "rgb": 5748453
       }
     },
     {
       "query": "tag:#Vampiro",
       "color": {
         "a": 1,
-        "rgb": 16681790
+        "rgb": 12990777
       }
     },
     {
@@ -46,27 +46,34 @@
       "query": "tag:#Dios  ",
       "color": {
         "a": 1,
-        "rgb": 6718975
+        "rgb": 4021723
       }
     },
     {
       "query": "tag:#Grupo",
       "color": {
         "a": 1,
-        "rgb": 5429216
+        "rgb": 12476881
+      }
+    },
+    {
+      "query": "path:\"Backstory info/Notas/Vampiros\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9583175
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.0054347826087,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.145833333333333,
-  "repelStrength": 13.4375,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7132754626224819,
-  "close": true
+  "centerStrength": 0.3125,
+  "repelStrength": 9.47916666666667,
+  "linkStrength": 0.229166666666667,
+  "linkDistance": 309,
+  "scale": 0.36288736930123305,
+  "close": false
 }

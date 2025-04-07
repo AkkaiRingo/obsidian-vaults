@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a0438a2a04f8560f",
+        "id": "e04c01a517f7bfb1",
         "type": "tabs",
         "children": [
           {
-            "id": "a3c38e3550badc49",
+            "id": "375374f88fda0e7d",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -178,12 +180,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3c38e3550badc49",
+  "active": "375374f88fda0e7d",
   "lastOpenFiles": [
+    "Backstory info/Personas/Personas.md",
+    "Backstory info/Notas/Vampiros/_Lore de Vampiros.md",
+    "Backstory info/Notas/Vampiros/_Jerarquía resumen.md",
+    "Backstory info/Notas/Vampiros/_Jerarquía Vampiros.canvas",
+    "Backstory info/Personas/Alastor Val Astar.md",
+    "Backstory info/Personas/Victoria Val Astar.md",
+    "Backstory info/Notas/Glosario.md",
+    "Backstory info/Lugares/Castillo de Bescond.md",
+    "Backstory info/Notas/Diario de Victoria.md",
+    "Backstory info/Notas/Timeline.md",
+    "Backstory info/Notas/Backstory.md",
     "Backstory info/Notas/Vampiros/Vampiros.md",
     "Backstory info/Notas/Vampiros/Familiar Vampírico.md",
-    "Backstory info/Notas/Vampiros/_Jerarquía Vampiros.canvas",
-    "Familiar  vampírico.jpg",
+    "Images/Familiar  vampírico.jpg",
     "Backstory info/Notas/Vampiros/Lamia.md",
     "Backstory info/Notas/Vampiros/Nightbringer.md",
     "Backstory info/Notas/Vampiros/Umbral Lord.md",
@@ -198,16 +210,7 @@
     "Backstory info/Notas/Vampiros/Liturgo.md",
     "Backstory info/Notas/Vampiros/Lamia Alastora.md",
     "Backstory info/Personas/Gulthias.md",
-    "Backstory info/Personas/Vairae.md",
-    "Backstory info/Personas/Victoria Val Astar.md",
-    "Vairae.jpg",
-    "Backstory info/Personas/Claudia Bescond.md",
-    "Backstory info/Lugares/Lioncourt.md",
-    "Backstory info/Notas/Vampiros/Jerarquía.md",
-    "Backstory info/Notas/Vampiros/_Jerarquía resumen.md",
-    "Backstory info/Notas/Vampiros/_Lore de Vampiros.md",
-    "Backstory info/Personas/Alastor Val Astar.md",
-    "Backstory info/Notas/Timeline.md",
+    "Images/Vairae.jpg",
     "Images/Victoria Val Astar dress.jpg",
     "Images/Vrikolaka.jpg",
     "Images/Alastor Val Astar Ascension.jpg",

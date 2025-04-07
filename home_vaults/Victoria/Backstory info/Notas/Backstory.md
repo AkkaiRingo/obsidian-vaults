@@ -1,3 +1,7 @@
+---
+tags:
+  - hidden
+---
 Más allá de las [[Cordilleras del Pestañal]] en [[Las Tierras de la Esclera]], en las profundidades de las tierras desconocidas sobre la faz de [[Janthiria]], se encuentra [[Svitanie]], también conocido como el [[Svitanie|Valle del Hoyuelo]]. Hace tanto tiempo que se ha olvidado exactamente cuánto, la región de [[Svitanie]] fue asolada por una maldición que oscureció perpetuamente sus tierras. Se desconoce si fue por instaurar dicha maldición, o por la predisposición de su naturaleza, pero es innegable que este lúgubre valle ha servido como lugar de refugio para innumerables criaturas de la noche desde tiempos inmemoriales; y a su vez, ha llevado a sus habitantes a engendrar a expertos cazadores de las mismas, conocidos en estas tierras como [[Noctívago|noctívagos]]. 
 
 Existen diversas órdenes de [[Noctívago|noctívagos]] en los distintos pueblos del [[Svitanie|Valle del Hoyuelo]], algunas con renombre incluso fuera de la región, lo que atrae a aventureros de todas [[Las tierras conocidas]] a aprender de los más expertos del oficio. Es por ésto que, a pesar de ser una región relativamente aislada e inhóspita, se pueden encontrar en ella personas de diversos orígenes y linajes. 

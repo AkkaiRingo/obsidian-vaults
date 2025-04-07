@@ -1,9 +1,8 @@
 {
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": [
-    "Backstory info/Backstory",
-    "Backstory info/Glosario",
-    "Backstory info/Diario de Victoria",
-    "Templates/"
-  ]
+    "Templates/",
+    "\"Backstory info\\/Notas\\/_.*\""
+  ],
+  "attachmentFolderPath": "Images"
 }
