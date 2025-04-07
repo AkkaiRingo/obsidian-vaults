@@ -3,7 +3,10 @@ Fecha: 2025-03-31
 Día:
   - "[[104]]"
   - "[[103]]"
-Lugar: 
+Lugar:
+  - "[[Camino del Árbol]]"
+  - "[[La última casa de Hiddukel]]"
+  - "[[Los eriales del septentrion]]"
 tags:
   - "#Sesión"
 ---

@@ -22,6 +22,7 @@ tags:
 - máscara [[solámnica]] (lobo)
 - candado (DC 12) sin llave
 - cadena 10 ft
+- túnica ritualista de [[Hiddukel]]
 
 #### Mascarada
 - Armas escondidas 15 DEX (Sleight of Hand)

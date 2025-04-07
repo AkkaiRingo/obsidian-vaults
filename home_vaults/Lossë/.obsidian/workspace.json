@@ -20,17 +20,19 @@
             }
           },
           {
-            "id": "d36ce8e1e1cf96af",
+            "id": "e7490187d1c9d4c5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 29.md",
+                "file": "Sesión 30.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Sesión 29"
+              "title": "Sesión 30"
             }
           }
         ],
@@ -153,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesión 29.md",
+                "file": "Sesión 30.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 29"
+              "title": "Outline of Sesión 30"
             }
           }
         ],
@@ -181,13 +183,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d36ce8e1e1cf96af",
+  "active": "e7490187d1c9d4c5",
   "lastOpenFiles": [
+    "PCs/Lossë.md",
+    "PCs/Marco.md",
+    "Sesión 30.md",
+    "Objetos/objeto desconocido.md",
+    "Objetos/Máscaras.md",
     "Sesiones/Sesión 29.md",
     "Sesiones/Sesión 28.md",
     "Sesiones/Sesión 27.md",
     "2025-03-23.md",
-    "PCs/Lossë.md",
     "Sesiones/Sesión 26.md",
     "Sesiones/Sesión 25.md",
     "Personas/Kalaman (ciudad)/Capitán Ramata.md",
@@ -207,10 +213,6 @@
     "Untitled 1.md",
     "Lossë/Sesiones/Sesión 3.md",
     "Lossë/PCs/Marco.md",
-    "Lossë/Sesiones/Sesión 20.md",
-    "Lossë/Sesiones/Sesión 9.md",
-    "Lossë/Sesiones/Sesión 14.md",
-    "Lossë/Sesiones/Sesión 10.md",
     "Lossë/Imágenes/05-003.dalamar.png",
     "Diddy/Notas/Pasted image 20241112194609.png",
     "Diddy/Notas/Pasted image 20241016205503.png",
