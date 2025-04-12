@@ -4,4 +4,4 @@
 - No se considera [[Vampiros|vampiro]], pero tiene más aptitudes que el mortal medio
 ---
 
-![[Familiar  vampírico.jpg]]
+![[Familiar  vampírico 1.jpg]]

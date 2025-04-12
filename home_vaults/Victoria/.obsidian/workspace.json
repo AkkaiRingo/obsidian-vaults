@@ -18,8 +18,28 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "8f20a5921f6373bf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Backstory info/_Notas/Vampiros/_Jerarquía Vampiros.canvas",
+                "viewState": {
+                  "x": -116.59005104748547,
+                  "y": -104.62777900891355,
+                  "zoom": -0.894603656860264
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "_Jerarquía Vampiros"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Primogénito",
+                "query": "primigenio",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -155,8 +175,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -180,36 +200,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "375374f88fda0e7d",
+  "active": "8f20a5921f6373bf",
   "lastOpenFiles": [
+    "Backstory info/_Notas/Diario de Victoria.md",
+    "Backstory info/_Notas/Vampiros/_Lore de Vampiros.md",
+    "Backstory info/_Notas/Vampiros/Hematófago.md",
+    "Backstory info/_Notas/Vampiros/Protogenos Inmemorial.md",
+    "Backstory info/_Notas/Vampiros/Protogenos.md",
+    "Backstory info/_Notas/Vampiros/_Jerarquía Vampiros.canvas",
+    "Backstory info/_Notas/Vampiros/Provecto Liturgo.md",
+    "Backstory info/_Notas/Vampiros/_Jerarquía resumen.md",
+    "Excalidraw/Drawing 2025-04-12 13.33.21.excalidraw.md",
+    "Excalidraw",
+    "Backstory info/_Notas/Vampiros/Vampiros.md",
     "Backstory info/Personas/Personas.md",
-    "Backstory info/Notas/Vampiros/_Lore de Vampiros.md",
-    "Backstory info/Notas/Vampiros/_Jerarquía resumen.md",
-    "Backstory info/Notas/Vampiros/_Jerarquía Vampiros.canvas",
     "Backstory info/Personas/Alastor Val Astar.md",
     "Backstory info/Personas/Victoria Val Astar.md",
-    "Backstory info/Notas/Glosario.md",
+    "Backstory info/_Notas/Glosario.md",
     "Backstory info/Lugares/Castillo de Bescond.md",
-    "Backstory info/Notas/Diario de Victoria.md",
-    "Backstory info/Notas/Timeline.md",
-    "Backstory info/Notas/Backstory.md",
-    "Backstory info/Notas/Vampiros/Vampiros.md",
-    "Backstory info/Notas/Vampiros/Familiar Vampírico.md",
+    "Backstory info/_Notas/Timeline.md",
+    "Backstory info/_Notas/Backstory.md",
+    "Backstory info/_Notas/Vampiros/Familiar Vampírico.md",
     "Images/Familiar  vampírico.jpg",
-    "Backstory info/Notas/Vampiros/Lamia.md",
-    "Backstory info/Notas/Vampiros/Nightbringer.md",
-    "Backstory info/Notas/Vampiros/Umbral Lord.md",
-    "Backstory info/Notas/Vampiros/Vrikolaka.md",
-    "Backstory info/Notas/Vampiros/Hematófago.md",
-    "Backstory info/Notas/Vampiros/Primigenio.md",
-    "Backstory info/Notas/Vampiros/Primogénito Inmemorial.md",
-    "Backstory info/Notas/Vampiros/Alastoras.md",
-    "Backstory info/Notas/Vampiros/Provecto Liturgo.md",
-    "Backstory info/Notas/Vampiros/Sacramento.md",
-    "Backstory info/Notas/Vampiros/Liturgia.md",
-    "Backstory info/Notas/Vampiros/Liturgo.md",
-    "Backstory info/Notas/Vampiros/Lamia Alastora.md",
-    "Backstory info/Personas/Gulthias.md",
+    "Backstory info/_Notas/Vampiros/Lamia.md",
+    "Backstory info/_Notas/Vampiros/Nightbringer.md",
+    "Backstory info/_Notas/Vampiros/Umbral Lord.md",
+    "Backstory info/_Notas/Vampiros/Vrikolaka.md",
+    "Backstory info/_Notas/Vampiros/Alastoras.md",
+    "Backstory info/_Notas/Vampiros/Sacramento.md",
+    "Backstory info/_Notas/Vampiros/Liturgia.md",
+    "Backstory info/_Notas/Vampiros/Liturgo.md",
     "Images/Vairae.jpg",
     "Images/Victoria Val Astar dress.jpg",
     "Images/Vrikolaka.jpg",
@@ -219,9 +239,8 @@
     "Images/Umbral Lord.jpg",
     "Images/Lamia.jpg",
     "Images/Nightbringer.jpg",
-    "Excalidraw",
-    "Backstory info/Notas/Vampiros",
-    "Backstory info/Notas",
+    "Backstory info/_Notas/Vampiros",
+    "Backstory info/_Notas",
     "Backstory info/Lugares/Lugares.canvas",
     "Untitled/Untitled.canvas",
     "Test folder",

@@ -1,1 +1,0 @@
-Título del [[Vampiros|Vampiro]] [[Hematófago]] más antiguo, [[Gulthias]].

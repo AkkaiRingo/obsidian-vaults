@@ -18,7 +18,7 @@
       "query": "tag:#Vampiro",
       "color": {
         "a": 1,
-        "rgb": 12990777
+        "rgb": 9645871
       }
     },
     {
@@ -53,11 +53,11 @@
       "query": "tag:#Grupo",
       "color": {
         "a": 1,
-        "rgb": 12476881
+        "rgb": 8466577
       }
     },
     {
-      "query": "path:\"Backstory info/Notas/Vampiros\"  ",
+      "query": "path:\"Backstory info/_Notas/Vampiros\"  ",
       "color": {
         "a": 1,
         "rgb": 9583175
@@ -74,6 +74,6 @@
   "repelStrength": 9.47916666666667,
   "linkStrength": 0.229166666666667,
   "linkDistance": 309,
-  "scale": 0.36288736930123305,
+  "scale": 0.5087618855792888,
   "close": false
 }

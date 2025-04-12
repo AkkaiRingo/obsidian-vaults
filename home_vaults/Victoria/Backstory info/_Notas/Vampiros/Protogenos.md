@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Primigenios
-  - primigenio
-  - primigenios
+  - Protogenoi
+  - protogenos
+  - protogenoi
 ---
 - Los [[Vampiros]] [[Hematófago|Hematófagos]] más antiguos
