@@ -3,5 +3,4 @@
 - Puede ser creado tanto por un [[Hematófago]] como por un [[Liturgo]]
 - No se considera [[Vampiros|vampiro]], pero tiene más aptitudes que el mortal medio
 ---
-
-![[Familiar  vampírico 1.jpg]]
+![[Familiar vampírico.jpg]]

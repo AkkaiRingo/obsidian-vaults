@@ -4,7 +4,8 @@ Ubicación: "[[Lioncourt]]"
 Afiliación:
   - "[[Orden del Lucero del Alba]]"
   - "[[Familia Bescond]]"
-aliases: 
+aliases:
+  - castillo
 tags:
   - Lugar
 ---

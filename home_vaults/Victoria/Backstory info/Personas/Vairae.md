@@ -12,7 +12,7 @@ tags:
   - Persona
 aliases:
 ---
-![[Vairae 1.jpg]]
+![[Vairae.jpg]]
 Es el líder de la cámara de [[Vampiros|vampiros]] de [[Svitanie]].
 Se sabe que borró la historia del [[Protogenos Inmemorial]], [[Gulthias]], pero no se sabe por qué. 
 Con sus [[Poderes Oscuros]], es capaz de crear nuevos [[Umbral Lord|Umbral Lords]] con sus rituales [[Liturgo|litúrgicos]]. 

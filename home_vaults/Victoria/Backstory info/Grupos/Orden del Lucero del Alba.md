@@ -10,6 +10,7 @@ Miembros:
 aliases:
   - Lucero del Alba
   - del Alba
+  - orden
 tags:
   - "#Grupo"
 ---

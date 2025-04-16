@@ -2,7 +2,32 @@
 tags:
   - hidden
 ---
-*Fecha (mortal)*
+*Año 30 a.C. (mortal)*
+
+Silencio.
+
+Desde que estamos en el [[Castillo de Bescond]] siento más que nunca el silencio a mi alrededor, y nunca había notado lo inquietante que se siente.
+
+En el [[Orfanato Lucero del Alba|orfanato]] siempre se oían voces de otros niños, por mucho que los cuidadores insistieran en que debía haber silencio en los dormitorios, los niños susurraban, reían, o lloraban cada noche. 
+
+En la casa de la [[Orden del Lucero del Alba|orden]] siempre había vida y movimiento, porque daba igual la hora del día, siempre había alguien preparándose para salir de misión, o alguien que acababa de volver. 
+
+Pero en este [[Castillo de Bescond|castillo]], siempre reina el silencio. Durante el día, con suerte, se oyen pasos de los sirvientes, el aleteo de algún animal pasando por la ventana, el crepitar de alguna chimenea. Pero cuando cae la noche... nada. Camino por el castillo seguida únicamente por el ruido de mis propios pasos. Últimamente, ni si quiera me acompaña la respiración profunda de [[Jonathan del Alba|Jonathan]], que ha decidido hacer guardia directamente en la puerta de los aposentos de la regente Lady [[Familia Bescond|Bescond]], mientras yo aseguro el perímetro. 
+
+Se está tomando muy en serio este nuevo trabajo. No es que no esperase que [[Jonathan del Alba|Jonathan]] no dedicara el 100% de su esfuerzo a un contrato dado por la orden, pero sí que me sorprende lo rápido que parece haber dejado de lado su anterior entusiasmo por los contratos activos de caza o captura, frente a este puesto de guardia. Supongo que el renombre y el honor que implica ser la guardia de la familia regente, habiendo sido elegidos expresamente por la [[Orden del Lucero del Alba|orden]], es suficiente para contentarlo. Lo cierto es que yo no echo mucho de menos la acción, pero tampoco era lo que me gustaba de nuestros anteriores contratos, y las bibliotecas del [[Castillo de Bescond|castillo]] me permiten seguir estudiando y aprendiendo. Pero sí que echo de menos la búsqueda y el rastreo de algún monstruo específico. Esa investigación y preparación que hacíamos al coger un contrato nuevo, en la que podía hacer lo que mejor se me da y ser útil. Los jardines del [[Castillo de Bescond|castillo]] son hermosos, pero después de varias semanas mirando la misma tierra y los mismos arbustos se vuelven, inevitablemente, insulsos.
+
+Supongo que debería acostumbrarme al silencio, quiere decir que nada malo está pasando, por muy inquietante que se sienta. 
+
+*Año 28 a.C. (mortal)*
+
+El silencio es ensordecedor.
+
+Desde que [[Jonathan del Alba|Jonathan]] se fue y la [[Orden del Lucero del Alba|orden]] me redestinó, no soy capaz de aguantar el silencio. 
+
+Es insoportable.
+
+---
+*Año 27 a.C. (mortal)*
 
 No soporto verles juntos.
 
