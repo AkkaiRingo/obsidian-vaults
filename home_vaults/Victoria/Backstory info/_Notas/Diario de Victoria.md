@@ -2,7 +2,35 @@
 tags:
   - hidden
 ---
-*Año 30 a.C. (mortal)*
+*Año 50 a.C. (mortal, 7 años)*
+
+Un niño me ha protegido.
+
+Estaba en la biblioteca, practicando a leer, cuando los niños malos han venido y me han empezado a tirar libros. Y entonces ha aparecido él. Les ha pegado con un palo que llevaba como si fuera una espada, y les ha dicho que me dejarán en paz. Los niños malos se han asustado y se han ido.
+
+El niño nuevo me ha dicho que se llama Jonathan. La orden lo ha traído de un pueblo cercano junto con otros niños, porque unos monstruos atacaron y quemaron el Orfanato en el que vivían.
+
+Jonathan dice que sobrevivió gracias a los noctívagos de la orden que los protegieron, y que después de eso, unos niños malos no dan tanto miedo.
+
+Dice que él de mayor quiere ser un noctívago, como los que le salvaron, para ayudar a salvar a otras personas.
+
+Se siente bien cuando alguien te salva.
+
+Le he dicho que yo también quiero ayudar a salvar gente, de niños malos y de monstruos malos. Pero no le he dicho que me da mucho miedo pensar en eso. Ojalá pudiera ser tan valiente como él. A lo mejor, si él me ayuda, pueda aprender a ser valiente.
+
+A lo mejor, podría aprender a proteger gente para poder protegerme a mí misma.
+
+---
+*Año 50 a.C. (mortal, 7 años)*
+
+Me ha dado un nuevo nombre.
+
+Jonathan dice que los nombres son importantes, que deberían ser algo nuestro, y que no es justo que los elijan otras personas a las que nunca les hemos importado. Pero mi nombre sigue siendo mío, sería raro tener uno diferente. Así que ha dicho que a partir de ahora me llamará Vicky, y que yo a él le llamaré Johnny, y así al menos entre nosotros, tendremos una versión propia de nuestros nombres.
+
+Tengo un nombre que es solo para él, y eso me hace sentir especial.
+
+---
+*Año 30 a.C. (mortal, 27 años)*
 
 Silencio.
 
@@ -18,7 +46,7 @@ Se está tomando muy en serio este nuevo trabajo. No es que no esperase que [[Jo
 
 Supongo que debería acostumbrarme al silencio, quiere decir que nada malo está pasando, por muy inquietante que se sienta. 
 
-*Año 28 a.C. (mortal)*
+*Año 28 a.C. (mortal, 29 años)*
 
 El silencio es ensordecedor.
 
@@ -27,7 +55,7 @@ Desde que [[Jonathan del Alba|Jonathan]] se fue y la [[Orden del Lucero del Alba
 Es insoportable.
 
 ---
-*Año 27 a.C. (mortal)*
+*Año 27 a.C. (mortal, 30 años)*
 
 No soporto verles juntos.
 
@@ -44,7 +72,7 @@ En cuyo caso, el único objetivo que puede ser odiado por ser culpable de mi des
 No soporto la realidad que me veo obligada a recordar siempre que les veo juntos. 
 
 ---
-*Fecha ([[Vampiros|vampira]])*
+*Año 17 a.C. ([[Vampiros|vampira]], 41)*
 
 La inmortalidad no es lo que esperaba. Pero en cierta manera, tiene sentido, pues la inmortalidad es un concepto definido por los mortales. 
 
