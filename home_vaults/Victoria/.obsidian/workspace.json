@@ -28,9 +28,9 @@
               "state": {
                 "file": "Backstory info/_Notas/Vampiros/_Jerarquía Vampiros.canvas",
                 "viewState": {
-                  "x": 4.037389440311074,
-                  "y": 563.160816703407,
-                  "zoom": -1.3333333333333333
+                  "x": -68.25117041912313,
+                  "y": 775.2221378483061,
+                  "zoom": -1.6666666666666665
                 }
               },
               "pinned": true,
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,10 +227,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8cd24f1929465dbf",
+  "active": "376e27107947286c",
   "lastOpenFiles": [
-    "Backstory info/_Notas/Timeline.md",
+    "Backstory info/Personas/Alastor Val Astar.md",
+    "Images/Alastor Val Astar.jpg",
     "Backstory info/_Notas/Diario de Victoria.md",
+    "Backstory info/_Notas/Timeline.md",
     "Backstory info/_Notas/Vampiros/_Jerarquía Vampiros.canvas",
     "Backstory info/_Notas/Glosario.md",
     "Backstory info/_Notas/Backstory.md",
@@ -246,7 +248,6 @@
     "Backstory info/_Notas/Vampiros/Familiar Vampírico.md",
     "Images/Familiar vampírico.jpg",
     "Backstory info/Personas/Gulthias.md",
-    "Backstory info/Personas/Alastor Val Astar.md",
     "Backstory info/_Notas/Vampiros/Liturgo.md",
     "Backstory info/_Notas/Vampiros/Vrikolaka.md",
     "Images/Vrikolaka.jpg",
@@ -265,7 +266,6 @@
     "Backstory info/Personas/Personas.md",
     "Backstory info/Personas/Victoria Val Astar.md",
     "Images/Familiar  vampírico.jpg",
-    "Images/Vairae.jpg",
     "Backstory info/_Notas/Vampiros",
     "Backstory info/_Notas",
     "Backstory info/Lugares/Lugares.canvas",
