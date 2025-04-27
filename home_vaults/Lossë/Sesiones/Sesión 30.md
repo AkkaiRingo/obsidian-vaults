@@ -2,7 +2,8 @@
 Fecha: 2025-04-07
 Día:
   - "[[103]]"
-Lugar: 
+Lugar:
+  - "[[Los eriales del septentrion]]"
 tags:
   - "#Sesión"
 ---

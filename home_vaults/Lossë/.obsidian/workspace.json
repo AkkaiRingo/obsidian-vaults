@@ -20,19 +20,33 @@
             }
           },
           {
-            "id": "e7490187d1c9d4c5",
+            "id": "50f7166a21f33a3b",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesión 30.md",
+                "file": "Sesiones/Sesión 31.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Sesión 30"
+              "title": "Sesión 31"
+            }
+          },
+          {
+            "id": "5df14971320ca082",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCs/Lossë.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lossë"
             }
           }
         ],
@@ -155,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesión 30.md",
+                "file": "Sesiones/Sesión 31.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 30"
+              "title": "Outline of Sesión 31"
             }
           }
         ],
@@ -183,12 +197,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7490187d1c9d4c5",
+  "active": "50f7166a21f33a3b",
   "lastOpenFiles": [
     "PCs/Lossë.md",
-    "PCs/Marco.md",
-    "Sesión 30.md",
+    "Sesiones/Sesión 31.md",
     "Objetos/objeto desconocido.md",
+    "Sesiones/Sesión 30.md",
+    "Sesiones/Sesión 1.md",
+    "PCs/Marco.md",
     "Objetos/Máscaras.md",
     "Sesiones/Sesión 29.md",
     "Sesiones/Sesión 28.md",
@@ -211,8 +227,6 @@
     "Lossë/Sesiones/Sesión 22.md",
     "Lossë/Sesiones/Sesión 23.md",
     "Untitled 1.md",
-    "Lossë/Sesiones/Sesión 3.md",
-    "Lossë/PCs/Marco.md",
     "Lossë/Imágenes/05-003.dalamar.png",
     "Diddy/Notas/Pasted image 20241112194609.png",
     "Diddy/Notas/Pasted image 20241016205503.png",
