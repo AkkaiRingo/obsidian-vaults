@@ -2,6 +2,9 @@
 Fecha: 2025-04-27
 Día:
   - "[[103]]"
+  - "[[102]]"
+  - "[[101]]"
+  - "[[100]]"
 Lugar:
   - "[[Los eriales del septentrion]]"
 tags:
@@ -24,4 +27,5 @@ Encontramos una cueva en la que había unos escorpiones que hemos abatido y pode
 ## [[Lágrimas Celícolas]]
 Cruzamos hacia el muelle. Nos cruzamos con unos dragonelles, pero los abatimos sin mayor problema. 
 # [[100]], [[Eriales del Septentrión]]
-A medianoche, llegamos a los [[acantilados]], donde esperamos encontrar el [[muelle oculto]]. 
+## [[Acantilados que beben]]
+A medianoche, llegamos a los [[Acantilados que beben]], donde esperamos encontrar el [[muelle oculto]]. 

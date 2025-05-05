@@ -23,6 +23,8 @@ tags:
 - candado (DC 12) sin llave
 - cadena 10 ft
 - túnica ritualista de [[Hiddukel]]
+- 5 munición arma de fuego (pirata [[muelle oculto]])
+- hojas con info de envíos ([[muelle oculto]])
 
 #### Mascarada
 - Armas escondidas 15 DEX (Sleight of Hand)

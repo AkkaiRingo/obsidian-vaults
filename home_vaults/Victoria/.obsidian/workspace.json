@@ -65,8 +65,7 @@
               "title": "Diario de Victoria"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,7 +226,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ff10e0df4d47a022",
+  "active": "60d5992e63eff3a6",
   "lastOpenFiles": [
     "Backstory info/_Notas/Diario de Victoria.md",
     "Backstory info/_Notas/Vampiros/_Jerarquía Vampiros.canvas",
