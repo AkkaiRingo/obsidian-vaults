@@ -198,3 +198,8 @@ He conseguido hackear las comunicaciones de las instalaciones, he interceptado s
 # SESIÓN 24 - 02/04/2025
 ### Diddy
 Al final hemos bajado a por [[Zeratul]], he conectado mentalmente con él y he visto de nuevo a esa criatura con tentáculos. Lo hemos sacado de las instalaciones. Está en nuestra nave, pero sus ojos son distintos, no son los que le vi la otra vez, son los de la criatura que veo en las visiones. 
+# SESIÓN 25 - 07/05/2025
+### Diddy
+Hemos conseguido neutralizar a [[Zeratul]]. Sus ojos se han mantenido cambiados. 
+### Willhelm
+Nos ha rodeado una marabunda de [[Zergs]], pero han llegado las flotas [[Protos]] y [[Terran]] (amigos de [[Tydus]]) y han acabado con ellos. 
