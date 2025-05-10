@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "5cccd6bb92de4093",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fa76995fdc36bd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17b5dfd437cc563e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MHW/Horn abilities.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Horn abilities"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77df2f89b8edff7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e5ef6f48aefb24c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56fe0a4fa361cfbd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2466e00a4437a2ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9ee8d6b408d989c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee0157e94aad4d5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce8b427f301ee74c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "932c9efa00814546",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MHW/Horn abilities.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Horn abilities"
+            }
+          },
+          {
+            "id": "185a8cba5f3bbfb1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MHW/Horn abilities.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Horn abilities"
+            }
+          },
+          {
+            "id": "60a911fedecfd238",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9b15e686e31c8466",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MHW/Horn abilities.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Horn abilities"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "56fe0a4fa361cfbd",
+  "lastOpenFiles": [
+    "War Bongo.md",
+    "MHW/Horn abilities.md",
+    "MHW/Images/Pasted image 20250510165808.png",
+    "MHW/Images/Pasted image 20250510170344.png",
+    "MHW/Images/Pasted image 20250510170334.png",
+    "MHW/Images/Pasted image 20250510170319.png",
+    "MHW/Images/Pasted image 20250510170254.png",
+    "MHW/Images/Pasted image 20250510170243.png",
+    "MHW/Images/Pasted image 20250510170223.png",
+    "MHW/Images/Pasted image 20250510170145.png",
+    "MHW/Images/Pasted image 20250510170133.png",
+    "MHW/Images/Pasted image 20250510170118.png",
+    "MHW/Images",
+    "MHW",
+    "Welcome.md"
+  ]
+}
