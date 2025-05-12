@@ -25,6 +25,7 @@ tags:
 - túnica ritualista de [[Hiddukel]]
 - 5 munición arma de fuego (pirata [[muelle oculto]])
 - hojas con info de envíos ([[muelle oculto]])
+- llave de la forja de [[Camino del Árbol]]
 
 #### Mascarada
 - Armas escondidas 15 DEX (Sleight of Hand)

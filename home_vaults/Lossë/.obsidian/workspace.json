@@ -20,37 +20,37 @@
             }
           },
           {
-            "id": "50f7166a21f33a3b",
+            "id": "21558d685b6a1e8e",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 31.md",
+                "file": "Sesiones/Sesión 33.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Sesión 31"
+              "title": "Sesión 33"
             }
           },
           {
-            "id": "ba747b06499c0c92",
+            "id": "e9fc1055b6d009ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 32.md",
+                "file": "PCs/Lossë.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesión 32"
+              "title": "Lossë"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesión 32.md",
+                "file": "Sesiones/Sesión 33.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 32"
+              "title": "Outline of Sesión 33"
             }
           }
         ],
@@ -197,10 +197,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba747b06499c0c92",
+  "active": "c848b66089cc57ce",
   "lastOpenFiles": [
     "PCs/Lossë.md",
+    "Sesiones/Sesión 33.md",
+    "Dioses/Dioses malignos.md",
+    "Dioses/Putrefacto.md",
+    "Chemos.md",
+    "Imágenes/Pasted image 20250512200357.png",
+    "Dioses/Kiri-Jolith.md",
     "Sesiones/Sesión 32.md",
+    "Untitled.md",
     "Sesiones/Sesión 31.md",
     "Objetos/objeto desconocido.md",
     "Sesiones/Sesión 30.md",
@@ -221,12 +228,6 @@
     "Templates/Persona.md",
     "Templates/Lugar.md",
     "Templates",
-    "Lossë/PCs/Lossë.md",
-    "Lossë/Sesiones/Sesión 25.md",
-    "Lossë/Sesiones/Sesión 24.md",
-    "Diddy/Session notes.md",
-    "Lossë/Sesiones/Sesión 22.md",
-    "Lossë/Sesiones/Sesión 23.md",
     "Lossë/Imágenes/05-003.dalamar.png",
     "Diddy/Notas/Pasted image 20241112194609.png",
     "Diddy/Notas/Pasted image 20241016205503.png",
@@ -244,7 +245,6 @@
     "Lossë/Grupos",
     "Lossë/Criaturas",
     "Lossë/Imágenes/Pasted image 20240514182809.png",
-    "Lossë/Imágenes/Pasted image 20240514182733.png",
-    "Diddy/Notas/max.png"
+    "Lossë/Imágenes/Pasted image 20240514182733.png"
   ]
 }
