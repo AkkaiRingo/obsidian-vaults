@@ -20,33 +20,19 @@
             }
           },
           {
-            "id": "21558d685b6a1e8e",
+            "id": "62525033211b2b01",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 33.md",
+                "file": "Sesiones/Sesión 34.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Sesión 33"
-            }
-          },
-          {
-            "id": "e9fc1055b6d009ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PCs/Lossë.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lossë"
+              "title": "Sesión 34"
             }
           }
         ],
@@ -82,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "balanza",
+                "query": "soth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesión 33.md",
+                "file": "Sesiones/Sesión 34.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 33"
+              "title": "Outline of Sesión 34"
             }
           }
         ],
@@ -197,17 +183,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c848b66089cc57ce",
+  "active": "62525033211b2b01",
   "lastOpenFiles": [
-    "PCs/Lossë.md",
     "Sesiones/Sesión 33.md",
+    "Sesiones/Sesión 34.md",
+    "Lugares/Kalaman (ciudad)/Alcázar de Dar-Garad.md",
+    "Personas/Kalaman (ciudad)/Lord Soth.md",
+    "PCs/Lossë.md",
     "Dioses/Dioses malignos.md",
     "Dioses/Putrefacto.md",
     "Chemos.md",
     "Imágenes/Pasted image 20250512200357.png",
     "Dioses/Kiri-Jolith.md",
     "Sesiones/Sesión 32.md",
-    "Untitled.md",
     "Sesiones/Sesión 31.md",
     "Objetos/objeto desconocido.md",
     "Sesiones/Sesión 30.md",
@@ -225,8 +213,6 @@
     "Excalidraw",
     "Templates/Dios.md",
     "Templates/Sesión.md",
-    "Templates/Persona.md",
-    "Templates/Lugar.md",
     "Templates",
     "Lossë/Imágenes/05-003.dalamar.png",
     "Diddy/Notas/Pasted image 20241112194609.png",
