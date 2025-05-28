@@ -203,3 +203,8 @@ Al final hemos bajado a por [[Zeratul]], he conectado mentalmente con él y he v
 Hemos conseguido neutralizar a [[Zeratul]]. Sus ojos se han mantenido cambiados. 
 ### Willhelm
 Nos ha rodeado una marabunda de [[Zergs]], pero han llegado las flotas [[Protos]] y [[Terran]] (amigos de [[Tydus]]) y han acabado con ellos. 
+# SESIÓN 26 - 28/05/2025
+### Willhelm
+Hemos contactado con la nave de [[Protos]], pero no parecen muy amigables, aunque buscan a [[Zeratul]]. [[Reinor]], que parece el líder de los [[Terran]], ha entrado a hablar a nuestro favor. 
+Hemos entrado en su nave, parece que nos van a ayudar a reparar la nuestra. [[Gabriel Tosh]] está con estos rebeldes. Me han preguntado por mi lealtad; les he dicho que por ahora, prima mi supervivencia. 
+Nos han teletransportado a la nave de los [[Protos]], con [[Zeratul]]. 
