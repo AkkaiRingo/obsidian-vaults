@@ -20,19 +20,17 @@
             }
           },
           {
-            "id": "62525033211b2b01",
+            "id": "3c15281208190a29",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 34.md",
+                "file": "Sesiones/Sesión 35.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Sesión 34"
+              "title": "Sesión 35"
             }
           }
         ],
@@ -155,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesión 34.md",
+                "file": "Sesiones/Sesión 35.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 34"
+              "title": "Outline of Sesión 35"
             }
           }
         ],
@@ -183,10 +181,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "62525033211b2b01",
+  "active": "3c15281208190a29",
   "lastOpenFiles": [
-    "Sesiones/Sesión 33.md",
     "Sesiones/Sesión 34.md",
+    "Sesiones/Sesión 35.md",
+    "Sesiones/Sesión 33.md",
     "Lugares/Kalaman (ciudad)/Alcázar de Dar-Garad.md",
     "Personas/Kalaman (ciudad)/Lord Soth.md",
     "PCs/Lossë.md",
@@ -212,7 +211,6 @@
     "Excalidraw/Drawing 2025-03-01 17.47.07.excalidraw.md",
     "Excalidraw",
     "Templates/Dios.md",
-    "Templates/Sesión.md",
     "Templates",
     "Lossë/Imágenes/05-003.dalamar.png",
     "Diddy/Notas/Pasted image 20241112194609.png",
