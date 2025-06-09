@@ -6,17 +6,41 @@
       {
         "id": "19d997cb21470698",
         "type": "tabs",
+        "dimension": 72.29567307692308,
         "children": [
           {
-            "id": "362e2e6503a27535",
+            "id": "83003b173746584c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Akil.excalidraw.md"
+                "file": "Mansión Nerissa.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Akil.excalidraw"
+              "icon": "lucide-file",
+              "title": "Mansión Nerissa"
+            }
+          }
+        ]
+      },
+      {
+        "id": "48fd7f2609e66651",
+        "type": "tabs",
+        "dimension": 27.704326923076927,
+        "children": [
+          {
+            "id": "dfab0e106aa35c08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -138,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Akil.excalidraw.md",
+                "file": "Mansión Nerissa.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Akil.excalidraw"
+              "title": "Outline of Mansión Nerissa"
             }
           }
         ],
@@ -152,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,8 +191,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "362e2e6503a27535",
+  "active": "83003b173746584c",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Mansión Nerissa.md",
     "Excalidraw/Akil.excalidraw.md",
     "Excalidraw/Akil_FlowChart.png",
     "Lossë/PCs/Lossë.md",
@@ -193,7 +220,6 @@
     "Lossë/Eventos/Baile de mascarada.md",
     "Lossë/Sesiones/Sesión 2.md",
     "Lossë/Lugares/Kalaman (ciudad)/Kalaman (ciudad).md",
-    "Lossë/Lugares/Kalaman (ciudad)/Castillo de Kalaman.md",
     "Lossë/Imágenes/05-003.dalamar.png",
     "Diddy/Notas/Pasted image 20241112194609.png",
     "Diddy/Notas/Pasted image 20241016205503.png",
