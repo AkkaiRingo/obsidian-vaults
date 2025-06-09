@@ -3,13 +3,13 @@ Fecha: 2025-05-26
 Día:
   - "[[099]]"
 Lugar:
-  - "[[Kalaman (ciudad)]]"
+  - "[[Los eriales del septentrion]]"
 tags:
   - "#Sesión"
 ---
 # [[099]], [[Kalaman]]
-## [[Kalaman (ciudad)]]
-### [[Castillo de Kalaman|Castillo (K)]]
+## [[Eriales del Septentrión]]
+### [[Puesto Guardarrueda]]
 Hemos vaciado el campamento y recogido el ascua de [[fuego cataclísmico]]. 
 Tenían un par de prisioneros. 
 Ha aparecido un dragón azul joven. 

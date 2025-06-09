@@ -26,6 +26,7 @@ tags:
 - 5 munición arma de fuego (pirata [[muelle oculto]])
 - hojas con info de envíos ([[muelle oculto]])
 - llave de la forja de [[Camino del Árbol]]
+	- tienda para descanso en los eriales para una persona
 
 #### Mascarada
 - Armas escondidas 15 DEX (Sleight of Hand)
