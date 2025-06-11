@@ -208,3 +208,14 @@ Nos ha rodeado una marabunda de [[Zergs]], pero han llegado las flotas [[Protos]
 Hemos contactado con la nave de [[Protos]], pero no parecen muy amigables, aunque buscan a [[Zeratul]]. [[Reinor]], que parece el líder de los [[Terran]], ha entrado a hablar a nuestro favor. 
 Hemos entrado en su nave, parece que nos van a ayudar a reparar la nuestra. [[Gabriel Tosh]] está con estos rebeldes. Me han preguntado por mi lealtad; les he dicho que por ahora, prima mi supervivencia. 
 Nos han teletransportado a la nave de los [[Protos]], con [[Zeratul]]. 
+# SESIÓN 27 - 11/06/2025
+### Willhelm
+Yo pensaba quedarme callado, pero me han señalado como la líder del equipo así que la Alta Ejecutora [[Selendis]] me ha hecho varias preguntas sobre qué estábamos haciendo en el planeta. Le he contestado todo lo que he podido, no tenía órdenes de secretismo a cerca de la misión. [[Vaxir]] ha mencionado que antes de que les encontráramos a él y a [[Zeratul]] se habían encontrado con una criatura de altas capacidades psíquicas, de la que escaparon con vida a duras penas... Creo que esa podría ser la criatura que [[Diddy]] vió cuando intentó hablar con [[Zeratul]]. 
+Vamos a la zona de laboratorios para que investiguen a [[Vaxir]]. 
+### Kiara
+CÓMO NO NOS HA DICHO QUE SE HABÍAN ENCONTRADO CON UNA CRIATURA CON PUTOS PODERES PSÍQUICOS LOQUÍSIMOS?!?!?!? En fin, madre mía...
+El tal [[Reinor]] se ha dirigido a nosotros y nos ha preguntado qué queremos hacer ahora... Dice que podemos quedarnos con ellos si no queremos volver con el Emperador... Que ya lo hizo [[Tosh]], yo también podría... No sé qué pensarán el resto... Bueno sí, sí que lo sé...
+### Inner world
+No podemos irnos, es traición, es ir en contra de nuestras órdenes directas, es imposible, inviable; sería nuestra muerte. Pero si volver también podría suponer nuestra muerte... qué sentido tiene? Para sobrevivir, a lo mejor el camino óptimo es quedarnos con esta gente... ¿Y si ésta es la oportunidad a la que hemos estado esperando? ¿Y si esta vez de verdad podríamos escapar...?
+### Sasha
+*Ciao ciao* 😘
