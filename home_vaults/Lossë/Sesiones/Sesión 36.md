@@ -2,9 +2,12 @@
 Fecha: 2025-06-09
 Día:
   - "[[098]]"
+  - "[[097]]"
 Lugar:
   - "[[Kalaman (ciudad)]]"
   - "[[Castillo de Kalaman|Castillo (K)]]"
+  - "[[Los eriales del septentrion]]"
+  - "[[Torre Perdida]]"
 tags:
   - "#Sesión"
 ---

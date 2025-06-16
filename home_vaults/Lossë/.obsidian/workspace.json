@@ -20,19 +20,19 @@
             }
           },
           {
-            "id": "a0c4279b155c68a8",
+            "id": "49e031763973d0d3",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 36.md",
+                "file": "Sesiones/Sesión 37.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Sesión 36"
+              "title": "Sesión 37"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "soth",
+                "query": "tumba",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesión 36.md",
+                "file": "Sesiones/Sesión 37.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 36"
+              "title": "Outline of Sesión 37"
             }
           }
         ],
@@ -183,22 +184,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a0c4279b155c68a8",
+  "active": "49e031763973d0d3",
   "lastOpenFiles": [
-    "PCs/Lossë.md",
-    "Sesiones/Sesión 36.md",
-    "Sesiones/Sesión 35.md",
-    "Lugares/Kalaman (ciudad)/Kalaman (ciudad).md",
-    "Sesiones/Sesión 34.md",
-    "Sesiones/Sesión 33.md",
     "Lugares/Kalaman (ciudad)/Alcázar de Dar-Garad.md",
+    "Sesiones/Sesión 33.md",
+    "Sesiones/Sesión 32.md",
+    "Sesiones/Sesión 34.md",
+    "Sesiones/Sesión 35.md",
+    "Sesiones/Sesión 36.md",
+    "Sesiones/Sesión 37.md",
+    "Torre Perdida.md",
+    "PCs/Lossë.md",
+    "Lugares/Kalaman (ciudad)/Kalaman (ciudad).md",
     "Personas/Kalaman (ciudad)/Lord Soth.md",
     "Dioses/Dioses malignos.md",
     "Dioses/Putrefacto.md",
     "Chemos.md",
     "Imágenes/Pasted image 20250512200357.png",
     "Dioses/Kiri-Jolith.md",
-    "Sesiones/Sesión 32.md",
     "Sesiones/Sesión 31.md",
     "Objetos/objeto desconocido.md",
     "Sesiones/Sesión 30.md",
@@ -210,8 +213,6 @@
     "Sesiones/Sesión 27.md",
     "2025-03-23.md",
     "Sesiones/Sesión 26.md",
-    "Sesiones/Sesión 25.md",
-    "Personas/Kalaman (ciudad)/Capitán Ramata.md",
     "Excalidraw",
     "Templates",
     "Lossë/Imágenes/05-003.dalamar.png",
