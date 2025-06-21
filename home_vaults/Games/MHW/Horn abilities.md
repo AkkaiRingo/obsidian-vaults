@@ -1,17 +1,20 @@
 
-| Type                                                                                                                                                                                                                                   | Notes and Bubbles                                                                                                            | Melodies                                                                         |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| [[Hope Horn]] (3)<br>![[Pasted image 20250515190831.png]]<br><br>[[Rey Perun]] (3) (Thunder)<br><br>![[Pasted image 20250523203633.png]]<br>                                                                                           | ![[Pasted image 20250510165128.png]]<br><br>![[Pasted image 20250523203659.png]]                                             | ![[Pasted image 20250510165622.png]]<br><br>![[Pasted image 20250523203647.png]] |
-| [[Bone Horn]] (4)<br><br>![[Pasted image 20250515191035.png]]<br><br>[[Albirath Feroce]] (4) (Fire)<br><br>![[Pasted image 20250516210259.png]]<br><br>[[G. Veldian Sibilus]] (4) (Dragon)<br><br>![[Pasted image 20250518152917.png]] | ![[Pasted image 20250510165902.png]]<br><br>![[Pasted image 20250516210345.png]]<br><br>![[Pasted image 20250518152946.png]] | ![[Pasted image 20250510165917.png]]<br><br>![[Pasted image 20250518153018.png]] |
-| [[Metal Bagpipe]] (4)<br><br>![[Pasted image 20250515190907.png]]<br><br>[[Ajara Reverberator]] (3) (Blast)<br><br>![[Pasted image 20250515190953.png]]                                                                                | ![[Pasted image 20250510170027.png]]                                                                                         | ![[Pasted image 20250510170041.png]]<br><br>![[Pasted image 20250515191207.png]] |
-| [[War Bongo]] (2)<br><br>![[Pasted image 20250515191117.png]]<br><br>[[Nihil Chord]] (4) (Water)<br><br>![[Pasted image 20250517130307.png]]                                                                                           | ![[Pasted image 20250510170133.png]]<br><br>![[Pasted image 20250517130402.png]]                                             | ![[Pasted image 20250510170145.png]]                                             |
-| [[Dosha Grudgesounder]] (4)<br><br>![[Pasted image 20250517001133.png]]                                                                                                                                                                | ![[Pasted image 20250517000959.png]]                                                                                         | ![[Pasted image 20250517001217.png]]                                             |
-| [[Dosha Farsounder]] (4)<br><br>![[Pasted image 20250515191059.png]]                                                                                                                                                                   | ![[Pasted image 20250510170243.png]]                                                                                         | ![[Pasted image 20250510170254.png]]                                             |
-| [[Balahara Horn]] (4) (Water)<br><br>![[Pasted image 20250515191013.png]]                                                                                                                                                              | ![[Pasted image 20250510170334.png]]                                                                                         | ![[Pasted image 20250510170344.png]]                                             |
-| [[Sonic Horn]] (3) (Paralysis)<br><br>![[Pasted image 20250515200154.png]]                                                                                                                                                             | ![[Pasted image 20250515200317.png]]                                                                                         | ![[Pasted image 20250515200220.png]]                                             |
+| Type                                                                                                                                                                                                                               | Notes and Bubbles                                                                                                            | Melodies                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| [[Hope Horn]] (5)<br><br>![[Pasted image 20250515190827.png]]                                                                                                                                                                      | ![[Pasted image 20250621205412.png]]                                                                                         | ![[Pasted image 20250621205356.png]]                                             |
+| [[Rey Perun]] (3) (Thunder)<br><br>![[Pasted image 20250523203633.png]]<br>                                                                                                                                                        | ![[Pasted image 20250523203659.png]]                                                                                         | ![[Pasted image 20250621205632.png]]                                             |
+| [[Bone Horn]] (4)<br>![[Pasted image 20250515191035.png]]<br><br>[[Albirath Feroce]] (4) (Fire)<br><br>![[Pasted image 20250516210259.png]]<br><br>[[G. Veldian Sibilus]] (4) (Dragon)<br><br>![[Pasted image 20250518152917.png]] | ![[Pasted image 20250510165902.png]]<br><br>![[Pasted image 20250516210345.png]]<br><br>![[Pasted image 20250518152946.png]] | ![[Pasted image 20250510165917.png]]<br><br>![[Pasted image 20250518153018.png]] |
+| [[Metal Bagpipe]] (4)<br><br>![[Pasted image 20250515190907.png]]<br><br>[[Ajara Reverberator]] (3) (Blast)<br><br>![[Pasted image 20250515190953.png]]                                                                            | ![[Pasted image 20250510170027.png]]                                                                                         | ![[Pasted image 20250510170041.png]]<br><br>![[Pasted image 20250515191207.png]] |
+| [[War Bongo]] (5)<br><br>![[Pasted image 20250515191117.png]]                                                                                                                                                                      | ![[Pasted image 20250621233056.png]]                                                                                         | ![[Pasted image 20250621233027.png]]                                             |
+| [[Nihil Chord]] (4) (Water)<br><br>![[Pasted image 20250517130307.png]]                                                                                                                                                            | ![[Pasted image 20250517130402.png]]                                                                                         | ![[Pasted image 20250510170145.png]]                                             |
+| [[Dosha Grudgesounder]] (4)<br><br>![[Pasted image 20250517001133.png]]                                                                                                                                                            | ![[Pasted image 20250517000959.png]]                                                                                         | ![[Pasted image 20250517001217.png]]                                             |
+| [[Dosha Farsounder]] (4)<br><br>![[Pasted image 20250515191059.png]]                                                                                                                                                               | ![[Pasted image 20250510170243.png]]                                                                                         | ![[Pasted image 20250510170254.png]]                                             |
+| [[Balahara Horn]] (4) (Water)<br><br>![[Pasted image 20250515191013.png]]                                                                                                                                                          | ![[Pasted image 20250510170334.png]]                                                                                         | ![[Pasted image 20250510170344.png]]                                             |
+| [[Sonic Horn]] (5) (Paralysis)<br><br>![[Pasted image 20250515200154.png]]                                                                                                                                                         | ![[Pasted image 20250621205729.png]]                                                                                         | ![[Pasted image 20250621205804.png]]                                             |
 ## Melodies
 - Self-Improvement: All
 - Wind Pressure Negated: [[Bone Horn]], [[Albirath Feroce]], [[G. Veldian Sibilus]], [[War Bongo]], [[Nihil Chord]], [[Dosha Farsounder]]
+- All Wind Pressure Negated: [[Sonic Horn]]
 - Stun Negated: N/A
 - Paralysis Negated: N/A
 - Earplugs: [[Metal Bagpipe]],  [[Ajara Reverberator]], [[Dosha Grudgesounder]]
@@ -25,20 +28,24 @@
 - Status Attack Boost: N/A
 - Blight Negated: N/A
 - Recovery Speed: [[Balahara Horn]]
-- Stamina Use Reduce: [[War Bongo]], [[Nihil Chord]], [[Dosha Farsounder]], [[Sonic Horn]]
+- Stamina Use Reduce (S): [[Nihil Chord]], [[Dosha Farsounder]]
+- Stamina Use Reduce (L): [[Sonic Horn]], [[War Bongo]]
 - Attack Up: [[Hope Horn]], [[Bone Horn]], [[Albirath Feroce]], [[Metal Bagpipe]], [[Ajara Reverberator]], [[G. Veldian Sibilus]]
-- Defense Up: [[Bone Horn]], [[Albirath Feroce]], [[War Bongo]], [[Nihil Chord]], [[Dosha Farsounder]], [[Sonic Horn]]
+- Defense Up (S): [[Bone Horn]], [[Albirath Feroce]], [[Nihil Chord]], [[Dosha Farsounder]]
+- Defense Up (L): [[Sonic Horn]], [[War Bongo]]
 - Health Recovery (S): [[War Bongo]], [[Nihil Chord]], [[Balahara Horn]], [[Dosha Grudgesounder]]
 - Health Recover (M): [[Dosha Grudgesounder]]
-- Fire Resistance: [[Hope Horn]]
+- Fire Resistance (S): [[Rey Perun]]
+- Fire Resistance (L): [[Hope Horn]]
 - Water Resistance: N/A
 - Thunder Resistance: [[Balahara Horn]]
-- Ice Resistance:  [[Sonic Horn]]
+- Ice Resistance (L):  [[Sonic Horn]]
 - Dragon Resistance: N/A 
 - Sonic Barrier: [[Bone Horn]], [[Albirath Feroce]], [[G. Veldian Sibilus]], [[Dosha Farsounder]]
 - Attack/Defense Up: N/A
 - Affinity Up/Health Recovery: N/A
-- Health Recovery + Antidote: [[War Bongo]], [[Nihil Chord]]
+- Health Recovery (S) + Antidote: [[Nihil Chord]]
+- Health Recovery (M) + Antidote: [[War Bongo]]
 - Sonic Waves: [[Hope Horn]], [[Balahara Horn]], [[Sonic Horn]]
 - Extend All Melodies: N/A
 - Restore Sharpness: N/A

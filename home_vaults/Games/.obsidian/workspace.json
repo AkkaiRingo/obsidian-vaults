@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ee0157e94aad4d5f",
@@ -153,7 +154,8 @@
               "title": "Outline of Horn abilities"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -172,18 +174,20 @@
   },
   "active": "17b5dfd437cc563e",
   "lastOpenFiles": [
+    "Pasted image 20250621233056.png",
+    "Pasted image 20250621233027.png",
+    "MHW/Images/Pasted image 20250515190827.png",
     "MHW/Horn abilities.md",
-    "MHW/Images/Pasted image 20250523203659.png",
-    "MHW/Images/Pasted image 20250523203647.png",
-    "MHW/Images/Pasted image 20250523203633.png",
-    "MHW/Images/Pasted image 20250515190831.png",
+    "Pasted image  20250515190827.png.md",
+    "MHW/Images/Pasted image 20250510170344.png",
+    "MHW/Images/Pasted image 20250510170334.png",
+    "MHW/Images/Pasted image 20250510170254.png",
+    "MHW/Images/Pasted image 20250510170319.png",
+    "MHW/Images/Pasted image 20250510170243.png",
+    "MHW/Images/Pasted image 20250510170223.png",
+    "MHW/Images/Pasted image 20250510170145.png",
+    "MHW/Images/Pasted image 20250510170133.png",
     "Dosha Grudgesounder.md",
-    "MHW/Images/Pasted image 20250518152917.png",
-    "MHW/Images/Pasted image 20250518153018.png",
-    "MHW/Images/Pasted image 20250518152946.png",
-    "MHW/Images/Pasted image 20250517130402.png",
-    "MHW/Images/Pasted image 20250517130307.png",
-    "MHW/Images/Pasted image 20250517000936.png",
     "Bone Horn.md",
     "Hope Horn.md",
     "War Bongo.md",
