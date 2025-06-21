@@ -6,31 +6,44 @@
       {
         "id": "19d997cb21470698",
         "type": "tabs",
-        "dimension": 72.29567307692308,
+        "dimension": 67.12740384615384,
         "children": [
           {
             "id": "83003b173746584c",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Akil.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Akil.excalidraw"
+            }
+          },
+          {
+            "id": "dfab0e106aa35c08",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Mansión Nerissa.md",
+                "file": "Mansión de Nerissa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mansión Nerissa"
+              "title": "Mansión de Nerissa"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "48fd7f2609e66651",
+        "id": "e22d9afbf68df98e",
         "type": "tabs",
-        "dimension": 27.704326923076927,
+        "dimension": 32.87259615384615,
         "children": [
           {
-            "id": "dfab0e106aa35c08",
+            "id": "6961082823f60e8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -191,11 +204,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "83003b173746584c",
+  "active": "dfab0e106aa35c08",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Mansión Nerissa.md",
     "Excalidraw/Akil.excalidraw.md",
+    "Untitled.md",
+    "Mansión de Nerissa.md",
     "Excalidraw/Akil_FlowChart.png",
     "Lossë/PCs/Lossë.md",
     "Lossë/Sesiones/Sesión 25.md",
