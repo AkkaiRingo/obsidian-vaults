@@ -2,7 +2,10 @@
 Fecha: 2025-06-16
 Día:
   - "[[097]]"
-Lugar: 
+Lugar:
+  - "[[Los eriales del septentrion]]"
+  - "[[Torre Perdida]]"
+  - "[[Torre Perdida|Wakenreth]]"
 tags:
   - "#Sesión"
 ---

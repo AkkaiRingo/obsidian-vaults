@@ -27,6 +27,6 @@ tags:
 - hojas con info de envíos ([[muelle oculto]])
 - llave de la forja de [[Camino del Árbol]]
 	- tienda para descanso en los eriales para una persona
-
+- piedra feérica de baliza feérica del plano feérico
 #### Mascarada
 - Armas escondidas 15 DEX (Sleight of Hand)
