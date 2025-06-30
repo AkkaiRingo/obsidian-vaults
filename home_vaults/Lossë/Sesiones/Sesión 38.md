@@ -2,9 +2,13 @@
 Fecha: 2025-06-23
 Día:
   - "[[097]]"
+  - "[[086]]"
+  - "[[082]]"
 Lugar:
   - "[[Los eriales del septentrion]]"
   - "[[Plano feérico]]"
+  - "[[Torre Perdida|Wakenreth]]"
+  - "[[Cueva Bocazul]]"
 tags:
   - "#Sesión"
 ---

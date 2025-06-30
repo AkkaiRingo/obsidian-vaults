@@ -20,22 +20,6 @@
             }
           },
           {
-            "id": "3f49f272ac6ef24c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Sesión 38.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Sesión 38"
-            }
-          },
-          {
             "id": "b19e6b685f1affe0",
             "type": "leaf",
             "state": {
@@ -48,9 +32,25 @@
               "icon": "lucide-file",
               "title": "Lossë"
             }
+          },
+          {
+            "id": "4de8b7cda4004c4f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesiones/Sesión 39.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Sesión 39"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesión 38.md",
+                "file": "Sesiones/Sesión 39.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 38"
+              "title": "Outline of Sesión 39"
             }
           }
         ],
@@ -197,10 +197,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f49f272ac6ef24c",
+  "active": "4de8b7cda4004c4f",
   "lastOpenFiles": [
     "PCs/Lossë.md",
+    "Sesiones/Sesión 39.md",
     "Sesiones/Sesión 38.md",
+    "Dioses/Putrefacto.md",
     "Lugares/Cabo del Mentiroso/Faro (CM).md",
     "Sesiones/Sesión 6.md",
     "Sesiones/Sesión 29.md",
@@ -215,7 +217,6 @@
     "Lugares/Kalaman (ciudad)/Kalaman (ciudad).md",
     "Personas/Kalaman (ciudad)/Lord Soth.md",
     "Dioses/Dioses malignos.md",
-    "Dioses/Putrefacto.md",
     "Chemos.md",
     "Imágenes/Pasted image 20250512200357.png",
     "Dioses/Kiri-Jolith.md",
@@ -225,7 +226,6 @@
     "Sesiones/Sesión 1.md",
     "PCs/Marco.md",
     "Objetos/Máscaras.md",
-    "Sesiones/Sesión 28.md",
     "Excalidraw",
     "Templates",
     "Lossë/Imágenes/05-003.dalamar.png",
