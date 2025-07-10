@@ -12,4 +12,4 @@ tags:
 ### [[Puesto Guardarrueda]]
 Hemos vaciado el campamento y recogido el ascua de [[fuego cataclísmico]]. 
 Tenían un par de prisioneros. 
-Ha aparecido un dragón azul joven. 
+Ha aparecido un [[dragón azul ]]joven. 

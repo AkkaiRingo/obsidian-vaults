@@ -2,6 +2,8 @@
 Fecha: 2025-06-30
 Día:
   - "[[082]]"
+  - "[[079]]"
+  - "[[078]]"
 Lugar:
   - "[[Eriales del Septentrión]]"
   - "[[Cueva Bocazul]]"

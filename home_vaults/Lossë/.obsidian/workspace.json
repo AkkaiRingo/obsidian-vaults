@@ -34,19 +34,19 @@
             }
           },
           {
-            "id": "4de8b7cda4004c4f",
+            "id": "f2df393b1858a936",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 39.md",
+                "file": "Sesiones/Sesión 40.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Sesión 39"
+              "title": "Sesión 40"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "saga",
+                "query": "gólem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesión 39.md",
+                "file": "Sesiones/Sesión 40.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sesión 39"
+              "title": "Outline of Sesión 40"
             }
           }
         ],
@@ -197,22 +197,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4de8b7cda4004c4f",
+  "active": "54452f63a3534d1a",
   "lastOpenFiles": [
-    "PCs/Lossë.md",
-    "Sesiones/Sesión 39.md",
+    "Sesiones/Sesión 30.md",
+    "Sesiones/Sesión 29.md",
+    "Sesiones/Sesión 28.md",
+    "Sesiones/Sesión 36.md",
+    "Sesiones/Sesión 40.md",
+    "Sesiones/Sesión 35.md",
+    "Dioses/Rey pescador.md",
+    "Sesiones/Sesión 37.md",
     "Sesiones/Sesión 38.md",
+    "Sesiones/Sesión 39.md",
+    "Untitled.md",
+    "PCs/Lossë.md",
     "Dioses/Putrefacto.md",
     "Lugares/Cabo del Mentiroso/Faro (CM).md",
     "Sesiones/Sesión 6.md",
-    "Sesiones/Sesión 29.md",
-    "Sesiones/Sesión 37.md",
     "Lugares/Kalaman (ciudad)/Alcázar de Dar-Garad.md",
     "Sesiones/Sesión 33.md",
     "Sesiones/Sesión 32.md",
     "Sesiones/Sesión 34.md",
-    "Sesiones/Sesión 35.md",
-    "Sesiones/Sesión 36.md",
     "Lugares/Torre Perdida.md",
     "Lugares/Kalaman (ciudad)/Kalaman (ciudad).md",
     "Personas/Kalaman (ciudad)/Lord Soth.md",
@@ -221,11 +226,6 @@
     "Imágenes/Pasted image 20250512200357.png",
     "Dioses/Kiri-Jolith.md",
     "Sesiones/Sesión 31.md",
-    "Objetos/objeto desconocido.md",
-    "Sesiones/Sesión 30.md",
-    "Sesiones/Sesión 1.md",
-    "PCs/Marco.md",
-    "Objetos/Máscaras.md",
     "Excalidraw",
     "Templates",
     "Lossë/Imágenes/05-003.dalamar.png",

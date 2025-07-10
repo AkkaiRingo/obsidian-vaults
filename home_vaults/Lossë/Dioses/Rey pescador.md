@@ -3,7 +3,8 @@ Alineamiento: "[[Dioses buenos]]"
 Reinos:
   - Mar
 Símbolos: Phoenix
-aliases: 
+aliases:
+  - Hababuk
 tags:
   - Dios
 ---
