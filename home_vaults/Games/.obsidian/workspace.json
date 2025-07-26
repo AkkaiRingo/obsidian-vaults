@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "MHW/Horn abilities.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ee0157e94aad4d5f",
@@ -173,18 +174,19 @@
   },
   "active": "17b5dfd437cc563e",
   "lastOpenFiles": [
+    "Pasted image 20250727004121.png",
+    "Pasted image 20250727004032.png",
+    "Pasted image 20250727003702.png",
+    "Pasted image 20250727003640.png",
+    "Pasted image 20250727003402.png",
+    "Pasted image 20250724202909.png",
+    "Pasted image 20250724202816.png",
+    "Pasted image 20250724202530.png",
+    "Pasted image 20250724202513.png",
     "MHW/Images/Pasted image 20250629185706.png",
     "MHW/Horn abilities.md",
     "MHW/Images/Pasted image 20250629210909.png",
-    "MHW/Images/Pasted image 20250629210850.png",
-    "MHW/Images/Pasted image 20250629210824.png",
-    "MHW/Images/Pasted image 20250629185818.png",
-    "MHW/Images/Pasted image 20250629185743.png",
-    "MHW/Images/Pasted image 20250628205512.png",
-    "MHW/Images/Pasted image 20250628205459.png",
-    "MHW/Images/Pasted image 20250627201520.png",
     "MHW/Hornies/Kut-Ku's Song.md",
-    "MHW/Images/Pasted image 20250627213706.png",
     "MHW/Hornies/Ajara Reverberator.md",
     "MHW/Hornies",
     "MHW/Hornies/War Bongo.md",
