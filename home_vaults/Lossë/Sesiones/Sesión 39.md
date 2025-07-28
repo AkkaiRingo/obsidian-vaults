@@ -13,7 +13,7 @@ tags:
 # [[082]], [[Kalaman]]
 ## [[Eriales del Septentrión]]
 ### [[Cueva Bocazul]]
-Los abatimos antes de que reanimen al dragón. Tienen símbolos de [[Putrefacto|Morgion]]. Había una enana mestiza malherida en una de las tiendas que tenían los dracónidos dentro de la cueva. Le he curado las heridas y se ha marchado llamando a un Boullette. 
+Los abatimos antes de que reanimen al dragón. Tienen símbolos de [[Putrefacto|Morgion]]. Había una enana mestiza malherida en una de las tiendas que tenían los dracónidos dentro de la cueva, [[Omolda]]. Le he curado las heridas, le he intentado convencer para que nos ayudara a movernos por estas tierras, ya que su tribu es nativa, pero no se ha fiado lo suficiente de mí y se ha marchado llamando a un Boullette con un silvido extraño. 
 # [[079]], [[Kalaman]]
 ## [[Eriales del Septentrión]]
 ### [[Torre Perdida|Wakenreth]]

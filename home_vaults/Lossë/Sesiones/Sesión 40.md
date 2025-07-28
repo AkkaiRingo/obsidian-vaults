@@ -6,6 +6,8 @@ Día:
 Lugar:
   - "[[Kalaman]]"
   - "[[Eriales del Septentrión]]"
+  - "[[Hondonada de Talos]]"
+  - "[[Templo del Fénix azul]]"
 tags:
   - "#Sesión"
 ---

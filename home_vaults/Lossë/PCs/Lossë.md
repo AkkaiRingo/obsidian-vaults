@@ -28,7 +28,10 @@ tags:
 - llave de la forja de [[Camino del Árbol]]
 	- tienda para descanso en los eriales para una persona
 - piedra feérica de baliza feérica del plano feérico
-- 19 dientes de dragón blanco (para hacer proyectiles)
+- 19 dientes de dragón blanco (para hacer proyectiles) --> los tiene el herrero del campamento para hacer proyectiles
 - Insignia de Oficial del ejercito de los dragones
+- studded leather (abrigo pirata)
+- studded leather + escamas dragón azul (res eléctrica)
+- manta ray cloak
 #### Mascarada
 - Armas escondidas 15 DEX (Sleight of Hand)
