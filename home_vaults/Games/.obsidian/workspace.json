@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ee0157e94aad4d5f",
@@ -172,20 +171,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17b5dfd437cc563e",
+  "active": "56fe0a4fa361cfbd",
   "lastOpenFiles": [
-    "Pasted image 20250727004121.png",
-    "Pasted image 20250727004032.png",
-    "Pasted image 20250727003702.png",
-    "Pasted image 20250727003640.png",
-    "Pasted image 20250727003402.png",
-    "Pasted image 20250724202909.png",
-    "Pasted image 20250724202816.png",
-    "Pasted image 20250724202530.png",
-    "Pasted image 20250724202513.png",
-    "MHW/Images/Pasted image 20250629185706.png",
     "MHW/Horn abilities.md",
-    "MHW/Images/Pasted image 20250629210909.png",
+    "MHW/Images/Pasted image 20250727004121.png",
+    "MHW/Images/Pasted image 20250727004032.png",
+    "MHW/Images/Pasted image 20250727003702.png",
+    "MHW/Images/Pasted image 20250727003640.png",
+    "MHW/Images/Pasted image 20250727003402.png",
+    "MHW/Images/Pasted image 20250724202909.png",
+    "MHW/Images/Pasted image 20250724202816.png",
+    "MHW/Images/Pasted image 20250724202530.png",
+    "MHW/Images/Pasted image 20250724202513.png",
+    "MHW/Images/Pasted image 20250629185706.png",
     "MHW/Hornies/Kut-Ku's Song.md",
     "MHW/Hornies/Ajara Reverberator.md",
     "MHW/Hornies",
