@@ -32,13 +32,15 @@
           {
             "id": "bb47cffc42c9dda2",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "MHW/Horn abilities.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Horn abilities"
             }
@@ -100,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ee0157e94aad4d5f",
@@ -193,8 +196,10 @@
   },
   "active": "bb47cffc42c9dda2",
   "lastOpenFiles": [
-    "MHW/Hornies/Lagia Horn.md",
+    "MHW/Images/Pasted image 20250802183020.png",
+    "MHW/Images/Pasted image 20250802183040.png",
     "MHW/Horn abilities.md",
+    "MHW/Hornies/Lagia Horn.md",
     "MHW/Hornies/Artian Sounder.md",
     "MHW/Images/Pasted image 20250801203849.png",
     "MHW/Images/Pasted image 20250727004121.png",
@@ -204,8 +209,6 @@
     "MHW/Images/Pasted image 20250727003402.png",
     "MHW/Images/Pasted image 20250724202909.png",
     "MHW/Images/Pasted image 20250724202816.png",
-    "MHW/Images/Pasted image 20250724202530.png",
-    "MHW/Images/Pasted image 20250724202513.png",
     "MHW/Hornies/Kut-Ku's Song.md",
     "MHW/Hornies/Ajara Reverberator.md",
     "MHW/Hornies",
