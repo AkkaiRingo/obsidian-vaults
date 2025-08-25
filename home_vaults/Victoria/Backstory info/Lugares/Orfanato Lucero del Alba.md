@@ -1,5 +1,5 @@
 ---
-Categoría: Orfanato
+Categoría: Edificación
 Ubicación: "[[Lioncourt]]"
 Afiliación:
   - "[[Orden del Lucero del Alba]]"

@@ -1,5 +1,5 @@
 ---
-Categoría: Castillo
+Categoría: Edificación
 Ubicación: "[[Lioncourt]]"
 Afiliación:
   - "[[Orden del Lucero del Alba]]"

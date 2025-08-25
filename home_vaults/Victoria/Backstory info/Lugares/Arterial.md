@@ -1,8 +1,8 @@
 ---
 Categoría: Río
 Ubicación: "[[Svitanie]]"
-Afiliación: 
-aliases: 
+Afiliación:
+aliases:
 tags:
   - Lugar
 ---

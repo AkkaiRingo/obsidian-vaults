@@ -15,8 +15,6 @@ Para los [[Liturgo|Liturgos]]: De [[Vairae]]. 
 Ejemplo: 
 - Mith De Vairae. 
 
-  
-
 TODO:
 - [ ] buscar nombres de clanes de [[Vrikolaka|Vrikolakas]]
 - [ ] buscar nombres de [[Vrikolaka|Vrikolakas]]

@@ -36,6 +36,7 @@
     "Dominios": "multitext",
     "Miembros": "multitext",
     "Familia": "multitext",
-    "F. Filiales": "multitext"
+    "F. Filiales": "multitext",
+    "excalidraw-embed-md": "checkbox"
   }
 }

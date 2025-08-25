@@ -4,6 +4,7 @@ En vida: N/A
 Clan: "[[Clan Astar|Astar]]"
 Maestro: N/A
 Tipo de V.: "[[Alastoras]]"
+Ascensión: "[[Vairae]]"
 Lugar: "[[Svitanie]]"
 tags:
   - Persona

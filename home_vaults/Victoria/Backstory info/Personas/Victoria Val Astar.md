@@ -4,6 +4,7 @@ En vida: "[[Victoria del Alba]]"
 Clan: "[[Clan Astar|Astar]]"
 Maestro: "[[Alastor Val Astar]]"
 Tipo de V.: "[[Lamia Alastora]]"
+Ascensión: "[[Alastor Val Astar]]"
 Lugar: "[[Lioncourt]]"
 tags:
   - Persona
