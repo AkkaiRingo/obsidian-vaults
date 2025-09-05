@@ -19,5 +19,6 @@ tags:
 aliases:
   - Jonathan
   - Jonathan Bescond
+  - Jonny
 ---
 ![[Jonathan del Alba.jpg]]
