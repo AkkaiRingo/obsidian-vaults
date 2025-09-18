@@ -28,8 +28,8 @@
               "state": {
                 "file": "Backstory info/_Notas/Vampiros/_Jerarquía Vampiros.canvas",
                 "viewState": {
-                  "x": -284.5749156993431,
-                  "y": 362.8343941792874,
+                  "x": -348.6128797480356,
+                  "y": 479.9839691956034,
                   "zoom": -0.7159780400054505
                 }
               },
@@ -111,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,12 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Preguntas para Ima.md",
+                "file": "Backstory info/_Notas/Vampiros/_Jerarquía Vampiros.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Preguntas para Ima"
+              "title": "Outgoing links from _Jerarquía Vampiros"
             }
           },
           {
@@ -272,23 +272,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "40f722c2ff480464",
+  "active": "376e27107947286c",
   "lastOpenFiles": [
-    "Backstory info/_Notas/Diario de Victoria.md",
+    "Backstory info/Dioses/El Luminarca.md",
+    "Backstory info/_Notas/Vampiros/_Jerarquía Vampiros.canvas",
+    "Backstory info/_Notas/Timeline.md",
     "Preguntas para Ima.md",
+    "Backstory info/_Notas/Diario de Victoria.md",
     "Backstory info/_Notas/Backstory.md",
     "Backstory info/Personas/Jonathan del Alba.md",
     "Backstory info/Personas/Alastor Val Astar.md",
     "Backstory info/Grupos/Familia Bescond.md",
-    "Backstory info/_Notas/Timeline.md",
     "Backstory info/_Notas/Vampiros/_Jerarquía resumen.md",
     "Backstory info/_Notas/Vampiros/_Lore de Vampiros.md",
     "Backstory info/Grupos/La Lumbre del Noctívago.md",
     "Backstory info/Lugares/Edén.md",
     "Backstory info/Grupos/Gremio de la Luminaria.md",
     "Backstory info/Lugares/Svitanie.md",
-    "Backstory info/Dioses/El Luminarca.md",
-    "Backstory info/_Notas/Vampiros/_Jerarquía Vampiros.canvas",
     "Backstory info/Personas/Gulthias.md",
     "Backstory info/_Notas/Vampiros/Protogenos.md",
     "Backstory info/_Notas/Vampiros/Vrikolaka.md",
@@ -304,7 +304,6 @@
     "Backstory info/Personas/Personas.md",
     "Backstory info/_Notas/Vampiros/Hematófago.md",
     "Backstory info/Grupos/Orden del Lucero del Alba.md",
-    "Backstory info/_Notas/Vampiros/Vampiros.md",
     "Images/Madelaine Val Delaroux portrait.jpg",
     "Images/Alastor Val Astar.jpg",
     "Images/Svitanie.jpg",
