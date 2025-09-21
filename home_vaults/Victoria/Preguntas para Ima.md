@@ -2,7 +2,7 @@
 
 ---
 ---
-## Artificial Form &rarr; Undead (M&V)
+## 1. Artificial Form &rarr; Undead (M&V)
 
 > [!tip] [Artificial Form](https://www.dndbeyond.com/sources/dnd/ghpg/chapter-1-heritages-traits#ArtificialFormExploration) 
 > You were made, not born, and your unnatural origin forever marks you as different. You are a **Construct**, but your enchanted form still benefits from healing spells. You can also heal yourself by spending Hit Dice during Short Rests and Long Rests, as normal.
@@ -11,7 +11,7 @@
 Could we change it to "**Undead**" to fit the Vampire vibe more?
 
 ---
-## Rage & Spells (V)
+## 2. Rage & Spells (V)
 
 > [!tip] [Rage](https://www.dndbeyond.com/classes/2190875-barbarian#BarbarianClassFeatures): 
 > **_No Concentration or Spells._** You can’t maintain Concentration, and you can’t cast spells.
@@ -26,7 +26,7 @@ Could we change it to "**Undead**" to fit the Vampire vibe more?
 > > - For Concentration rolls, consider the FULL damage to set the CON save DC, not the halved one
 
 ---
-## Bite & Unarmed Strikes (M&V)
+## 3. Bite & Unarmed Strikes (M&V)
 3 fuentes de Unarmed Strike / Bite:
 
 | **Name**                                                                                                           | Type                                | Source          | Attack                | Damage        | D. Type     | Extra                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
@@ -38,10 +38,10 @@ Could we change it to "**Undead**" to fit the Vampire vibe more?
 \* Sneak Attack no se sumará a ninguno de ellos porque solo se suma a Weapon Attacks
 
 ---
-## Items (M&V)
+## 4. Items (M&V)
 Can I has a Hand Crowbow that looks like a Pistol? :3 pium pium
 
-## Magic Items (V)
+### 4. 1. Magic Items (V)
 
 > [!example] [Belt of Hill Giant Strength](https://www.dndbeyond.com/magic-items/4585-belt-of-hill-giant-strength) (A)
 > STR: 21
