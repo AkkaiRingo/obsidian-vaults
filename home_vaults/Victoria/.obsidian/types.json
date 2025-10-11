@@ -37,6 +37,7 @@
     "Miembros": "multitext",
     "Familia": "multitext",
     "F. Filiales": "multitext",
-    "excalidraw-embed-md": "checkbox"
+    "excalidraw-embed-md": "checkbox",
+    "Símbolos": "multitext"
   }
 }

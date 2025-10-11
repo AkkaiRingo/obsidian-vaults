@@ -11,3 +11,6 @@ tags:
 ---
 ![[Svitanie.jpg]]
 ![[Svitanie Muro.jpg]]![[Svitanie Vista Acantilado.jpg]]
+
+
+Pasarela entre dos reinos [[Primogénito|Primogénitos]]. 

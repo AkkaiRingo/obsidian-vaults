@@ -1,9 +1,9 @@
 ---
 Agrupación: Gremio
 Afiliación:
-  - "[[El Luminarca]]"
+  - "[[Argón, El Luminarca]]"
 Ubicación: "[[Svitanie]]"
-Miembros: 
+Miembros:
 aliases:
   - Gremio
   - La Luminaria

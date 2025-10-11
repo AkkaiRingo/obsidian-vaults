@@ -6,7 +6,7 @@
 		{"id":"b05b54bbfdc3174b","type":"group","x":600,"y":610,"width":440,"height":780,"color":"6","label":"Nightbringer"},
 		{"id":"27062f7313c783c4","type":"group","x":-880,"y":1000,"width":440,"height":700,"color":"1","label":"Lamia"},
 		{"id":"2eab3786c8f1c017","type":"group","x":-440,"y":30,"width":380,"height":720,"color":"1","label":"Alastoras"},
-		{"id":"2e9bbd21f23d716b","type":"group","x":-930,"y":280,"width":440,"height":600,"color":"1","label":"Vrikolaka"},
+		{"id":"2e9bbd21f23d716b","type":"group","x":-930,"y":280,"width":440,"height":600,"color":"1","label":"Vrykolaka"},
 		{"id":"0e3ce130aeca1012","type":"group","x":-1360,"y":410,"width":380,"height":680,"color":"1","label":"Lamia Alastora"},
 		{"id":"372b458897be1cf8","type":"group","x":-1340,"y":-260,"width":380,"height":580,"color":"1","label":"Protogenos Inmemorial"},
 		{"id":"e30ed3be5a47655b","type":"group","x":880,"y":-240,"width":400,"height":440,"color":"6","label":"Provecto Liturgo"},
@@ -21,7 +21,7 @@
 		{"id":"ff4f75a4a5cbb263","type":"file","file":"Backstory info/_Notas/Vampiros/Umbral Lord.md","x":100,"y":120,"width":400,"height":880},
 		{"id":"b098d0c74af6c0f4","type":"file","file":"Backstory info/Personas/Alastor Val Astar.md","x":-420,"y":50,"width":340,"height":680},
 		{"id":"4975c2a9b996d1ef","type":"file","file":"Backstory info/Personas/Gulthias.md","x":-1320,"y":-240,"width":340,"height":540},
-		{"id":"7b587ea8ab2941df","type":"file","file":"Backstory info/_Notas/Vampiros/Vrikolaka.md","x":-910,"y":300,"width":400,"height":558},
+		{"id":"7b587ea8ab2941df","type":"file","file":"Backstory info/_Notas/Vampiros/Vrykolaka.md","x":-910,"y":300,"width":400,"height":558},
 		{"id":"9d21b160afff36b2","type":"file","file":"Backstory info/_Notas/Vampiros/Lamia.md","x":-860,"y":1020,"width":400,"height":660},
 		{"id":"06f293fefe39d308","type":"file","file":"Backstory info/_Notas/Vampiros/Protogenos.md","x":-900,"y":-10,"width":400,"height":190}
 	],

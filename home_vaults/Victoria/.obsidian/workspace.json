@@ -20,95 +20,103 @@
             }
           },
           {
-            "id": "376e27107947286c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Backstory info/_Notas/Vampiros/_Jerarquía Vampiros.canvas",
-                "viewState": {
-                  "x": 70.14831416457287,
-                  "y": 503.0070035519527,
-                  "zoom": -1.382644706672117
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "_Jerarquía Vampiros"
-            }
-          },
-          {
-            "id": "8fae0090845fa268",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Backstory info/_Notas/Vampiros/_Jerarquía resumen.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "_Jerarquía resumen"
-            }
-          },
-          {
-            "id": "fea0e768feebeb90",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Backstory info/_Notas/Timeline.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "8cd24f1929465dbf",
+            "id": "dcd93654942a4ef5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/_Notas/Diario de Victoria.md",
+                "file": "Backstory info/Lugares/Svitanie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Diario de Victoria"
+              "title": "Svitanie"
             }
           },
           {
-            "id": "dad299419b4cb800",
+            "id": "d76b2549ba67ed20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/_Notas/Vampiros/_Lore de Vampiros.md",
-                "mode": "preview",
+                "file": "Backstory info/Personas/Personas.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "_Lore de Vampiros"
+              "title": "Personas"
             }
           },
           {
-            "id": "998a379194d61773",
+            "id": "95b775d3032b27b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preguntas para Ima.md",
-                "mode": "preview",
+                "file": "Backstory info/Personas/Alastor Val Astar.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Preguntas para Ima"
+              "title": "Alastor Val Astar"
+            }
+          },
+          {
+            "id": "49f0ec56bbd713ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Dioses/Dioses.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Dioses"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
+      },
+      {
+        "id": "4f4488603d0c980c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d5445d319130f86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Dioses/Argón, El Luminarca.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Argón, El Luminarca"
+            }
+          },
+          {
+            "id": "0fcfd903ac24da71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Lugares/Las tierras conocidas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Las tierras conocidas"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "primigenio",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -181,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backstory info/Personas/Personas.md",
+                "file": "Preguntas para Ima.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +199,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Personas"
+              "title": "Backlinks for Preguntas para Ima"
             }
           },
           {
@@ -200,12 +208,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backstory info/Personas/Personas.md",
+                "file": "Backstory info/Dioses/Argón, El Luminarca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Personas"
+              "title": "Outgoing links from Argón, El Luminarca"
             }
           },
           {
@@ -244,12 +252,12 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -270,44 +278,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "998a379194d61773",
+  "active": "5d5445d319130f86",
   "lastOpenFiles": [
-    "Backstory info/_Notas/Vampiros/_Jerarquía Vampiros.canvas",
+    "Backstory info/Dioses/Dioses.md",
+    "Backstory info/Personas/Alastor Val Astar.md",
+    "Backstory info/Personas/Personas.md",
+    "Backstory info/Dioses/Argón, El Luminarca.md",
+    "Dioses Cardinales.md",
+    "Backstory info/Dioses/Primogénito.md",
+    "Backstory info/Lugares/Las tierras conocidas.md",
+    "Backstory info/Lugares/Svitanie.md",
+    "Backstory info/Lugares/Janthiria.md",
     "Preguntas para Ima.md",
+    "Untitled 1.base",
+    "Untitled.canvas",
+    "Untitled.base",
+    "2025-10-11.md",
+    "Images/Imagen de WhatsApp 2025-10-11 a las 15.44.00_42d7ce51.jpg",
+    "Images/Imagen de WhatsApp 2025-10-11 a las 15.39.05_840cd2f4.jpg",
+    "Images/Imagen de WhatsApp 2025-10-11 a las 15.36.34_960d80bb.jpg",
+    "Images/Imagen de WhatsApp 2025-10-11 a las 15.10.03_1c19de9a.jpg",
+    "Images/Imagen de WhatsApp 2025-10-11 a las 15.09.04_7ab27fd4.jpg",
+    "Backstory info/_Notas/Vampiros/_Jerarquía Vampiros.canvas",
+    "Backstory info/_Notas/Vampiros/Liturgo.md",
+    "Backstory info/_Notas/Vampiros/Vetustos.md",
+    "Backstory info/_Notas/Vampiros/Provecto Liturgo.md",
+    "Backstory info/_Notas/Vampiros/Protogenos Inmemorial.md",
     "Backstory info/_Notas/Vampiros/_Lore de Vampiros.md",
     "Backstory info/_Notas/Vampiros/Protogenos.md",
-    "Backstory info/_Notas/Vampiros/Vrikolaka.md",
     "Backstory info/_Notas/Vampiros/_Jerarquía resumen.md",
+    "Backstory info/_Notas/Vampiros/Hematófago.md",
+    "Backstory info/_Notas/Vampiros/Liturgia.md",
+    "Backstory info/_Notas/Backstory.md",
+    "Backstory info/_Notas/Vampiros/Vrykolaka.md",
     "Backstory info/_Notas/Timeline.md",
+    "Backstory info/_Notas/Diario de Victoria.md",
+    "Backstory info/Personas/Jonathan del Alba.md",
+    "Backstory info/Grupos/Familia Bescond.md",
     "Images/Umbral Lord.jpg",
     "Images/Vrikolaka.jpg",
     "Images/Vairae.jpg",
     "Images/Nightbringer.jpg",
-    "Backstory info/Lugares/Lugares.md",
-    "Backstory info/Lugares/Orfanato Lucero del Alba.md",
-    "Backstory info/Lugares/Lioncourt.md",
-    "Backstory info/Lugares/Castillo de Bescond.md",
-    "Backstory info/Lugares/Arterial.md",
-    "Backstory info/Personas/Personas.md",
-    "Backstory info/_Notas/Diario de Victoria.md",
-    "Backstory info/_Notas/Vampiros/Hematófago.md",
-    "Backstory info/Grupos/Orden del Lucero del Alba.md",
-    "Backstory info/_Notas/Vampiros/Vampiros.md",
-    "Backstory info/Lugares/Janthiria.md",
-    "Backstory info/Lugares/Las tierras conocidas.md",
-    "Backstory info/Lugares/Edén.md",
-    "Backstory info/Personas/Victoria Val Astar.md",
-    "Backstory info/Personas/Madelaine Val Astar.md",
     "Images/Madelaine Val Delaroux portrait.jpg",
-    "Backstory info/Personas/Gulthias.md",
-    "Backstory info/Personas/Alastor Val Astar.md",
-    "Backstory info/Dioses/Dioses.md",
-    "Backstory info/Grupos/Grupos.md",
-    "Images/Alastor Val Astar.jpg",
-    "Images/Svitanie.jpg",
-    "Images/Svitanie Muro.jpg",
-    "Images/Las tierras conocidas.jpg",
-    "Images/Familiar vampírico.jpg",
     "Excalidraw",
     "Backstory info/_Notas/Vampiros",
     "Backstory info/_Notas",
@@ -317,8 +329,6 @@
     "Backstory info/Dioses",
     "Backstory info/Lugares",
     "Images",
-    "Backstory info/Grupos",
-    "Backstory info/Personas",
-    "Templates"
+    "Backstory info/Grupos"
   ]
 }

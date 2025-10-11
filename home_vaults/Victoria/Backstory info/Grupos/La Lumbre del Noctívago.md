@@ -2,9 +2,9 @@
 Agrupación: Orden
 Afiliación:
   - "[[Gremio de la Luminaria]]"
-  - "[[El Luminarca]]"
+  - "[[Argón, El Luminarca]]"
 Ubicación: "[[Edén]]"
-Miembros: 
+Miembros:
 aliases:
   - La Lumbre
   - La Cúpula
