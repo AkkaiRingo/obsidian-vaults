@@ -14,3 +14,4 @@ tags:
 
 
 Pasarela entre dos reinos [[Primogénito|Primogénitos]]. 
+No se ven las estrellas. 
