@@ -1,9 +1,10 @@
 ---
 Categoría: Continente
-Ubicación: "[[Janthiria]]"
+Ubicación: "[[El mundo]]"
 Afiliación:
   - N/A
-aliases: 
+aliases:
+  - El Centro
 tags:
   - Lugar
 ---

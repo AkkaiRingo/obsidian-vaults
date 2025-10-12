@@ -4,7 +4,7 @@ Afiliación:
   - Deidades Mayores
   - Panteón Crisolar
   - Dioses Cardinales
-Ubicación: "[[Janthiria]]"
+Ubicación: "[[El mundo]]"
 Miembros:
 aliases:
 tags:

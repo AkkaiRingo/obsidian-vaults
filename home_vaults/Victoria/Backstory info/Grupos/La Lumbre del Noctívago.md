@@ -2,7 +2,7 @@
 Agrupación: Orden
 Afiliación:
   - "[[Gremio de la Luminaria]]"
-  - "[[Argón, El Luminarca]]"
+  - "[[Asta Argón]]"
 Ubicación: "[[Edén]]"
 Miembros:
 aliases:

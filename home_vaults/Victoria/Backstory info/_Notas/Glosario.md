@@ -16,8 +16,8 @@ Pinterest: [https://pin.it/1DhSganDR](https://pin.it/1DhSganDR) 
 | [[Svitanie]]                  | País, Alba/Amanecer en Eslovaco, [[Svitanie\|Valle del Hoyuelo]]                                             |
 | [[Las Tierras de la Esclera]] | País                                                                                                         |
 | [[Cordilleras del Pestañal]]  | Montes que rodean [[Las Tierras de la Esclera]]                                                              |
-| [[Las tierras conocidas]]     | Continente                                                                                                   |
-| [[Janthiria]]                 | Mundo                                                                                                        |
+| [[Las Tierras Legadas]]     | Continente                                                                                                   |
+| [[El mundo]]                 | Mundo                                                                                                        |
 #### Personas
 | Nombre                  | Notas                                                                                           |
 | ----------------------- | ----------------------------------------------------------------------------------------------- |
@@ -33,7 +33,7 @@ Pinterest: [https://pin.it/1DhSganDR](https://pin.it/1DhSganDR) 
 #### Grupos
 | Nombre                        | Notas                                                                                                                 |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| [[Gremio de la Luminaria]]    | Organización que rige [[Svitanie]], compuesto de órdenes de [[Noctívago\|noctívagos]], seguidores de [[Argón, El Luminarca]] |
+| [[Gremio de la Luminaria]]    | Organización que rige [[Svitanie]], compuesto de órdenes de [[Noctívago\|noctívagos]], seguidores de [[Asta Argón]] |
 | [[Noctívago]]                 | Cazadores de monstruos del [[Gremio de la Luminaria]]                                                                 |
 | [[La Lumbre del Noctívago]]   | Cúpula de líderes del [[Gremio de la Luminaria]], asentada en [[Edén]]                                                |
 | [[Orden del Lucero del Alba]] | Órden del [[Gremio de la Luminaria\|Gremio]], asentada en [[Lioncourt]]                                               |

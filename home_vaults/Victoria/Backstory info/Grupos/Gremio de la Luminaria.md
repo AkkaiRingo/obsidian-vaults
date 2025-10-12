@@ -1,7 +1,7 @@
 ---
 Agrupación: Gremio
 Afiliación:
-  - "[[Argón, El Luminarca]]"
+  - "[[Asta Argón]]"
 Ubicación: "[[Svitanie]]"
 Miembros:
 aliases:

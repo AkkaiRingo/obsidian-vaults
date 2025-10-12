@@ -1,11 +1,13 @@
 ---
-Dominio Cardinal:
+Dominio Cardinal: El Sur
 Dominios:
 Símbolos:
 Afiliación:
-Género:
+Género: Hombre
 Alineamiento:
 aliases:
+  - Astarte
+  - Primogénito de El Sur
 tags:
   - Dios
 ---

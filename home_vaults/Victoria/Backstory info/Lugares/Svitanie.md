@@ -1,6 +1,6 @@
 ---
 Categoría: País
-Ubicación: "[[Las tierras conocidas]]"
+Ubicación: "[[Las Tierras Legadas]]"
 Afiliación:
   - "[[Gremio de la Luminaria]]"
   - "[[Corte de Vairae]]"
