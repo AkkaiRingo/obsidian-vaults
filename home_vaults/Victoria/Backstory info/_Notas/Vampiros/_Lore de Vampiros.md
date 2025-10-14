@@ -28,3 +28,6 @@ TODO:
 - [x] nombres de [[Protogenos]]/[[Provecto Liturgo]] etc.
 - [x] nombres de tipo de [[Vampiros|vampiro]] (natural/nacido de los oscuro; ritualistas/etc.)
 - [ ] especificar más el backstory de [[Victoria Val Astar|Victoria]]
+
+## Nombres
+- [ ] Cornelius

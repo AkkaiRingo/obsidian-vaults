@@ -17,3 +17,4 @@ tags:
 aliases:
   - Louis
 ---
+![[Louis y Claudia Bescond.jpg]]

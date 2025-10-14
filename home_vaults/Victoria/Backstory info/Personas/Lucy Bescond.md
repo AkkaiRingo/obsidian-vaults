@@ -18,4 +18,4 @@ tags:
 aliases:
   - Lucy
 ---
-![[Lucy y Arthur Bescond.jpg]]
+![[Lucy Bescond.jpg]]

@@ -21,4 +21,7 @@ aliases:
   - Jonathan Bescond
   - Jonny
 ---
+
 ![[Jonathan del Alba.jpg]]
+
+![[Jonathan Bescond.jpg]]
