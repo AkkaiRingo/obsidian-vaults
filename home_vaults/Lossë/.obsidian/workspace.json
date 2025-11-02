@@ -48,8 +48,23 @@
               "icon": "lucide-file",
               "title": "Capitán Ramata"
             }
+          },
+          {
+            "id": "e447f92cdc1324fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Sesión.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sesión"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,7 +212,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df1193e3fe8f742c",
+  "active": "e447f92cdc1324fb",
   "lastOpenFiles": [
     "Personas/Kalaman (ciudad)/Capitán Ramata.md",
     "Untitled.md",

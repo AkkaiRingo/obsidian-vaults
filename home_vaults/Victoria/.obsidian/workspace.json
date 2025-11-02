@@ -52,13 +52,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Personas/Madelaine Val Astar.md",
-                "mode": "preview",
+                "file": "Templates/Sesión.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Madelaine Val Astar"
+              "title": "Sesión"
             }
           }
         ],
@@ -226,8 +226,11 @@
   },
   "active": "0a2e90448405b5e8",
   "lastOpenFiles": [
-    "Images/Madelaine Val Delaroux portrait.jpg",
+    "Backstory info/_Notas/Diario de Victoria.md",
+    "Lilah's Inventory.md",
+    "Backstory info/_Notas/Backstory.md",
     "Backstory info/Personas/Madelaine Val Astar.md",
+    "Images/Madelaine Val Delaroux portrait.jpg",
     "Backstory info/Personas/Personas.md",
     "Backstory info/_Notas/Vampiros/_Lore de Vampiros.md",
     "Backstory info/Personas/Madelaine Bescond.md",
@@ -248,8 +251,6 @@
     "Images/Lucy y Arthur Bescond.jpg",
     "Backstory info/Personas/Alastor Val Astar.md",
     "Backstory info/Lugares/Svitanie.md",
-    "Backstory info/_Notas/Diario de Victoria.md",
-    "Backstory info/_Notas/Backstory.md",
     "Backstory info/Lugares/Lugares.md",
     "Backstory info/Dioses/Dioses.md",
     "Backstory info/Lugares/El mundo.md",
@@ -264,7 +265,6 @@
     "Untitled 1.base",
     "Untitled.canvas",
     "Untitled.base",
-    "Images/Imagen de WhatsApp 2025-10-11 a las 15.44.00_42d7ce51.jpg",
     "Backstory info/_Notas/Vampiros/_Jerarquía Vampiros.canvas",
     "Excalidraw",
     "Backstory info/_Notas/Vampiros",
