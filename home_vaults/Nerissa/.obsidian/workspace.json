@@ -29,12 +29,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lilah/Session notes/Sesión 100.1.md",
+                "file": "Lilah/Session notes/Sesión 100.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesión 100.1"
+              "title": "Sesión 100.2"
+            }
+          },
+          {
+            "id": "081733cdf2a4ca22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lilah/Lilah's Inventory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lilah's Inventory"
             }
           }
         ],
@@ -190,15 +204,17 @@
   "active": "d1a8e0dfdf982457",
   "lastOpenFiles": [
     "Lilah/Lilah's Inventory.md",
-    "Lilah/Images/Pasted image 20251102185146.png",
+    "Lilah/Session notes/Sesión 100.2.md",
+    "Templates/Sesión.md",
     "Lilah/Session notes/Sesión 100.1.md",
+    "Invalid date.md",
+    "Lilah/Images/Pasted image 20251102185146.png",
     "Lilah/Images",
     "Lilah/Images/Oriflame.md",
     "Lilah/Images/Luca Dia Vicorne.md",
     "Lilah/Images/Pasted image 20251102180009.png",
     "Lilah/Images/Klaus Ul'Dáh.md",
     "Lilah/Images/Pasted image 20251102175959.png",
-    "Templates/Sesión.md",
     "Lilah/Session notes",
     "Templates",
     "Lilah",
@@ -223,7 +239,6 @@
     "Lossë/Sesiones/Sesión 8.md",
     "Lossë/Sesiones/Sesión 13.md",
     "Lossë/Sesiones/Sesión 19.md",
-    "Lossë/Sesiones/Sesión 21.md",
     "Lossë/Imágenes/05-003.dalamar.png",
     "Diddy/Notas/Pasted image 20241112194609.png",
     "Diddy/Notas/Pasted image 20241016205503.png",
