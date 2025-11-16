@@ -1,6 +1,8 @@
-Hit Dice: 5/6 (d8)
+Hit Dice: 6/6 (d8)
 
 500GP (Left --> 94GP)
+
+- Vial con "sangre" plateada de "Astral Elf Honor Guard" 
 
 | ITEM               | PRICE |
 | ------------------ | ----- |
