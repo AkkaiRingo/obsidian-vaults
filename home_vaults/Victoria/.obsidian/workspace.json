@@ -32,37 +32,22 @@
             }
           },
           {
-            "id": "03701051c7977a50",
+            "id": "9aaafc4f2e337fac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/_Notas/Vampiros/_Lore de Vampiros.md",
-                "mode": "source",
+                "file": "Backstory info/_Notas/Diario de Victoria.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "_Lore de Vampiros"
-            }
-          },
-          {
-            "id": "0a2e90448405b5e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Sesión.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Sesión"
+              "title": "Diario de Victoria"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,8 +183,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -224,21 +209,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a2e90448405b5e8",
+  "active": "9aaafc4f2e337fac",
   "lastOpenFiles": [
+    "Backstory info/_Notas/Backstory.md",
+    "Backstory info/_Notas/Vampiros/Vampiros.md",
+    "Backstory info/_Notas/Timeline.md",
+    "Backstory info/Grupos/Dioses Cardinales.md",
+    "Backstory info/Grupos/Grupos.md",
+    "Preguntas para Ima.md",
+    "Backstory info/Grupos/Corte de Vairae.md",
+    "Backstory info/Grupos/Clan Astar.md",
+    "Backstory info/Grupos/Noctívago.md",
+    "Backstory info/_Notas/Vampiros/_Jerarquía Vampiros.canvas",
+    "Backstory info/_Notas/Vampiros/_Jerarquía resumen.md",
+    "Backstory info/_Notas/Vampiros/_Lore de Vampiros.md",
+    "Templates/Sesión.md",
     "Backstory info/_Notas/Diario de Victoria.md",
     "Lilah's Inventory.md",
-    "Backstory info/_Notas/Backstory.md",
     "Backstory info/Personas/Madelaine Val Astar.md",
     "Images/Madelaine Val Delaroux portrait.jpg",
     "Backstory info/Personas/Personas.md",
-    "Backstory info/_Notas/Vampiros/_Lore de Vampiros.md",
     "Backstory info/Personas/Madelaine Bescond.md",
     "Images/Madelaine Bescond 2.jpg",
     "Images/Madelaine Bescond.jpg",
     "Backstory info/Personas/Gulthias.md",
     "Backstory info/Personas/Jonathan del Alba.md",
-    "Backstory info/_Notas/Timeline.md",
     "Backstory info/Personas/Arthur Bescond.md",
     "Backstory info/Personas/Lucy Bescond.md",
     "Backstory info/Personas/Louis Bescond.md",
@@ -252,20 +247,10 @@
     "Backstory info/Personas/Alastor Val Astar.md",
     "Backstory info/Lugares/Svitanie.md",
     "Backstory info/Lugares/Lugares.md",
-    "Backstory info/Dioses/Dioses.md",
-    "Backstory info/Lugares/El mundo.md",
-    "Backstory info/Lugares/Las Tierras Legadas.md",
-    "Backstory info/Dioses/Asta Argón.md",
     "Images/Imagen de WhatsApp 2025-10-11 a las 23.46.50_ce680309.jpg",
-    "Backstory info/Dioses/Asta Xenón.md",
-    "Backstory info/Lugares/Lioncourt.md",
-    "Backstory info/Dioses/Asta Isvaria.md",
-    "Backstory info/Dioses/Asta Bhaal.md",
-    "Backstory info/Dioses/Asta Astarte.md",
     "Untitled 1.base",
     "Untitled.canvas",
     "Untitled.base",
-    "Backstory info/_Notas/Vampiros/_Jerarquía Vampiros.canvas",
     "Excalidraw",
     "Backstory info/_Notas/Vampiros",
     "Backstory info/_Notas",
