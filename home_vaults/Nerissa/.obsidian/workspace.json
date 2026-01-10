@@ -24,33 +24,15 @@
             }
           },
           {
-            "id": "d1a8e0dfdf982457",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lilah/Session notes/Sesión 100.3.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Sesión 100.3"
-            }
-          },
-          {
-            "id": "e17ffab3b9c29a64",
+            "id": "6149eab9e4a1df47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Lilah/Session notes/Sesión 100.1.md",
-                "mode": "source",
-                "source": false
+                "file": "Akil/Akil.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Sesión 100.1"
+              "icon": "excalidraw-icon",
+              "title": "Akil.excalidraw"
             }
           }
         ],
@@ -203,11 +185,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d1a8e0dfdf982457",
+  "active": "6149eab9e4a1df47",
   "lastOpenFiles": [
-    "Lilah/Session notes/Sesión 100.1.md",
-    "Lilah/Session notes/Sesión 100.3.md",
+    "Lilah/Session notes/Sesión 100.4.md",
     "Lilah/Lilah's Inventory.md",
+    "Lilah/Session notes/Sesión 100.3.md",
+    "Lilah/Session notes/Sesión 100.1.md",
     "Lilah/Session notes/Sesión 100.2.md",
     "Invalid date.md",
     "Templates/Sesión.md",
@@ -240,7 +223,6 @@
     "Lossë/Sesiones/Sesión 14.md",
     "Lossë/Sesiones/Sesión 10.md",
     "Lossë/Sesiones/Sesión 8.md",
-    "Lossë/Sesiones/Sesión 13.md",
     "Lossë/Imágenes/05-003.dalamar.png",
     "Diddy/Notas/Pasted image 20241112194609.png",
     "Diddy/Notas/Pasted image 20241016205503.png",
