@@ -24,15 +24,15 @@
             }
           },
           {
-            "id": "6149eab9e4a1df47",
+            "id": "c2a706c396c5d8d9",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Akil/Akil.excalidraw.md"
+                "file": "Akil/Akil_2.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Akil.excalidraw"
+              "title": "Akil_2.excalidraw"
             }
           }
         ],
@@ -185,10 +185,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6149eab9e4a1df47",
+  "active": "c2a706c396c5d8d9",
   "lastOpenFiles": [
-    "Lilah/Session notes/Sesión 100.4.md",
     "Lilah/Lilah's Inventory.md",
+    "Akil/Akil_2.excalidraw.md",
+    "Akil/Akil.excalidraw.md",
+    "Nerissa/Mansion notes.md",
+    "Nerissa/Mansión de Nerissa.md",
+    "Lilah/Session notes/Sesión 100.4.md",
     "Lilah/Session notes/Sesión 100.3.md",
     "Lilah/Session notes/Sesión 100.1.md",
     "Lilah/Session notes/Sesión 100.2.md",
@@ -205,10 +209,7 @@
     "Templates",
     "Lilah",
     "Akil",
-    "Nerissa/Mansion notes.md",
     "Nerissa",
-    "Akil/Akil.excalidraw.md",
-    "Nerissa/Mansión de Nerissa.md",
     "Excalidraw/Akil_FlowChart.png",
     "Lossë/PCs/Lossë.md",
     "Lossë/Sesiones/Sesión 25.md",
@@ -222,7 +223,6 @@
     "Lossë/Sesiones/Sesión 9.md",
     "Lossë/Sesiones/Sesión 14.md",
     "Lossë/Sesiones/Sesión 10.md",
-    "Lossë/Sesiones/Sesión 8.md",
     "Lossë/Imágenes/05-003.dalamar.png",
     "Diddy/Notas/Pasted image 20241112194609.png",
     "Diddy/Notas/Pasted image 20241016205503.png",

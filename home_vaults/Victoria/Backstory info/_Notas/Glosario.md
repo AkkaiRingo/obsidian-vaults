@@ -16,8 +16,10 @@ Pinterest: [https://pin.it/1DhSganDR](https://pin.it/1DhSganDR) 
 | [[Svitanie]]                  | País, Alba/Amanecer en Eslovaco, [[Svitanie\|Valle del Hoyuelo]]                                             |
 | [[Las Tierras de la Esclera]] | País                                                                                                         |
 | [[Cordilleras del Pestañal]]  | Montes que rodean [[Las Tierras de la Esclera]]                                                              |
-| [[Las Tierras Legadas]]     | Continente                                                                                                   |
-| [[El mundo]]                 | Mundo                                                                                                        |
+| [[Las Tierras Legadas]]       | Continente                                                                                                   |
+| [[El mundo]]                  | Mundo                                                                                                        |
+|                               |                                                                                                              |
+|                               |                                                                                                              |
 #### Personas
 | Nombre                  | Notas                                                                                           |
 | ----------------------- | ----------------------------------------------------------------------------------------------- |
