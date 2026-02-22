@@ -8,35 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83003b173746584c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lilah/Lilah's Inventory.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Lilah's Inventory"
-            }
-          },
-          {
             "id": "c2a706c396c5d8d9",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Akil/Akil_2.excalidraw.md"
+                "file": "Akil/Akil_Barb_Pala.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Akil_2.excalidraw"
+              "title": "Akil_Barb_Pala.excalidraw"
+            }
+          },
+          {
+            "id": "580e288d58aca982",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Akil/Akil_Lvl19.png"
+              },
+              "icon": "lucide-image",
+              "title": "Akil_Lvl19"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,8 +182,10 @@
   },
   "active": "c2a706c396c5d8d9",
   "lastOpenFiles": [
+    "Akil/Akil_Lvl19.png",
+    "Untitled.md",
+    "Akil/Akil_Barb_Pala.excalidraw.md",
     "Lilah/Lilah's Inventory.md",
-    "Akil/Akil_2.excalidraw.md",
     "Akil/Akil.excalidraw.md",
     "Nerissa/Mansion notes.md",
     "Nerissa/Mansión de Nerissa.md",
@@ -221,8 +218,6 @@
     "Lossë/PCs/Marco.md",
     "Lossë/Sesiones/Sesión 20.md",
     "Lossë/Sesiones/Sesión 9.md",
-    "Lossë/Sesiones/Sesión 14.md",
-    "Lossë/Sesiones/Sesión 10.md",
     "Lossë/Imágenes/05-003.dalamar.png",
     "Diddy/Notas/Pasted image 20241112194609.png",
     "Diddy/Notas/Pasted image 20241016205503.png",
@@ -232,7 +227,6 @@
     "Excalidraw",
     "Untitled.canvas",
     "Lossë/Lugares/Cabo del Mentiroso",
-    "Lossë/Lugares/Camino del Árbol",
-    "Lossë/Imágenes/Pasted image 20240515234139.png"
+    "Lossë/Lugares/Camino del Árbol"
   ]
 }
