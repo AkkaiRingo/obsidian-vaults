@@ -1,6 +1,6 @@
 ---
 Categoría: País
-Ubicación: "[[Las Tierras Legadas]]"
+Ubicación: "[[Faerûn]]"
 Afiliación:
   - "[[Gremio de la Luminaria]]"
   - "[[Corte de Vairae]]"

@@ -2,7 +2,7 @@
 Agrupación: Orden
 Afiliación:
   - "[[Gremio de la Luminaria]]"
-  - "[[La Lumbre del Noctívago]]"
+  - "[[La Cúpula]]"
 Ubicación: "[[Lioncourt]]"
 Miembros:
   - "[[Jonathan del Alba]]"
@@ -14,3 +14,6 @@ aliases:
 tags:
   - "#Grupo"
 ---
+![[Generación Lucero del Alba.png]]
+
+![[Pasted image 20260302204933.png]]

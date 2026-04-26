@@ -1,6 +1,6 @@
 ---
 Género: Mujer
-Raza: Semi-elfo
+Raza: Elfo
 Profesión: "[[Noctívago]]"
 Lugar: "[[Lioncourt]]"
 F. Paternales:
@@ -18,4 +18,6 @@ aliases:
   - Victoria
   - Vicky
 ---
+![[Victoria_Prueba_Iluminacion.png]]
+
 ![[Victoria del Alba.jpg]]

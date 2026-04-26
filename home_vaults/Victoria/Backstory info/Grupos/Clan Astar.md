@@ -1,5 +1,5 @@
 ---
-Líder: 
+Líder: "[[Alastor Val Astar]]"
 Afiliación:
   - "[[Corte de Vairae]]"
 Ubicación: "[[Svitanie]]"

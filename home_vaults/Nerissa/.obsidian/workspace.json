@@ -18,18 +18,6 @@
               "icon": "excalidraw-icon",
               "title": "Akil_Barb_Pala.excalidraw"
             }
-          },
-          {
-            "id": "580e288d58aca982",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Akil/Akil_Lvl19.png"
-              },
-              "icon": "lucide-image",
-              "title": "Akil_Lvl19"
-            }
           }
         ]
       }
@@ -54,7 +42,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -150,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mansión Nerissa.md",
+                "file": "Akil/Akil_Barb_Pala.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mansión Nerissa"
+              "title": "Esquema de Akil_Barb_Pala.excalidraw"
             }
           }
         ],
@@ -164,18 +152,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
       "janitor:Janitor: scan vault": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }

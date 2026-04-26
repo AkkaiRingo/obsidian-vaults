@@ -3,8 +3,8 @@ Categoría: Ciudad
 Ubicación: "[[Svitanie]]"
 Afiliación:
   - "[[Gremio de la Luminaria]]"
-  - "[[La Lumbre del Noctívago]]"
-aliases: 
+  - "[[La Cúpula]]"
+aliases:
 tags:
   - Lugar
 ---

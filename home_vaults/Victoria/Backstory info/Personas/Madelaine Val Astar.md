@@ -13,5 +13,6 @@ aliases:
   - Madelaine Delaroux
   - Madelaine
 ---
+
 ![[Madelaine Val Delaroux portrait.jpg]]
 ![[Madelaine Val Delaroux outfit.jpg]]
