@@ -1,5 +1,4 @@
 ---
-Dominio Cardinal:
 Dominios:
 Símbolos:
 Afiliación:

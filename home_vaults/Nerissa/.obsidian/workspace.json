@@ -4,9 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "19d997cb21470698",
+        "id": "2bba8c255bcfdaa0",
         "type": "tabs",
         "children": [
+          {
+            "id": "1648aac20711bceb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
           {
             "id": "c2a706c396c5d8d9",
             "type": "leaf",
@@ -19,7 +29,8 @@
               "title": "Akil_Barb_Pala.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {

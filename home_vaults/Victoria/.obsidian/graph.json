@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-tag:#hidden  ",
+  "search": "-path:\"Backstory info/_Notas\"  -tag:#hidden ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -57,7 +57,7 @@
       }
     },
     {
-      "query": "path:\"Backstory info/_Notas/Vampiros\"  ",
+      "query": "path:\"Backstory info/Grupos/Tipos de Vampiros\"  ",
       "color": {
         "a": 1,
         "rgb": 9583175
@@ -74,6 +74,6 @@
   "repelStrength": 9.47916666666667,
   "linkStrength": 0.229166666666667,
   "linkDistance": 309,
-  "scale": 0.36288736930123355,
+  "scale": 0.3628873693012336,
   "close": false
 }

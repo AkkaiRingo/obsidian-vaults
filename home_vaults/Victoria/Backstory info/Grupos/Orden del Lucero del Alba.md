@@ -15,5 +15,3 @@ tags:
   - "#Grupo"
 ---
 ![[Generación Lucero del Alba.png]]
-
-![[Pasted image 20260302204933.png]]

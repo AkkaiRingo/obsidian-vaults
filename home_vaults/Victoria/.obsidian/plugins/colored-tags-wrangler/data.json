@@ -9,9 +9,9 @@
           "b": 255
         },
         "background_color": {
-          "r": 126,
-          "g": 229,
-          "b": 238
+          "r": 76,
+          "g": 147,
+          "b": 154
         },
         "luminance_offset": 0.15
       },
@@ -23,9 +23,9 @@
           "b": 255
         },
         "background_color": {
-          "r": 76,
-          "g": 230,
-          "b": 158
+          "r": 48,
+          "g": 141,
+          "b": 97
         },
         "luminance_offset": 0.15
       },
@@ -37,9 +37,9 @@
           "b": 255
         },
         "background_color": {
-          "r": 254,
-          "g": 228,
-          "b": 62
+          "r": 182,
+          "g": 164,
+          "b": 47
         },
         "luminance_offset": 0.15
       },
@@ -51,9 +51,9 @@
           "b": 255
         },
         "background_color": {
-          "r": 211,
-          "g": 158,
-          "b": 255
+          "r": 131,
+          "g": 97,
+          "b": 158
         },
         "luminance_offset": 0.15
       },
@@ -65,9 +65,23 @@
           "b": 255
         },
         "background_color": {
-          "r": 102,
-          "g": 133,
+          "r": 72,
+          "g": 93,
+          "b": 177
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "TODO",
+        "color": {
+          "r": 255,
+          "g": 255,
           "b": 255
+        },
+        "background_color": {
+          "r": 162,
+          "g": 63,
+          "b": 63
         },
         "luminance_offset": 0.15
       }

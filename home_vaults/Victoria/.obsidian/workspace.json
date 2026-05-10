@@ -8,20 +8,9 @@
         "type": "tabs",
         "children": [
           {
-            "id": "375374f88fda0e7d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "9bd5081b23a01049",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -30,12 +19,43 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Glosario"
             }
           },
           {
-            "id": "0866e8a447f84591",
+            "id": "1bc32402f39440c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/_Notas/Notas varias sin hogar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Notas varias sin hogar"
+            }
+          },
+          {
+            "id": "f038e184f0cde641",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/_Notas/TODO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "faa1d1aa605f6391",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +70,7 @@
             }
           },
           {
-            "id": "40faee96648722b1",
+            "id": "8901228f153b4d1c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -60,9 +80,21 @@
               "icon": "excalidraw-icon",
               "title": "Generación_del_Alba.excalidraw"
             }
+          },
+          {
+            "id": "35ee9670450c953e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Backstory info/_Notas/Timeline.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Timeline"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,17 +167,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preguntas para Ima.md",
+                "file": "Backstory info/_Notas/Generación_del_Alba.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Preguntas para Ima"
+              "title": "Enlaces entrantes de Generación_del_Alba.excalidraw"
             }
           },
           {
@@ -154,12 +186,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backstory info/Dioses/Argón, El Luminarca.md",
+                "file": "Backstory info/_Notas/Backstory.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Argón, El Luminarca"
+              "title": "Enlaces salientes de Backstory"
             }
           },
           {
@@ -202,8 +234,7 @@
               "title": "advanced-tables-toolbar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,56 +255,58 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0866e8a447f84591",
+  "active": "8901228f153b4d1c",
   "lastOpenFiles": [
-    "Backstory info/_Notas/Generación_del_Alba.excalidraw.md",
-    "Backstory info/_Notas/Jerarquía_Lumbre.excalidraw.md",
-    "Backstory info/Personas/Victoria del Alba.md",
-    "Backstory info/Lugares/Lioncourt.md",
-    "Backstory info/_Notas/Backstory.md",
-    "Images/Victoria_Prueba_Iluminacion.png",
-    "Images/Pasted image 20260426200339.png",
-    "Backstory info/Personas/Personas.md",
-    "Amaunator.md",
-    "Backstory info/_Notas/Glosario.md",
-    "Backstory info/Personas/Madelaine Bescond.md",
-    "Backstory info/Grupos/Grupos.md",
-    "Backstory info/Grupos/Gremio de la Luminaria.md",
-    "Backstory info/Grupos/La Cúpula.md",
-    "Backstory info/Grupos/Orden del Lucero del Alba.md",
-    "Backstory info/Personas/Jonathan del Alba.md",
-    "Images/Pasted Image 20260425200758_563.png",
-    "Images/Pasted Image 20260425200436_963.png",
-    "Images/Pasted Image 20260425195929_443.png",
-    "Images/Pasted Image 20260425195726_937.png",
-    "Images/Pasted Image 20260425195511_341.png",
-    "Images/Pasted Image 20260425195233_805.png",
-    "Images/Pasted Image 20260425193227_999.png",
-    "Images/Pasted Image 20260425193024_003.png",
-    "Backstory info/Grupos/Noctívago.md",
-    "Backstory info/Grupos/Clan Astar.md",
-    "Backstory info/Dioses/Dioses.md",
-    "Backstory info/Dioses/Asta Argón.md",
-    "Backstory info/Grupos/Dioses Cardinales.md",
-    "Backstory info/Lugares/Faerûn.md",
-    "Backstory info/Lugares/Toril.md",
-    "Backstory info/Lugares/Svitanie.md",
-    "Backstory info/Personas/Madelaine Val Astar.md",
-    "Backstory info/_Notas/Diario de Victoria.md",
     "Backstory info/_Notas/Timeline.md",
-    "Backstory info/_Notas/Vampiros/_Jerarquía Vampiros.canvas",
+    "Backstory info/_Notas/TODO.md",
+    "Backstory info/_Notas/Notas varias sin hogar.md",
+    "Backstory info/_Notas/Generación_del_Alba.excalidraw.md",
+    "Backstory info/_Notas/Backstory.md",
+    "Images/Pasted Image 20260510152211_381.png",
+    "Images/Pasted Image 20260510151955_816.png",
+    "Images/Pasted Image 20260510151737_602.png",
+    "Images/Pasted Image 20260510151459_752.png",
+    "Backstory info/Lugares/Orfanato Lucero del Alba.md",
+    "Backstory info/Grupos/Tipos de Vampiros/_Jerarquía resumen.md",
+    "Backstory info/Grupos/Tipos de Vampiros/_Jerarquía Vampiros.canvas",
+    "Backstory info/Grupos/Tipos de Vampiros/_Lore de Vampiros.md",
+    "Backstory info/_Notas/Glosario.md",
+    "Backstory info/Grupos/Tipos de Vampiros/Vampiros.md",
+    "Backstory info/Grupos/aaaaVampiros/aaaaVampiros.md",
+    "Backstory info/Grupos/Tipos de Vampiros/Vrykolaka.md",
+    "Backstory info/Grupos/Tipos de Vampiros/Vetusto.md",
+    "Backstory info/Grupos/Tipos de Vampiros/Umbral Lord.md",
+    "Backstory info/Grupos/Tipos de Vampiros/Sacramento.md",
+    "Backstory info/Grupos/Tipos de Vampiros/Provecto Liturgo.md",
+    "Backstory info/Grupos/Tipos de Vampiros/Protogenos.md",
+    "Backstory info/Grupos/Tipos de Vampiros/Protogenos Inmemorial.md",
+    "Backstory info/Grupos/Tipos de Vampiros/Nightbringer.md",
+    "Backstory info/Grupos/Tipos de Vampiros/Liturgo.md",
+    "Backstory info/Grupos/Tipos de Vampiros/Liturgia.md",
+    "Backstory info/Grupos/Tipos de Vampiros/Lamia.md",
+    "Backstory info/Grupos/Tipos de Vampiros/Lamia Alastora.md",
+    "Backstory info/Grupos/Tipos de Vampiros/Hematófago.md",
+    "Backstory info/Grupos/Tipos de Vampiros/Familiar Vampírico.md",
+    "Backstory info/Grupos/Tipos de Vampiros/Alastoras.md",
+    "Backstory info/Grupos/Tipos de Vampiros",
+    "Images/Pasted Image 20260508174807_077.png",
+    "Images/Pasted Image 20260508174557_830.png",
+    "Images/Pasted Image 20260508174246_680.png",
+    "Images/Pasted Image 20260508174029_157.png",
+    "Images/Pasted Image 20260508173713_463.png",
+    "Images/15_Belinda_2.1.jpg",
+    "Backstory info/Grupos/aaaaVampiros/_Jerarquía Vampiros.canvas",
     "Untitled 1.base",
     "Untitled.canvas",
     "Untitled.base",
     "Excalidraw",
-    "Backstory info/_Notas/Vampiros",
+    "Backstory info/Grupos/aaaaVampiros",
     "Backstory info/_Notas",
     "Backstory info/Lugares/Lugares.canvas",
     "Untitled/Untitled.canvas",
     "Test folder",
     "Backstory info/Dioses",
     "Backstory info/Lugares",
-    "Images",
-    "Backstory info/Grupos"
+    "Images"
   ]
 }
