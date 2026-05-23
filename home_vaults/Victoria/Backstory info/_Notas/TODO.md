@@ -18,13 +18,14 @@
 #### Grupos
 - [[Gremio de la Luminaria]]
 	- [ ] Nombre del obispo de [[Edén]]
-		- [x] [[Cedrón]]
+		- [x] [[Obispo Cedrón]]
 		- [ ] Apellido? Viene de alguna orden o familia noble? Seguramente es un [[Cirio]]
 	- [x] Cómo se llaman los elegidos de [[Gremio de la Luminaria|La Lumbre]]?
 		- [x] Elegido recién descubierto --> [[Cirio]]
 		- [x] Elegidos instruidos --> [[Caballeros de la Llama Sempiterna]]? 
 	- [ ] Jerarquía de personas dentro del [[Gremio de la Luminaria]]
-		- [ ] Cuál es el cargo más alto? "Ahora" es [[Cedrón]], pero cuando fue a ver a [[Victoria del Alba|Victoria]] tenía un cargo menor
+		- [ ] Cuál es el cargo más alto? "Ahora" es [[Obispo Cedrón]], pero cuando fue a ver a [[Victoria del Alba|Victoria]] tenía un cargo menor
 	- [x] Adjetivo para describir la luz verdadera de [[Amaunator]], [[Sempiterna]] ??
 - [ ] [[criaturas de la noche]] ??
 - [ ] Cómo se llama la magia que usan los [[Noctívago|Noctívagos]], derivada de la que usan las [[criaturas de la noche]] ??
+- [ ] Diferencia entre orden y gremio...? [[Gremio de la Luminaria]]?

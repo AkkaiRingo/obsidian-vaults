@@ -4,5 +4,6 @@
     "Templates/",
     "\"Backstory info\\/Notas\\/_.*\""
   ],
-  "attachmentFolderPath": "Images"
+  "attachmentFolderPath": "Images",
+  "promptDelete": false
 }

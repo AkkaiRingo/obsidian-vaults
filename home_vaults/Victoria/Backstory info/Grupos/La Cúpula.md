@@ -1,4 +1,5 @@
 ---
+Líder: "[[Obispo Cedrón]]"
 Agrupación: Orden
 Afiliación:
   - "[[Gremio de la Luminaria]]"

@@ -17,8 +17,6 @@ Pinterest: [https://pin.it/1DhSganDR](https://pin.it/1DhSganDR) 
 | [[Svitanie]]                  | País, Alba/Amanecer en Eslovaco, [[Svitanie\|Valle del Hoyuelo]]                                                      |
 | [[Faerûn]]                    | Continente                                                                                                            |
 | [[Toril]]                     | Mundo                                                                                                                 |
-|                               |                                                                                                                       |
-|                               |                                                                                                                       |
 #### Personas
 | Nombre                  | Notas                                                                                           |
 | ----------------------- | ----------------------------------------------------------------------------------------------- |
@@ -39,7 +37,3 @@ Pinterest: [https://pin.it/1DhSganDR](https://pin.it/1DhSganDR) 
 | [[Familia Bescond]]           | Familia regente de [[Lioncourt]]                                                                                   |
 | [[Corte de Vairae]]           | Corte de [[Vampiros\|vampiros]] de [[Svitanie]]                                                                    |
 | [[Clan Astar]]                | Clan de [[Alastor Val Astar]]                                                                                      |
-
----
-
-

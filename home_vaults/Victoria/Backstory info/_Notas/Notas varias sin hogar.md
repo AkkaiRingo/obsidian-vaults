@@ -18,7 +18,7 @@
 - [[Alastor]] in a "bed" of flowers (narciso/white lily)
 
 ## Examen [[Noctívago]]
-Parte del examen de Noctívagos es ver si son resistentes a las toxinas que se injectan en el cuerpo para poder hacer sus técnicas. Hace que automáticamente suspendas. Pero no está permitido hacer la prueba antes del examen porque está prohibido hacer el ritual con menores. Se justifica así como para proteger a la gente (porque sí sale muy muy mal podrían hasta morir), pero en realidad es para no arriesgarse a contaminar a ningún Cirio.
+Parte del examen de Noctívagos es ver si son resistentes a las toxinas que se inyectan en el cuerpo para poder hacer sus técnicas. Hace que automáticamente suspendas. Pero no está permitido hacer la prueba antes del examen porque está prohibido hacer el ritual con menores. Se justifica así como para proteger a la gente (porque sí sale muy muy mal podrían hasta morir), pero en realidad es para no arriesgarse a contaminar a ningún Cirio.
 
 #### Nombres sin usar
 - Mina

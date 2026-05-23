@@ -1,4 +1,5 @@
 ---
+Líder:
 Agrupación: Orden
 Afiliación:
   - "[[Gremio de la Luminaria]]"

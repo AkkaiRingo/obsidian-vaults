@@ -1,9 +1,10 @@
 ---
-Agrupación: 
-Afiliación: 
-Ubicación: 
-Miembros: 
-aliases: 
+Líder:
+Agrupación:
+Afiliación:
+Ubicación:
+Miembros:
+aliases:
 tags:
   - "#Grupo"
 ---

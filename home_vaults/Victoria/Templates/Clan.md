@@ -1,12 +1,11 @@
 ---
-Líder: 
+Líder:
 Afiliación:
   - "[[Corte de Vairae]]"
-Ubicación:
-  - "[[Svitanie]]"
-Miembros: 
+Ubicación: "[[Svitanie]]"
+Miembros:
 Agrupación: Clan
-aliases: 
+aliases:
 tags:
   - "#Grupo"
   - Clan

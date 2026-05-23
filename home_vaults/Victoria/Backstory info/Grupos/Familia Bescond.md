@@ -1,4 +1,5 @@
 ---
+Líder: "[[Madelaine Bescond]]"
 Agrupación: Familia
 Afiliación:
   - "[[Gremio de la Luminaria]]"

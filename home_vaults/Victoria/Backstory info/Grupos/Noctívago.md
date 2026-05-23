@@ -1,9 +1,10 @@
 ---
+Líder:
 Agrupación: Gremio
 Afiliación:
   - "[[Gremio de la Luminaria]]"
 Ubicación: "[[Svitanie]]"
-Miembros: 
+Miembros:
 aliases:
   - Noctívagos
   - noctívago

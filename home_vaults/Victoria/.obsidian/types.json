@@ -5,7 +5,7 @@
     "tags": "tags",
     "Género": "text",
     "Profesión": "text",
-    "Lugar": "text",
+    "Lugar": "multitext",
     "Día": "multitext",
     "Reinos": "multitext",
     "excalidraw-plugin": "text",

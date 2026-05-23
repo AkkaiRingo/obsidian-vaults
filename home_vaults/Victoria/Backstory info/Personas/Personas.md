@@ -1,6 +1,6 @@
 ### Mortales
 ```dataview 
-table Raza, Profesión, Lugar
+table Raza, Profesión, Lugar from #Persona 
 where startswith(file.folder, this.file.folder) and !regexmatch(file.name, this.file.name) and !Clan
 sort file.name ASC
 ```
