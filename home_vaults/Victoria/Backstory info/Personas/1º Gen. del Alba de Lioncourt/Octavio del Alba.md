@@ -19,3 +19,4 @@ aliases:
 
 ![[07_Octavio_1.1.jpg]]
 
+![[07_Octavio_2.1.png]]

@@ -25,5 +25,6 @@ aliases:
 
 ![[16_Victoria_2.1.png]]
 
-![[Victoria_Prueba_Iluminacion.png]]
+![[Victoria prueba Cirio.png]]
 
+![[Victoria Aurora.png]]

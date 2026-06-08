@@ -8,321 +8,109 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac87e71b7349f7e0",
+            "id": "29133b4797f3ea8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/1º Gen. del Alba de Lioncourt.md",
+                "file": "Backstory info/_Notas/TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1º Gen. del Alba de Lioncourt"
+              "title": "TODO"
             }
           },
           {
-            "id": "019ce30417edd3c3",
+            "id": "3ed3d00b6d48ba03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Anastasia del Alba.md",
+                "file": "Backstory info/Personas/Obispo Cedrón.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Anastasia del Alba"
+              "title": "Obispo Cedrón"
             }
           },
           {
-            "id": "196f52af46515743",
+            "id": "c6e52315908f4310",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Agatha del Alba.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Backstory info/_Notas/Jerarquía_Lumbre.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Agatha del Alba"
+              "icon": "excalidraw-icon",
+              "title": "Jerarquía_Lumbre.excalidraw"
             }
           },
           {
-            "id": "0febc4a803bf3b7b",
+            "id": "cc730b5e34fd823c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Dorian del Alba.md",
+                "file": "Backstory info/Personas/Amelia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Dorian del Alba"
+              "title": "Amelia"
             }
           },
           {
-            "id": "a375e30396df3918",
+            "id": "bd6b8997bbb4f55b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Mallory del Alba.md",
+                "file": "Resumen Svitanie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Mallory del Alba"
+              "title": "Resumen Svitanie"
             }
           },
           {
-            "id": "e904e06f901db154",
+            "id": "cba782ecb4dd58ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Barnaby del Alba.md",
+                "file": "Backstory info/Personas/Vampiros/Alastor Val Astar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Barnaby del Alba"
+              "title": "Alastor Val Astar"
             }
           },
           {
-            "id": "84bfc489e43f1c74",
+            "id": "63b670ba6dc70eca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Elvira del Alba.md",
+                "file": "Backstory info/_Notas/Glosario.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Elvira del Alba"
-            }
-          },
-          {
-            "id": "3aa5a2023a3b97f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Octavio del Alba.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Octavio del Alba"
-            }
-          },
-          {
-            "id": "d5eb6a881371019d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Josephine del Alba.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Josephine del Alba"
-            }
-          },
-          {
-            "id": "aad8c06d2fe76fcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Wilbur del Alba.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Wilbur del Alba"
-            }
-          },
-          {
-            "id": "d9da4d94a54a5d38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Thaddeus del Alba.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Thaddeus del Alba"
-            }
-          },
-          {
-            "id": "f539639995624936",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Reginald del Alba.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Reginald del Alba"
-            }
-          },
-          {
-            "id": "fbf9f272fa013c94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Isabella del Alba.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Isabella del Alba"
-            }
-          },
-          {
-            "id": "aaffef3bfc19a316",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Nicodemus del Alba.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Nicodemus del Alba"
-            }
-          },
-          {
-            "id": "4139dbf463004158",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Gilbert del Alba.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Gilbert del Alba"
-            }
-          },
-          {
-            "id": "dd09bc324eabd6c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Belinda del Alba.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Belinda del Alba"
-            }
-          },
-          {
-            "id": "88f6fc8f4af7ac59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Victoria del Alba.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Victoria del Alba"
-            }
-          },
-          {
-            "id": "8305d6f9f7559f78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Jonathan del Alba.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Jonathan del Alba"
-            }
-          },
-          {
-            "id": "967d09634bc14ff5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Samara del Alba.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Samara del Alba"
-            }
-          },
-          {
-            "id": "613bb9e0959df21a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Cassiel del Alba.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Cassiel del Alba"
-            }
-          },
-          {
-            "id": "a02785133378da03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Annabel del Alba.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Annabel del Alba"
+              "title": "Glosario"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -395,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/1º Gen. del Alba de Lioncourt.md",
+                "file": "Backstory info/_Notas/Jerarquía_Lumbre.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -405,7 +193,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 1º Gen. del Alba de Lioncourt"
+              "title": "Enlaces entrantes de Jerarquía_Lumbre.excalidraw"
             }
           },
           {
@@ -414,12 +202,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Generación_del_Alba.excalidraw.md",
+                "file": "Backstory info/_Notas/Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Generación_del_Alba.excalidraw"
+              "title": "Enlaces salientes de Timeline"
             }
           },
           {
@@ -466,7 +254,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -482,48 +271,49 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac87e71b7349f7e0",
+  "active": "63b670ba6dc70eca",
   "lastOpenFiles": [
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Anastasia del Alba.md",
-    "Backstory info/Personas/Personas.md",
+    "Backstory info/Personas/Vampiros/Alastor Val Astar.md",
+    "Backstory info/Lugares/Svitanie.md",
+    "Resumen Svitanie.md",
+    "Backstory info/Lugares/Arterial.md",
+    "Backstory info/Lugares/Castillo de Bescond.md",
+    "Backstory info/Lugares/Edén.md",
+    "Backstory info/Lugares/Toril.md",
+    "Backstory info/Lugares/Orfanato Lucero del Alba.md",
+    "Backstory info/Lugares/Lioncourt.md",
+    "Backstory info/Lugares/Faerûn.md",
+    "Backstory info/Lugares/El estanque de Hemolacria.md",
+    "Backstory info/Grupos/Tipos de Vampiros/_Jerarquía Vampiros.canvas",
+    "Backstory info/Grupos/Tipos de Vampiros/_Jerarquía resumen.md",
+    "Images/Pasted image 20260602230329.png",
+    "Backstory info/Personas/Amelia.md",
+    "Backstory info/_Notas/Jerarquía_Lumbre.excalidraw.md",
+    "Backstory info/Personas/Obispo Cedrón.md",
+    "Backstory info/Grupos/La Cúpula.md",
+    "Backstory info/Grupos/Gremio de la Luminaria.md",
+    "Images/Pasted image 20260602230338.png",
+    "Backstory info/_Notas/Backstory.md",
+    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/_Generación_del_Alba.excalidraw.md",
     "Backstory info/Personas/1º Gen. del Alba de Lioncourt/1º Gen. del Alba de Lioncourt.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Thaddeus del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Wilbur del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Josephine del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Octavio del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Elvira del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Barnaby del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Mallory del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Dorian del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Agatha del Alba.md",
+    "Excalidraw/Drawing 2026-05-31 20.25.22.excalidraw.md",
     "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Jonathan del Alba.md",
     "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Victoria del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Belinda del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Samara del Alba.md",
-    "Backstory info/Personas/Vampiros/Victoria Val Astar.md",
-    "Images/Victoria Val Astar portrait.jpg",
-    "Images/Victoria Val Astar dress.jpg",
-    "Images/Victoria Val Astar Armor.jpg",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Annabel del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Cassiel del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Gilbert del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Nicodemus del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Isabella del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Reginald del Alba.md",
-    "Images/02_Agatha_1.1.jpg",
+    "Backstory info/Grupos/Grupos.md",
     "Backstory info/_Notas/TODO.md",
-    "Images/Vrykolaka.jpg",
+    "Preguntas para Ima.md",
+    "Images/Victoria Aurora.png",
+    "Images/Victoria prueba Cirio.png",
     "Images/Victoria_Prueba_Iluminacion.png",
-    "Images/Vairae.jpg",
-    "Images/Umbral Lord.jpg",
-    "Images/Svitanie Vista Acantilado.jpg",
-    "Images/Svitanie.jpg",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Generación_del_Alba.excalidraw.md",
+    "Images/Madelaine Delaroux outfit.jpg",
+    "Images/Madelaine Val Delaroux portrait.jpg",
+    "Images/Madelaine Val Astar.png",
+    "Images/01_Anastasia_1.1.png",
+    "Images/Pasted Image 20260529173020_191.png",
     "Backstory info/Grupos/Clanes",
     "Backstory info/Grupos/Dioses",
     "Backstory info/Personas/1º Gen. del Alba de Lioncourt",
     "Backstory info/Personas/Vampiros",
-    "Backstory info/Grupos/Tipos de Vampiros/_Jerarquía Vampiros.canvas",
     "Backstory info/Grupos/Tipos de Vampiros",
     "Backstory info/Grupos/aaaaVampiros/_Jerarquía Vampiros.canvas",
     "Untitled 1.base",

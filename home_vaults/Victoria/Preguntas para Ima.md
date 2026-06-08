@@ -2,7 +2,7 @@
 
 ---
 ---
-## 1. Artificial Form &rarr; Undead (M&V)
+## 1. Artificial Form & Undead (M&V)
 
 > [!tip] [Artificial Form](https://www.dndbeyond.com/sources/dnd/ghpg/chapter-1-heritages-traits#ArtificialFormExploration) 
 > You were made, not born, and your unnatural origin forever marks you as different. You are a **Construct**, but your enchanted form still benefits from healing spells. You can also heal yourself by spending Hit Dice during Short Rests and Long Rests, as normal.

@@ -14,5 +14,6 @@ aliases:
   - Madelaine
 ---
 
-![[Madelaine Val Delaroux portrait.jpg]]
-![[Madelaine Val Delaroux outfit.jpg]]
+![[Madelaine Val Astar.png]]
+
+![[Madelaine Delaroux outfit.jpg]]
