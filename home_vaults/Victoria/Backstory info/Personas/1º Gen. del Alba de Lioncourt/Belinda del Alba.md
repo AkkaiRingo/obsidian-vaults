@@ -3,7 +3,7 @@ Género: Mujer
 Raza: Tiefling
 Profesión: "[[Noctívago]]"
 Lugar:
-  - "[[Lioncourt]]"
+  "[[Lioncourt]]"
 F. Paternales:
   - N/A
 F. Fraternales:

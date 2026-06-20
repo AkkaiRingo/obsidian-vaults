@@ -5,10 +5,12 @@ SORT Ubicación ASC
 SORT
 choice(Categoría = "Mundo", "1",
 choice(Categoría = "Continente", "2",
-choice(Categoría = "País", "3",
+choice(Categoría = "Región", "3",
 choice(Categoría = "Río", "4",
-choice(Categoría = "Ciudad", "5",
-choice(Categoría = "Pueblo", "6",
-choice(Categoría = "Edificación", "7", "other"
-)))))))
+choice(Categoría = "Bosque", "5",
+choice(Categoría = "Ciudad", "6",
+choice(Categoría = "Pueblo", "7",
+choice(Categoría = "Edificación", "8", "other"
+))))))))
 ```
+

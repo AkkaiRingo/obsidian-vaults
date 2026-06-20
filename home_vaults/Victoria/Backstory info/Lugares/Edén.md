@@ -2,7 +2,7 @@
 Categoría: Ciudad
 Ubicación: "[[Svitanie]]"
 Afiliación:
-  - "[[Gremio de la Luminaria]]"
+  - "[[Orden de la Luminaria]]"
   - "[[La Cúpula]]"
 aliases:
 tags:

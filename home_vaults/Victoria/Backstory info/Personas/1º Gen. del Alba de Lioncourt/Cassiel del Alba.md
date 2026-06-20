@@ -2,8 +2,7 @@
 Género: Hombre
 Raza: Humano
 Profesión: Pastor
-Lugar:
-  - "[[Lioncourt]]"
+Lugar: "[[Lioncourt]]"
 F. Paternales:
 F. Fraternales:
 Pareja:

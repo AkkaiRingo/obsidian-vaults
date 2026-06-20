@@ -1,0 +1,1 @@
+El nombre dado a la luz verdadera, pura y eterna de [[Amaunator]]. 

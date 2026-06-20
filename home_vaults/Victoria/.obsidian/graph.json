@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:\"Backstory info/_Notas\"  -tag:#hidden ",
+  "search": "-path:\"Backstory info/_Notas\"  -tag:#hidden -file:.canvas -file:.excalidraw",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -74,6 +74,6 @@
   "repelStrength": 9.47916666666667,
   "linkStrength": 0.229166666666667,
   "linkDistance": 309,
-  "scale": 0.3628873693012336,
-  "close": false
+  "scale": 0.36288736930123383,
+  "close": true
 }

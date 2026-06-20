@@ -2,7 +2,7 @@
 Líder: "[[Madelaine Bescond]]"
 Agrupación: Familia
 Afiliación:
-  - "[[Gremio de la Luminaria]]"
+  - "[[Orden de la Luminaria]]"
   - "[[Orden del Lucero del Alba]]"
 Ubicación: "[[Lioncourt]]"
 Miembros:

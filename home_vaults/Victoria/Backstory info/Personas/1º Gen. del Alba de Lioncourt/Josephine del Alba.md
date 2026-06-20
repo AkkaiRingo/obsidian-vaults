@@ -2,8 +2,7 @@
 Género: Mujer
 Raza: Humano
 Profesión: Pastor
-Lugar:
-  - "[[Lioncourt]]"
+Lugar: "[[Lioncourt]]"
 F. Paternales:
   - N/A
 F. Fraternales:

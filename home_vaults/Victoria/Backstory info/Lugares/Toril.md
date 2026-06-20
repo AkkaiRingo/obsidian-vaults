@@ -2,8 +2,7 @@
 Categoría: Mundo
 Ubicación: N/A
 Afiliación:
-  - N/A
-aliases: 
+aliases:
 tags:
   - Lugar
 ---

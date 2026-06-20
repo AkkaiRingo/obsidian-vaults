@@ -1,8 +1,8 @@
 ---
-Líder:
+Líder: "[[Ismael Orellana]]"
 Agrupación: Gremio
 Afiliación:
-  - "[[Gremio de la Luminaria]]"
+  - "[[Orden de la Luminaria]]"
 Ubicación: "[[Svitanie]]"
 Miembros:
 aliases:

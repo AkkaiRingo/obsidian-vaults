@@ -6,6 +6,7 @@ Maestro: "[[Alastor Val Astar]]"
 Tipo de V.: "[[Lamia Alastora]]"
 Ascensión: "[[Alastor Val Astar]]"
 Lugar: "[[Lioncourt]]"
+Pareja: "[[Alastor Val Astar]]"
 tags:
   - Persona
   - Vampiro

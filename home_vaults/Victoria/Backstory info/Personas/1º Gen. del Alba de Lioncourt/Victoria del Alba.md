@@ -2,8 +2,7 @@
 Género: Mujer
 Raza: Elfo
 Profesión: "[[Noctívago]]"
-Lugar:
-  - "[[Lioncourt]]"
+Lugar: "[[Lioncourt]]"
 F. Paternales:
   - N/A
 F. Fraternales:
@@ -27,4 +26,4 @@ aliases:
 
 ![[Victoria prueba Cirio.png]]
 
-![[Victoria Aurora.png]]
+![[Victoria Mina.png]]
