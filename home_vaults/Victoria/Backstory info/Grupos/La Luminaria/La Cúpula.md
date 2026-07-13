@@ -24,7 +24,7 @@ Líderes de la [[Orden de la Luminaria]], compuesto por obispos que lideran dife
 
 | Puesto                            | Nombre                 | Imágen                      |
 | --------------------------------- | ---------------------- | --------------------------- |
-| Justicia                          | [[Juliette Dubois]]    | ![[Juliette Dubois.png]]         |
+| Justicia                          | [[Juliette Dubois]]    | ![[Juliette Dubois.png]]    |
 | Defensa                           | [[Emilio Cedrón]]      | ![[Emilio Cedrón.png]]      |
 | Educación                         | [[Ismael Orellana]]    | ![[Ismael Orellana.png]]    |
 | Agricultura, Pesca y Alimentación | [[Sylvia Courvoisier]] | ![[Sylvia Courvoisier.png]] |
