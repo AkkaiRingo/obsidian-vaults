@@ -6,3 +6,5 @@
 
 - Cloak of the Bat --> transformarme también en lobo o rata?
 - Tener el cantrip de dancing lights con Victoria "de gratis"
+
+- para Calculating Listener, podemos hacer el DC con otro stat en lugar de Carisma? como hago con Convincing Inquisitor

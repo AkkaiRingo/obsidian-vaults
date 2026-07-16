@@ -13,43 +13,43 @@
 |     | Species 8 | Artificial Form              |
 |     | Feat 0    | Convincing Inquisitor        |
 
-| Lvl | Slot      | Victoria                                                         |
-| --- | --------- | ---------------------------------------------------------------- |
-| 1   | Extra (?) | *Dancing Lights*                                                 |
-|     | Species 1 | Natural Attack                                                   |
-|     | Species 2 | Draining Attack                                                  |
-|     | Species 3 | Touch of Life                                                    |
-|     | Species 4 | Instinctive Stealth                                              |
-|     | Species 5 | Magical Savvy (Friends)<br>*Calculating Listener*<br>*Fade Away* |
-|     | Species 6 | Magical Savant (Shield)<br>*?*<br>*Skill Prowess*                |
-|     | Species 7 | Even in Sleep                                                    |
-|     | Species 8 | Artificial Form                                                  |
-|     | Feat 0    | Convincing Inquisitor                                            |
-|     | Monk 1    | Martial Arts<br>Unarmored Defense                                |
-|     | VS 1      | Bite (+)<br>(DEX +2)<br>Hide BA<br>Prof/Exp Stealth              |
-| 2   | Monk 2    | Monk's Focus<br>Unarmored Movement<br>Uncanny Metabolism         |
-| 3   | Monk 3    | Deflect Attacks<br>Darkness<br>Darkvision<br>Minor Illusion      |
-| 4   | Monk 4    | Slow Fall                                                        |
-|     | Feat 1    | Grappler (DEX +1)                                                |
-| 5   | Monk 5    | Extra Attack<br>Stunning Strike                                  |
-|     | Monk 6    | Empowered Strike<br>Shadow Step                                  |
-|     | Monk 7    | Evasion                                                          |
-| 8   | Feat 2    | (CON +1)                                                         |
-|     | Monk 9    | **Acrobatic Movement**                                           |
-|     | Monk 10   | Martial Arts ++<br>Self-Restoration                              |
-|     | Monk 11   | Improved Shadow Step                                             |
-| 12  | Feat 3    | ( +1)                                                            |
-|     | Monk 13   | Deflect Energy                                                   |
-|     | Monk 14   | Saving Throw ++                                                  |
-|     | Monk 15   | Perfect Focus                                                    |
-| 16  | Feat 4    | ( +1)                                                            |
-|     | Monk 17   | Cloak of Shadows                                                 |
-|     | Monk 18   | Superior Defense                                                 |
-| 19  | Feat Boon | ( +1)                                                            |
-| 20  | Monk 20   | Dex +4<br>Wis +4                                                 |
-|     | VS 2      | Res / Inm Necro<br>Resilience                                    |
-|     | VS 3      | Bite (++)<br>Mist Form                                           |
-|     | VS 4      | (DEX +2)<br>Summons swarms<br>Misty Reaction<br>Regeneration     |
+| Lvl | Slot          | Victoria                                                     |
+| --- | ------------- | ------------------------------------------------------------ |
+| 1   | Extra (?)     | *Dancing Lights*                                             |
+|     | Species 1     | Natural Attack                                               |
+|     | Species 2     | Draining Attack                                              |
+|     | Species 3     | Touch of Life                                                |
+|     | Species 4     | ~~Instinctive Stealth~~<br>Calculating Listener              |
+|     | Species 5     | ~~Magical Savvy (Friends)~~<br>Fade Away                     |
+|     | Species 6     | ~~Magical Savant (Shield)~~<br>Skill Prowess                 |
+|     | Species 7     | Even in Sleep                                                |
+|     | Species 8     | Artificial Form                                              |
+|     | **FEAT 0**    | Convincing Inquisitor                                        |
+|     | Monk 1        | Martial Arts<br>Unarmored Defense                            |
+|     | VS 1          | Bite (+)<br>(DEX +2)<br>Hide BA<br>Prof/Exp Stealth          |
+| 2   | Monk 2        | Monk's Focus<br>Unarmored Movement<br>Uncanny Metabolism     |
+| 3   | Monk 3        | Deflect Attacks<br>Darkness<br>Darkvision<br>Minor Illusion  |
+| 4   | Monk 4        | Slow Fall                                                    |
+|     | **FEAT 1**    | Grappler (DEX +1)                                            |
+| 5   | Monk 5        | Extra Attack<br>Stunning Strike                              |
+|     | Monk 6        | Empowered Strike<br>Shadow Step                              |
+|     | Monk 7        | Evasion                                                      |
+| 8   | **FEAT 2**    | _Skilled (Stealth)_                                          |
+|     | Monk 9        | **Acrobatic Movement**                                       |
+|     | Monk 10       | Martial Arts ++<br>Self-Restoration                          |
+|     | Monk 11       | Improved Shadow Step                                         |
+| 12  | **FEAT 3**    | ( CON +1)<br>_Bloodlust?_<br>_Speedy?_                       |
+|     | Monk 13       | Deflect Energy                                               |
+|     | Monk 14       | Saving Throw ++                                              |
+|     | Monk 15       | Perfect Focus                                                |
+| 16  | **FEAT 4**    | _Blood Hound_                                                |
+|     | Monk 17       | Cloak of Shadows                                             |
+|     | Monk 18       | Superior Defense                                             |
+| 19  | **FEAT BOON** | ( WIS +1)                                                    |
+| 20  | Monk 20       | Dex +4<br>Wis +4                                             |
+|     | VS 2          | Res / Inm Necro<br>Resilience                                |
+|     | VS 3          | Bite (++)<br>Mist Form                                       |
+|     | VS 4          | (DEX +2)<br>Summons swarms<br>Misty Reaction<br>Regeneration |
 
 
 # Missing things
@@ -59,42 +59,6 @@
 	- Medicine?
 - Necrotic Resistance (for Immunity)
 - Thaumaturgy to snuff out light sources owo
-# Character Options
-#### [Living Shadow](https://www.dndbeyond.com/sources/dnd/rthw/character-options#LivingShadow)
-
-Dark Gift Feat (Prerequisite: Ravenloft Campaign)
-
-The shadow you cast is animate and ever-present—sometimes it even acts according to its own will. You gain the following features.
-
-**_Grasping Shadow._** You learn the [Mage Hand](https://www.dndbeyond.com/spells/2619008-mage-hand) spell and can cast it without spell components. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this feat).
-
-**_Lengthened Strike._** When you make a melee attack roll as part of the [Attack](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#AttackAction) or [Magic](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#MagicAction) action on your turn, you can increase your reach for that attack by 10 feet, as your shadow stretches to aid you. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
-
-**_Ominous Will._** Immediately after you make a [D20 Test](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#D20Test) and roll a 1 on the d20, your shadow attempts to exert its will. Make a Wisdom saving throw (DC 13 plus your Proficiency Bonus). On a failed save, you have the [Incapacitated](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition until the start of your next turn, at which point you must roll on the Shadow’s Will table to determine what you do during that turn.
-
-# Origin Feats
-### [Blood Hound](https://www.dndbeyond.com/sources/dnd/ghpg/chapter-4-character-feats#BloodHound)
-
-_Origin Feat_
-
-Your senses are heightened beyond those of most folk. Whether these senses were strengthened through training or the loss of other senses, or they simply matured as you did, you are a master of finding those whom you seek. You gain the following benefits.
-
-**_Motion Sensor._** Whenever a creature that is Small or larger moves within 10 feet of you while you do not have the [Unconscious](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition) condition, you immediately become aware of its presence.
-
-**_No Hiding._** You have [Advantage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Advantage) on Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) checks that rely on sound or smell.
-
-### [Convincing Inquisitor](https://www.dndbeyond.com/sources/dnd/ghpg/chapter-4-character-feats#ConvincingInquisitor)
-
-_Origin Feat_
-
-You know how to spot a liar, and you can get people to see your way, whether through charm, reasonable arguments, or force of will. You gain the following benefits.
-
-**_Charming Presence._** When you take the [Influence](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#InfluenceAction) action, you don’t have [Disadvantage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Disadvantage) on checks to influence [Hostile](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HostileAttitude) creatures, and you have [Advantage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Advantage) on checks to influence [Indifferent](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IndifferentAttitude) creatures.
-
-**_Multiple Paths._** You can use any ability modifier when you take the Influence action to make an [Intimidation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) or [Persuasion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) check.
-
-**_Zealous Insight._** When you succeed on a [Search](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#SearchAction) action’s Wisdom ([Insight](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check to detect lies or evasive answers, you have Advantage on Initiative rolls involving combat against that creature for 1 hour.
-
 # Vampire Stages
 #### Vampire Stage 1
 
@@ -378,18 +342,152 @@ Your ingenuity and inventiveness help keep you alive in a dangerous world. Befor
 
 Effects that corrupt the essence of other living creatures are of little concern to you. You have [Resistance](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Resistance) to Necrotic damage.
 # Feats
+## Origin Feats
+### [Living Shadow](https://www.dndbeyond.com/sources/dnd/rthw/character-options#LivingShadow)
+
+Dark Gift Feat (Prerequisite: Ravenloft Campaign)
+
+The shadow you cast is animate and ever-present—sometimes it even acts according to its own will. You gain the following features.
+
+**_Grasping Shadow._** You learn the [Mage Hand](https://www.dndbeyond.com/spells/2619008-mage-hand) spell and can cast it without spell components. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this feat).
+
+**_Lengthened Strike._** When you make a melee attack roll as part of the [Attack](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#AttackAction) or [Magic](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#MagicAction) action on your turn, you can increase your reach for that attack by 10 feet, as your shadow stretches to aid you. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+
+**_Ominous Will._** Immediately after you make a [D20 Test](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#D20Test) and roll a 1 on the d20, your shadow attempts to exert its will. Make a Wisdom saving throw (DC 13 plus your Proficiency Bonus). On a failed save, you have the [Incapacitated](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition until the start of your next turn, at which point you must roll on the Shadow’s Will table to determine what you do during that turn.
+### [Convincing Inquisitor](https://www.dndbeyond.com/sources/dnd/ghpg/chapter-4-character-feats#ConvincingInquisitor)
+
+_Origin Feat_
+
+You know how to spot a liar, and you can get people to see your way, whether through charm, reasonable arguments, or force of will. You gain the following benefits.
+
+**_Charming Presence._** When you take the [Influence](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#InfluenceAction) action, you don’t have [Disadvantage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Disadvantage) on checks to influence [Hostile](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HostileAttitude) creatures, and you have [Advantage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Advantage) on checks to influence [Indifferent](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IndifferentAttitude) creatures.
+
+**_Multiple Paths._** You can use any ability modifier when you take the Influence action to make an [Intimidation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) or [Persuasion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) check.
+
+**_Zealous Insight._** When you succeed on a [Search](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#SearchAction) action’s Wisdom ([Insight](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check to detect lies or evasive answers, you have Advantage on Initiative rolls involving combat against that creature for 1 hour.
+### [Blood Hound](https://www.dndbeyond.com/sources/dnd/ghpg/chapter-4-character-feats#BloodHound)
+
+_Origin Feat_
+
+Your senses are heightened beyond those of most folk. Whether these senses were strengthened through training or the loss of other senses, or they simply matured as you did, you are a master of finding those whom you seek. You gain the following benefits.
+
+**_Motion Sensor._** Whenever a creature that is Small or larger moves within 10 feet of you while you do not have the [Unconscious](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition) condition, you immediately become aware of its presence.
+
+**_No Hiding._** You have [Advantage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Advantage) on Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) checks that rely on sound or smell.
+### [Skilled](https://www.dndbeyond.com/feats/1789189-skilled)
+
+_Origin Feat_
+
+You gain proficiency in any combination of three skills or tools of your choice.
+
+_**Repeatable.**_ You can take this feat more than once.
+### [Magic Initiate](https://www.dndbeyond.com/feats/1789162-magic-initiate)
+
+_Origin Feat_
+
+You gain the following benefits.
+
+_**Two Cantrips.**_ You learn two cantrips of your choice from the Cleric, Druid, or Wizard spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat’s spells (choose when you select this feat).
+
+_**Level 1 Spell.**_ Choose a level 1 spell from the same list you selected for this feat’s cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have.
+
+_**Spell Change.**_ Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
+
+_**Repeatable.**_ You can take this feat more than once, but you must choose a different spell list each time.
+## General Feats
+### [Bloodlust](https://www.dndbeyond.com/feats/2171366-bloodlust)
+
+_General Feat (Prerequisite: Level 4+)_
+
+You gain the following benefits.
+
+_**Ability Score Increase.**_ Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
+
+_**Powerful Recovery.**_ When you roll a Hit Point Die to regain Hit Points, you can treat any roll of 1 or 2 as a 3.
+
+_**Sanguine Feast.**_ Once per turn when you hit a [Bloodied](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Bloodied) creature that isn’t a Construct or Undead with an attack roll, you can expend a Hit Point Die, roll it, and regain a number of Hit Points equal to the number rolled plus your Constitution modifier.
+
+You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+### [Speedy](https://www.dndbeyond.com/feats/1789200-speedy)
+
+_General Feat (Prerequisite: Level 4+, Dexterity or Constitution 13+)_
+
+You gain the following benefits.
+
+_**Ability Score Increase.**_ Increase your Dexterity or Constitution score by 1, to a maximum of 20.
+
+_**Speed Increase.**_ Your Speed increases by 10 feet.
+
+_**Dash over Difficult Terrain.**_ When you take the [Dash](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DashAction) action on your turn, [Difficult Terrain](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DifficultTerrain) doesn't cost you extra movement for the rest of that turn.
+
+_**Agile Movement.**_ [Opportunity Attacks](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#OpportunityAttack) have Disadvantage against you.
+### [Elven Accuracy](https://www.dndbeyond.com/feats/89-elven-accuracy)
+
+**Prerequisite:** Elf or half-elf
+
+The accuracy of elves is legendary, especially that of elf archers and spellcasters. You have uncanny aim with attacks that rely on precision rather than brute force. You gain the following benefits:
+
+- Increase your Dexterity, Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
+- Whenever you have advantage on an attack roll using Dexterity, Intelligence, Wisdom, or Charisma, you can reroll one of the dice once.
+### [Fey Touched](https://www.dndbeyond.com/feats/1874753-fey-touched)
+
+_General Feat (Prerequisite: Level 4+)_
+
+Your exposure to the Feywild’s magic grants you the following benefits.
+
+_**Ability Score Increase.**_ Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
+
+_**Fey Magic.**_ Choose one level 1 spell from the Divination or Enchantment school of magic. You always have that spell and the _[Misty Step](https://www.dndbeyond.com/spells/2619133-misty-step)_ spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can’t cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells’ spellcasting ability is the ability increased by this feat.
+### [Grappler](https://www.dndbeyond.com/feats/1789147-grappler)
+
+_General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+)_
+
+You gain the following benefits.
+
+_**Ability Score Increase.**_ Increase your Strength or Dexterity score by 1, to a maximum of 20.
+
+_**Punch and Grab.**_ When you hit a creature with an [Unarmed Strike](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnarmedStrike) as part of the [Attack](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#AttackAction) action on your turn, you can use both the Damage and the Grapple option. You can use this benefit only once per turn.
+
+_**Attack Advantage.**_ You have Advantage on attack rolls against a creature [Grappled](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#GrappledCondition) by you.
+
+_**Fast Wrestler.**_ You don't have to spend extra movement to move a creature [Grappled](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#GrappledCondition) by you if the creature is your size or smaller.
+### [Observant](https://www.dndbeyond.com/feats/1789174-observant)
+
+_General Feat (Prerequisite: Level 4+, Intelligence or Wisdom 13+)_
+
+You gain the following benefits.
+
+_**Ability Score Increase.**_ Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
+
+_**Keen Observer.**_ Choose one of the following skills: [Insight](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Investigation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), or [Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills). If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain [Expertise](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Expertise) in it.
+
+_**Quick Search.**_ You can take the [Search](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#SearchAction) action as a Bonus Action.
+### [Telepathic](https://www.dndbeyond.com/feats/1789204-telepathic)
+
+_General Feat (Prerequisite: Level 4+)_
+
+You gain the following benefits.
+
+_**Ability Score Increase.**_ Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
+
+_**Telepathic Utterance.**_ You can speak telepathically to any creature you can see within 60 feet of yourself. Your telepathic utterances are in a language you know, and the creature understands you only if it knows that language. Your communication doesn’t give the creature the ability to respond to you telepathically.
+
+_**Detect Thoughts.**_ You always have the [Detect Thoughts](https://www.dndbeyond.com/spells/2619099-detect-thoughts) spell prepared. You can cast it without a spell slot or spell components, and you must finish a Long Rest before you can cast it in this way again. You can also cast it using spell slots you have of the appropriate level. Your spellcasting ability for the spell is the ability increased by this feat.
+### [Treacherous Allure](https://www.dndbeyond.com/feats/2171379-treacherous-allure)
+
+_General Feat (Prerequisite: Level 4+)_
+
+You gain the following benefits.
+
+_**Ability Score Increase.**_ Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
+
+_**Enchanting Presence.**_ You always have the [Charm Person](https://www.dndbeyond.com/spells/2618964-charm-person) spell prepared. You can cast it without a spell slot, and you must finish a Long Rest before you can cast it in this way again. You can also cast it using spell slots you have of the appropriate level. Your spellcasting ability for the spell is the ability increased by this feat.
+
+_**Inevitable Betrayal.**_ You have Advantage on attack rolls against creatures with the [Charmed](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#CharmedCondition) condition.
 ## Epic Boons
 ### [Boon of Bountiful Health](https://www.dndbeyond.com/feats/2158435-boon-of-bountiful-health)
 
-Forgotten Realms: Heroes of Faerûn
-
-+1 to any ability score, extra Temp HP & regeneration.
-
-Epic Boon
-
-_Epic Boon Feat (Prerequisite: Level 19+)_
-
-You gain the following benefits.
+_+1 to any ability score, extra Temp HP & regeneration._
 
 **_Ability Score Increase._** Increase one ability score of your choice by 1, to a maximum of 30.
 
@@ -398,30 +496,14 @@ You gain the following benefits.
 **_Superior Recuperation._** When you spend one or more Hit Point Dice to regain Hit Points, you can instead use the highest number possible for each die.
 ### [Boon of Desperate Resilience](https://www.dndbeyond.com/feats/2158437-boon-of-desperate-resilience)
 
-Forgotten Realms: Heroes of Faerûn
-
-+1 Str. or Con., resistance to all damage types except Force when Bloodied
-
-Epic Boon
-
-_Epic Boon Feat (Prerequisite: Level 19+)_
-
-You gain the following benefits.
+_+1 Str. or Con., resistance to all damage types except Force when Bloodied_
 
 **_Ability Score Increase._** Increase your Strength or Constitution score by 1, to a maximum of 30.
 
 **_Defense of Body and Mind._** While you are [Bloodied](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Bloodied), you have Resistance to every damage type except Force.
 ### [Boon of Fluid Forms](https://www.dndbeyond.com/feats/2158439-boon-of-fluid-forms)
 
-Forgotten Realms: Heroes of Faerûn
-
-+1 Intelligence or Wisdom or Charisma, Shapechanger, Hardy Transformation
-
-Epic Boon
-
-_Epic Boon Feat (Prerequisite: Level 19+)_
-
-You gain the following benefits.
+_+1 Intelligence or Wisdom or Charisma, Shapechanger, Hardy Transformation_
 
 **_Ability Score Increase._** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 30.
 
@@ -434,30 +516,14 @@ Once you use this benefit, you can’t do so again until you finish a Long Rest.
 **_Hardy Transformation._** When you gain [Temporary Hit Points](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints) when you shape-shift, increase that number of [Temporary Hit Points](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints) by 20.
 ### [Boon of Fortitude](https://www.dndbeyond.com/feats/1789113-boon-of-fortitude)
 
-Player’s Handbook
-
-+1 Ability Score of your choice, Fortified Health
-
-Epic Boon
-
-_Epic Boon Feat (Prerequisite: Level 19+)_
-
-You gain the following benefits.
+_+1 Ability Score of your choice, Fortified Health_
 
 _**Ability Score Increase.**_ Increase one ability score of your choice by 1, to a maximum of 30.
 
 _**Fortified Health.**_ Your Hit Point maximum increases by 40. In addition, whenever you regain Hit Points, you can regain additional Hit Points equal to your Constitution modifier. Once you’ve regained these additional Hit Points, you can’t do so again until the start of your next turn.
 ### [Boon of Irresistible Offense](https://www.dndbeyond.com/feats/1789114-boon-of-irresistible-offense)
 
-Player’s Handbook
-
-+1 Strength or Dexterity, Overcome Defenses, Overwhelming Strike
-
-Epic Boon
-
-_Epic Boon Feat (Prerequisite: Level 19+)_
-
-You gain the following benefits.
+_+1 Strength or Dexterity, Overcome Defenses, Overwhelming Strike_
 
 _**Ability Score Increase.**_ Increase your Strength or Dexterity score by 1, to a maximum of 30.
 
@@ -466,9 +532,7 @@ _**Ability Score Increase.**_ Increase your Strength or Dexterity score by 1, to
 _**Overwhelming Strike.**_ When you roll a 20 on the d20 for an attack roll, you can deal extra damage to the target equal to the ability score increased by this feat. The extra damage’s type is the same as the attack’s type.
 ### [Boon of Misty Escape](https://www.dndbeyond.com/feats/2171370-boon-of-misty-escape)
 
-_Epic Boon Feat (Prerequisite: Level 19+)_
-
-You gain the following benefits.
+_+1 Intelligence, Wisdom, or Charisma, regain HP and cast Gaseous Form_
 
 _**Ability Score Increase.**_ Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 30.
 
@@ -477,30 +541,14 @@ _**Gaseous Form.**_ If you drop to 0 Hit Points but aren’t killed outright, yo
 Once you use this benefit, you can’t do so again until you finish a Long Rest.
 ### [Boon of the Ascended Vampire](https://www.dndbeyond.com/feats/2101434-boon-of-the-ascended-vampire)
 
-Grim Hollow: Player’s Guide
-
-Ability Score Increase, Inured to Sunlight
-
-Epic Boon
-
-_Epic Boon Feat (Prerequisite: Level 19+, Vampire Transformation)_
-
-You gain the following benefits.
+_Ability Score Increase, Inured to Sunlight_
 
 **_Ability Score Increase._** Increase one ability score of your choice by 1, to a maximum of 30.
 
 **_Inured to Sunlight._** You are no longer affected by sunlight.
 ### [Boon of the Night Spirit](https://www.dndbeyond.com/feats/1789119-boon-of-the-night-spirit)
 
-Player’s Handbook
-
-+1 Ability Score of your choice, Merge with Shadows, Shadowy Form
-
-Epic Boon
-
-_Epic Boon Feat (Prerequisite: Level 19+)_
-
-You gain the following benefits.
+_+1 Ability Score of your choice, Merge with Shadows, Shadowy Form_
 
 _**Ability Score Increase.**_ Increase one ability score of your choice by 1, to a maximum of 30.
 
@@ -509,15 +557,7 @@ _**Merge with Shadows.**_ While within [Dim Light](https://www.dndbeyond.com/sou
 _**Shadowy Form.**_ While within Dim Light or Darkness, you have Resistance to all damage except Psychic and Radiant.
 ### [Boon of the Soul Drinker](https://www.dndbeyond.com/feats/2158446-boon-of-the-soul-drinker)
 
-Forgotten Realms: Heroes of Faerûn
-
-+1 Ability Score of choice; Cold/Necrotic damage resistance, Siphon Life
-
-Epic Boon
-
-_Epic Boon Feat (Prerequisite: Level 19+)_
-
-You gain the following benefits.
+_+1 Ability Score of choice; Cold/Necrotic damage resistance, Siphon Life_
 
 **_Ability Score Increase._** Increase one ability score of your choice by 1, to a maximum of 30.
 
