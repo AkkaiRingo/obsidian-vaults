@@ -15,8 +15,8 @@ tags:
 #TBD
 
 Dos estructuras: lo que se sabe y lo que no. 
-"Para fuera" la Orden de la Luminaria (seguidores de Amaunator) es quien regenta y lidera el país, religiosa y políticamente, y tienen el apoyo de familias nobles adineradas que hacen las veces de señores feudales en las diferentes ciudades y pueblos. A su vez, tienen el control del mayor cuerpo armado divino del país, los Caballeros Sempiternos; y aunque los Gremios de Noctívagos (cazamonstruos) están fuera de la jerarquía clerical, dependen de ellos, como cualquier comunidad humanoide de Svitanie. 
-"Para dentro", existen diferentes grupos de "criaturas" que viven fuera de los puntos habitados por humanoides. El mayor y más organizado es la Corte de Vairae, un grupo de vampiros liderados por este mago. Está compuesto por varios Clanes que viven repartidos por el país y cuyos líderes responden ante la voluntad de Vairae, independientemente de si son vampiros Hematófagos o Liturgos. 
+"Para fuera" la Orden de la Luminaria (seguidores de Amaunator) es quien regenta y lidera la región, religiosa y políticamente, y tienen el apoyo de familias nobles adineradas que hacen las veces de señores feudales en las diferentes ciudades y pueblos. A su vez, tienen el control del mayor cuerpo armado divino de la región, los Caballeros Sempiternos; y aunque los Gremios de Noctívagos (cazamonstruos) están fuera de la jerarquía clerical, dependen de ellos, como cualquier comunidad humanoide de Svitanie. 
+"Para dentro", existen diferentes grupos de "criaturas" que viven fuera de los puntos habitados por humanoides. El mayor y más organizado es la Corte de Vairae, un grupo de vampiros liderados por este mago. Está compuesto por varios Clanes que viven repartidos por la región y cuyos líderes responden ante la voluntad de Vairae, independientemente de si son vampiros Hematófagos o Liturgos. 
 Hay rumores de que en realidad, ambos bandos tienen algún tipo de pacto y trabajan en conjunto para no perder su poder.
 
 - no cazar niños

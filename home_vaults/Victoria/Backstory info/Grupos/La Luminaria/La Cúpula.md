@@ -22,13 +22,14 @@ Líderes de la [[Orden de la Luminaria]], compuesto por obispos que lideran dife
 
 [[Jerarquía_Lumbre.excalidraw]]
 
-| Puesto                            | Nombre                 | Imágen                      |
-| --------------------------------- | ---------------------- | --------------------------- |
-| Justicia                          | [[Juliette Dubois]]    | ![[Juliette Dubois.png]]    |
-| Defensa                           | [[Emilio Cedrón]]      | ![[Emilio Cedrón.png]]      |
-| Educación                         | [[Ismael Orellana]]    | ![[Ismael Orellana.png]]    |
-| Agricultura, Pesca y Alimentación | [[Sylvia Courvoisier]] | ![[Sylvia Courvoisier.png]] |
-| Cultura                           | [[Alma Laguna]]        | ![[Alma Laguna.png]]        |
-| Sanidad                           | [[Beatrice St.Claire]] | ![[Beatrice St.Claire.png]] |
-| Economía, Comercio y Empresa      | [[Cordelia Renaud]]    | ![[Cordelia Renaud.png]]    |
-| Política Territorial              | [[Howard Saville]]     | ![[Howard Saville.png]]     |
+| Puesto                                          | Nombre                 | Imágen                      |
+| ----------------------------------------------- | ---------------------- | --------------------------- |
+| Justicia<br>(Blanco y Negro)                    | [[Juliette Dubois]]    | ![[Juliette Dubois.png]]    |
+| Defensa<br>(Naranja)                            | [[Emilio Cedrón]]      | ![[Emilio Cedrón.png]]      |
+| Educación<br>(Azul)                             | [[Ismael Orellana]]    | ![[Ismael Orellana.png]]    |
+| Agricultura, Pesca y Alimentación<br>(Amarillo) | [[Sylvia Courvoisier]] | ![[Sylvia Courvoisier.png]] |
+| Cultura<br>(Rojo)                               | [[Alma Laguna]]        | ![[Alma Laguna.png]]        |
+| Sanidad<br>(Morado)                             | [[Beatrice St.Claire]] | ![[Beatrice St.Claire.png]] |
+| Economía, Comercio y Empresa<br>(Verde)         | [[Cordelia Renaud]]    | ![[Cordelia Renaud.png]]    |
+| Política Territorial<br>(Rosa?)                 | [[Howard Saville]]     | ![[Howard Saville.png]]     |
+|                                                 |                        |                             |

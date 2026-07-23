@@ -1,7 +1,7 @@
 ---
 Género: Hombre
 Raza: Humano
-Profesión: Pastor
+Profesión: "[[Lazarillo]]"
 Lugar: "[[Lioncourt]]"
 F. Paternales:
   - N/A

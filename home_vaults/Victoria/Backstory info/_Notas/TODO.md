@@ -1,4 +1,8 @@
-#TODO 
+#TODO
+
+- [x] región / dominio
+- nombre alternativo para los orfanatos
+- [x] Pastores --> Lazarillo
 #### Lugares
 - [ ] [[Faerûn]]:
 	- [ ] la luna roja es de [[Bhaal]]?
