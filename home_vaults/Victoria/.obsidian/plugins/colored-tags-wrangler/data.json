@@ -84,6 +84,34 @@
           "b": 63
         },
         "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "Grupo",
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "background_color": {
+          "r": 196,
+          "g": 141,
+          "b": 167
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "Criatura",
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "background_color": {
+          "r": 205,
+          "g": 127,
+          "b": 76
+        },
+        "luminance_offset": 0.15
       }
     ],
     "EnableMultipleTags": true,

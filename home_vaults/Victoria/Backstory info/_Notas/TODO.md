@@ -1,25 +1,27 @@
 #TODO
 
+#### Naming
 - [x] región / dominio
-- nombre alternativo para los orfanatos
+- [x] nombre alternativo para los orfanatos --> Faros
 - [x] Pastores --> Lazarillo
 #### Lugares
 - [ ] [[Faerûn]]:
-	- [ ] la luna roja es de [[Bhaal]]?
+	- [x] la luna roja es de [[Bhaal]]?
 - [x] [[Svitanie]]:
 	- [x] Nombre del [[Bosque de Lilitu]] que colinda [[Lioncourt]]
-	- [x] Nombre de ciudad vecina --> [[Babel]]
+	- [x] Nombre de ciudad vecina --> [[Sinar]]
 #### Personas
 - [x] [[Victoria del Alba|Victoria]] --> half-elf o full elf, does it matter?
 	- [x] Quién le dio el nombre de [[Victoria del Alba|Victoria]]? Sus padres, pero cómo dejaron constancia de su nombre al abandonarla? Un guardapelo vacío con el nombre grabado?
-- [ ] Otras órdenes de [[Noctívago|noctívagos]]
+- [ ] Otras órdenes de [[Gremio del Noctívago|noctívagos]]
 - [ ] Sacar imágenes y organizar bien a toda la [[1º Gen. del Alba de Lioncourt]]
 	- [x] Niños
 	- [x] Graduación
 	- [x] Ataque a la familia [[Familia Bescond|Bescond]]
 	- [ ] Despedida
+- [x] Obispos y [[Aurora]]
 - [ ] [[Vampiros|vampiros]] de la corte de [[Vairae]]
-- [ ] quién es el [[Noctívago|noctívago]] que sobrevivió al ataque en [[Babel]]?
+- [ ] quién es el [[Gremio del Noctívago|noctívago]] que sobrevivió al ataque en [[Sinar]]?
 - [ ] Sacar imágenes para otros personajes principales
 	- [x] [[Alastor Val Astar|Alastor]]
 	- [x] [[Madelaine Bescond]]
@@ -58,8 +60,8 @@
 - [x] [[Orden del Lucero del Alba]]
 	- [x] Líder? --> sacerdote/párroco de [[Lioncourt]] ?? --> [[Adrian Soriano]]
 - [x] [[Noditas]] ??
-	- [x] Cómo se llama la magia [[Efímera]] que usan los [[Noctívago|Noctívagos]], derivada de la que usan los [[Noditas]] ?? --> antónimo de [[Sempiterna]]? [[Efímera]]? [[Efímera|Poderes Oscuros]]
-- [x] Diferencia entre orden y gremio...? [[Orden de la Luminaria]]? --> orden religiosa, gremio [[Noctívago|noctívagos]]
+	- [x] Cómo se llama la magia [[Efímera]] que usan los [[Gremio del Noctívago|Noctívagos]], derivada de la que usan los [[Noditas]] ?? --> antónimo de [[Sempiterna]]? [[Efímera]]? [[Efímera|Poderes Oscuros]]
+- [x] Diferencia entre orden y gremio...? [[Orden de la Luminaria]]? --> orden religiosa, gremio [[Gremio del Noctívago|noctívagos]]
 ---
 #### Escribir
 - [ ] Backstory

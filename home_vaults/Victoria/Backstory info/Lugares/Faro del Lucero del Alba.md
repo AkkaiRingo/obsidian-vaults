@@ -4,8 +4,8 @@ Ubicación: "[[Lioncourt]]"
 Afiliación:
   - "[[Orden del Lucero del Alba]]"
 aliases:
-  - orfanato
+  - Faro
 tags:
   - Lugar
 ---
-![[Orfanato Lucero del Alba.jpg]]
+![[Faro del Lucero del Alba.jpg]]

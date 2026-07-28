@@ -1,0 +1,1 @@
+Título del más antiguo [[Protogenos|protogenoi]], el primer [[Vampiros|Vampiro]] [[Hematófago]], [[Gulthias]].

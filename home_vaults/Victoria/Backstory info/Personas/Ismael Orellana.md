@@ -1,6 +1,6 @@
 ---
 Género: Hombre
-Raza: Humano
+Raza: Elfo
 Profesión: Obispo
 Lugar: "[[Edén]]"
 F. Paternales:

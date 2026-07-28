@@ -1,10 +1,13 @@
 ---
-Líder: "[[Adrian Soriano]]"
-Agrupación: Orden
+Reliquia: "[[El Lucero del Alba]]"
+Especialidad: "[[Hambrientos]]"
+Ubicación: "[[Lioncourt]]"
+Apellido: del Alba
+Líder:
 Afiliación:
   - "[[Orden de la Luminaria]]"
-  - "[[La Cúpula]]"
-Ubicación: "[[Lioncourt]]"
+  - "[[Ismael Orellana]]"
+Agrupación: Orden
 Miembros:
   - "[[Anastasia del Alba]]"
   - "[[Agatha del Alba]]"
@@ -32,7 +35,9 @@ aliases:
   - orden
 tags:
   - "#Grupo"
+  - Gremio
 ---
+Originalmente asentada en [[Sinar]], esta orden de [[Gremio del Noctívago|Noctívagos]] tiene actualmente su base en [[Lioncourt]]. Se especializa en la caza de no-muertos o [[Hambrientos]], con un particular interés en los [[Vampiros|vampiros]] que abundan en la zona. Su arma insignia es su homónimo, [[El Lucero del Alba]]. 
+## [[1º Gen. del Alba de Lioncourt]]
 [[_Generación_del_Alba.excalidraw]]
-## 1º Generación del Alba de Lioncourt
 ![[Generación Lucero del Alba.png]]

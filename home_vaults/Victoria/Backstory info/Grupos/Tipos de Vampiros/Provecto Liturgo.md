@@ -1,1 +1,0 @@
-Título del más anciano de los [[Liturgo|Liturgos]]. En ausencia de [[Vairae]], aprovechó junto con otros [[Liturgo|Liturgos]] para atacar a los entonces más débiles [[Hematófago|Hematófagos]]. Cuando [[Vairae]] se enteró, lo sacrificó y alimentó con él a [[Alastor Val Astar]]. 

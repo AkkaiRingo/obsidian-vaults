@@ -5,6 +5,7 @@
 - Tener el cantrip de dancing lights con Victoria "de gratis"
 - para Calculating Listener, podemos hacer el DC con otro stat en lugar de Carisma? como hago con Convincing Inquisitor
 - Thaumaturgy --> Fire play like Prestidigitation to snuff out light sources?
+- fade away vs hide (VS 1)
 ### Weapon aesthetics
 - (M/V) crossbow skinned --> pistol
 	- pistol proficiency?

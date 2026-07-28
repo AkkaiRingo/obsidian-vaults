@@ -1,7 +1,7 @@
 ---
 Género: Hombre
 Raza: Orco
-Profesión: "[[Noctívago]]"
+Profesión: "[[Gremio del Noctívago|Noctívago]]"
 Lugar: "[[Lioncourt]]"
 F. Paternales:
   - N/A

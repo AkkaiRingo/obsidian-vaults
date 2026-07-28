@@ -1,7 +1,7 @@
 ---
 Género: Mujer
 Raza: Elfo
-Profesión: "[[Noctívago]]"
+Profesión: "[[Gremio del Noctívago|Noctívago]]"
 Lugar: "[[Lioncourt]]"
 F. Paternales:
   - N/A

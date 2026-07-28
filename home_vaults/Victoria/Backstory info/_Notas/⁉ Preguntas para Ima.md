@@ -40,7 +40,6 @@ Could we change it to "**Undead**" to fit the Vampire vibe more?
 ---
 ## 4. Items (M&V)
 Can I has a Hand Crowbow that looks like a Pistol? :3 pium pium
-
 ### 4. 1. Magic Items (V)
 
 > [!example] [Belt of Hill Giant Strength](https://www.dndbeyond.com/magic-items/4585-belt-of-hill-giant-strength) (A)

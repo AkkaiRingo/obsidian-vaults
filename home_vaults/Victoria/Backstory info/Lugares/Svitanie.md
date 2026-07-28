@@ -20,9 +20,12 @@ Dos estructuras: lo que se sabe y lo que no.
 Hay rumores de que en realidad, ambos bandos tienen algún tipo de pacto y trabajan en conjunto para no perder su poder.
 
 - no cazar niños
-- la arzobispo es un umbral lord?
 
 Svitanie es un valle, rodeado de altas montañas de piedra gris, con acantilados que dan al mar en uno de sus extremos. Debido a la maldición, vive en un eterno otoño/invierno, con las zonas más altas cubiertas de nieve y las más bajas repletas de bosques bermejos. Un gran río, el Arterial, lo recorre, y a su alrededor se encuentran las únicas poblaciones habitadas por humanoides (mayormente humanos): pueblos y ciudades de arquitectura gótica medieval. 
+
+---
+
+![[Svitanie map.jpg]]
 
 
 ![[Svitanie.jpg]]

@@ -6,23 +6,168 @@
       {
         "id": "803d3ddc4070ca5c",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "1295f84fdaf08926",
+            "id": "06b6b058e43c43bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/_Notas/Diario de Victoria.md",
+                "file": "Backstory info/Grupos/Noditas/Hambrientos/Hambrientos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Diario de Victoria"
+              "title": "Hambrientos"
+            }
+          },
+          {
+            "id": "409e80b8d424501e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Noditas/Malditos/Malditos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Malditos"
+            }
+          },
+          {
+            "id": "ec2be7d3d92fdf90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Noditas/Inmateriales/Inmateriales.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Inmateriales"
+            }
+          },
+          {
+            "id": "28e3e978308f41c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Noditas/Bestias/Bestias.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Bestias"
+            }
+          },
+          {
+            "id": "218ac2769f827e3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Noditas/Engendros/Engendros.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Engendros"
+            }
+          },
+          {
+            "id": "3f45fd26bb2bf13a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Noditas/Consumidos/Consumidos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Consumidos"
+            }
+          },
+          {
+            "id": "7967b9cf4f542a77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Noditas/Cultistas/Cultistas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Cultistas"
             }
           }
-        ]
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "1ad27719f454d5d3",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "82786809cd545bf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Vampiros.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Vampiros"
+            }
+          },
+          {
+            "id": "454bcaf0d598a602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Noditas/Noditas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Noditas"
+            }
+          },
+          {
+            "id": "a445ea11e2e03591",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Grupos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Grupos"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -54,7 +199,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Vampiros\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -95,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backstory info/_Notas/Class Review.md",
+                "file": "Backstory info/Grupos/Grupos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +250,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Class Review"
+              "title": "Enlaces entrantes de Grupos"
             }
           },
           {
@@ -114,12 +259,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backstory info/Grupos/La Luminaria/La Cúpula.md",
+                "file": "Backstory info/Grupos/Grupos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de La Cúpula"
+              "title": "Enlaces salientes de Grupos"
             }
           },
           {
@@ -143,13 +288,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backstory info/_Notas/Diario de Victoria.md",
+                "file": "Backstory info/Grupos/Grupos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Diario de Victoria"
+              "title": "Esquema de Grupos"
             }
           },
           {
@@ -162,12 +307,12 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,56 +328,57 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "1295f84fdaf08926",
+  "active": "a445ea11e2e03591",
   "lastOpenFiles": [
-    "Backstory info/_Notas/Backstory.md",
-    "New questions... 🤓.md",
-    "Backstory info/_Notas/Class Review.md",
+    "Backstory info/Grupos/Noditas/Cultistas/Cultistas.md",
+    "Backstory info/Grupos/Grupos.md",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Vampiros.md",
+    "Backstory info/Grupos/Noditas/Noditas.md",
+    "Templates/Criatura.md",
+    "Backstory info/Grupos/Noditas/Consumidos/Consumidos.md",
+    "Backstory info/Grupos/Noditas/Engendros/Engendros.md",
+    "Backstory info/Grupos/Noditas/Hambrientos/Hambrientos.md",
+    "Backstory info/Grupos/Noditas/Inmateriales/Inmateriales.md",
+    "Backstory info/Grupos/Noditas/Bestias/Bestias.md",
+    "Backstory info/Grupos/Noditas/Malditos/Malditos.md",
+    "Backstory info/Grupos/Noditas/Hambrientos/Ghoul.md",
+    "Backstory info/Grupos/Noditas/Malditos/Licántropo.md",
+    "Backstory info/Grupos/Noditas/Malditos",
+    "Backstory info/Grupos/Noditas/Inmateriales",
+    "Backstory info/Grupos/Noditas/Engendros",
+    "Backstory info/Grupos/Noditas/Cultistas",
+    "Backstory info/Grupos/Noditas/Consumidos",
+    "Backstory info/Grupos/Noditas/Bestias",
+    "Backstory info/Grupos/Gremio del Noctívago/Gremio del Noctívago.md",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Liturgo/Provecto Liturgo.md",
+    "Backstory info/Grupos/Familias",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Liturgo/Vetusto.md",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Hematófago/Protogenos Inmemorial.md",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Liturgo/Nightbringer.md",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Liturgo/Liturgo.md",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Hematófago/Protogenos.md",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Hematófago/Lamia.md",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Liturgo",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/_Jerarquía Vampiros.canvas",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Hematófago",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Hematófago/Hematófago.md",
+    "Backstory info/Grupos/Noditas/Hambrientos",
+    "Backstory info/Grupos/Noditas.md",
     "Backstory info/Grupos/La Luminaria/La Cúpula.md",
-    "Backstory info/Lugares/Svitanie.md",
+    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Agatha del Alba.md",
+    "Backstory info/Grupos/Gremio del Noctívago/Orden del Sudario.md",
+    "Images/Ordenes_del_Gremio.png",
+    "Images/Beatrice St.Claire.png",
+    "Images/Sanidad_5.png",
+    "Images/Svitanie map.jpg",
+    "Images/Faro del Lucero del Alba.jpg",
+    "Images/Sanidad_4.png",
+    "Images/Howard Saville.png",
+    "Images/Territorial_2.png",
     "Images/Cordelia Renaud.png",
-    "Images/Economia_2.png",
-    "Images/Alma Laguna.png",
-    "Images/Cultura_2.png",
-    "Images/Sylvia Courvoisier.png",
-    "Images/Agricultura_2.png",
-    "Backstory info/_Notas/TODO.md",
-    "Backstory info/Lugares/Lugares.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Wilbur del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Samara del Alba.md",
-    "Backstory info/Personas/pastora.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Mallory del Alba.md",
-    "Backstory info/_Notas/Jerarquía_Lumbre.excalidraw.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Josephine del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Isabella del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Gilbert del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Dorian del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/_Generación_del_Alba.excalidraw.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Cassiel del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Barnaby del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/1º Gen. del Alba de Lioncourt.md",
-    "Backstory info/Personas/Aurora.md",
-    "Backstory info/Lugares/Castillo de Bescond.md",
-    "Backstory info/Lugares/Bosque de Lilitu.md",
-    "Backstory info/Lugares/Babel.md",
-    "Backstory info/Lugares/Arterial.md",
-    "Backstory info/Grupos/Tipos de Vampiros/_Jerarquía Vampiros.canvas",
-    "Images/Victoria Val Astar.png",
-    "Images/Victoria Val Astar dress.jpg",
-    "Images/Victoria Val Astar Armor.jpg",
-    "Images/Victoria Val Astar portrait.jpg",
-    "Backstory info/Grupos/La Luminaria",
-    "Backstory info/Grupos/Clanes",
-    "Backstory info/Grupos/Dioses",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt",
-    "Backstory info/Personas/Vampiros",
-    "Backstory info/Grupos/Tipos de Vampiros",
+    "Images/Economia_3.png",
     "Backstory info/Grupos/aaaaVampiros/_Jerarquía Vampiros.canvas",
-    "Untitled 1.base",
     "Untitled.canvas",
-    "Untitled.base",
-    "Excalidraw",
-    "Backstory info/Grupos/aaaaVampiros",
     "Backstory info/Lugares/Lugares.canvas",
     "Untitled/Untitled.canvas"
   ]

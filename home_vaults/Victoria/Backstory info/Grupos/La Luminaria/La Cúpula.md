@@ -32,4 +32,3 @@ Líderes de la [[Orden de la Luminaria]], compuesto por obispos que lideran dife
 | Sanidad<br>(Morado)                             | [[Beatrice St.Claire]] | ![[Beatrice St.Claire.png]] |
 | Economía, Comercio y Empresa<br>(Verde)         | [[Cordelia Renaud]]    | ![[Cordelia Renaud.png]]    |
 | Política Territorial<br>(Rosa?)                 | [[Howard Saville]]     | ![[Howard Saville.png]]     |
-|                                                 |                        |                             |

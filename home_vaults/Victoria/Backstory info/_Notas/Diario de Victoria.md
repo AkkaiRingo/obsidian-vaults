@@ -8,11 +8,11 @@ Un niño me ha protegido.
 
 Estaba en la biblioteca, practicando a leer, cuando los niños malos han venido. Me han vuelto a tirar libros mientras se reían de mis orejas puntiagudas. Y entonces ha aparecido el niño. Les ha pegado con un palo que llevaba como si fuera una espada, y les ha dicho que me dejarán en paz. Los niños malos se han asustado y se han ido.
 
-El niño nuevo me ha dicho que se llama [[Jonathan del Alba|Jonathan]]. La [[Orden del Lucero del Alba|orden]] lo ha traído de un pueblo cercano junto con otros niños, porque unos monstruos atacaron y quemaron el Orfanato en el que vivían.
+El niño nuevo me ha dicho que se llama [[Jonathan del Alba|Jonathan]]. La [[Orden del Lucero del Alba|orden]] lo ha traído de un pueblo cercano junto con otros niños, porque unos monstruos atacaron y quemaron el [[Faro del Lucero del Alba|Faro]] en el que vivían.
 
-[[Jonathan del Alba|Jonathan]] dice que sobrevivió gracias a los [[Noctívago|noctívagos]] de la [[Orden del Lucero del Alba|orden]] que los protegieron, y que después de eso, unos niños malos no dan tanto miedo.
+[[Jonathan del Alba|Jonathan]] dice que sobrevivió gracias a los [[Gremio del Noctívago|noctívagos]] de la [[Orden del Lucero del Alba|orden]] que los protegieron, y que después de eso, unos niños malos no dan tanto miedo.
 
-Dice que él de mayor quiere ser un [[Noctívago|noctívago]], como los que le salvaron, para ayudar a salvar a otras personas.
+Dice que él de mayor quiere ser un [[Gremio del Noctívago|noctívago]], como los que le salvaron, para ayudar a salvar a otras personas.
 
 Se siente bien cuando alguien te salva.
 
@@ -36,7 +36,7 @@ Silencio.
 
 Desde que estamos en el [[Castillo de Bescond]] siento más que nunca el silencio a mi alrededor, y nunca había notado lo inquietante que se siente.
 
-En el [[Orfanato Lucero del Alba|orfanato]] siempre se oían voces de otros niños, por mucho que los cuidadores insistieran en que debía haber silencio en los dormitorios, los niños susurraban, reían, o lloraban cada noche. 
+En el [[Faro del Lucero del Alba|Faro]] siempre se oían voces de otros niños, por mucho que los cuidadores insistieran en que debía haber silencio en los dormitorios, los niños susurraban, reían, o lloraban cada noche. 
 
 En la casa de la [[Orden del Lucero del Alba|orden]] siempre había vida y movimiento, porque daba igual la hora del día, siempre había alguien preparándose para salir de misión, o alguien que acababa de volver. 
 
