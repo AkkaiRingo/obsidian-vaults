@@ -3,17 +3,13 @@ Nodita: "[[Malditos]]"
 Tipo: Monstrosity
 Sub-Tipos:
   - "[[Licántropo]]"
-Desc: Mortales transformados por una maldición
+  - "[[Marcado]]"
+Desc: Mortales transformados por una maldición que llevan en su sangre
 aliases:
   - Maldito
 tags:
   - Criatura
 ---
-
-| Licántropos           | No necesariamente hombres lobo clásicos.<br>Podría haber:<br>- Lobos<br>- Osos<br>- Cuervos<br>- Ciervos<br>- Jabalíes |
-| --------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Maldiciones de sangre | Mortales cuya sangre a sido marcada por los poderes oscuros                                                            |
-
 ```dataview 
 table Tipo, Sub-Tipos, Desc
 where 

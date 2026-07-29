@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       },
       {
         "id": "1ad27719f454d5d3",
@@ -143,7 +143,7 @@
               "type": "markdown",
               "state": {
                 "file": "Backstory info/Grupos/Noditas/Noditas.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -167,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -328,28 +328,30 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "a445ea11e2e03591",
+  "active": "409e80b8d424501e",
   "lastOpenFiles": [
+    "Backstory info/Grupos/Noditas/Malditos/Licántropo.md",
+    "Backstory info/Grupos/Noditas/Malditos/Malditos.md",
+    "Backstory info/Grupos/Noditas/Malditos/Marcado.md",
+    "Backstory info/Grupos/Noditas/Hambrientos/Hambrientos.md",
+    "Backstory info/Grupos/Noditas/Noditas.md",
+    "Images/Ordenes_del_Gremio.png",
+    "Backstory info/Grupos/Gremio del Noctívago/Gremio del Noctívago.md",
     "Backstory info/Grupos/Noditas/Cultistas/Cultistas.md",
     "Backstory info/Grupos/Grupos.md",
     "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Vampiros.md",
-    "Backstory info/Grupos/Noditas/Noditas.md",
     "Templates/Criatura.md",
     "Backstory info/Grupos/Noditas/Consumidos/Consumidos.md",
     "Backstory info/Grupos/Noditas/Engendros/Engendros.md",
-    "Backstory info/Grupos/Noditas/Hambrientos/Hambrientos.md",
     "Backstory info/Grupos/Noditas/Inmateriales/Inmateriales.md",
     "Backstory info/Grupos/Noditas/Bestias/Bestias.md",
-    "Backstory info/Grupos/Noditas/Malditos/Malditos.md",
     "Backstory info/Grupos/Noditas/Hambrientos/Ghoul.md",
-    "Backstory info/Grupos/Noditas/Malditos/Licántropo.md",
     "Backstory info/Grupos/Noditas/Malditos",
     "Backstory info/Grupos/Noditas/Inmateriales",
     "Backstory info/Grupos/Noditas/Engendros",
     "Backstory info/Grupos/Noditas/Cultistas",
     "Backstory info/Grupos/Noditas/Consumidos",
     "Backstory info/Grupos/Noditas/Bestias",
-    "Backstory info/Grupos/Gremio del Noctívago/Gremio del Noctívago.md",
     "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Liturgo/Provecto Liturgo.md",
     "Backstory info/Grupos/Familias",
     "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Liturgo/Vetusto.md",
@@ -366,8 +368,6 @@
     "Backstory info/Grupos/Noditas.md",
     "Backstory info/Grupos/La Luminaria/La Cúpula.md",
     "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Agatha del Alba.md",
-    "Backstory info/Grupos/Gremio del Noctívago/Orden del Sudario.md",
-    "Images/Ordenes_del_Gremio.png",
     "Images/Beatrice St.Claire.png",
     "Images/Sanidad_5.png",
     "Images/Svitanie map.jpg",
