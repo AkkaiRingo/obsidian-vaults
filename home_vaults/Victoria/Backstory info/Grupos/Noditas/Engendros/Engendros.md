@@ -10,11 +10,6 @@ aliases:
 tags:
   - Criatura
 ---
-
-| Merodeadores             | Criaturas cuadrúpedas.<br>No tienen ojos.<br>Solo cazan por sonido.                                  |
-| ------------------------ | ---------------------------------------------------------------------------------------------------- |
-| Desolladores             | Parecen personas...<br>Hasta que sonríen.                                                            |
-
 ```dataview 
 table Tipo, Sub-Tipos, Desc
 where 

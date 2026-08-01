@@ -1,4 +1,4 @@
-- hechizos que afectan a varios personajes --> tiene que poder afectar a Madelaine y Victoria
+- hechizos que afectan a varios personajes --> tiene que poder afectar a Madelaine y Victoria (cuenta x2)
 	- para poder tener una feat adicional por ejemplo
 
 - Cloak of the Bat --> transformarme también en lobo o rata?
@@ -11,3 +11,7 @@
 	- pistol proficiency?
 - (M) shortsword + dagger --> rapier
 - (V) shorsword --> longsword
+
+## Arlene
+- Magic Initiate (Druid) --> Druidcraft
+	- Considered Divine (Cleric) magic, for goddess Mielikki

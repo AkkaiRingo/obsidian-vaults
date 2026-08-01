@@ -7,6 +7,7 @@ Líder:
 Afiliación:
   - "[[Orden de la Luminaria]]"
   - "[[Ismael Orellana]]"
+  - "[[Gremio del Noctívago]]"
 Agrupación: Orden
 Miembros:
   - "[[Anastasia del Alba]]"

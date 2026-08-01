@@ -2,24 +2,10 @@
 Nodita: "[[Cultistas]]"
 Tipo: Humanoid
 Sub-Tipos:
-Desc: Mortales que intentan utilizar la magia oscura, aceptando la maldición
+Desc: Personas que intentan utilizar la Magia Efímera, aceptando la maldición
 aliases:
 tags:
   - Criatura
 ---
-La mayoría se acaban convirtiendo en [[Vacíos]].
+Personas que aprenden a utilizar la [[Efímera|Magia Efímera]] y en lugar de intentar contrarrestar los efectos de la [[Maldición del Eclipse]] como los [[Gremio del Noctívago|noctívagos]], aceptan su influencia. La mayoría se acaban convirtiendo en [[Caídos]].
 
-```dataview 
-table Tipo, Sub-Tipos, Desc
-where 
-(
-(file.folder = this.file.folder) 
-or 
-(join(list(file.folder, file.name), "/") = join(list(this.file.folder, file.name, file.name), "/"))
-) 
-and 
-!regexmatch(file.name, this.file.name)
-and
-!startswith(file.name, "_")
-sort file.name ASC
-```

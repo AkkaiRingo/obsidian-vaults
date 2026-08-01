@@ -4,125 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "803d3ddc4070ca5c",
+        "id": "01d40688ba683977",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "06b6b058e43c43bb",
+            "id": "035eeb5c7909c6c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Grupos/Noditas/Hambrientos/Hambrientos.md",
+                "file": "Backstory info/_Notas/⁉ New questions... 🤓.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Hambrientos"
+              "title": "⁉ New questions... 🤓"
             }
           },
           {
-            "id": "409e80b8d424501e",
+            "id": "5e87c6cba81ae2ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Grupos/Noditas/Malditos/Malditos.md",
+                "file": "Backstory info/_Notas/TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Malditos"
+              "title": "TODO"
             }
           },
           {
-            "id": "ec2be7d3d92fdf90",
+            "id": "b301f6460e77c933",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Grupos/Noditas/Inmateriales/Inmateriales.md",
+                "file": "Backstory info/_Notas/Notas varias sin hogar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Inmateriales"
+              "title": "Notas varias sin hogar"
             }
           },
           {
-            "id": "28e3e978308f41c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Noditas/Bestias/Bestias.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Bestias"
-            }
-          },
-          {
-            "id": "218ac2769f827e3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Noditas/Engendros/Engendros.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Engendros"
-            }
-          },
-          {
-            "id": "3f45fd26bb2bf13a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Noditas/Consumidos/Consumidos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Consumidos"
-            }
-          },
-          {
-            "id": "7967b9cf4f542a77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Noditas/Cultistas/Cultistas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Cultistas"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "1ad27719f454d5d3",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "82786809cd545bf4",
+            "id": "25b5c51db10e97ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -137,37 +68,90 @@
             }
           },
           {
-            "id": "454bcaf0d598a602",
+            "id": "0d2a79031a9ee4d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Grupos/Noditas/Noditas.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Noditas"
-            }
-          },
-          {
-            "id": "a445ea11e2e03591",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Grupos.md",
+                "file": "Backstory info/Grupos/Clanes/Clan Astar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Grupos"
+              "title": "Clan Astar"
+            }
+          },
+          {
+            "id": "7f1c852dbd8ac706",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Astoria Vas Astar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Astoria Vas Astar"
+            }
+          },
+          {
+            "id": "3ccf2384b32c71ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Clanes/Clan Astar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Clan Astar"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "27cb2b12ff186670",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21d3f0497d34584b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Personas/Vampiros/Alastor Val Astar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Alastor Val Astar"
+            }
+          },
+          {
+            "id": "d4c20965127845c4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/_Jerarquía Vampiros.canvas",
+                "viewState": {
+                  "x": -477.3502087682673,
+                  "y": 380.38413361169086,
+                  "zoom": -1.155462615088245
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "_Jerarquía Vampiros"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +171,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -224,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 269.5
   },
   "right": {
     "id": "75e87a799dde3557",
@@ -240,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backstory info/Grupos/Grupos.md",
+                "file": "Backstory info/_Notas/TODO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +236,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Grupos"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -259,12 +245,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backstory info/Grupos/Grupos.md",
+                "file": "Backstory info/_Notas/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Grupos"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -328,55 +314,54 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "409e80b8d424501e",
+  "active": "5e87c6cba81ae2ff",
   "lastOpenFiles": [
-    "Backstory info/Grupos/Noditas/Malditos/Licántropo.md",
-    "Backstory info/Grupos/Noditas/Malditos/Malditos.md",
-    "Backstory info/Grupos/Noditas/Malditos/Marcado.md",
-    "Backstory info/Grupos/Noditas/Hambrientos/Hambrientos.md",
-    "Backstory info/Grupos/Noditas/Noditas.md",
-    "Images/Ordenes_del_Gremio.png",
-    "Backstory info/Grupos/Gremio del Noctívago/Gremio del Noctívago.md",
-    "Backstory info/Grupos/Noditas/Cultistas/Cultistas.md",
-    "Backstory info/Grupos/Grupos.md",
+    "Astoria Vas Astar.md",
+    "Backstory info/Personas/Vampiros/Alastor Val Astar.md",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/_Jerarquía Vampiros.canvas",
+    "Backstory info/Grupos/Clanes/Corte de Vairae.md",
+    "Backstory info/Grupos/Clanes/Clan Astar.md",
     "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Vampiros.md",
-    "Templates/Criatura.md",
-    "Backstory info/Grupos/Noditas/Consumidos/Consumidos.md",
-    "Backstory info/Grupos/Noditas/Engendros/Engendros.md",
-    "Backstory info/Grupos/Noditas/Inmateriales/Inmateriales.md",
-    "Backstory info/Grupos/Noditas/Bestias/Bestias.md",
-    "Backstory info/Grupos/Noditas/Hambrientos/Ghoul.md",
+    "Images/Pasted image 20260801172628.png",
+    "Images/Pasted image 20260801172614.png",
+    "Backstory info/_Notas/Notas varias sin hogar.md",
+    "Backstory info/_Notas/TODO.md",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Hematófago/Hematófago.md",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/_Lore de Vampiros.md",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/_Jerarquía resumen.md",
+    "Backstory info/Personas/Vampiros/Victoria Val Astar.md",
+    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Victoria del Alba.md",
+    "Backstory info/Personas/Mina.md",
+    "Backstory info/_Notas/Class Review.md",
+    "Backstory info/_Notas/Timeline.md",
+    "Backstory info/_Notas/⁉ New questions... 🤓.md",
+    "Backstory info/_Notas/⁉ Preguntas para Ima.md",
+    "Backstory info/Grupos/Orden de la Luminaria/La Cúpula.md",
+    "Backstory info/Grupos/Orden de la Luminaria/Orden de la Luminaria.md",
+    "Backstory info/Grupos/Grupos.md",
+    "Backstory info/Grupos/Orden de la Luminaria/Sempiterna.md",
+    "Backstory info/Grupos/Orden de la Luminaria/Cirio.md",
+    "Backstory info/Grupos/Orden de la Luminaria/Ignición.md",
+    "Backstory info/Grupos/Orden de la Luminaria/Faros de la Luminaria.md",
+    "Backstory info/Grupos/Orden de la Luminaria/Efímera.md",
+    "Images/Victoria prueba Ignición.png",
+    "Images/Castillo de Bescond.jpg",
+    "Images/Lioncourt.png",
+    "Images/Pasted image 20260801134021.png",
+    "Images/Faro del Lucero del Alba.jpg",
+    "Images/Faro de Zóar.png",
+    "Images/Ordenes_del_Gremio.png",
     "Backstory info/Grupos/Noditas/Malditos",
     "Backstory info/Grupos/Noditas/Inmateriales",
     "Backstory info/Grupos/Noditas/Engendros",
     "Backstory info/Grupos/Noditas/Cultistas",
     "Backstory info/Grupos/Noditas/Consumidos",
     "Backstory info/Grupos/Noditas/Bestias",
-    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Liturgo/Provecto Liturgo.md",
     "Backstory info/Grupos/Familias",
-    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Liturgo/Vetusto.md",
-    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Hematófago/Protogenos Inmemorial.md",
-    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Liturgo/Nightbringer.md",
-    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Liturgo/Liturgo.md",
-    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Hematófago/Protogenos.md",
-    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Hematófago/Lamia.md",
     "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Liturgo",
-    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/_Jerarquía Vampiros.canvas",
     "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Hematófago",
-    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Hematófago/Hematófago.md",
     "Backstory info/Grupos/Noditas/Hambrientos",
-    "Backstory info/Grupos/Noditas.md",
-    "Backstory info/Grupos/La Luminaria/La Cúpula.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Agatha del Alba.md",
     "Images/Beatrice St.Claire.png",
-    "Images/Sanidad_5.png",
-    "Images/Svitanie map.jpg",
-    "Images/Faro del Lucero del Alba.jpg",
-    "Images/Sanidad_4.png",
-    "Images/Howard Saville.png",
-    "Images/Territorial_2.png",
-    "Images/Cordelia Renaud.png",
-    "Images/Economia_3.png",
     "Backstory info/Grupos/aaaaVampiros/_Jerarquía Vampiros.canvas",
     "Untitled.canvas",
     "Backstory info/Lugares/Lugares.canvas",

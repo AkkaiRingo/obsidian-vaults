@@ -13,20 +13,20 @@
 #### Personas
 - [x] [[Victoria del Alba|Victoria]] --> half-elf o full elf, does it matter?
 	- [x] Quién le dio el nombre de [[Victoria del Alba|Victoria]]? Sus padres, pero cómo dejaron constancia de su nombre al abandonarla? Un guardapelo vacío con el nombre grabado?
-- [ ] Otras órdenes de [[Gremio del Noctívago|noctívagos]]
+- [x] Otras órdenes de [[Gremio del Noctívago|noctívagos]]
 - [ ] Sacar imágenes y organizar bien a toda la [[1º Gen. del Alba de Lioncourt]]
 	- [x] Niños
 	- [x] Graduación
 	- [x] Ataque a la familia [[Familia Bescond|Bescond]]
 	- [ ] Despedida
 - [x] Obispos y [[Aurora]]
-- [ ] [[Vampiros|vampiros]] de la corte de [[Vairae]]
 - [ ] quién es el [[Gremio del Noctívago|noctívago]] que sobrevivió al ataque en [[Sinar]]?
-- [ ] Sacar imágenes para otros personajes principales
+- [x] Sacar imágenes para otros personajes principales
 	- [x] [[Alastor Val Astar|Alastor]]
 	- [x] [[Madelaine Bescond]]
 	- [ ] ?
 - [ ] Vampiros
+	- [ ] [[Vampiros|vampiros]] de la corte de [[Vairae]]
 	- [x] buscar nombres de grupos de [[Vampiros]]
 		- [x] clan?
 		- [x] akelarre?

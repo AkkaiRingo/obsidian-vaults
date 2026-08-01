@@ -12,30 +12,13 @@ from #Dios
 where startswith(file.folder, this.file.folder) and !regexmatch(file.name, this.file.name)
 sort file.name ASC
 ```
-### Orden de la Luminaria
+### Familias
 ```dataview 
-table Líder, Ubicación
-from #Grupo 
-where startswith(file.folder, this.file.folder) and !regexmatch(file.name, this.file.name) and regextest("La Luminaria", file.folder)
+table Líder, Afiliación, Ubicación
+where startswith(file.folder, this.file.folder) and !regexmatch(file.name, this.file.name) and Agrupación = "Familia"
 sort Agrupación ASC
 ```
-#### Gremio del Noctívago
-```dataview 
-table Especialidad, Reliquia, Apellido, Ubicación
-from #Grupo 
-where startswith(file.folder, this.file.folder) and !regexmatch(file.name, this.file.name) and regextest("Gremio", file.folder)
-SORT Apellido ASC
-SORT
-choice(Especialidad = [[Hambrientos]], "1",
-choice(Especialidad = [[Malditos]], "2",
-choice(Especialidad = [[Inmateriales]], "3",
-choice(Especialidad = [[Bestias]], "4",
-choice(Especialidad = [[Engendros]], "5",
-choice(Especialidad = [[Consumidos]], "6",
-choice(Especialidad = [[Cultistas]], "7", "other"
-)))))))
-```
-#### Noditas
+### [[Noditas]]
 ```dataview 
 table Tipo, Sub-Tipos, Desc
 from #Criatura 
@@ -54,9 +37,32 @@ choice(Nodita = [[Consumidos]], "6",
 choice(Nodita = [[Cultistas]], "7", "other"
 )))))))
 ```
-#### Por categorizar
+### [[Orden de la Luminaria]]
+```dataview 
+table Líder, Ubicación
+from #Grupo 
+where startswith(file.folder, this.file.folder) and !regexmatch(file.name, this.file.name) and contains(file.folder, "Orden de la Luminaria") and !contains(Afiliación, [[Gremio del Noctívago]])
+sort file.name ASC
+```
+#### [[Gremio del Noctívago]]
+```dataview 
+table Especialidad, Reliquia, Apellido, Ubicación
+from #Grupo 
+where startswith(file.folder, this.file.folder) and !regexmatch(file.name, this.file.name) and regextest("Gremio", file.folder)
+SORT Reliquia DESC
+SORT
+choice(Especialidad = [[Hambrientos]], "1",
+choice(Especialidad = [[Malditos]], "2",
+choice(Especialidad = [[Inmateriales]], "3",
+choice(Especialidad = [[Bestias]], "4",
+choice(Especialidad = [[Engendros]], "5",
+choice(Especialidad = [[Consumidos]], "6",
+choice(Especialidad = [[Cultistas]], "7", "other"
+)))))))
+```
+### Por categorizar
 ```dataview 
 table Agrupación, Líder, Afiliación, Ubicación
-where startswith(file.folder, this.file.folder) and !regexmatch(file.name, this.file.name) and !regextest("Vampiros", file.folder) and !regextest("Dioses", file.folder) and !regextest("Clanes", file.folder) and !regextest("La Luminaria", file.folder) and !regextest("Gremio del Noctívago", file.folder) and !regextest("Noditas", file.folder)
+where file.folder = this.file.folder and file.name != this.file.name
 sort Agrupación ASC
 ```

@@ -20,7 +20,7 @@ tags:
 ---
 Líderes de la [[Orden de la Luminaria]], compuesto por obispos que lideran diferentes aspectos al cargo de [[Orden de la Luminaria|La Luminaria]], y su líder, [[Aurora]]. 
 
-[[Jerarquía_Lumbre.excalidraw]]
+[[_Jerarquía_Lumbre.excalidraw]]
 
 | Puesto                                          | Nombre                 | Imágen                      |
 | ----------------------------------------------- | ---------------------- | --------------------------- |

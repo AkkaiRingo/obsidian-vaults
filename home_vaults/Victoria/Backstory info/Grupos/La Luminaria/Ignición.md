@@ -1,1 +1,0 @@
-Prueba que deben superar las personas para poder convertirse en [[Cirio|Cirios]]. 

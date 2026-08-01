@@ -8,7 +8,8 @@ Miembros:
   - "[[Alastor Val Astar]]"
   - "[[Victoria Val Astar]]"
 Agrupación: Clan
-aliases: 
+aliases:
+  - cortes
 tags:
   - "#Grupo"
   - Clan

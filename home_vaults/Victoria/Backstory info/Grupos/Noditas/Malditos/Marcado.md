@@ -2,7 +2,7 @@
 Nodita: "[[Malditos]]"
 Tipo: Monstrosity
 Sub-Tipos:
-Desc: Criaturas que llevan una maldición en su sangre, y que es visible por alguna marca en su cuerpo
+Desc: Personas con una marca visible como muestras de su maldición
 aliases:
 tags:
   - Criatura

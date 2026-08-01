@@ -13,3 +13,4 @@ tags:
 >- **Lugar de refugio**: Se salvó de la destrucción divina porque Lot huyó hacia ella pidiendo clemencia al considerarla un sitio pequeño.
 >Significa principalmente =="pequeño" o "insignificante"== en hebreo.
 
+![[Faro de Zóar.png|700]]

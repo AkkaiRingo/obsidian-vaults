@@ -1,12 +1,13 @@
 ---
-Reliquia: "[[La Lámpara de la Última Vigilia]]"
-Especialidad: "[[Consumidos]]"
-Ubicación: "[[Zóar]]"
-Apellido: Vigilia
+Reliquia: "[[El Sudario]]"
+Especialidad: "[[Inmateriales]]"
+Ubicación: "[[Arimatea]]"
+Apellido: Sudario
 Líder:
 Afiliación:
   - "[[Orden de la Luminaria]]"
   - "[[Ismael Orellana]]"
+  - "[[Gremio del Noctívago]]"
 Agrupación: Orden
 Miembros:
 aliases:

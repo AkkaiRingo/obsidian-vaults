@@ -10,10 +10,6 @@ aliases:
 tags:
   - Criatura
 ---
-| Fantasmas<br>Espectros<br>Apariciones |                                                                                                                                                                           |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Sombras                               | No son fantasmas.<br>Son literalmente sombras que se desprenden de una persona.<br>Si matan al dueño, sobreviven.<br>Si sobreviven mucho tiempo, se vuelven inteligentes. |
-
 ```dataview 
 table Tipo, Sub-Tipos, Desc
 where 

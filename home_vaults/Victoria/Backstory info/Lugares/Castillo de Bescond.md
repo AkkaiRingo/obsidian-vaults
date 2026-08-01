@@ -8,4 +8,4 @@ aliases:
 tags:
   - Lugar
 ---
-![[Castillo de Bescond.jpg]]
+![[Lioncourt.png]]

@@ -14,3 +14,4 @@ tags:
   - "#Grupo"
   - "#Clan"
 ---
+Fundado y originalmente liderado por [[Astoria Vas Astar]], el clan lleva aún a día de hoy el nombre inspirado en ella. 

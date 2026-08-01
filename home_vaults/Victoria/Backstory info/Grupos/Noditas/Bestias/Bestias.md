@@ -3,18 +3,13 @@ Nodita: "[[Bestias]]"
 Tipo: Monstrosity
 Sub-Tipos:
   - "[[Tejedora]]"
-  - "[[Grifo nocturno]]"
+  - "[[Grifo Nocturno]]"
 Desc: Grandes bestias nocturnas que se han adaptado a sobrevivir en la oscuridad de la maldición
 aliases:
   - Bestia
 tags:
   - Criatura
 ---
-
-| Tejedoras        | Arañas gigantes. Pero inteligentes. <br>Crean nidos enteros dentro de ciudades abandonadas. |
-| ---------------- | ------------------------------------------------------------------------------------------- |
-| Grifos nocturnos | En vez de águila... Lechuza.                                                                |
-
 ```dataview 
 table Tipo, Sub-Tipos, Desc
 where 

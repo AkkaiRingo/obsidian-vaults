@@ -10,4 +10,4 @@ aliases:
 tags:
   - Criatura
 ---
-Es lo que ocurre cuando un mortal muere en las tierras afectadas por la maldición y su cadaver no es enterrado o cremado adecuadamente.
+Es lo que ocurre cuando un mortal muere en la [[Tierra de Nod]] y su cadaver no es enterrado o cremado adecuadamente.
