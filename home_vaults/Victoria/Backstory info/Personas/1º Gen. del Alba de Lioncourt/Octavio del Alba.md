@@ -15,6 +15,7 @@ tags:
 aliases:
   - No. 07
 ---
+Sus padres eran nobles de [[Sinar]]. Murieron la noche del ataque. 
 
 ![[07_Octavio_1.1.jpg]]
 

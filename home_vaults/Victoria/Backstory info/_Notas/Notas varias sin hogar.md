@@ -9,10 +9,8 @@
 - [[Alastor]] in a "bed" of flowers (narciso/white lily)
 
 
-
 #### Nombres sin usar
 - Valeria
 - Cornelius
-
 ## Chatty
 "La luz ilumina el camino, pero la sombra conoce al enemigo"

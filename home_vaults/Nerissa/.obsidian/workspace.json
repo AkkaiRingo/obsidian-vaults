@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1648aac20711bceb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          },
-          {
             "id": "c2a706c396c5d8d9",
             "type": "leaf",
             "state": {
@@ -29,8 +19,7 @@
               "title": "Akil_Barb_Pala.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -50,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"

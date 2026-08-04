@@ -2,7 +2,10 @@
 Género: Hombre
 Raza: Humano
 Profesión: Obispo
-Lugar: "[[Edén]]"
+Ámbito: Defensa
+Lugar:
+  - "[[Edén]]"
+  - "[[Sinar]]"
 F. Paternales:
 F. Fraternales:
 Pareja:
@@ -12,8 +15,10 @@ Familia:
 tags:
   - Persona
 aliases:
+imagen: "[[Emilio Cedrón.png]]"
 ---
-Obispo de Defensa. 
+Obispo de Defensa, miembro de [[La Cúpula]]. 
+(Naranja)
 
 Es el obispo a cargo de coordinar a los [[Caballeros de la Llama Sempiterna]] y de descubrir a nuevos [[Cirio|Cirios]]. Fue quien dictaminó que la magia de [[Victoria del Alba|Victoria]] no era lo suficientemente pura como para merecer la atención de [[Amaunator]]. 
 

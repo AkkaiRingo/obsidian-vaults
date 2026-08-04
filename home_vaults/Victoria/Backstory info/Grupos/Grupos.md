@@ -1,3 +1,7 @@
+---
+tags:
+  - hidden
+---
 ### Clanes
 ```dataview 
 table Líder, Afiliación, Ubicación

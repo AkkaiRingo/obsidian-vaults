@@ -15,6 +15,7 @@ tags:
 aliases:
   - No. 05
 ---
+Sus padres eran nobles de [[Sinar]]. Murieron la noche del ataque. 
 
 ![[05_Barnaby_1.1.jpg]]
 

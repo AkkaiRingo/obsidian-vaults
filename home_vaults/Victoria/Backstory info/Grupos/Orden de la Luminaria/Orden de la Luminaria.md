@@ -19,7 +19,7 @@ Su objetivo principal es quitar la [[Maldición del Eclipse]] que asola [[Svitan
 table Líder, Ubicación
 from #Grupo 
 where startswith(file.folder, this.file.folder) and !regexmatch(file.name, this.file.name) and !contains(Afiliación, [[Gremio del Noctívago]])
-sort file.name ASC
+sort Ubicación ASC
 ```
 
 ## Conceptos

@@ -2,6 +2,7 @@
 Género: Mujer
 Raza: Humano
 Profesión: Obispo
+Ámbito: Agricultura y Alimentación
 Lugar: "[[Edén]]"
 F. Paternales:
 F. Fraternales:
@@ -12,7 +13,9 @@ Familia:
 tags:
   - Persona
 aliases:
+imagen: "[[Sylvia Courvoisier.png]]"
 ---
-Obispo de Agricultura, Pesca y Alimentación.
+Obispo de Agricultura y Alimentación, miembro de [[La Cúpula]].
+(Amarillo)
 
 ![[Sylvia Courvoisier.png]]

@@ -15,6 +15,7 @@ tags:
 aliases:
   - No. 06
 ---
+Padres [[Gremio del Noctívago|noctívagos]]. Estaban de misión la noche del ataque. Desaparecidos. 
 
 ![[06_Elvira_1.1.jpg]]
 

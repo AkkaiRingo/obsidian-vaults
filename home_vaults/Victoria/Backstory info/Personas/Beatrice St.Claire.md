@@ -2,7 +2,10 @@
 Género: Mujer
 Raza: Humano
 Profesión: Obispo
-Lugar: "[[Edén]]"
+Ámbito: Sanidad
+Lugar:
+  - "[[Edén]]"
+  - "[[Naín]]"
 F. Paternales:
 F. Fraternales:
 Pareja:
@@ -12,7 +15,9 @@ Familia:
 tags:
   - Persona
 aliases:
+imagen: "[[Beatrice St.Claire.png]]"
 ---
-Obispo de Sanidad
+Obispo de Sanidad, miembro de [[La Cúpula]].
+(Morado)
 
 ![[Beatrice St.Claire.png]]

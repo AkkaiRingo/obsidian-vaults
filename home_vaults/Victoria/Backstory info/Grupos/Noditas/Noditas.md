@@ -5,6 +5,13 @@ Afiliación:
   - "[[Efímera|Magia Efímera]]"
 Ubicación: "[[Svitanie]]"
 Miembros:
+  - "[[Hambrientos]]"
+  - "[[Malditos]]"
+  - "[[Inmateriales]]"
+  - "[[Bestias]]"
+  - "[[Engendros]]"
+  - "[[Consumidos]]"
+  - "[[Cultistas]]"
 aliases:
   - Nodita
 tags:

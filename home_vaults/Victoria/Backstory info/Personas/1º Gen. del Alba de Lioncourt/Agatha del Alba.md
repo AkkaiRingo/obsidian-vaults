@@ -15,6 +15,7 @@ tags:
 aliases:
   - No. 02
 ---
+Sus padres eran nobles de [[Sinar]]. Murieron la noche del ataque. 
 
 ![[02_Agatha_1.1.jpg]]
 

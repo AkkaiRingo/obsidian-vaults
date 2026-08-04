@@ -1,9 +1,9 @@
 ---
 Líder: "[[Emilio Cedrón]]"
-Agrupación: Orden
+Agrupación: Gremio
 Afiliación:
   - "[[Orden de la Luminaria]]"
-Ubicación: "[[Svitanie]]"
+Ubicación: "[[Edén]]"
 Miembros:
 aliases:
 tags:

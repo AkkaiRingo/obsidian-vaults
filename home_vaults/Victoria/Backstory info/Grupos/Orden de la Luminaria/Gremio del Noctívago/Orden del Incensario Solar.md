@@ -2,7 +2,7 @@
 Reliquia: "[[El Incensario Solar]]"
 Especialidad: "[[Cultistas]]"
 Ubicación: "[[Edén]]"
-Apellido: Solar
+Apellido: del Solar
 Líder:
 Afiliación:
   - "[[Orden de la Luminaria]]"

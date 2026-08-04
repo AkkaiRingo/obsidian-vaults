@@ -23,21 +23,6 @@
             }
           },
           {
-            "id": "5e87c6cba81ae2ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/_Notas/TODO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
             "id": "b301f6460e77c933",
             "type": "leaf",
             "state": {
@@ -53,105 +38,49 @@
             }
           },
           {
-            "id": "25b5c51db10e97ad",
+            "id": "9d83acb3918d1278",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Vampiros.md",
+                "file": "Backstory info/_Notas/TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Vampiros"
+              "title": "TODO"
             }
           },
           {
-            "id": "0d2a79031a9ee4d4",
+            "id": "8a04119074f21d8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan Astar.md",
+                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/1º Gen. del Alba de Lioncourt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Clan Astar"
+              "title": "1º Gen. del Alba de Lioncourt"
             }
           },
           {
-            "id": "7f1c852dbd8ac706",
+            "id": "7bc53487e896405b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Astoria Vas Astar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/_Generación_del_Alba.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Astoria Vas Astar"
-            }
-          },
-          {
-            "id": "3ccf2384b32c71ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan Astar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Clan Astar"
+              "icon": "excalidraw-icon",
+              "title": "_Generación_del_Alba.excalidraw"
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "27cb2b12ff186670",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "21d3f0497d34584b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Personas/Vampiros/Alastor Val Astar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Alastor Val Astar"
-            }
-          },
-          {
-            "id": "d4c20965127845c4",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/_Jerarquía Vampiros.canvas",
-                "viewState": {
-                  "x": -477.3502087682673,
-                  "y": 380.38413361169086,
-                  "zoom": -1.155462615088245
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "_Jerarquía Vampiros"
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Vampiros\"",
+                "query": "lazarillo",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -210,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 267.5
   },
   "right": {
     "id": "75e87a799dde3557",
@@ -226,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backstory info/_Notas/TODO.md",
+                "file": "Backstory info/Lugares/Svitanie.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backstory info/_Notas/TODO.md",
+                "file": "Backstory info/Lugares/Svitanie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -293,7 +222,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -314,43 +244,45 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "5e87c6cba81ae2ff",
+  "active": "7bc53487e896405b",
   "lastOpenFiles": [
-    "Astoria Vas Astar.md",
-    "Backstory info/Personas/Vampiros/Alastor Val Astar.md",
-    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/_Jerarquía Vampiros.canvas",
-    "Backstory info/Grupos/Clanes/Corte de Vairae.md",
-    "Backstory info/Grupos/Clanes/Clan Astar.md",
-    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Vampiros.md",
-    "Images/Pasted image 20260801172628.png",
+    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Thaddeus del Alba.md",
+    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Agatha del Alba.md",
+    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Anastasia del Alba.md",
+    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Nicodemus del Alba.md",
+    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/1º Gen. del Alba de Lioncourt.md",
+    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/_Generación_del_Alba.excalidraw.md",
+    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Barnaby del Alba.md",
+    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Octavio del Alba.md",
+    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Reginald del Alba.md",
+    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Elvira del Alba.md",
+    "Backstory info/_Notas/TODO.md",
+    "Backstory info/Personas/Vampiros/Victoria Val Astar.md",
+    "Backstory info/Personas/Vampiros/Astoria Vas Astar.md",
+    "Images/Astoria Vas Astar 2.png",
     "Images/Pasted image 20260801172614.png",
     "Backstory info/_Notas/Notas varias sin hogar.md",
-    "Backstory info/_Notas/TODO.md",
-    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Hematófago/Hematófago.md",
-    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/_Lore de Vampiros.md",
-    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/_Jerarquía resumen.md",
-    "Backstory info/Personas/Vampiros/Victoria Val Astar.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Victoria del Alba.md",
-    "Backstory info/Personas/Mina.md",
-    "Backstory info/_Notas/Class Review.md",
-    "Backstory info/_Notas/Timeline.md",
-    "Backstory info/_Notas/⁉ New questions... 🤓.md",
-    "Backstory info/_Notas/⁉ Preguntas para Ima.md",
+    "Backstory info/Lugares/Svitanie.md",
+    "Images/Svitanie map.png",
+    "Images/Svitanie map.jpg",
     "Backstory info/Grupos/Orden de la Luminaria/La Cúpula.md",
-    "Backstory info/Grupos/Orden de la Luminaria/Orden de la Luminaria.md",
-    "Backstory info/Grupos/Grupos.md",
-    "Backstory info/Grupos/Orden de la Luminaria/Sempiterna.md",
-    "Backstory info/Grupos/Orden de la Luminaria/Cirio.md",
-    "Backstory info/Grupos/Orden de la Luminaria/Ignición.md",
-    "Backstory info/Grupos/Orden de la Luminaria/Faros de la Luminaria.md",
-    "Backstory info/Grupos/Orden de la Luminaria/Efímera.md",
-    "Images/Victoria prueba Ignición.png",
-    "Images/Castillo de Bescond.jpg",
-    "Images/Lioncourt.png",
-    "Images/Pasted image 20260801134021.png",
-    "Images/Faro del Lucero del Alba.jpg",
-    "Images/Faro de Zóar.png",
-    "Images/Ordenes_del_Gremio.png",
+    "Backstory info/Personas/Cordelia Renaud de la Vigilia.md",
+    "Backstory info/Personas/Alma Laguna del Velado.md",
+    "Images/Alma Laguna del Velado.png",
+    "Images/Cordelia Renaud de la Vigilia.png",
+    "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Gremio del Noctívago.md",
+    "Backstory info/Grupos/Noditas/Noditas.md",
+    "Backstory info/Grupos/Orden de la Luminaria/Diocesano.md",
+    "Backstory info/Personas/Howard Saville.md",
+    "Backstory info/Personas/Sylvia Courvoisier.md",
+    "Backstory info/Personas/Ismael Orellana.md",
+    "Backstory info/Personas/Emilio Cedrón.md",
+    "Backstory info/Personas/Beatrice St.Claire.md",
+    "Images/Pasted image 20260801172628.png",
+    "Images/Svitanie.jpg",
+    "Images/Nathaniel del Alba.png",
+    "Images/Pasted image 20260802170143.png",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/_Jerarquía Vampiros.canvas",
     "Backstory info/Grupos/Noditas/Malditos",
     "Backstory info/Grupos/Noditas/Inmateriales",
     "Backstory info/Grupos/Noditas/Engendros",
@@ -361,7 +293,6 @@
     "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Liturgo",
     "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Hematófago",
     "Backstory info/Grupos/Noditas/Hambrientos",
-    "Images/Beatrice St.Claire.png",
     "Backstory info/Grupos/aaaaVampiros/_Jerarquía Vampiros.canvas",
     "Untitled.canvas",
     "Backstory info/Lugares/Lugares.canvas",

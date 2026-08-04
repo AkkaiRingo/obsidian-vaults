@@ -16,7 +16,7 @@ aliases:
 
 ![[Pasted image 20260801172628.png]]
 
-![[Pasted image 20260801172614.png]]
+![[Astoria Vas Astar 2.png]]
 
 Fundadora del [[Clan Astar]] y Maestra de [[Alastor Val Astar]]. Lo trataba más como a un hijo que a una [[Lamia]], y lo convirtió en [[Vrykolaka]] al poco de transformarlo. No tuvo más [[Vampiros|vampiros]] en su clan. 
 

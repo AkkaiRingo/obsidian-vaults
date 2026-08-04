@@ -2,7 +2,7 @@
 Reliquia: "[[El Sol Velado]]"
 Especialidad: "[[Engendros]]"
 Ubicación: "[[Ofir]]"
-Apellido: Velado
+Apellido: del Velado
 Líder:
 Afiliación:
   - "[[Orden de la Luminaria]]"
@@ -11,6 +11,7 @@ Afiliación:
 Agrupación: Orden
 Miembros:
 aliases:
+  - del Velado
 tags:
   - "#Grupo"
   - Gremio

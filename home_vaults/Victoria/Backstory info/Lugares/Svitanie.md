@@ -24,9 +24,7 @@ Hay rumores de que en realidad, ambos bandos tienen algún tipo de pacto y traba
 Svitanie es un valle, rodeado de altas montañas de piedra gris, con acantilados que dan al mar en uno de sus extremos. Debido a la maldición, vive en un eterno otoño/invierno, con las zonas más altas cubiertas de nieve y las más bajas repletas de bosques bermejos. Un gran río, el Arterial, lo recorre, y a su alrededor se encuentran las únicas poblaciones habitadas por humanoides (mayormente humanos): pueblos y ciudades de arquitectura gótica medieval. 
 
 ---
-
-![[Svitanie map.jpg]]
-
+![[Svitanie map.png]]
 
 ![[Svitanie.jpg]]
 ![[Svitanie Vista Acantilado.jpg]]

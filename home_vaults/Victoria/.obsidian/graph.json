@@ -57,14 +57,21 @@
       }
     },
     {
-      "query": "path:\"Backstory info/Grupos/Tipos de Vampiros\"  ",
+      "query": "path:\"Backstory info/Grupos/Noditas/Hambrientos/Vampiros\"  ",
       "color": {
         "a": 1,
         "rgb": 9583175
       }
+    },
+    {
+      "query": "tag:#Criatura",
+      "color": {
+        "a": 1,
+        "rgb": 15506897
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.0054347826087,
@@ -74,6 +81,6 @@
   "repelStrength": 9.47916666666667,
   "linkStrength": 0.229166666666667,
   "linkDistance": 309,
-  "scale": 0.25883865621817853,
-  "close": true
+  "scale": 0.3628873693012347,
+  "close": false
 }

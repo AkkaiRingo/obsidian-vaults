@@ -2,7 +2,7 @@
 Reliquia: "[[El Sudario]]"
 Especialidad: "[[Inmateriales]]"
 Ubicación: "[[Arimatea]]"
-Apellido: Sudario
+Apellido: del Sudario
 Líder:
 Afiliación:
   - "[[Orden de la Luminaria]]"
