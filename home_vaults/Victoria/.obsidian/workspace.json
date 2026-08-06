@@ -8,79 +8,162 @@
         "type": "tabs",
         "children": [
           {
-            "id": "035eeb5c7909c6c9",
+            "id": "a3e743bd5187e25c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Backstory info/_Notas/⁉ New questions... 🤓.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Images/Bosque de Lilitu 2.png"
               },
-              "icon": "lucide-file",
-              "title": "⁉ New questions... 🤓"
+              "icon": "lucide-image",
+              "title": "Bosque de Lilitu 2"
             }
           },
           {
-            "id": "b301f6460e77c933",
+            "id": "779f2585b0b60b49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Backstory info/_Notas/Notas varias sin hogar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Images/Capital Catedral.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Notas varias sin hogar"
+              "icon": "lucide-image",
+              "title": "Capital Catedral"
             }
           },
           {
-            "id": "9d83acb3918d1278",
+            "id": "856bf088c9dc97f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Backstory info/_Notas/TODO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Images/Dama de la Llama Sempiterna.png"
               },
-              "icon": "lucide-file",
-              "title": "TODO"
+              "icon": "lucide-image",
+              "title": "Dama de la Llama Sempiterna"
             }
           },
           {
-            "id": "8a04119074f21d8a",
+            "id": "5af6f4a946069527",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/1º Gen. del Alba de Lioncourt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Images/Dama Sempiterna 2.png"
               },
-              "icon": "lucide-file",
-              "title": "1º Gen. del Alba de Lioncourt"
+              "icon": "lucide-image",
+              "title": "Dama Sempiterna 2"
             }
           },
           {
-            "id": "7bc53487e896405b",
+            "id": "4778b5136ab47906",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/_Generación_del_Alba.excalidraw.md"
+                "file": "Images/Edén.jpg"
               },
-              "icon": "excalidraw-icon",
-              "title": "_Generación_del_Alba.excalidraw"
+              "icon": "lucide-image",
+              "title": "Edén"
+            }
+          },
+          {
+            "id": "7f62aeb3aa708c68",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Lioncourt.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Lioncourt"
+            }
+          },
+          {
+            "id": "9fb617d8663f714b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Lucy y Arthur Bescond.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Lucy y Arthur Bescond"
+            }
+          },
+          {
+            "id": "bbc36edd4ee0546b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/pastora.png"
+              },
+              "icon": "lucide-image",
+              "title": "pastora"
+            }
+          },
+          {
+            "id": "ad6f279ad0183339",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Sacramento.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Sacramento"
+            }
+          },
+          {
+            "id": "e007ae0061573d67",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Svitanie.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Svitanie"
+            }
+          },
+          {
+            "id": "d262770dab43feda",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Svitanie Vista Acantilado.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Svitanie Vista Acantilado"
+            }
+          },
+          {
+            "id": "d6b33f2719edd967",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Umbral Lord.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Umbral Lord"
+            }
+          },
+          {
+            "id": "970506914f77fc4c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Vrykolaka.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Vrykolaka"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backstory info/Lugares/Svitanie.md",
+                "file": "Images/Bosque de Lilitu 2.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backstory info/Lugares/Svitanie.md",
+                "file": "Images/Bosque de Lilitu 2.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -222,13 +305,11 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,14 +325,25 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "7bc53487e896405b",
+  "active": "a3e743bd5187e25c",
   "lastOpenFiles": [
+    "Backstory info/Lugares/Bosque de Lilitu.md",
+    "Images/Bosque de Lilitu 1.png",
+    "Images/Bosque de Lilitu 2.png",
+    "Backstory info/Lugares/Arterial.md",
+    "Images/Capital Catedral.jpg",
+    "Images/Arterial Nevado.png",
+    "Images/Arterial Nevado.jpg",
+    "Images/Arterial Bosque.png",
+    "Images/Alma Laguna del Velado.png",
+    "Images/Arterial Bosque.jpg",
+    "Images/Dama Sempiterna 2.png",
+    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/_Generación_del_Alba.excalidraw.md",
     "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Thaddeus del Alba.md",
     "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Agatha del Alba.md",
     "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Anastasia del Alba.md",
     "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Nicodemus del Alba.md",
     "Backstory info/Personas/1º Gen. del Alba de Lioncourt/1º Gen. del Alba de Lioncourt.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/_Generación_del_Alba.excalidraw.md",
     "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Barnaby del Alba.md",
     "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Octavio del Alba.md",
     "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Reginald del Alba.md",
@@ -259,29 +351,16 @@
     "Backstory info/_Notas/TODO.md",
     "Backstory info/Personas/Vampiros/Victoria Val Astar.md",
     "Backstory info/Personas/Vampiros/Astoria Vas Astar.md",
-    "Images/Astoria Vas Astar 2.png",
-    "Images/Pasted image 20260801172614.png",
     "Backstory info/_Notas/Notas varias sin hogar.md",
     "Backstory info/Lugares/Svitanie.md",
-    "Images/Svitanie map.png",
-    "Images/Svitanie map.jpg",
     "Backstory info/Grupos/Orden de la Luminaria/La Cúpula.md",
     "Backstory info/Personas/Cordelia Renaud de la Vigilia.md",
     "Backstory info/Personas/Alma Laguna del Velado.md",
-    "Images/Alma Laguna del Velado.png",
-    "Images/Cordelia Renaud de la Vigilia.png",
     "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Gremio del Noctívago.md",
     "Backstory info/Grupos/Noditas/Noditas.md",
     "Backstory info/Grupos/Orden de la Luminaria/Diocesano.md",
     "Backstory info/Personas/Howard Saville.md",
     "Backstory info/Personas/Sylvia Courvoisier.md",
-    "Backstory info/Personas/Ismael Orellana.md",
-    "Backstory info/Personas/Emilio Cedrón.md",
-    "Backstory info/Personas/Beatrice St.Claire.md",
-    "Images/Pasted image 20260801172628.png",
-    "Images/Svitanie.jpg",
-    "Images/Nathaniel del Alba.png",
-    "Images/Pasted image 20260802170143.png",
     "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/_Jerarquía Vampiros.canvas",
     "Backstory info/Grupos/Noditas/Malditos",
     "Backstory info/Grupos/Noditas/Inmateriales",

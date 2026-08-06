@@ -14,7 +14,7 @@ aliases:
   - Astoria
 ---
 
-![[Pasted image 20260801172628.png]]
+![[Astorial Vas Astar.png]]
 
 ![[Astoria Vas Astar 2.png]]
 

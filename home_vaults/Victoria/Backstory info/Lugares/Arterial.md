@@ -6,4 +6,6 @@ aliases:
 tags:
   - Lugar
 ---
-![[Arterial Bosque.jpg]]![[Arterial Nevado.jpg]]
+![[Arterial Bosque.png]]
+
+![[Arterial Nevado.png]]
