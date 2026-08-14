@@ -1,8 +1,8 @@
 ---
-Líder:
-Vampiro:
-Ubicación:
-Fundador:
+Líder: "[[Aurora]]"
+Vampiro: "[[Liturgo]]"
+Ubicación: "[[Edén]]"
+Fundador: "[[Aurora]]"
 Miembros:
 Afiliación:
   - "[[Corte de Vairae]]"

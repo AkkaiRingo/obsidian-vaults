@@ -1,7 +1,7 @@
 ---
 Líder:
-Vampiro:
-Ubicación:
+Vampiro: "[[Liturgo]]"
+Ubicación: "[[Ofir]]"
 Fundador:
 Miembros:
 Afiliación:

@@ -10,6 +10,4 @@ Bosque que rodea las inmediaciones de [[Lioncourt]]. En él se encuentra el [[Es
 
 ![[Bosque de Lilitu 1.png]]
 
-![[Bosque de Lilitu 1.png]]
-
 ![[Bosque de Lilitu 2.png]]
