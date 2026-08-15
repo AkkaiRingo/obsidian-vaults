@@ -1,7 +1,7 @@
 ---
 Líder:
 Vampiro: "[[Liturgo]]"
-Ubicación: "[[Ofir]]"
+Ubicación: "[[Naín]]"
 Fundador:
 Miembros:
 Afiliación:

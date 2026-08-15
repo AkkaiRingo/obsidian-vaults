@@ -1,7 +1,7 @@
 ---
 Líder:
 Vampiro: "[[Hematófago]]"
-Ubicación: "[[Naín]]"
+Ubicación: "[[Ofir]]"
 Fundador:
 Miembros:
 Afiliación:

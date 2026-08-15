@@ -68,36 +68,6 @@
             }
           },
           {
-            "id": "386966a6cb54cfd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Personas/Aurora.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Aurora"
-            }
-          },
-          {
-            "id": "f0547d08b7706ecd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan D.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Clan D"
-            }
-          },
-          {
             "id": "804d9ec83b01c7c6",
             "type": "leaf",
             "state": {
@@ -141,9 +111,24 @@
               "icon": "lucide-file",
               "title": "Clan G"
             }
+          },
+          {
+            "id": "f0547d08b7706ecd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Clanes/Clan D.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Clan D"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       },
       {
         "id": "c3412db957a7f79f",
@@ -165,6 +150,21 @@
             }
           },
           {
+            "id": "6222eb7d3a0f29b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Gremio del Noctívago.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Gremio del Noctívago"
+            }
+          },
+          {
             "id": "0f788292853d88e5",
             "type": "leaf",
             "state": {
@@ -178,24 +178,9 @@
               "icon": "lucide-file",
               "title": "Svitanie"
             }
-          },
-          {
-            "id": "74b89251089ec0a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Gremio del Noctívago.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Gremio del Noctívago"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,7 +200,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -357,25 +344,25 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "742adbcdc288a7ca",
+  "active": "b59a1d216acda8c5",
   "lastOpenFiles": [
-    "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Gremio del Noctívago.md",
-    "Backstory info/Lugares/Svitanie.md",
-    "Templates/Clan.md",
-    "Backstory info/Grupos/Clanes/Clan G.md",
-    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Familiar Vampírico.md",
     "Backstory info/Grupos/Clanes/Clan F.md",
-    "Backstory info/Personas/Aurora.md",
+    "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Gremio del Noctívago.md",
+    "Templates/Clan.md",
+    "Backstory info/Lugares/Svitanie.md",
+    "Backstory info/Grupos/Clanes/Clan D.md",
+    "Backstory info/Grupos/Clanes/Clan G.md",
+    "Backstory info/Grupos/Clanes/Clan E.md",
     "Backstory info/Grupos/Clanes/Clan C.md",
     "Backstory info/Grupos/Clanes/Clan B.md",
-    "Backstory info/Grupos/Clanes/Clan E.md",
+    "Backstory info/Grupos/Clanes/Clan Astar.md",
+    "Backstory info/Personas/Aurora.md",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Familiar Vampírico.md",
     "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/_Jerarquía Vampiros.canvas",
-    "Backstory info/Grupos/Clanes/Clan D.md",
     "Images/Pasted image 20260814235047.png",
     "Images/Pasted image 20260814235038.png",
     "Images/Madre.png",
     "Backstory info/Personas/Vampiros/Astoria Vas Astar.md",
-    "Backstory info/Grupos/Clanes/Clan Astar.md",
     "Images/Pasted image 20260814231705.png",
     "Images/Padre.png",
     "Images/Pasted image 20260814204652.png",
