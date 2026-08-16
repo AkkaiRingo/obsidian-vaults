@@ -12,6 +12,7 @@ tags:
   - Vampiro
 aliases:
   - Alastor
+  - Alastor Vas Astar
 ---
 ![[Alastor Val Astar.png]]
 

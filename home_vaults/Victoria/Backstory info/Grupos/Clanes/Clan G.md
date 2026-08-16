@@ -16,6 +16,6 @@ Son guerreros ávidos. Tenían cierta rivalidad con el [[Clan Astar]], que a pes
 
 Uno de sus [[Familiar Vampírico|Familiares Vampíricos]] (que desde entonces ha ascendido rápidamente en rango hasta ser un [[Vrykolaka]]) es el que ayudó a iniciar el ataque al [[Clan Astar]] en [[Sinar]] destruyendo el [[Faros de la Luminaria|Faro]] (ya que al ser aún humano, podía cruzar las protecciones de la ciudad).
 
-![[Pasted image 20260814231705.png]]
+![[Pasted image 20260816200550.png]]
 
-![[Pasted image 20260814204652.png]]
+![[Pasted image 20260816195324.png]]

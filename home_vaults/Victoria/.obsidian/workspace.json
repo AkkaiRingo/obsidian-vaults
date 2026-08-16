@@ -38,48 +38,18 @@
             }
           },
           {
-            "id": "b59a1d216acda8c5",
+            "id": "17f8bce80b81fa17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan B.md",
+                "file": "Backstory info/Grupos/Clanes/Clan Acheron.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Clan B"
-            }
-          },
-          {
-            "id": "3412fead37552496",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Clan C"
-            }
-          },
-          {
-            "id": "804d9ec83b01c7c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan E.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Clan E"
+              "title": "Clan Acheron"
             }
           },
           {
@@ -113,74 +83,164 @@
             }
           },
           {
-            "id": "f0547d08b7706ecd",
+            "id": "59daa31d88887500",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan D.md",
+                "file": "Backstory info/Grupos/Clanes/Clan B.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Clan D"
+              "title": "Clan B"
+            }
+          },
+          {
+            "id": "804d9ec83b01c7c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Clanes/Clan E.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Clan E"
+            }
+          },
+          {
+            "id": "d7bf659776d442d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Clanes/Clan C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Clan C"
             }
           }
         ],
         "currentTab": 2
       },
       {
-        "id": "c3412db957a7f79f",
+        "id": "a58348d21fcb0366",
         "type": "tabs",
         "children": [
           {
-            "id": "b8c227da113ad8d2",
+            "id": "4cbc53d3b37714c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Clan.md",
+                "file": "Sin título.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Clan"
+              "title": "Sin título"
             }
           },
           {
-            "id": "6222eb7d3a0f29b1",
+            "id": "ae673f1f01f82016",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Gremio del Noctívago.md",
+                "file": "Padre Vach Acheron.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Gremio del Noctívago"
+              "title": "Padre Vach Acheron"
             }
           },
           {
-            "id": "0f788292853d88e5",
+            "id": "8046fb20a674b1d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Lugares/Svitanie.md",
+                "file": "Madre Vach Acheron.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Svitanie"
+              "title": "Madre Vach Acheron"
+            }
+          },
+          {
+            "id": "ff168b2cf7361fac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mayor Vach Acheron.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Mayor Vach Acheron"
+            }
+          },
+          {
+            "id": "16cca808a03cb67b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mediana Vach Acheron.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Mediana Vach Acheron"
+            }
+          },
+          {
+            "id": "d64c96e2da4be666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Menor Vach Acheron.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Menor Vach Acheron"
+            }
+          },
+          {
+            "id": "410521e994e02b97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hermano Vach Acheron.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Hermano Vach Acheron"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -255,7 +315,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan G.md",
+                "file": "Hermano Vach Acheron.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +325,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Clan G"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -322,8 +382,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -344,45 +403,44 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "b59a1d216acda8c5",
+  "active": "410521e994e02b97",
   "lastOpenFiles": [
-    "Backstory info/Grupos/Clanes/Clan F.md",
-    "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Gremio del Noctívago.md",
-    "Templates/Clan.md",
-    "Backstory info/Lugares/Svitanie.md",
-    "Backstory info/Grupos/Clanes/Clan D.md",
-    "Backstory info/Grupos/Clanes/Clan G.md",
-    "Backstory info/Grupos/Clanes/Clan E.md",
-    "Backstory info/Grupos/Clanes/Clan C.md",
-    "Backstory info/Grupos/Clanes/Clan B.md",
+    "Padre Vach Acheron.md",
+    "Backstory info/Grupos/Clanes/Clan Acheron.md",
     "Backstory info/Grupos/Clanes/Clan Astar.md",
-    "Backstory info/Personas/Aurora.md",
-    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Familiar Vampírico.md",
-    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/_Jerarquía Vampiros.canvas",
-    "Images/Pasted image 20260814235047.png",
-    "Images/Pasted image 20260814235038.png",
-    "Images/Madre.png",
     "Backstory info/Personas/Vampiros/Astoria Vas Astar.md",
-    "Images/Pasted image 20260814231705.png",
-    "Images/Padre.png",
-    "Images/Pasted image 20260814204652.png",
-    "Images/Pasted image 20260814204614.png",
+    "Hermano Vach Acheron.md",
+    "Images/Hermano.png",
+    "Menor Vach Acheron.md",
+    "Sin título 1.md",
+    "Mayor Vach Acheron.md",
+    "Mediana Vach Acheron.md",
+    "Madre Vach Acheron.md",
+    "Backstory info/Personas/Vampiros/Alastor Val Astar.md",
+    "Sin título.md",
+    "Backstory info/Grupos/Clanes/Clan F.md",
+    "Images/Menor Vach Acheron.png",
+    "Images/Mediana Vach Acheron.png",
+    "Images/Mayor Vach Acheron.png",
+    "Images/Madre Vach Acheron.png",
+    "Backstory info/Personas/Sylvia Courvoisier.md",
+    "Templates/Vampiro.md",
+    "Templates/Persona.md",
+    "Backstory info/Personas/Beatrice St.Claire.md",
+    "Backstory info/Grupos/Clanes/Clan B.md",
+    "Images/Padre Vach Acheron.png",
+    "Templates/Clan.md",
+    "Backstory info/Grupos/Clanes/Clan G.md",
+    "Backstory info/Grupos/Clanes/Clan C.md",
+    "Backstory info/Grupos/Clanes/Clan E.md",
+    "Images/Pasted image 20260816224101.png",
     "Images/Pasted image 20260814203635.png",
-    "Images/Pasted image 20260814203452.png",
-    "Images/Pasted image 20260814201725.png",
-    "Backstory info/Lugares/Sinar.md",
-    "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Orden del Lucero del Alba.md",
-    "Backstory info/Lugares/Lioncourt.md",
-    "Backstory info/Lugares/Bosque de Lilitu.md",
-    "Backstory info/Lugares/Arterial.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/_Generación_del_Alba.excalidraw.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Thaddeus del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Agatha del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Anastasia del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Nicodemus del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/1º Gen. del Alba de Lioncourt.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Barnaby del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Octavio del Alba.md",
+    "Images/Pasted image 20260814235047.png",
+    "Images/Astoria Vas Astar.png",
+    "Backstory info/Lugares/Svitanie.md",
+    "Backstory info/Lugares/Faerûn.md",
+    "Backstory info/Lugares/Edén.md",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/_Jerarquía Vampiros.canvas",
     "Backstory info/Grupos/Noditas/Malditos",
     "Backstory info/Grupos/Noditas/Inmateriales",
     "Backstory info/Grupos/Noditas/Engendros",

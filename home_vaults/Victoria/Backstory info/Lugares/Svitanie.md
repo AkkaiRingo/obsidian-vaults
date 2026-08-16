@@ -28,5 +28,5 @@ Svitanie es un valle, rodeado de altas montañas de piedra gris, con acantilados
 
 ![[Svitanie.png]]
 
-![[Svitanie Vista Acantilado.jpg]]
+![[Svitanie Vista Acantilado.png]]
 

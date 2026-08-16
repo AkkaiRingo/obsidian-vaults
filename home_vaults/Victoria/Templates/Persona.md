@@ -11,4 +11,5 @@ Familia:
 tags:
   - Persona
 aliases:
+imagen:
 ---
