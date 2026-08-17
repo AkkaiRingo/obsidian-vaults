@@ -22,8 +22,8 @@ tags:
   - Vampiro
 aliases:
   - Menor
-imagen: "[[Menor Vach Acheron]]"
+imagen: "[[Menor Vach Acheron.png]]"
 ---
-Mató a [[Hermano Vach Acheron]], el hermano de [[Astoria Vas Astar|Astoria]]. Quería a su hermana [[Astoria Vas Astar|Mayor Vach Acheron]] para ella sola, y su hermano biológico se llevaba demasiada parte de su atención. 
+Mató al [[Caedmon Vach Acheron|Mediano Vach Acheron]], el hermano de [[Astoria Vas Astar|Astoria]]. Quería a su hermana [[Astoria Vas Astar|Mayor Vach Acheron]] para ella sola, y su hermano biológico se llevaba demasiada parte de su atención. 
 
 ![[Menor Vach Acheron.png]]

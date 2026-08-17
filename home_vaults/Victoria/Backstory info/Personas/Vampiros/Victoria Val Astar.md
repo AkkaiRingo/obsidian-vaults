@@ -1,5 +1,6 @@
 ---
 Género: Mujer
+Raza: Elfo
 En vida: "[[Victoria del Alba]]"
 Clan: "[[Clan Astar|Astar]]"
 Maestro: "[[Alastor Val Astar]]"
@@ -7,12 +8,19 @@ Tipo de V.: "[[Lamia Alastora]]"
 Ascensión: "[[Alastor Val Astar]]"
 Lugar: "[[Lioncourt]]"
 Pareja: "[[Alastor Val Astar]]"
+F. Paternales:
+  - N/A
+F. Fraternales:
+  - N/A
+F. Filiales:
+  - N/A
 tags:
   - Persona
   - Vampiro
   - "#PJ"
 aliases:
   - Victoria
+imagen: "[[Victoria Val Astar.png]]"
 ---
 
 ![[Victoria Val Astar.png]]

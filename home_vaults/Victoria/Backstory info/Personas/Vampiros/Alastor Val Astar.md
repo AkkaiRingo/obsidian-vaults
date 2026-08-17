@@ -1,18 +1,29 @@
 ---
 Género: Hombre
+Raza: Elfo
 En vida: N/A
 Clan: "[[Clan Astar|Astar]]"
 Maestro: "[[Astoria Vas Astar]]"
 Tipo de V.: "[[Alastoras]]"
 Ascensión: "[[Vairae]]"
-Lugar: "[[Svitanie]]"
+Lugar:
+  - "[[Zóar]]"
+  - "[[Sinar]]"
+  - "[[Lioncourt]]"
 Pareja: "[[Victoria Val Astar]]"
+F. Paternales:
+  - "[[Astoria Vas Astar]]"
+F. Fraternales:
+  - N/A
+F. Filiales:
+  - N/A
 tags:
   - Persona
   - Vampiro
 aliases:
   - Alastor
   - Alastor Vas Astar
+imagen: "[[Alastor Val Astar.png]]"
 ---
 ![[Alastor Val Astar.png]]
 

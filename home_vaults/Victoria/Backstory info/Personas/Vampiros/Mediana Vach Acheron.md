@@ -21,7 +21,7 @@ tags:
   - Vampiro
 aliases:
   - Mediana
-imagen: "[[Mediana Vach Acheron]]"
+imagen: "[[Mediana Vach Acheron.png]]"
 ---
 
 

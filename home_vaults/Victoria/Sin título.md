@@ -2,7 +2,7 @@
 - [ ] Asema
 - [ ] Zoltan
 - [ ] Azerrad
-- [ ] Caedmon
+- [x] Caedmon
 - [ ] Cassius
 - [ ] Constantine
 - [ ] Kazimir
@@ -13,7 +13,7 @@
 - [ ] Druilla
 - [ ] Erylis
 - [ ] Irina
-- [ ] Deidre
+- [x] Deidre
 - [ ] Hazelmere
 - [ ] Neferata
 - [ ] Musette  
@@ -22,3 +22,6 @@
 - [ ] Eranthe  
 - [ ] Xylia  
 - [ ] Melantha
+- [ ] Astrophel
+- [ ] Aurel
+- [ ] Alaric

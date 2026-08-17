@@ -1,28 +1,27 @@
 ---
-Género: Mujer
+Género: Hombre
 Raza: Humano
-En vida: N/A
+En vida: Caedmon Deidre
 Clan: "[[Clan Acheron | Acheron]]"
-Maestro: "[[Madre Vach Acheron]]"
+Maestro: "[[Padre Vach Acheron]]"
 Tipo de V.: "[[Vrykolaka]]"
 Lugar:
   - "[[Zóar]]"
 Pareja: N/A
 F. Paternales:
   - "[[Padre Vach Acheron]]"
-  - "[[Madre Vach Acheron]]"
 F. Fraternales:
-  - "[[Mediana Vach Acheron]]"
-  - "[[Menor Vach Acheron]]"
+  - "[[Astoria Vas Astar|Astoria]]"
 F. Filiales:
   - N/A
 tags:
   - Persona
   - Vampiro
 aliases:
-  - Mayor
-imagen: "[[Mayor Vach Acheron]]"
+  - Caedmon
+  - Mediano Vach Acheron
+imagen: "[[Caedmon Vach Acheron.png]]"
 ---
 
 
-![[Mayor Vach Acheron.png]]
+![[Caedmon Vach Acheron.png]]

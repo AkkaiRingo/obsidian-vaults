@@ -1,26 +1,28 @@
 ---
-Género: Hombre
+Género: Mujer
 Raza: Humano
-En vida: Hermano
+En vida: N/A
 Clan: "[[Clan Acheron | Acheron]]"
-Maestro: "[[Padre Vach Acheron]]"
+Maestro: "[[Madre Vach Acheron]]"
 Tipo de V.: "[[Vrykolaka]]"
 Lugar:
   - "[[Zóar]]"
 Pareja: N/A
 F. Paternales:
   - "[[Padre Vach Acheron]]"
+  - "[[Madre Vach Acheron]]"
 F. Fraternales:
-  - "[[Astoria Vas Astar|Astoria]]"
+  - "[[Mediana Vach Acheron]]"
+  - "[[Menor Vach Acheron]]"
 F. Filiales:
   - N/A
 tags:
   - Persona
   - Vampiro
 aliases:
-  - Hermano
-imagen: "[[Hermano.png]]"
+  - Mayor
+imagen: "[[Mayor Vach Acheron.png]]"
 ---
 
 
-![[Hermano.png]]
+![[Mayor Vach Acheron.png]]

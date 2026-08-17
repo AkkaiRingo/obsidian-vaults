@@ -21,13 +21,18 @@ tags:
 ---
 Es un clan un poco más pequeño. Formar (o fingen) lazos familiares con sus miembros. Sus "rangos" o "puestos" dentro de esta "familia" son más importantes que sus propios nombres. 
 
-![[Padre Vach Acheron.png]]
+```dataview 
+table Maestro, embed(imagen) AS Imágen
+from #Vampiro  
+where Clan = [[Clan Acheron | Acheron]]
+sort Maestro ASC
+SORT
+choice(file.name = "Padre Vach Acheron", "1",
+choice(file.name = "Madre Vach Acheron", "2",
+choice(file.name = "Mayor Vach Acheron", "3",
+choice(file.name = "Mediana Vach Acheron", "4",
+choice(file.name = "Menor Vach Acheron", "5", "other"
+)))))
+```
 
-![[Madre Vach Acheron.png]]
-
-![[Mediana Vach Acheron.png]]
-
-![[Mayor Vach Acheron.png]]
-
-![[Menor Vach Acheron.png]]
 
