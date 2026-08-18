@@ -1,27 +1,27 @@
 - [x] Acheron
+- [x] Caedmon
+- [x] Dragos
+- [x] Deidre
+- [x] Eranthe  
+- [x] Alaric
 - [ ] Asema
 - [ ] Zoltan
 - [ ] Azerrad
-- [x] Caedmon
 - [ ] Cassius
 - [ ] Constantine
 - [ ] Kazimir
-- [ ] Dragos
 - [ ] Everild
 - [ ] Ordelia
 - [ ] Valaine
 - [ ] Druilla
 - [ ] Erylis
 - [ ] Irina
-- [x] Deidre
 - [ ] Hazelmere
 - [ ] Neferata
 - [ ] Musette  
 - [ ] Radella  
 - [ ] Caera  
-- [ ] Eranthe  
 - [ ] Xylia  
 - [ ] Melantha
 - [ ] Astrophel
 - [ ] Aurel
-- [ ] Alaric
