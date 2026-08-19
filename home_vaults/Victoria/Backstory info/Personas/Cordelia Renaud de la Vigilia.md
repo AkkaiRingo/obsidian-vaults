@@ -11,7 +11,7 @@ F. Fraternales:
 Pareja:
 F. Filiales:
 Familia:
-  - "[[Renaud]]"
+  - "[[Familia Renaud]]"
   - "[[Orden de la Lámpara de la Última Vigilia|de la Vigilia]]"
 tags:
   - Persona

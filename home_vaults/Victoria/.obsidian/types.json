@@ -42,6 +42,7 @@
     "excalidraw-export-internal-links": "checkbox",
     "Tipos": "multitext",
     "Sub-Tipos": "multitext",
-    "Desc": "text"
+    "Desc": "text",
+    "imagen": "text"
   }
 }

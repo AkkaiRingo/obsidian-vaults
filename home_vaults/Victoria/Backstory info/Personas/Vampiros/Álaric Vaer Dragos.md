@@ -1,7 +1,7 @@
 ---
 Género: Hombre
 Raza: Humano
-En vida:
+En vida: "[[Álaric Hennessy]]"
 Clan: "[[Clan Dragos|Dragos]]"
 Maestro: "[[Eranthe Vaer Dragos]]"
 Tipo de V.: "[[Vrykolaka]]"
@@ -23,5 +23,3 @@ imagen: "[[Álaric.png]]"
 ---
 
 ![[Álaric.png]]
-
-![[Pasted image 20260818232923.png]]

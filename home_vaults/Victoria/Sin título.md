@@ -4,14 +4,17 @@
 - [x] Deidre
 - [x] Eranthe  
 - [x] Alaric
+- [x] Kazimir
+- [x] Ordelia
+- [x] Everild
+- [x] Xylia  
+- [x] Melantha
+- [x] Astrophel
 - [ ] Asema
 - [ ] Zoltan
 - [ ] Azerrad
 - [ ] Cassius
 - [ ] Constantine
-- [ ] Kazimir
-- [ ] Everild
-- [ ] Ordelia
 - [ ] Valaine
 - [ ] Druilla
 - [ ] Erylis
@@ -20,8 +23,4 @@
 - [ ] Neferata
 - [ ] Musette  
 - [ ] Radella  
-- [ ] Caera  
-- [ ] Xylia  
-- [ ] Melantha
-- [ ] Astrophel
 - [ ] Aurel

@@ -11,7 +11,7 @@ F. Fraternales:
 Pareja:
 F. Filiales:
 Familia:
-  - "[[Laguna]]"
+  - "[[Familia Laguna]]"
   - "[[Orden del Sol Velado|del Velado]]"
 tags:
   - Persona

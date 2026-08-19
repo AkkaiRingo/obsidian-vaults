@@ -9,7 +9,7 @@ F. Fraternales:
 Pareja:
 F. Filiales:
 Familia:
-  - "[[Courvoisier]]"
+  - "[[Familia Courvoisier]]"
 tags:
   - Persona
 aliases:

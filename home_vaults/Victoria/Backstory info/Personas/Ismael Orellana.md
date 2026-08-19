@@ -3,13 +3,15 @@ Género: Hombre
 Raza: Elfo
 Profesión: Obispo
 Ámbito: Educación
-Lugar: "[[Edén]]"
+Lugar:
+  - "[[Edén]]"
+  - "[[Jericó]]"
 F. Paternales:
 F. Fraternales:
 Pareja:
 F. Filiales:
 Familia:
-  - "[[Orellana]]"
+  - "[[Familia Orellana]]"
 tags:
   - Persona
 aliases:

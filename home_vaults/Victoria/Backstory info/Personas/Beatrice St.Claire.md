@@ -11,7 +11,7 @@ F. Fraternales:
 Pareja:
 F. Filiales:
 Familia:
-  - "[[St.Claire]]"
+  - "[[Familia St.Claire]]"
 tags:
   - Persona
 aliases:

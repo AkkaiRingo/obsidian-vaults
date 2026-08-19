@@ -4,6 +4,7 @@ Ubicación: "[[Svitanie]]"
 Afiliación:
   - "[[Orden de la Luminaria]]"
   - "[[La Cúpula]]"
+  - "[[Orden del Incensario Solar]]"
 aliases:
 tags:
   - Lugar

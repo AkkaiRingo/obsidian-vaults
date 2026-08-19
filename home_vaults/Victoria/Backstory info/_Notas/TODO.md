@@ -13,7 +13,7 @@
 - [x] nombre alternativo para los orfanatos --> Faros
 - [x] Pastores --> Lazarillo
 #### Lugares
-- [ ] [[Faerûn]]:
+- [x] [[Faerûn]]:
 	- [x] la luna roja es de [[Bhaal]]?
 - [x] [[Svitanie]]:
 	- [x] Nombre del [[Bosque de Lilitu]] que colinda [[Lioncourt]]
@@ -52,19 +52,20 @@
 		- [x] [[Emilio Cedrón]] es de los altos, pero no el más alto, y cuando fue a ver a [[Victoria del Alba|Victoria]] tenía un cargo menor
 	- [x] Adjetivo para describir la luz verdadera de [[Amaunator]], [[Sempiterna]] ??
 	- [x] Obispos:
-		- [ ] Justicia
-		- [ ] Defensa --> [[Emilio Cedrón]]
-		- [ ] Educación
-		- [ ] Agricultura, Pesca y Alimentación
-		- [ ] Cultura
-		- [ ] Sanidad
-		- [ ] Economía, Comercio y Empresa
-		- [ ] Política Territorial 
+		- [x] Justicia
+		- [x] Defensa --> [[Emilio Cedrón]]
+		- [x] Educación
+		- [x] Agricultura, Pesca y Alimentación
+		- [x] Cultura
+		- [x] Sanidad
+		- [x] Economía, Comercio y Empresa
+		- [x] Política Territorial 
 - [x] [[Orden del Lucero del Alba]]
 	- [x] Líder? --> sacerdote/párroco de [[Lioncourt]] ?? --> [[Adrian Soriano]]
 - [x] [[Noditas]] ??
 	- [x] Cómo se llama la magia [[Efímera]] que usan los [[Gremio del Noctívago|Noctívagos]], derivada de la que usan los [[Noditas]] ?? --> antónimo de [[Sempiterna]]? [[Efímera]]? [[Efímera|Poderes Oscuros]]
 - [x] Diferencia entre orden y gremio...? [[Orden de la Luminaria]]? --> orden religiosa, gremio [[Gremio del Noctívago|noctívagos]]
+- [ ] Familias
 ---
 #### Escribir
 - [ ] Backstory

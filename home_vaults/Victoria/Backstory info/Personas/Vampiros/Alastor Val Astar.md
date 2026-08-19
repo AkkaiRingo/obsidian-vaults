@@ -33,3 +33,5 @@ Aprovechado una época de ausencia de [[Vairae]], los [[Liturgo|Liturgos]] ataca
 
 
 ![[Alastor Val Astar Ascension.png]]
+
+![[Pasted image 20260819225755.png]]

@@ -9,7 +9,7 @@ F. Fraternales:
 Pareja:
 F. Filiales:
 Familia:
-  - "[[Dubois]]"
+  - "[[Familia Dubois]]"
 tags:
   - Persona
 aliases:

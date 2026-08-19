@@ -4,15 +4,8 @@ tags:
 ---
 ### Clanes
 ```dataview 
-table Líder, Afiliación, Ubicación
+table Vampiro, Líder, Fundador, Ubicación
 from #Clan 
-where startswith(file.folder, this.file.folder) and !regexmatch(file.name, this.file.name)
-sort Agrupación ASC
-```
-### Dioses
-```dataview
-table Dominios, Símbolos, Alineamiento as Alin, aliases as Aliases 
-from #Dios
 where startswith(file.folder, this.file.folder) and !regexmatch(file.name, this.file.name)
 sort file.name ASC
 ```
@@ -20,7 +13,7 @@ sort file.name ASC
 ```dataview 
 table Líder, Afiliación, Ubicación
 where startswith(file.folder, this.file.folder) and !regexmatch(file.name, this.file.name) and Agrupación = "Familia"
-sort Agrupación ASC
+sort file.name ASC
 ```
 ### [[Noditas]]
 ```dataview 
@@ -63,6 +56,13 @@ choice(Especialidad = [[Engendros]], "5",
 choice(Especialidad = [[Consumidos]], "6",
 choice(Especialidad = [[Cultistas]], "7", "other"
 )))))))
+```
+### Dioses
+```dataview
+table Dominios, Símbolos, Alineamiento as Alin, aliases as Aliases 
+from #Dios
+where startswith(file.folder, this.file.folder) and !regexmatch(file.name, this.file.name)
+sort file.name ASC
 ```
 ### Por categorizar
 ```dataview 

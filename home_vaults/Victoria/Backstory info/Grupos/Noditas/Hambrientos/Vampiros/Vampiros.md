@@ -18,6 +18,7 @@ aliases:
 tags:
   - Criatura
 ---
+
 ```dataview 
 table Tipo, Sub-Tipos, Desc
 where 
@@ -46,4 +47,4 @@ En el [[Clan Astar]]  (de [[Alastor Val Astar|Alastor]]): Va de [[Vairae]] + (a)
 ### [[Liturgo|Liturgos]]
 Para los [[Liturgo|Liturgos]] tras el nombre llevan De [[Vairae]]. 
 Ejemplo: 
-- Mith De Vairae. 
+- Mith De Vairae

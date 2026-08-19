@@ -11,7 +11,7 @@ F. Fraternales:
 Pareja:
 F. Filiales:
 Familia:
-  - "[[Cedrón]]"
+  - "[[Familia Cedrón]]"
 tags:
   - Persona
 aliases:
