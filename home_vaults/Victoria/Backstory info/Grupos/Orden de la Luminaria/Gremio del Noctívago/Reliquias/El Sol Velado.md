@@ -12,3 +12,6 @@ El disco original se corrompió por completo, pero la orden sigue utilizando los
 
 **Aspecto**
 El **Sol Velado** encierra la **luz que resiste** a la propia oscuridad, pero a un precio terrible para quien la empuña.
+
+#TODO 
+Primera orden de [[Gremio del Noctívago|Noctívagos]] --> [[Ismael Orellana]]

@@ -10,6 +10,7 @@ aliases:
 tags:
   - Criatura
 ---
+
 ```dataview 
 table Tipo, Sub-Tipos, Desc
 where 

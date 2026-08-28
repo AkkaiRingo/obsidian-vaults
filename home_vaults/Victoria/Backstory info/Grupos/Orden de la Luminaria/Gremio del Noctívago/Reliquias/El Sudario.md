@@ -12,3 +12,6 @@ Los miembros de la orden todavía llevan pequeños fragmentos cosidos al uniform
 
 **Aspecto**
 El **Santo Sudario** retiene la **luz que revela** a los Inmateriales.
+
+#TODO 
+Definir mejor qué hace la orden y en qué consiste la reliquia. 

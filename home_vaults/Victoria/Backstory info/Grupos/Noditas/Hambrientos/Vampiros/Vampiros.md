@@ -47,4 +47,7 @@ En el [[Clan Astar]]  (de [[Alastor Val Astar|Alastor]]): Va de [[Vairae]] + (a)
 ### [[Liturgo|Liturgos]]
 Para los [[Liturgo|Liturgos]] tras el nombre llevan De [[Vairae]]. 
 Ejemplo: 
-- Mith De Vairae
+- [[Melantha de Vairae]]
+
+#TODO 
+Cómo es posible que haya [[Liturgo|Liturgos]] en [[Edén]]?? Les afecta menos la luz de los [[Faros de la Luminaria]]? Han encontrado la forma de evitar que les afecte?
