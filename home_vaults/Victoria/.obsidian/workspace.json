@@ -157,7 +157,8 @@
               "title": "Nombres de Vampiros"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -320,12 +321,19 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "892bed056d0c851c",
+  "active": "4cbc53d3b37714c8",
   "lastOpenFiles": [
+    "Backstory info/Grupos/Dioses/Mielikki.md",
+    "Arlene.md",
+    "Images/unicornio.png",
+    "Images/Pasted image 20260902205250.png",
+    "Images/Pasted image 20260902204052.png",
+    "Images/Pasted image 20260902203912.png",
+    "Backstory info/Grupos/Dioses/Amaunator.md",
+    "Backstory info/_Notas/Nombres de Vampiros.md",
+    "Backstory info/Grupos/Clanes/Clan Astar.md",
     "Backstory info/Personas/Vampiros/Alastor Val Astar.md",
     "Images/Pasted image 20260828230229.png",
-    "Backstory info/Grupos/Clanes/Clan Astar.md",
-    "Backstory info/_Notas/Nombres de Vampiros.md",
     "Backstory info/Personas/Vampiros/Astoria Vas Astar.md",
     "Backstory info/Grupos/Clanes/Clan E.md",
     "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Gremio del Noctívago.md",
@@ -346,19 +354,11 @@
     "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Orden de la Lámpara de la Última Vigilia.md",
     "Backstory info/Grupos/Noditas/Consumidos/Consumidos.md",
     "Backstory info/Grupos/Noditas/Cultistas/Cultistas.md",
-    "Backstory info/Grupos/Noditas/Consumidos/Vacíos.md",
-    "Backstory info/Grupos/Orden de la Luminaria/Sempiterna.md",
-    "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Reliquias/El Sol Velado.md",
-    "Backstory info/Personas/Ismael Orellana.md",
     "Images/Neferata de Vairae.png",
     "Images/Melantha de Vairae.png",
     "Images/Astrophel de Vairae.png",
     "Images/Aurora de Vairae.png",
     "Images/Pasted image 20260819230346.png",
-    "Images/Pasted image 20260819230340.png",
-    "Images/Pasted image 20260819225755.png",
-    "Images/Ordelia Vaor Kazimir.png",
-    "Images/Álaric Hennessy.png",
     "Backstory info/Grupos/Noditas/Malditos",
     "Backstory info/Grupos/Noditas/Inmateriales",
     "Backstory info/Grupos/Noditas/Engendros",
