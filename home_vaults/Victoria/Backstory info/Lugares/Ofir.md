@@ -3,6 +3,7 @@ Categoría: Ciudad
 Ubicación: "[[Svitanie]]"
 Afiliación:
   - "[[Orden del Sol Velado]]"
+  - "[[Clan Kazimir]]"
 aliases:
 tags:
   - Lugar

@@ -4,7 +4,8 @@ Ubicación: "[[Svitanie]]"
 Afiliación:
   - "[[Orden del Lucero del Alba]]"
   - "[[Familia Bescond]]"
-aliases: 
+  - "[[Clan Astar]]"
+aliases:
 tags:
   - Lugar
 ---

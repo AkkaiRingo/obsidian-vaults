@@ -6,6 +6,8 @@
 - para Calculating Listener, podemos hacer el DC con otro stat en lugar de Carisma? como hago con Convincing Inquisitor
 - Thaumaturgy --> Fire play like Prestidigitation to snuff out light sources?
 - fade away vs hide (VS 1)
+- Artificial form vs Even in Sleep (cancel out?) 
+	- Undead in VS1 ?
 ### Weapon aesthetics
 - (M/V) crossbow skinned --> pistol
 	- pistol proficiency?
@@ -15,3 +17,4 @@
 ## Arlene
 - Magic Initiate (Druid) --> Druidcraft
 	- Considered Divine (Cleric) magic, for goddess Mielikki
+	- Dancing Lights as the second cantrip? (not in druid spell list)

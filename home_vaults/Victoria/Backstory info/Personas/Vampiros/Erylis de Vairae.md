@@ -1,6 +1,6 @@
 ---
 Género: Mujer
-Raza: Tiefling
+Raza: Elfo
 En vida: N/A
 Clan: "[[Clan Xylia|Xylia]]"
 Maestro: "[[Vairae]]"
@@ -18,8 +18,8 @@ tags:
   - Persona
   - Vampiro
 aliases:
-  - Neferata
-imagen: "[[Neferata de Vairae.png]]"
+  - Erylis
+imagen: "[[Erylis de Vairae.png]]"
 ---
 
-![[Neferata de Vairae.png]]
+![[Erylis de Vairae.png]]

@@ -5,6 +5,7 @@ Afiliación:
   - "[[Orden de la Luminaria]]"
   - "[[La Cúpula]]"
   - "[[Orden del Incensario Solar]]"
+  - "[[Clan Everlid]]"
 aliases:
 tags:
   - Lugar

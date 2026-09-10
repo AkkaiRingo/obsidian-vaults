@@ -3,6 +3,7 @@ Categoría: Ciudad
 Ubicación: "[[Svitanie]]"
 Afiliación:
   - "[[Orden de la Lámpara de la Última Vigilia]]"
+  - "[[Clan Acheron]]"
 aliases:
 tags:
   - Lugar

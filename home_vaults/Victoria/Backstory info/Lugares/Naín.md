@@ -3,6 +3,7 @@ Categoría: Ciudad
 Ubicación: "[[Svitanie]]"
 Afiliación:
   - "[[Orden del Lirio de Plata]]"
+  - "[[Clan Xylia]]"
 aliases:
 tags:
   - Lugar

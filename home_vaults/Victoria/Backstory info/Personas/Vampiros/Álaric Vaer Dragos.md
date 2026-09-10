@@ -21,5 +21,6 @@ aliases:
   - Álaric
 imagen: "[[Álaric.png]]"
 ---
+Reclutado para ser [[Familiar Vampírico]] del [[Clan Dragos]], perpetró el ataque que destruyó la ciudad de [[Sinar]], lo que le aseguró su rápida ascensión a [[Vrykolaka]] y en rangos de su nuevo clan. 
 
 ![[Álaric.png]]

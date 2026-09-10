@@ -14,13 +14,13 @@
 - [ ] Zoltan
 - [ ] Azerrad
 - [ ] Cassius
-- [ ] Constantine
+- [x] Constantine
 - [ ] Valaine
 - [ ] Druilla
-- [ ] Erylis
-- [ ] Irina
+- [x] Erylis
+- [x] Irina
 - [ ] Hazelmere
-- [ ] Neferata
+- [x] Neferata
 - [ ] Musette  
 - [ ] Radella  
 - [ ] Aurel

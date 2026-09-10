@@ -6,6 +6,7 @@ Fundador:
 Miembros:
   - "[[Melantha de Vairae]]"
   - "[[Astrophel de Vairae]]"
+  - "[[Erylis de Vairae]]"
 Afiliación:
   - "[[Corte de Vairae]]"
 Agrupación: Clan
@@ -23,3 +24,9 @@ where Clan = [[Clan Xylia|Xylia]]
 sort Maestro ASC
 SORT choice(file.name = "Melantha de Vairae", "1","other")
 ```
+
+## [[Nightbringer|Nightbringers]]
+
+![[Pasted image 20260910233138.png]]
+
+![[Pasted image 20260910233157.png]]

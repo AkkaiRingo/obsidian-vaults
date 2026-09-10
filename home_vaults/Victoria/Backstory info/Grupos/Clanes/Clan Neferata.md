@@ -1,15 +1,17 @@
 ---
-Líder: "[[Aurora]]"
+Líder: "[[Amalfrida de Vairae]]"
 Vampiro: "[[Liturgo]]"
-Ubicación: "[[Edén]]"
-Fundador: "[[Aurora]]"
+Ubicación: "[[Arimatea]]"
+Fundador: "[[Amalfrida de Vairae]]"
 Miembros:
-  - "[[Aurora]]"
+  - "[[Amalfrida de Vairae]]"
+  - "[[Irina de Vairae]]"
+  - "[[Constantine de Vairae]]"
 Afiliación:
   - "[[Corte de Vairae]]"
 Agrupación: Clan
 aliases:
-  - Everlid
+  - Neferata
 tags:
   - "#Grupo"
   - Clan
@@ -18,18 +20,13 @@ tags:
 ```dataview 
 table Maestro, embed(imagen) AS Imágen
 from #Vampiro  
-where Clan = [[Clan Everlid|Everlid]]
+where Clan = [[Clan Neferata|Neferata]]
 sort Maestro ASC
 SORT choice(file.name = "Eranthe Vaer Dragos", "1","other")
 ```
 
-![[Pasted image 20260819230340.png]]
-
-![[Pasted image 20260819230346.png]]
-
 ## [[Nightbringer|Nightbringers]]
 
-![[Pasted image 20260910233925.png]]
+![[Pasted image 20260910233228.png]]
 
-![[Pasted image 20260910233857.png]]
-
+![[Pasted image 20260910233241.png]]

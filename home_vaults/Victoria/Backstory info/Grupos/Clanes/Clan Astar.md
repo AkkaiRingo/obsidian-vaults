@@ -29,3 +29,4 @@ from #Vampiro
 where Clan = [[Clan Astar|Astar]]
 sort Maestro ASC
 ```
+
