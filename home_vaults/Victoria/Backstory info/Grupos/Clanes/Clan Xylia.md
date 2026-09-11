@@ -21,11 +21,11 @@ tags:
 table Maestro, embed(imagen) AS Imágen
 from #Vampiro  
 where Clan = [[Clan Xylia|Xylia]]
-sort Maestro ASC
+sort file.name ASC
 SORT choice(file.name = "Melantha de Vairae", "1","other")
 ```
 
-## [[Nightbringer|Nightbringers]]
+## [[Strigoi]]
 
 ![[Pasted image 20260910233138.png]]
 

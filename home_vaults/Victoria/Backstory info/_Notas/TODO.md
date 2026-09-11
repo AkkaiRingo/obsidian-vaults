@@ -27,15 +27,14 @@
 - [x] Sacar imágenes para otros personajes principales
 	- [x] [[Alastor Val Astar|Alastor]]
 	- [x] [[Madelaine Bescond]]
-	- [ ] ?
-- [ ] Vampiros
-	- [ ] [[Vampiros|vampiros]] de la corte de [[Vairae]]
+- [x] Vampiros
+	- [x] [[Vampiros|vampiros]] de la corte de [[Vairae]]
 	- [x] buscar nombres de grupos de [[Vampiros]]
 		- [x] clan?
 		- [x] akelarre?
-	- [ ] buscar nombres de "clanes" de [[Vrykolaka|Vrykolakas]]
-	- [ ] buscar nombres de [[Vrykolaka|Vrykolakas]]
-	- [ ] buscar nombres de [[Umbral Lord|Umbral Lords]]
+	- [x] buscar nombres de "clanes" de [[Vrykolaka|Vrykolakas]]
+	- [x] buscar nombres de [[Vrykolaka|Vrykolakas]]
+	- [x] buscar nombres de [[Umbral Lord|Umbral Lords]]
 	- [x] nombres de [[Protogenos]]/[[Provecto Liturgo]] etc.
 	- [x] nombres de tipo de [[Vampiros|vampiro]] (natural/nacido de los oscuro; ritualistas/etc.)
 #### Grupos
@@ -65,7 +64,7 @@
 - [x] [[Noditas]] ??
 	- [x] Cómo se llama la magia [[Efímera]] que usan los [[Gremio del Noctívago|Noctívagos]], derivada de la que usan los [[Noditas]] ?? --> antónimo de [[Sempiterna]]? [[Efímera]]? [[Efímera|Poderes Oscuros]]
 - [x] Diferencia entre orden y gremio...? [[Orden de la Luminaria]]? --> orden religiosa, gremio [[Gremio del Noctívago|noctívagos]]
-- [ ] Familias
+- [x] Familias
 ---
 #### Escribir
 - [ ] Backstory

@@ -21,5 +21,5 @@ table Maestro, embed(imagen) AS Imágen
 from #Vampiro  
 where Clan = [[Clan Kazimir|Kazimir]]
 sort Maestro ASC
-SORT choice(file.name = "Eranthe Vaer Dragos", "1","other")
+SORT choice(file.name = "Ordelia Vaor Kazimir", "1","other")
 ```

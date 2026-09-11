@@ -31,7 +31,6 @@ imagen: "[[Alastor Val Astar.png]]"
 
 Aprovechado una época de ausencia de [[Vairae]], los [[Liturgo|Liturgos]] atacaron a los [[Hematófago|Hematófagos]], acabando con algunos de sus [[Protogenos|Protogenoi]] (entre ellos, la maestra de [[Alastor Val Astar|Alastor]], [[Astoria Vas Astar|Astoria]]). Cuando [[Vairae]] volvió con sus [[Corte de Vairae|cortes]], tomó represalias y alimentó a [[Alastor Val Astar|Alastor]] con la sangre del [[Provecto Liturgo]], realizando un ritual que lo ascendería para convertirse en el primer [[Alastoras]]. 
 
-
 ![[Alastor Val Astar Ascension.png]]
 
 ![[Alastor Armadura.png]]

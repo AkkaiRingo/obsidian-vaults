@@ -21,11 +21,11 @@ tags:
 table Maestro, embed(imagen) AS Imágen
 from #Vampiro  
 where Clan = [[Clan Neferata|Neferata]]
-sort Maestro ASC
-SORT choice(file.name = "Eranthe Vaer Dragos", "1","other")
+sort file.name ASC
+SORT choice(file.name = "Amalfrida de Vairae", "1","other")
 ```
 
-## [[Nightbringer|Nightbringers]]
+## [[Strigoi]]
 
 ![[Pasted image 20260910233228.png]]
 

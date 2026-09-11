@@ -17,6 +17,6 @@ tags:
 table Maestro, embed(imagen) AS Imágen
 from #Vampiro  
 where Clan = [[Clan X]]
-sort Maestro ASC
-SORT choice(file.name = "Eranthe Vaer Dragos", "1","other")
+sort file.name ASC
+SORT choice(file.name = "Alastor Val Astar", "1","other")
 ```

@@ -1,10 +1,10 @@
 ---
-Líder: "[[Aurora]]"
+Líder: "[[Aurora de Vairae]]"
 Vampiro: "[[Liturgo]]"
 Ubicación: "[[Edén]]"
-Fundador: "[[Aurora]]"
+Fundador: "[[Aurora de Vairae]]"
 Miembros:
-  - "[[Aurora]]"
+  - "[[Aurora de Vairae]]"
 Afiliación:
   - "[[Corte de Vairae]]"
 Agrupación: Clan
@@ -20,14 +20,14 @@ table Maestro, embed(imagen) AS Imágen
 from #Vampiro  
 where Clan = [[Clan Everlid|Everlid]]
 sort Maestro ASC
-SORT choice(file.name = "Eranthe Vaer Dragos", "1","other")
+SORT choice(file.name = "Aurora", "1","other")
 ```
 
 ![[Pasted image 20260819230340.png]]
 
 ![[Pasted image 20260819230346.png]]
 
-## [[Nightbringer|Nightbringers]]
+## [[Strigoi]]
 
 ![[Pasted image 20260910233925.png]]
 

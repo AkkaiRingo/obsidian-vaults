@@ -25,7 +25,6 @@ Es un clan un poco más pequeño. Formar (o fingen) lazos familiares con sus mie
 table Maestro, embed(imagen) AS Imágen
 from #Vampiro  
 where Clan = [[Clan Acheron | Acheron]]
-sort Maestro ASC
 SORT
 choice(file.name = "Padre Vach Acheron", "1",
 choice(file.name = "Madre Vach Acheron", "2",

@@ -24,3 +24,5 @@
 - [ ] Musette  
 - [ ] Radella  
 - [ ] Aurel
+- [ ] Valeria
+- [ ] Cornelius

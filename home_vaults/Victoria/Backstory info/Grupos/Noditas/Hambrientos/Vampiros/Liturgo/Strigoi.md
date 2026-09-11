@@ -1,7 +1,6 @@
 ---
 Rama: "[[Liturgo]]"
 aliases:
-  - Nightbringers
 ---
 - Creado por [[Liturgia]] de un [[Umbral Lord]]
 - Suelen estar más lejos o de manera satelital de sus maestros
@@ -9,4 +8,4 @@ aliases:
 - "Ascensión" por [[Sacramento]]
 ---
 
-![[Nightbringer.jpg]]
+![[Strigoi.jpg]]

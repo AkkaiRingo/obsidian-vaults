@@ -4,202 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "853de7b842071754",
+        "id": "d7e17a6ec631f770",
         "type": "tabs",
         "children": [
           {
-            "id": "892bed056d0c851c",
+            "id": "64ef77b5a5b65593",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan Astar.md",
+                "file": "Backstory info/_Notas/Diario de Victoria.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Clan Astar"
-            }
-          },
-          {
-            "id": "5215190045bedde4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Lugares/Lugares.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Lugares"
-            }
-          },
-          {
-            "id": "157839d9143b4740",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Personas/Vampiros/Alastor Val Astar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Alastor Val Astar"
-            }
-          },
-          {
-            "id": "61d8992b312a820b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Personas/Vampiros/Astoria Vas Astar.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Astoria Vas Astar"
-            }
-          },
-          {
-            "id": "17f8bce80b81fa17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan Acheron.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Clan Acheron"
-            }
-          },
-          {
-            "id": "742adbcdc288a7ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan Dragos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Clan Dragos"
-            }
-          },
-          {
-            "id": "6b7524e7cc4f0431",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan Kazimir.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Clan Kazimir"
-            }
-          },
-          {
-            "id": "d7bf659776d442d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan Everlid.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Clan Everlid"
-            }
-          },
-          {
-            "id": "59daa31d88887500",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan Xylia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Clan Xylia"
-            }
-          },
-          {
-            "id": "804d9ec83b01c7c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan Neferata.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Clan Neferata"
-            }
-          },
-          {
-            "id": "4cbc53d3b37714c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/_Notas/Nombres de Vampiros.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Nombres de Vampiros"
-            }
-          },
-          {
-            "id": "42d39d922cb6107c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Personas/Vampiros/Amalfrida de Vairae.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Amalfrida de Vairae"
-            }
-          },
-          {
-            "id": "02f353cb2616ed61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Personas/Vampiros/Constantine de Vairae.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Constantine de Vairae"
+              "title": "Diario de Victoria"
             }
           }
         ]
@@ -236,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -365,47 +185,48 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "892bed056d0c851c",
+  "active": "64ef77b5a5b65593",
   "lastOpenFiles": [
-    "Backstory info/Personas/Vampiros/Alastor Val Astar.md",
-    "Backstory info/Grupos/Clanes/Clan Astar.md",
-    "Backstory info/Lugares/Lugares.md",
+    "Backstory info/_Notas/TODO.md",
+    "Backstory info/_Notas/⁉ New questions... 🤓.md",
+    "Backstory info/_Notas/Glosario.md",
+    "Backstory info/_Notas/Notas varias sin hogar.md",
+    "Backstory info/_Notas/Nombres de Vampiros.md",
+    "Backstory info/_Notas/Class Review.md",
+    "Backstory info/Lugares/Tierra de Nod.md",
+    "Backstory info/Grupos/Orden de la Luminaria/Faros de la Luminaria.md",
+    "Backstory info/Lugares/Svitanie.md",
+    "Images/Svitanie Area Noditas.png",
+    "Images/Svitanie Area Faros.png",
+    "Images/Svitanie Map Hex.png",
+    "Images/Svitanie Map.png",
+    "Images/Svitanie map.png",
+    "Backstory info/Lugares/Faro del Lucero del Alba.md",
+    "Backstory info/Lugares/Faerûn.md",
     "Backstory info/Grupos/Clanes/Clan Everlid.md",
-    "Images/Pasted image 20260910233925.png",
-    "Images/Pasted image 20260910233857.png",
     "Backstory info/Grupos/Clanes/Clan Xylia.md",
     "Backstory info/Grupos/Clanes/Clan Neferata.md",
-    "Backstory info/Personas/Vampiros/Erylis de Vairae.md",
-    "Images/Erylis de Vairae.png",
-    "Backstory info/_Notas/Nombres de Vampiros.md",
-    "Druila de Vairae.png.md",
-    "Images/Pasted image 20260910233241.png",
-    "Images/Pasted image 20260910233228.png",
-    "Images/Pasted image 20260910233157.png",
-    "Images/Pasted image 20260910233138.png",
-    "Backstory info/Personas/Vampiros/Constantine de Vairae.md",
-    "Images/Constantine de Vairae.png",
-    "Backstory info/Personas/Vampiros/Irina de Vairae.md",
-    "Images/Irina de Vairae.png",
-    "Backstory info/Personas/Vampiros/Amalfrida de Vairae.md",
-    "Images/Amalfrida de Vairae.png",
     "Backstory info/Grupos/Clanes/Clan Kazimir.md",
     "Backstory info/Grupos/Clanes/Clan Dragos.md",
     "Backstory info/Grupos/Clanes/Clan Acheron.md",
-    "Backstory info/Lugares/Arimatea.md",
-    "Backstory info/Personas/Vampiros/Astoria Vas Astar.md",
-    "Backstory info/_Notas/Class Review.md",
-    "Backstory info/_Notas/⁉ New questions... 🤓.md",
-    "Backstory info/Lugares/Sinar.md",
-    "Backstory info/_Notas/Arlene/Arlene notas.md",
-    "Backstory info/_Notas/Arlene/Backstory.md",
-    "Backstory info/_Notas/Arlene/Arlene.md",
+    "Backstory info/Grupos/Clanes/Clan Astar.md",
+    "Backstory info/Personas/Vampiros/Alastor Val Astar.md",
+    "Templates/Clan.md",
+    "Backstory info/Grupos/Grupos.md",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Liturgo/Strigoi.md",
+    "Backstory info/Personas/Vampiros/Amalfrida de Vairae.md",
+    "Images/Strigoi.jpg",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Liturgo/Sacramento.md",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/_Jerarquía resumen.md",
+    "Backstory info/Lugares/Lugares.md",
+    "Images/Alastor Armadura.png",
+    "Images/Pasted image 20260910233925.png",
+    "Images/Pasted image 20260910233857.png",
+    "Images/Erylis de Vairae.png",
     "Backstory info/_Notas/Arlene/Arlene2.pdf",
     "Backstory info/_Notas/Arlene/Arlene.pdf",
     "Backstory info/_Notas/Arlene",
-    "Backstory info/Grupos/Dioses/Mielikki.md",
     "Arlene.pdf",
-    "Backstory info/Grupos/Dioses/Amaunator.md",
     "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/_Jerarquía Vampiros.canvas",
     "Backstory info/Grupos/Noditas/Malditos",
     "Backstory info/Grupos/Noditas/Inmateriales",

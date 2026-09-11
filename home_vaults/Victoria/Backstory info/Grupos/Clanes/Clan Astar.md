@@ -27,6 +27,7 @@ Durante muchos años, el clan fue el más grande de [[Svitanie]], contando con e
 table Maestro, embed(imagen) AS Imágen
 from #Vampiro  
 where Clan = [[Clan Astar|Astar]]
-sort Maestro ASC
+sort file.name ASC
+SORT choice(file.name = "Alastor Val Astar", "1","other")
 ```
 
