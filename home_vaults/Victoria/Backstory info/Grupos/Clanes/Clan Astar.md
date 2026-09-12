@@ -21,7 +21,7 @@ Fundado y originalmente liderado por [[Astoria Vas Astar]], el clan lleva aún a
 
 Durante muchos años, el clan fue el más grande de [[Svitanie]], contando con el mayor número de [[Vampiros|vampiros]] en un mismo clan. Se sospecha que alguno de los clanes de [[Liturgo|Liturgos]] se empezó a preocupar de que un clan de [[Hematófago|Hematófagos]] tuviera tanto poder y orquestaron el ataque contra [[Sinar]] para enmascarar la casi total destrucción del clan. [[Astoria Vas Astar|Astoria]] y [[Alastor Val Astar|Alastor]], los únicos supervivientes al ataque, se retiraron a la población más cercana, [[Lioncourt]]. 
 
-![[Pasted image 20260817231324.png]]
+![[Ejército de Astar.png]]
 
 ```dataview 
 table Maestro, embed(imagen) AS Imágen
