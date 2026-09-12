@@ -1,3 +1,14 @@
+- [x] Asema
+- [ ] Zoltan
+- [ ] Azerrad
+- [ ] Cassius
+- [ ] Valaine
+- [ ] Druilla
+- [ ] Hazelmere
+- [x] Musette  
+- [ ] Aurel
+- [x] Valeria
+- [ ] Cornelius
 - [x] Acheron
 - [x] Caedmon
 - [x] Dragos
@@ -10,19 +21,8 @@
 - [x] Xylia  
 - [x] Melantha
 - [x] Astrophel
-- [ ] Asema
-- [ ] Zoltan
-- [ ] Azerrad
-- [ ] Cassius
 - [x] Constantine
-- [ ] Valaine
-- [ ] Druilla
 - [x] Erylis
 - [x] Irina
-- [ ] Hazelmere
 - [x] Neferata
-- [ ] Musette  
-- [ ] Radella  
-- [ ] Aurel
-- [ ] Valeria
-- [ ] Cornelius
+- [x] Radella  

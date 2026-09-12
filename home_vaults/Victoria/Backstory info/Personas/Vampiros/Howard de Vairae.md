@@ -1,12 +1,12 @@
 ---
-Género: Mujer
+Género: Hombre
 Raza: Humano
-En vida: N/A
-Clan: "[[Clan Xylia|Xylia]]"
+En vida: "[[Howard Saville]]"
+Clan: "[[Clan Everlid|Everlid]]"
 Maestro: "[[Vairae]]"
 Tipo de V.: "[[Umbral Lord]]"
 Lugar:
-  - "[[Arimatea]]"
+  - "[[Edén]]"
 Pareja:
 F. Paternales:
 F. Fraternales:
@@ -15,7 +15,7 @@ tags:
   - Persona
   - Vampiro
 aliases:
-  - Irina
-imagen: "[[Irina de Vairae.png]]"
+imagen: "[[Howard de Vairae.png]]"
 ---
-![[Irina de Vairae.png]]
+
+![[Howard de Vairae.png]]

@@ -21,6 +21,43 @@
               "icon": "lucide-file",
               "title": "Diario de Victoria"
             }
+          },
+          {
+            "id": "e9d0a74ae7749f42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Clanes/Clan Kazimir.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Clan Kazimir"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "82ca71696eb33812",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fd6ec5c3e606e07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/_Notas/Nombres de Vampiros.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Nombres de Vampiros"
+            }
           }
         ]
       }
@@ -185,44 +222,43 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "64ef77b5a5b65593",
+  "active": "e9d0a74ae7749f42",
   "lastOpenFiles": [
+    "Backstory info/_Notas/Nombres de Vampiros.md",
+    "Backstory info/Grupos/Clanes/Clan Xylia.md",
+    "Backstory info/Grupos/Clanes/Clan Neferata.md",
+    "Backstory info/Grupos/Clanes/Clan Everlid.md",
+    "Backstory info/Personas/Vampiros/Valeria de Vairae.md",
+    "Images/Valeria de Vairae.png",
+    "Backstory info/Personas/Vampiros/Musette de Vairae.md",
+    "Images/Musette de Vairae.png",
+    "Images/Asema de Vairae.png",
+    "Backstory info/Personas/Vampiros/Asema de Vairae.md",
+    "Backstory info/Grupos/Clanes/Clan Kazimir.md",
+    "Images/Pasted image 20260912132752.png",
+    "Images/Pasted image 20260912132747.png",
+    "Backstory info/Personas/Vampiros/Melantha de Vairae.md",
+    "Images/Melantha de Vairae 2.png",
+    "Backstory info/Personas/Vampiros/Radella de Vairae.md",
+    "Images/Radella de Vairae.png",
+    "Backstory info/Personas/Vampiros/Howard de Vairae.md",
+    "Backstory info/Personas/Vampiros/Juliette de Vairae.md",
+    "Images/Juliette de Vairae.png",
+    "Backstory info/Grupos/Orden de la Luminaria/La Cúpula.md",
+    "Images/Howard de Vairae.png",
+    "Backstory info/Personas/Howard Saville.md",
+    "Backstory info/Personas/Aurora.md",
+    "Backstory info/Personas/Vampiros/Aurora de Vairae.md",
+    "Backstory info/Personas/Vampiros/Constantine de Vairae.md",
+    "Images/Constantine de Vairae.png",
+    "Backstory info/_Notas/Diario de Victoria.md",
     "Backstory info/_Notas/TODO.md",
     "Backstory info/_Notas/⁉ New questions... 🤓.md",
     "Backstory info/_Notas/Glosario.md",
     "Backstory info/_Notas/Notas varias sin hogar.md",
-    "Backstory info/_Notas/Nombres de Vampiros.md",
     "Backstory info/_Notas/Class Review.md",
     "Backstory info/Lugares/Tierra de Nod.md",
     "Backstory info/Grupos/Orden de la Luminaria/Faros de la Luminaria.md",
-    "Backstory info/Lugares/Svitanie.md",
-    "Images/Svitanie Area Noditas.png",
-    "Images/Svitanie Area Faros.png",
-    "Images/Svitanie Map Hex.png",
-    "Images/Svitanie Map.png",
-    "Images/Svitanie map.png",
-    "Backstory info/Lugares/Faro del Lucero del Alba.md",
-    "Backstory info/Lugares/Faerûn.md",
-    "Backstory info/Grupos/Clanes/Clan Everlid.md",
-    "Backstory info/Grupos/Clanes/Clan Xylia.md",
-    "Backstory info/Grupos/Clanes/Clan Neferata.md",
-    "Backstory info/Grupos/Clanes/Clan Kazimir.md",
-    "Backstory info/Grupos/Clanes/Clan Dragos.md",
-    "Backstory info/Grupos/Clanes/Clan Acheron.md",
-    "Backstory info/Grupos/Clanes/Clan Astar.md",
-    "Backstory info/Personas/Vampiros/Alastor Val Astar.md",
-    "Templates/Clan.md",
-    "Backstory info/Grupos/Grupos.md",
-    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Liturgo/Strigoi.md",
-    "Backstory info/Personas/Vampiros/Amalfrida de Vairae.md",
-    "Images/Strigoi.jpg",
-    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Liturgo/Sacramento.md",
-    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/_Jerarquía resumen.md",
-    "Backstory info/Lugares/Lugares.md",
-    "Images/Alastor Armadura.png",
-    "Images/Pasted image 20260910233925.png",
-    "Images/Pasted image 20260910233857.png",
-    "Images/Erylis de Vairae.png",
     "Backstory info/_Notas/Arlene/Arlene2.pdf",
     "Backstory info/_Notas/Arlene/Arlene.pdf",
     "Backstory info/_Notas/Arlene",

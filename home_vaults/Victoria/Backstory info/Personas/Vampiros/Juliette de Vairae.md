@@ -1,12 +1,12 @@
 ---
 Género: Mujer
 Raza: Humano
-En vida: N/A
-Clan: "[[Clan Xylia|Xylia]]"
+En vida: "[[Juliette Dubois]]"
+Clan: "[[Clan Everlid|Everlid]]"
 Maestro: "[[Vairae]]"
 Tipo de V.: "[[Umbral Lord]]"
 Lugar:
-  - "[[Arimatea]]"
+  - "[[Edén]]"
 Pareja:
 F. Paternales:
 F. Fraternales:
@@ -15,7 +15,7 @@ tags:
   - Persona
   - Vampiro
 aliases:
-  - Irina
-imagen: "[[Irina de Vairae.png]]"
+imagen: "[[Juliette de Vairae.png]]"
 ---
-![[Irina de Vairae.png]]
+
+![[Juliette de Vairae.png]]

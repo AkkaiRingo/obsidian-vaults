@@ -20,4 +20,6 @@ imagen: "[[Ismael Orellana.png]]"
 Obispo de Educación, miembro de [[La Cúpula]]. 
 (Azul)
 
+Fundó el [[Gremio del Noctívago]] y se le considera el primer [[Gremio del Noctívago|noctívago]]. 
+
 ![[Ismael Orellana.png]]

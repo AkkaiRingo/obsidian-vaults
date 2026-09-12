@@ -23,13 +23,13 @@ sort Maestro ASC
 SORT choice(file.name = "Aurora", "1","other")
 ```
 
-![[Pasted image 20260819230340.png]]
-
-![[Pasted image 20260819230346.png]]
-
 ## [[Strigoi]]
 
 ![[Pasted image 20260910233925.png]]
 
 ![[Pasted image 20260910233857.png]]
 
+### [[Strigoi]] de [[Aurora de Vairae]]
+![[Pasted image 20260819230346.png]]
+
+![[Pasted image 20260819230340.png]]

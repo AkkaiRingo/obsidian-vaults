@@ -2,7 +2,7 @@
 Género: No binario
 Raza: N/A
 En vida: N/A
-Clan: "[[Clan Xylia|Xylia]]"
+Clan: "[[Clan Neferata|Neferata]]"
 Maestro: "[[Vairae]]"
 Tipo de V.: "[[Umbral Lord]]"
 Lugar:
@@ -23,3 +23,5 @@ imagen: "[[Melantha de Vairae.png]]"
 ---
 
 ![[Melantha de Vairae.png]]
+
+![[Melantha de Vairae 2.png]]

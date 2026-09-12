@@ -23,3 +23,4 @@ where Clan = [[Clan Kazimir|Kazimir]]
 sort Maestro ASC
 SORT choice(file.name = "Ordelia Vaor Kazimir", "1","other")
 ```
+![[Pasted image 20260912132752.png]]

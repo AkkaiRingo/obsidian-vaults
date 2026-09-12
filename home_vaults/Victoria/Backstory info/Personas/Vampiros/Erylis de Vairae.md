@@ -2,7 +2,7 @@
 Género: Mujer
 Raza: Elfo
 En vida: N/A
-Clan: "[[Clan Xylia|Xylia]]"
+Clan: "[[Clan Neferata|Neferata]]"
 Maestro: "[[Vairae]]"
 Tipo de V.: "[[Umbral Lord]]"
 Lugar:

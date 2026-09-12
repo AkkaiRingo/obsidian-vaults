@@ -1,12 +1,12 @@
 ---
-Líder: "[[Amalfrida de Vairae]]"
+Líder: "[[Melantha de Vairae]]"
 Vampiro: "[[Liturgo]]"
-Ubicación: "[[Arimatea]]"
-Fundador: "[[Amalfrida de Vairae]]"
+Ubicación: "[[Naín]]"
+Fundador:
 Miembros:
-  - "[[Amalfrida de Vairae]]"
-  - "[[Irina de Vairae]]"
-  - "[[Constantine de Vairae]]"
+  - "[[Melantha de Vairae]]"
+  - "[[Astrophel de Vairae]]"
+  - "[[Erylis de Vairae]]"
 Afiliación:
   - "[[Corte de Vairae]]"
 Agrupación: Clan
@@ -22,11 +22,11 @@ table Maestro, embed(imagen) AS Imágen
 from #Vampiro  
 where Clan = [[Clan Neferata|Neferata]]
 sort file.name ASC
-SORT choice(file.name = "Amalfrida de Vairae", "1","other")
+SORT choice(file.name = "Melantha de Vairae", "1","other")
 ```
 
 ## [[Strigoi]]
 
-![[Pasted image 20260910233228.png]]
+![[Pasted image 20260910233138.png]]
 
-![[Pasted image 20260910233241.png]]
+![[Pasted image 20260910233157.png]]

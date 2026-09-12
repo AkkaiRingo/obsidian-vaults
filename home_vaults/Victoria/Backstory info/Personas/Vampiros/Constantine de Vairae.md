@@ -2,7 +2,7 @@
 Género: Hombre
 Raza: N/A
 En vida: N/A
-Clan: "[[Clan Neferata|Neferata]]"
+Clan: "[[Clan Xylia|Xylia]]"
 Maestro: "[[Vairae]]"
 Tipo de V.: "[[Umbral Lord]]"
 Lugar:

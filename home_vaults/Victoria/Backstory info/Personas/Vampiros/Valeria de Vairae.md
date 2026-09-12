@@ -1,12 +1,12 @@
 ---
 Género: Mujer
-Raza: Humano
-En vida: N/A
-Clan: "[[Clan Xylia|Xylia]]"
+Raza: N/A
+En vida:
+Clan: "[[Clan Neferata|Neferata]]"
 Maestro: "[[Vairae]]"
 Tipo de V.: "[[Umbral Lord]]"
 Lugar:
-  - "[[Arimatea]]"
+  - "[[Naín]]"
 Pareja:
 F. Paternales:
 F. Fraternales:
@@ -15,7 +15,7 @@ tags:
   - Persona
   - Vampiro
 aliases:
-  - Irina
-imagen: "[[Irina de Vairae.png]]"
+imagen: "[[Valeria de Vairae.png]]"
 ---
-![[Irina de Vairae.png]]
+
+![[Valeria de Vairae.png]]
