@@ -16,3 +16,4 @@ tags:
   - "#Grupo"
   - Gremio
 ---
+Se considera la primera orden de [[Gremio del Noctívago|Noctívagos]], fundada por [[Ismael Orellana]]. 

@@ -4,6 +4,7 @@ Tipo: Humanoid
 Sub-Tipos:
 Desc: Personas que intentan utilizar la Magia Efímera, aceptando la maldición
 aliases:
+  - cultista
 tags:
   - Criatura
 ---

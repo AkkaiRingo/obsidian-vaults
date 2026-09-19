@@ -10,6 +10,7 @@ Miembros:
 Agrupación: Clan
 aliases:
   - cortes
+  - corte
 tags:
   - "#Grupo"
   - Clan

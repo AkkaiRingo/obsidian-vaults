@@ -4,52 +4,97 @@
     "type": "split",
     "children": [
       {
-        "id": "d7e17a6ec631f770",
+        "id": "8f1c9c7c1f4345e3",
         "type": "tabs",
         "children": [
           {
-            "id": "64ef77b5a5b65593",
+            "id": "28f959d0d2fbedd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/_Notas/Diario de Victoria.md",
+                "file": "Backstory info/_Notas/Backstory.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Diario de Victoria"
+              "title": "Backstory"
             }
           },
           {
-            "id": "e9d0a74ae7749f42",
+            "id": "17cc23ef2d401962",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan Kazimir.md",
+                "file": "Backstory info/_Notas/TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Clan Kazimir"
+              "title": "TODO"
             }
           },
           {
-            "id": "a0cc325790bd909c",
+            "id": "a64f6625462ec3b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan Astar.md",
+                "file": "Backstory info/Personas/Ismael Orellana.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Clan Astar"
+              "title": "Ismael Orellana"
+            }
+          },
+          {
+            "id": "cbc73cc481d01b0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bertran Lemaître.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Bertran Lemaître"
+            }
+          },
+          {
+            "id": "9d487970f96bf24e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Reliquias/El Sol Velado.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "El Sol Velado"
+            }
+          },
+          {
+            "id": "f6039db22da4e291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Reliquias/El Incensario Solar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "El Incensario Solar"
             }
           }
         ],
@@ -128,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan E.md",
+                "file": "Backstory info/Personas/Ismael Orellana.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Bosque de Lilitu 2.png",
+                "file": "Backstory info/Personas/Ismael Orellana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -199,8 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,45 +260,45 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "a0cc325790bd909c",
+  "active": "a64f6625462ec3b7",
   "lastOpenFiles": [
-    "Images/Ejército de Astar.png",
-    "Backstory info/Grupos/Clanes/Clan Astar.md",
-    "Backstory info/Grupos/Clanes/Clan Kazimir.md",
-    "Backstory info/_Notas/Nombres de Vampiros.md",
-    "Backstory info/Grupos/Clanes/Clan Xylia.md",
-    "Backstory info/Grupos/Clanes/Clan Neferata.md",
+    "Bertran Lemaître.md",
+    "Backstory info/Personas/Ismael Orellana.md",
+    "Images/Pasted image 20260919183329.png",
+    "Images/Pasted image 20260919182751.png",
+    "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Reliquias/El Sol Velado.md",
+    "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Orden del Sol Velado.md",
+    "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Reliquias/El Incensario Solar.md",
+    "Backstory info/Personas/Aurora.md",
+    "Backstory info/Grupos/Noditas/Cultistas/Cultistas.md",
+    "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Orden del Incensario Solar.md",
+    "Backstory info/Personas/Vampiros/Aurora de Vairae.md",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Liturgo/Liturgia.md",
+    "Backstory info/Grupos/Orden de la Luminaria/Cirio.md",
+    "Backstory info/Grupos/Clanes/Corte de Vairae.md",
+    "Backstory info/Lugares/Ofir.md",
+    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Vampiros.md",
     "Backstory info/Grupos/Clanes/Clan Everlid.md",
-    "Backstory info/Personas/Vampiros/Valeria de Vairae.md",
-    "Images/Valeria de Vairae.png",
-    "Backstory info/Personas/Vampiros/Musette de Vairae.md",
-    "Images/Musette de Vairae.png",
-    "Images/Asema de Vairae.png",
-    "Backstory info/Personas/Vampiros/Asema de Vairae.md",
-    "Images/Pasted image 20260912132752.png",
-    "Images/Pasted image 20260912132747.png",
-    "Backstory info/Personas/Vampiros/Melantha de Vairae.md",
-    "Images/Melantha de Vairae 2.png",
+    "Backstory info/_Notas/Notas varias sin hogar.md",
+    "Backstory info/_Notas/TODO.md",
+    "Backstory info/Personas/Alma Laguna del Velado.md",
+    "Backstory info/Personas/Vampiros/Alma de Vairae.md",
+    "Images/Alma de Vairae.png",
     "Backstory info/Personas/Vampiros/Radella de Vairae.md",
     "Images/Radella de Vairae.png",
     "Backstory info/Personas/Vampiros/Howard de Vairae.md",
-    "Backstory info/Personas/Vampiros/Juliette de Vairae.md",
-    "Images/Juliette de Vairae.png",
-    "Backstory info/Grupos/Orden de la Luminaria/La Cúpula.md",
     "Images/Howard de Vairae.png",
-    "Backstory info/Personas/Howard Saville.md",
-    "Backstory info/Personas/Aurora.md",
-    "Backstory info/Personas/Vampiros/Aurora de Vairae.md",
-    "Backstory info/Personas/Vampiros/Constantine de Vairae.md",
-    "Backstory info/_Notas/Diario de Victoria.md",
-    "Backstory info/_Notas/TODO.md",
-    "Backstory info/_Notas/⁉ New questions... 🤓.md",
-    "Backstory info/_Notas/Glosario.md",
-    "Backstory info/_Notas/Notas varias sin hogar.md",
-    "Backstory info/_Notas/Class Review.md",
-    "Backstory info/Lugares/Tierra de Nod.md",
-    "Backstory info/_Notas/Arlene/Arlene2.pdf",
+    "Backstory info/Grupos/Clanes/Clan Dragos.md",
+    "Backstory info/Grupos/Clanes/Clan Astar.md",
+    "Backstory info/Grupos/Clanes/Clan Acheron.md",
+    "Backstory info/Grupos/Orden de la Luminaria/Efímera.md",
+    "Images/Arlene Backstory 3.png",
     "Backstory info/_Notas/Arlene/Arlene.pdf",
+    "Images/Pasted image 20260910233925.png",
+    "Images/Pasted image 20260912132752.png",
+    "Images/Pasted image 20260910233857.png",
+    "Images/Pasted image 20260910233241.png",
+    "Backstory info/_Notas/Arlene/Arlene2.pdf",
     "Backstory info/_Notas/Arlene",
     "Arlene.pdf",
     "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/_Jerarquía Vampiros.canvas",

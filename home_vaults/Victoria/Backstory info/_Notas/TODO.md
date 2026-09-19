@@ -27,8 +27,9 @@
 - [x] Sacar imágenes para otros personajes principales
 	- [x] [[Alastor Val Astar|Alastor]]
 	- [x] [[Madelaine Bescond]]
-- [x] Vampiros
-	- [x] [[Vampiros|vampiros]] de la corte de [[Vairae]]
+- [ ] Vampiros
+	- [ ] [[Vampiros|vampiros]] de la corte de [[Vairae]]
+		- [ ] completar clanes (imágenes)
 	- [x] buscar nombres de grupos de [[Vampiros]]
 		- [x] clan?
 		- [x] akelarre?

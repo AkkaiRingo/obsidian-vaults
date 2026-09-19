@@ -20,5 +20,6 @@ tags:
 aliases:
 imagen: "[[Aurora de Vairae.png]]"
 ---
+Lleva a modo de corona [[El Sol Velado]] que utilizó [[Vairae]] en su [[Liturgia]]. 
 
 ![[Aurora de Vairae.png]]

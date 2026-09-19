@@ -1,7 +1,7 @@
 ---
 Género: Mujer
 Raza: Humano
-En vida: "[[Juliette Dubois]]"
+En vida: "[[Alma Laguna del Velado]]"
 Clan: "[[Clan Everlid|Everlid]]"
 Maestro: "[[Vairae]]"
 Tipo de V.: "[[Umbral Lord]]"
@@ -15,7 +15,7 @@ tags:
   - Persona
   - Vampiro
 aliases:
-imagen: "[[Juliette de Vairae.png]]"
+imagen: "[[Alma de Vairae.png]]"
 ---
 
-![[Juliette de Vairae.png]]
+![[Alma de Vairae.png]]

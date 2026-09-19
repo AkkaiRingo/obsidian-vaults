@@ -20,7 +20,7 @@ table Maestro, embed(imagen) AS Imágen
 from #Vampiro  
 where Clan = [[Clan Everlid|Everlid]]
 sort Maestro ASC
-SORT choice(file.name = "Aurora", "1","other")
+SORT choice(file.name = "Aurora de Vairae", "1","other")
 ```
 
 ## [[Strigoi]]
