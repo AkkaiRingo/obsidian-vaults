@@ -15,6 +15,6 @@
 - (V) shorsword --> longsword
 
 ## Arlene
-- Magic Initiate (Druid) --> Druidcraft
+- [x] Magic Initiate (Druid) --> Druidcraft
 	- Considered Divine (Cleric) magic, for goddess Mielikki
 	- Dancing Lights as the second cantrip? (not in druid spell list)

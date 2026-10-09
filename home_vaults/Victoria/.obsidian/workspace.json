@@ -8,97 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28f959d0d2fbedd2",
+            "id": "d5655b9787295c66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/_Notas/Backstory.md",
+                "file": "Backstory info/_Notas/Arlene/Arlene notas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Backstory"
+              "title": "Arlene notas"
             }
           },
           {
-            "id": "17cc23ef2d401962",
+            "id": "5d54d4bd6a1983ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/_Notas/TODO.md",
+                "file": "Backstory info/_Notas/⁉ New questions... 🤓.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
-            "id": "a64f6625462ec3b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Personas/Ismael Orellana.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Ismael Orellana"
-            }
-          },
-          {
-            "id": "cbc73cc481d01b0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bertran Lemaître.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Bertran Lemaître"
-            }
-          },
-          {
-            "id": "9d487970f96bf24e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Reliquias/El Sol Velado.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "El Sol Velado"
-            }
-          },
-          {
-            "id": "f6039db22da4e291",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Reliquias/El Incensario Solar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "El Incensario Solar"
+              "title": "⁉ New questions... 🤓"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backstory info/Personas/Ismael Orellana.md",
+                "file": "Backstory info/_Notas/⁉ New questions... 🤓.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,10 +200,19 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "a64f6625462ec3b7",
+  "active": "5d54d4bd6a1983ef",
   "lastOpenFiles": [
-    "Bertran Lemaître.md",
+    "Sin título.md",
+    "Backstory info/Personas/Vampiros/Madelaine Val Astar.md",
+    "Backstory info/_Notas/⁉ New questions... 🤓.md",
+    "Backstory info/_Notas/Arlene/Arlene notas.md",
+    "Backstory info/_Notas/Arlene/Arlene notas.pdf",
+    "Backstory info/_Notas/Arlene/Arlene familia.pdf",
+    "Backstory info/_Notas/Arlene/Backstory.md",
     "Backstory info/Personas/Ismael Orellana.md",
+    "Backstory info/_Notas/TODO.md",
+    "Backstory info/_Notas/Backstory.md",
+    "Backstory info/Personas/Bertran Lemaître.md",
     "Images/Pasted image 20260919183329.png",
     "Images/Pasted image 20260919182751.png",
     "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Reliquias/El Sol Velado.md",
@@ -280,18 +229,12 @@
     "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Vampiros.md",
     "Backstory info/Grupos/Clanes/Clan Everlid.md",
     "Backstory info/_Notas/Notas varias sin hogar.md",
-    "Backstory info/_Notas/TODO.md",
     "Backstory info/Personas/Alma Laguna del Velado.md",
     "Backstory info/Personas/Vampiros/Alma de Vairae.md",
     "Images/Alma de Vairae.png",
     "Backstory info/Personas/Vampiros/Radella de Vairae.md",
     "Images/Radella de Vairae.png",
-    "Backstory info/Personas/Vampiros/Howard de Vairae.md",
     "Images/Howard de Vairae.png",
-    "Backstory info/Grupos/Clanes/Clan Dragos.md",
-    "Backstory info/Grupos/Clanes/Clan Astar.md",
-    "Backstory info/Grupos/Clanes/Clan Acheron.md",
-    "Backstory info/Grupos/Orden de la Luminaria/Efímera.md",
     "Images/Arlene Backstory 3.png",
     "Backstory info/_Notas/Arlene/Arlene.pdf",
     "Images/Pasted image 20260910233925.png",
@@ -306,8 +249,6 @@
     "Backstory info/Grupos/Noditas/Inmateriales",
     "Backstory info/Grupos/Noditas/Engendros",
     "Backstory info/Grupos/Noditas/Cultistas",
-    "Backstory info/Grupos/Noditas/Consumidos",
-    "Backstory info/Grupos/Noditas/Bestias",
     "Backstory info/Grupos/aaaaVampiros/_Jerarquía Vampiros.canvas",
     "Untitled.canvas",
     "Backstory info/Lugares/Lugares.canvas",
