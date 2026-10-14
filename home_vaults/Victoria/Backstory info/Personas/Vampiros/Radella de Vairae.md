@@ -17,5 +17,5 @@ tags:
 aliases:
 imagen: "[[Radella de Vairae.png]]"
 ---
-
+![[Radella de Vairae.png]]
 ![[Radella de Vairae.png]]
