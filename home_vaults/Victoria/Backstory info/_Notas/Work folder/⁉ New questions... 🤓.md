@@ -7,7 +7,7 @@
 - ancestry
 	- fade away vs hide (VS 1)
 	- Artificial form vs Even in Sleep (cancel out?) 
-		- Undead in VS1 ?
+		- Undead in VS1 ? (is Artificial form necessary?)
 	- para Calculating Listener, podemos hacer el DC con otro stat en lugar de Carisma? como hago con Convincing Inquisitor
 ### Weapon aesthetics
 - (M/V) crossbow skinned --> pistol

@@ -1,5 +1,6 @@
 #TODO
 
+- [ ] Buscar plugin para hacer timelines
 #### Imágenes
 - [x] [[Astoria Vas Astar|Astoria]]
 - [x] [[Nathaniel del Alba]]
@@ -30,6 +31,7 @@
 - [ ] Vampiros
 	- [ ] [[Vampiros|vampiros]] de la corte de [[Vairae]]
 		- [ ] completar clanes (imágenes)
+		- [ ] escudos para los clanes de [[Vampiros|vampiros]] owo
 	- [x] buscar nombres de grupos de [[Vampiros]]
 		- [x] clan?
 		- [x] akelarre?

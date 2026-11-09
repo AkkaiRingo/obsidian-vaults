@@ -1,0 +1,34 @@
+{
+  "selectedLocale": "en",
+  "align": "left",
+  "clickToUse": false,
+  "roundRanges": false,
+  "overflowRangeTitles": true,
+  "translucentItems": false,
+  "axisPosition": "bottom",
+  "gapHorizontal": 20,
+  "gapVertical": 20,
+  "useUtc": true,
+  "useAI": true,
+  "showChangelogOnUpdate": true,
+  "enableCaching": false,
+  "basesPropNames": {
+    "start": "start",
+    "end": "end",
+    "group": "group",
+    "color": "color",
+    "type": "type",
+    "content": "content",
+    "description": "description"
+  },
+  "legacyBasesPropNames": {
+    "start": "start",
+    "end": "end",
+    "group": "group",
+    "content": "content",
+    "color": "color",
+    "type": "type",
+    "description": "description"
+  },
+  "lastSeenVersion": "5.1.3"
+}
