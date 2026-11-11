@@ -40,6 +40,51 @@
             }
           },
           {
+            "id": "0986b4cfd5e2790f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Clanes/Clan Xylia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Clan Xylia"
+            }
+          },
+          {
+            "id": "068ac99404421ad6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Personas/Vampiros/Amalfrida de Vairae.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Amalfrida de Vairae"
+            }
+          },
+          {
+            "id": "5841b91457b63b4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Clanes/Clan Neferata.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Clan Neferata"
+            }
+          },
+          {
             "id": "9df40744bce9702d",
             "type": "leaf",
             "state": {
@@ -55,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,15 +263,22 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "9df40744bce9702d",
+  "active": "068ac99404421ad6",
   "lastOpenFiles": [
-    "Backstory info/_Notas/Timeline (old).md",
+    "Backstory info/Grupos/Clanes/Clan Neferata.md",
+    "Images/Amalfrida de Vairae 2.png",
+    "Backstory info/Personas/Vampiros/Amalfrida de Vairae.md",
+    "Images/Pasted image 20260910231512.png",
+    "Backstory info/Grupos/Clanes/Clan Xylia.md",
+    "Images/Amalfrida de Vairae.png",
+    "Backstory info/Grupos/Clanes/Clanes.md",
+    "Backstory info/Personas/Vampiros/Musette de Vairae.md",
     "Backstory info/_Notas/Timeline.md",
+    "Images/Musette de Vairae.png",
+    "Backstory info/Personas/Vampiros/Erylis de Vairae.md",
+    "Backstory info/_Notas/Timeline (old).md",
     "Sin título.base",
     "Sin título.md",
-    "Backstory info/Grupos/Clanes/Clan Xylia.md",
-    "Backstory info/Grupos/Clanes/Clan Neferata.md",
-    "Backstory info/Grupos/Clanes/Clanes.md",
     "Backstory info/_Notas/Work folder/TODO.md",
     "Backstory info/Personas/Vampiros/Melantha de Vairae.md",
     "Images/Melantha de Vairae 2.png",
@@ -247,19 +299,12 @@
     "Backstory info/Grupos/Clanes/Corte de Vairae.md",
     "Backstory info/Personas/Vampiros/Radella de Vairae.md",
     "Images/Radella de Vairae.png",
-    "Backstory info/_Notas/Arlene/Arlene notas.md",
-    "Backstory info/_Notas/Arlene/Backstory.md",
-    "Backstory info/Personas/Vampiros/Madelaine Val Astar.md",
     "Backstory info/_Notas/Arlene/Arlene notas.pdf",
     "Backstory info/_Notas/Arlene/Arlene familia.pdf",
     "Images/Pasted image 20260919183329.png",
     "Images/Pasted image 20260919182751.png",
     "Images/Alma de Vairae.png",
-    "Images/Howard de Vairae.png",
-    "Images/Arlene Backstory 3.png",
     "Backstory info/_Notas/Arlene/Arlene.pdf",
-    "Images/Pasted image 20260910233925.png",
-    "Images/Pasted image 20260912132752.png",
     "Backstory info/_Notas/Arlene/Arlene2.pdf",
     "Backstory info/_Notas/Arlene",
     "Arlene.pdf",

@@ -20,6 +20,6 @@ imagen: "[[Amalfrida de Vairae.png]]"
 ---
 ![[Amalfrida de Vairae.png]]
 
-![[Pasted image 20260910231512.png]]
+![[Amalfrida de Vairae 2.png]]
 
 ![[Pasted image 20260910231532.png]]
