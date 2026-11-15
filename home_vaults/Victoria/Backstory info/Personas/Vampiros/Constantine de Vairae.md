@@ -18,4 +18,5 @@ aliases:
   - Constantine
 imagen: "[[Constantine de Vairae.png]]"
 ---
+
 ![[Constantine de Vairae.png]]
