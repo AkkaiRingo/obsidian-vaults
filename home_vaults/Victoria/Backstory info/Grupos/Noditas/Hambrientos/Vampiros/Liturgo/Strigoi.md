@@ -8,4 +8,4 @@ aliases:
 - "Ascensión" por [[Sacramento]]
 ---
 
-![[Strigoi.jpg]]
+![[Strigoi Everlid.png]]

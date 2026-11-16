@@ -30,7 +30,7 @@
 	- [x] [[Madelaine Bescond]]
 - [ ] Vampiros
 	- [ ] [[Vampiros|vampiros]] de la corte de [[Vairae]]
-		- [ ] completar clanes (imágenes)
+		- [x] completar clanes (imágenes)
 		- [ ] escudos para los clanes de [[Vampiros|vampiros]] owo
 	- [x] buscar nombres de grupos de [[Vampiros]]
 		- [x] clan?
@@ -47,7 +47,7 @@
 		- [x] Apellido? Viene de alguna orden o familia noble? Seguramente es un [[Cirio]]
 	- [x] Cómo se llaman los elegidos de [[Orden de la Luminaria|La Lumbre]]?
 		- [x] Elegido recién descubierto --> [[Cirio]]
-		- [x] Elegidos instruidos --> [[Caballeros de la Llama Sempiterna]]? 
+		- [x] Elegidos instruidos --> [[Damas de la Llama Sempiterna]]? 
 	- [x] Cómo se llama la prueba que tienen que hacer? --> [[Ignición]] ??
 	- [x] Jerarquía de personas dentro del [[Orden de la Luminaria]]
 		- [x] Cuál es el cargo más alto? --> Arzobispo [[Aurora]]

@@ -1,7 +1,7 @@
 ---
 Género: Mujer
 Raza: Humano
-Profesión: "[[Caballeros de la Llama Sempiterna]]"
+Profesión: "[[Damas de la Llama Sempiterna]]"
 Lugar:
   - "[[Lioncourt]]"
   - "[[Edén]]"

@@ -12,7 +12,8 @@ Familia:
 tags:
   - Persona
 aliases:
-imagen:
+  - Bertran
+imagen: "[[Bertran Lemaître]]"
 ---
 
-![[Pasted image 20260919183329.png]]
+![[Bertran Lemaître.png]]

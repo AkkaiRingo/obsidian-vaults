@@ -9,7 +9,7 @@ aliases:
 tags:
   - "#Grupo"
 ---
-Son [[Cirio|Cirios]] que han optado por no unirse a los [[Caballeros de la Llama Sempiterna]], y a cambio trabajan con los obispos de [[La Cúpula]] ayudando directamente en la gestión de las diócesis.
+Son [[Cirio|Cirios]] que han optado por no unirse a las [[Damas de la Llama Sempiterna]], y a cambio trabajan con los obispos de [[La Cúpula]] ayudando directamente en la gestión de las diócesis.
 
 Pueden llegar a ser:
 - **Vicario General**: Es el puesto más alto por debajo del obispo. Actúa como su "mano derecha" y tiene potestad ejecutiva en toda la diócesis para resolver asuntos administrativos.

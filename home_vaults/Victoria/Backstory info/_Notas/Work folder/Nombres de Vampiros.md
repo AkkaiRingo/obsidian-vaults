@@ -1,10 +1,10 @@
 - [ ] Azerrad
-- [ ] Cassius
-- [ ] Valaine
-- [ ] Druilla
+- [x] Cassius
+- [x] Valaine
+- [x] Druila
 - [ ] Hazelmere
 - [ ] Erylis
-- [ ] Cornelius
+- [x] Cornelius
 - [ ] Aurel
 - [x] Asema
 - [x] Valeria

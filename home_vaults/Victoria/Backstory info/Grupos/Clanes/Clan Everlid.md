@@ -25,11 +25,13 @@ SORT choice(file.name = "Aurora de Vairae", "1","other")
 
 ## [[Strigoi]]
 
-![[Pasted image 20260910233925.png]]
+![[Strigoi Everlid.png|700]]
 
-![[Pasted image 20260910233857.png]]
+![[Strigoi Everlid 2.png]]
+
 
 ### [[Strigoi]] de [[Aurora de Vairae]]
-![[Pasted image 20260819230346.png]]
 
-![[Pasted image 20260819230340.png]]
+![[Strigoi Aurora.png]]
+
+![[Strigoi Aurora 2.png]]

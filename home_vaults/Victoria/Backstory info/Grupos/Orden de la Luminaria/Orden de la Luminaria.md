@@ -11,10 +11,13 @@ aliases:
 tags:
   - "#Grupo"
 ---
+
+![[Orden de la Luminaria.png]]
+
 Orden religiosa de seguidores de [[Amaunator]] que rige [[Svitanie]]. Está liderada por la cámara de obispos conocida como [[La Cúpula]], siendo la líder de todos ellos [[Aurora]]. 
 Su objetivo principal es quitar la [[Maldición del Eclipse]] que asola [[Svitanie]] para devolver la luz [[Sempiterna]] del sol de [[Amaunator]] a estas tierras. 
 
-## Miembros
+## Grupos miembros
 ```dataview 
 table Líder, Ubicación
 from #Grupo 

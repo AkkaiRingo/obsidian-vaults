@@ -1,7 +1,7 @@
 ---
 Género: Hombre
 Raza: Humano
-Profesión: "[[Caballeros de la Llama Sempiterna]]"
+Profesión: "[[Damas de la Llama Sempiterna|Caballeros de la Llama Sempiterna]]"
 Lugar:
   - "[[Lioncourt]]"
   - "[[Edén]]"

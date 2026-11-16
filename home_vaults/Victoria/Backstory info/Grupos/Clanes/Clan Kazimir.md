@@ -23,11 +23,11 @@ Con su gran número y amplio rango de habilidades, comprenden la mayor red de es
 
 Todos los miembros del clan pertenecen a una categoría que [[Ordelia Vaor Kazimir|Ordelia]] elije para ellos. Visten un broche que representa su categoría. 
 
-![[Pasted image 20261115161719.png]]
+![[Ordelia broches categorías.png]]
 
 ## Colección de Ordelia
 
-![[Pasted image 20261115172843.png]]
+![[Ordelia colección.png]]
 
 ```dataview 
 table Categoría, Singularidad, Manifestación, embed(imagen) AS Imágen

@@ -27,6 +27,6 @@ SORT choice(file.name = "Melantha de Vairae", "1","other")
 
 ## [[Strigoi]]
 
-![[Pasted image 20260910233138.png]]
+![[Strigoi Neferata.png]]
 
-![[Pasted image 20260910233157.png]]
+![[Strigoi Neferata 2.png]]

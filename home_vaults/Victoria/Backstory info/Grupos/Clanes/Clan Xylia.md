@@ -27,6 +27,6 @@ SORT choice(file.name = "Amalfrida de Vairae", "1","other")
 
 ## [[Strigoi]]
 
-![[Pasted image 20260910233228.png]]
+![[Strigoi Xylia.png]]
 
-![[Pasted image 20260910233241.png]]
+![[Strigoi Xylia 2.png]]
