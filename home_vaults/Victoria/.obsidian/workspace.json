@@ -40,6 +40,51 @@
             }
           },
           {
+            "id": "be1602b0e5c4a8af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Clanes/Clan Astar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Clan Astar"
+            }
+          },
+          {
+            "id": "b7ac202e75b28e70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Personas/Vampiros/Victoria Val Astar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Victoria Val Astar"
+            }
+          },
+          {
+            "id": "6cda0cb7118e3ac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Personas/Vampiros/Alastor Val Astar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Alastor Val Astar"
+            }
+          },
+          {
             "id": "2d3afd8662691664",
             "type": "leaf",
             "state": {
@@ -53,9 +98,24 @@
               "icon": "lucide-file",
               "title": "Nombres de Vampiros"
             }
+          },
+          {
+            "id": "dca547b10c707a36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backstory info/_Notas/Work folder/Nombres de Vampiros.md",
+                "file": "Backstory info/Personas/Vampiros/Victoria Val Astar.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,10 +277,15 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "2d3afd8662691664",
+  "active": "b7ac202e75b28e70",
   "lastOpenFiles": [
-    "Backstory info/Grupos/Clanes/Clan Dragos.md",
+    "Backstory info/Grupos/Clanes/Clan Astar.md",
+    "Backstory info/Personas/Vampiros/Alastor Val Astar.md",
     "Backstory info/_Notas/Work folder/Nombres de Vampiros.md",
+    "Images/Ejército de Astar.png",
+    "Backstory info/Grupos/Clanes/Clanes.md",
+    "Sin título.md",
+    "Backstory info/Grupos/Clanes/Clan Dragos.md",
     "Backstory info/Personas/Vampiros/Cassius Vaer Dragos.md",
     "Images/Cassius Vaer Dragos.png",
     "Backstory info/Personas/Vampiros/Druila Vaer Dragos.md",
@@ -229,7 +294,6 @@
     "Backstory info/Personas/Vampiros/Cornelius Vaer Dragos.md",
     "Images/Druila Vaer Dragos.png",
     "Backstory info/Personas/Vampiros/Álaric Vaer Dragos.md",
-    "Backstory info/Grupos/Clanes/Clanes.md",
     "Backstory info/_Notas/Work folder/TODO.md",
     "Images/Cornelius Vaer Dragos.png",
     "Images/Álaric Vaer Dragos 2.png",
@@ -241,7 +305,6 @@
     "Backstory info/Personas/Adrian Soriano.md",
     "Images/Orden de la Luminaria.png",
     "Backstory info/Grupos/Orden de la Luminaria/Damas de la Llama Sempiterna.md",
-    "Images/Adrian Soriano.png",
     "Backstory info/Personas/Emilio Cedrón.md",
     "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Thaddeus del Alba.md",
     "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Nicodemus del Alba.md",
@@ -252,8 +315,6 @@
     "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Reliquias/El Sol Velado.md",
     "Backstory info/Grupos/Clanes/Clan Everlid.md",
     "Backstory info/Grupos/Clanes/Clan Neferata.md",
-    "Backstory info/Grupos/Clanes/Clan Xylia.md",
-    "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/Liturgo/Strigoi.md",
     "Sin título.base",
     "Backstory info/_Notas/Work folder",
     "Backstory info/_Notas/Arlene/Arlene notas.pdf",

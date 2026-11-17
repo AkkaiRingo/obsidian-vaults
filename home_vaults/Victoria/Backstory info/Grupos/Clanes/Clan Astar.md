@@ -23,6 +23,8 @@ Durante muchos años, el clan fue el más grande de [[Svitanie]], contando con e
 
 ![[Ejército de Astar.png]]
 
+
+
 ```dataview 
 table Maestro, embed(imagen) AS Imágen
 from #Vampiro  
