@@ -1,28 +1,28 @@
 ---
 Género: Mujer
 Raza: Humano
-En vida: "Beatrice Arnaud"
+En vida: Beatrice Arnaud
 Edad: 35
 Clan: "[[Clan Kazimir|Kazimir]]"
-Categoría: "Los Ingenios"
-Singularidad: "Reconoce patrones en arte, música, textos y conducta humana."
-Manifestación: "Percibe patrones incluso donde aparentemente no existen; interpreta los movimientos como secuencias."
+Categoría: Los Ingenios
+Singularidad: Reconoce patrones en arte, música, textos y conducta humana.
+Manifestación: Percibe patrones incluso donde aparentemente no existen; interpreta los movimientos como secuencias.
 Maestro: "[[Ordelia Vaor Kazimir]]"
 Tipo de V.: "[[Lamia]]"
 Lugar:
   - "[[Ofir]]"
-Pareja: 
+Pareja:
 F. Paternales:
-  - "Hélène Arnaud"
+  - Hélène Arnaud
 F. Fraternales:
-  - "Noémie Arnaud"
+  - Noémie Arnaud
 F. Filiales:
 tags:
   - Persona
   - Vampiro
 aliases:
-  - "Beatrice Arnaud"
-  - "Beatrice"
+  - Beatrice Arnaud
+  - Beatrice
 imagen: "[[Beatrice Arnaud.png]]"
 ---
 
