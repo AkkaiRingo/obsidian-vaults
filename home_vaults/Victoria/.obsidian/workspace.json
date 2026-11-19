@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "5a94649fbf7085c2",
+            "id": "2b992e60f5684b42",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,37 +40,22 @@
             }
           },
           {
-            "id": "013bb9524015f9a1",
+            "id": "e30a238e9cbfd386",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan Xylia.md",
+                "file": "Backstory info/Grupos/Clanes/Clan Acheron.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Clan Xylia"
+              "title": "Clan Acheron"
             }
           },
           {
-            "id": "620d36e8a12312a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan Neferata.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Clan Neferata"
-            }
-          },
-          {
-            "id": "be1602b0e5c4a8af",
+            "id": "31a4e876a295302e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -85,48 +70,93 @@
             }
           },
           {
-            "id": "b7ac202e75b28e70",
+            "id": "6dd9c5e9bf7f6839",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Personas/Vampiros/Victoria Val Astar.md",
+                "file": "Backstory info/Grupos/Clanes/Clan Dragos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Victoria Val Astar"
+              "title": "Clan Dragos"
             }
           },
           {
-            "id": "6cda0cb7118e3ac8",
+            "id": "8497abf39e3abcd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Personas/Vampiros/Alastor Val Astar.md",
+                "file": "Backstory info/Grupos/Clanes/Clan Everlid.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Alastor Val Astar"
+              "title": "Clan Everlid"
             }
           },
           {
-            "id": "2d3afd8662691664",
+            "id": "c1da99049c85dd73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/_Notas/Work folder/Nombres de Vampiros.md",
+                "file": "Backstory info/Grupos/Orden de la Luminaria/Orden de la Luminaria.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Nombres de Vampiros"
+              "title": "Orden de la Luminaria"
+            }
+          },
+          {
+            "id": "2bb131e37e9305b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Clanes/Clan Kazimir.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Clan Kazimir"
+            }
+          },
+          {
+            "id": "91e5f3c3836fbf43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Clanes/Clan Neferata.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Clan Neferata"
+            }
+          },
+          {
+            "id": "e75bcf9f4bff43c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Clanes/Clan Xylia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Clan Xylia"
             }
           }
         ],
@@ -292,25 +322,28 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "c848b66089cc57ce",
+  "active": "2b992e60f5684b42",
   "lastOpenFiles": [
-    "Resumen de todos los clanes.md",
-    "Backstory info/Grupos/Clanes/Clan Xylia.md",
-    "Backstory info/Grupos/Clanes/Clan Neferata.md",
-    "Backstory info/Personas/Vampiros/Amalfrida de Vairae.md",
-    "Backstory info/Grupos/Clanes/Clanes.md",
-    "Backstory info/Grupos/Clanes/Clan Astar.md",
+    "Images/emblemas_clanes_corregidos.png",
+    "Backstory info/Grupos/Clanes/Clan Kazimir.md",
+    "Backstory info/Grupos/Orden de la Luminaria/Orden de la Luminaria.md",
     "Backstory info/Personas/Aurora.md",
     "Backstory info/Personas/Vampiros/Aurora de Vairae.md",
     "Backstory info/Grupos/Clanes/Clan Everlid.md",
-    "Backstory info/Grupos/Clanes/Clan Kazimir.md",
+    "Backstory info/Grupos/Clanes/Clan Xylia.md",
+    "Backstory info/Grupos/Clanes/Clan Neferata.md",
+    "Backstory info/Grupos/Clanes/Clan Dragos.md",
+    "Backstory info/Grupos/Clanes/Clan Astar.md",
+    "Backstory info/Grupos/Clanes/Clan Acheron.md",
+    "Backstory info/Grupos/Clanes/Clanes.md",
+    "Backstory info/Personas/Vampiros/Alastor Val Astar.md",
+    "Resumen de todos los clanes.md",
+    "Backstory info/Personas/Vampiros/Amalfrida de Vairae.md",
     "Backstory info/Personas/Vampiros/Gabriel Bellamy Vaor Kazmir.md",
     "Backstory info/Personas/Vampiros/Ordelia Vaor Kazimir.md",
     "Backstory info/Personas/Vampiros/Victoria Val Astar.md",
-    "Backstory info/Personas/Vampiros/Alastor Val Astar.md",
     "Backstory info/_Notas/Work folder/Nombres de Vampiros.md",
     "Images/Ejército de Astar.png",
-    "Backstory info/Grupos/Clanes/Clan Dragos.md",
     "Backstory info/Personas/Vampiros/Cassius Vaer Dragos.md",
     "Images/Cassius Vaer Dragos.png",
     "Backstory info/Personas/Vampiros/Druila Vaer Dragos.md",
@@ -326,10 +359,7 @@
     "Images/Ismael Orellana 2.png",
     "Images/Ismael Orellana Joven.png",
     "Images/Ismael Orellana.png",
-    "Backstory info/Grupos/Orden de la Luminaria/Orden de la Luminaria.md",
-    "Backstory info/Personas/Adrian Soriano.md",
     "Images/Orden de la Luminaria.png",
-    "Backstory info/Grupos/Orden de la Luminaria/Damas de la Llama Sempiterna.md",
     "Sin título.base",
     "Backstory info/_Notas/Work folder",
     "Backstory info/_Notas/Arlene/Arlene notas.pdf",

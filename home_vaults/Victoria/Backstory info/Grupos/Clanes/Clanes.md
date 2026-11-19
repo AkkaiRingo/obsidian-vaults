@@ -5,6 +5,7 @@ where startswith(file.folder, this.file.folder) and !regexmatch(file.name, this.
 sort file.name ASC
 ```
 
+![[emblemas_clanes_corregidos.png]]
 # Resumen de todos los clanes
 
 Tenemos siete clanes de vampiros, todos pertenecen a una misma corte, liderada por un hombre muy poderoso llamado Vairae. La corte hace que los diferentes clanes de vampiros tengan ciertos acuerdos y no estén constantemente enfrentados, pero no se llevan especialmente bien entre ellos.
