@@ -3,7 +3,7 @@
 - [x] Valaine
 - [x] Druila
 - [ ] Hazelmere
-- [ ] Erylis
+- [x] Erylis
 - [x] Cornelius
 - [ ] Aurel
 - [x] Asema

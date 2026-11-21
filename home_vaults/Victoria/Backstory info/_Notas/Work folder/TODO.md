@@ -1,6 +1,9 @@
 #TODO
 
 - [x] Buscar plugin para hacer timelines
+- [ ] Vampiros piratas (disidentes, [[Arterial]])
+- [ ] Vampiros renegados (Hematófagos que han sido expulsados de su clan, o lo han perdido)
+- [ ] Vampiros que han cambiado de clan
 #### Imágenes
 - [x] [[Astoria Vas Astar|Astoria]]
 - [x] [[Nathaniel del Alba]]

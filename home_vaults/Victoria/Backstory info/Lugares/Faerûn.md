@@ -6,4 +6,7 @@ aliases:
 tags:
   - Lugar
 ---
-![[Faerûn.png]]
+![[Faerûn mapa político.png]]
+
+![[Faerûn mapa hex.png]]
+

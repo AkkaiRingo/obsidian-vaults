@@ -1,7 +1,7 @@
 ---
 Género: Mujer
 Raza: Humano
-Profesión: "[[Damas de la Llama Sempiterna]]"
+Profesión: "[[Diocesano]]"
 Lugar:
   - "[[Lioncourt]]"
   - "[[Edén]]"
@@ -16,8 +16,12 @@ tags:
   - Persona
 aliases:
   - No. 01
+imagen: "[[Anastasia de Vairae.png]]"
 ---
 Sus padres eran nobles de [[Sinar]]. Murieron la noche del ataque. 
+En sus estudios de [[Cirio]] llamó la atención especial de [[Aurora]] y fue seleccionada para unirse a ella. 
+
+![[01_Anastasia_0.1.png]]
 
 ![[01_Anastasia_1.1.png]]
 
@@ -25,4 +29,4 @@ Sus padres eran nobles de [[Sinar]]. Murieron la noche del ataque.
 
 ![[01_Anastasia_3.1.png]]
 
-![[Pasted image 20261121014807.png]]
+![[Anastasia de Vairae.png]]

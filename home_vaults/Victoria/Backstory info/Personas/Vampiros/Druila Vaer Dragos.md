@@ -1,5 +1,5 @@
 ---
-Género: Hombre
+Género: Mujer
 Raza: Humano
 En vida:
 Clan: "[[Clan Dragos|Dragos]]"

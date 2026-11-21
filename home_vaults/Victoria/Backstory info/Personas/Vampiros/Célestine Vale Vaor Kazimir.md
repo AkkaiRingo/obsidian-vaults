@@ -11,7 +11,7 @@ Maestro: "[[Ordelia Vaor Kazimir]]"
 Tipo de V.: "[[Lamia]]"
 Lugar:
   - "[[Ofir]]"
-Pareja:
+Pareja: "[[Marguerite de Rochefort Vaor Kazimir]]"
 F. Paternales:
 F. Fraternales:
 F. Filiales:
@@ -25,3 +25,5 @@ imagen: "[[Célestine Vale.png]]"
 ---
 
 ![[Célestine Vale.png]]
+
+![[Célestine y Marguerite.png]]

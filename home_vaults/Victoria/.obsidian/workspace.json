@@ -40,21 +40,6 @@
             }
           },
           {
-            "id": "be2f5538a903b9f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan Everlid.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Clan Everlid"
-            }
-          },
-          {
             "id": "d79ea85b7cbbd585",
             "type": "leaf",
             "state": {
@@ -70,18 +55,33 @@
             }
           },
           {
-            "id": "dc61d488cb326052",
+            "id": "1f7808cd399702d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Anastasia del Alba.md",
+                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/1º Gen. del Alba de Lioncourt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Anastasia del Alba"
+              "title": "1º Gen. del Alba de Lioncourt"
+            }
+          },
+          {
+            "id": "c62dc1f3c0d928d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Lugares/Faerûn.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Faerûn"
             }
           },
           {
@@ -94,45 +94,6 @@
               },
               "icon": "excalidraw-icon",
               "title": "_Generación_del_Alba.excalidraw"
-            }
-          },
-          {
-            "id": "952c47109ca769e8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Backstory info/Grupos/Orden de la Luminaria/_Jerarquía_Lumbre.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "_Jerarquía_Lumbre.excalidraw"
-            }
-          },
-          {
-            "id": "d635afd98867d751",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Backstory info/_Notas/Timeline (old).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Timeline (old)"
-            }
-          },
-          {
-            "id": "0ad216885da4b109",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/_Notas/Timeline.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Timeline"
             }
           },
           {
@@ -151,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -210,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 299.5
   },
   "right": {
     "id": "75e87a799dde3557",
@@ -226,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sin título.md",
+                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/1º Gen. del Alba de Lioncourt.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,44 +275,44 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "f60990a229fa289f",
+  "active": "c62dc1f3c0d928d9",
   "lastOpenFiles": [
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Anastasia del Alba.md",
-    "Images/Pasted image 20261121014807.png",
+    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/_Generación_del_Alba.excalidraw.md",
+    "Images/Faerûn mapa hex.png",
+    "Backstory info/Lugares/Faerûn.md",
+    "Images/Faerûn mapa político.png",
+    "Backstory info/Lugares/Svitanie.md",
     "Backstory info/Personas/1º Gen. del Alba de Lioncourt/1º Gen. del Alba de Lioncourt.md",
     "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Orden del Lucero del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/_Generación_del_Alba.excalidraw.md",
-    "Backstory info/Grupos/Clanes/Clan Everlid.md",
     "Backstory info/Grupos/Clanes/Clanes.md",
-    "Sin título.md",
-    "Backstory info/Grupos/Orden de la Luminaria/_Jerarquía_Lumbre.excalidraw.md",
-    "Backstory info/_Notas/Timeline (old).md",
-    "Backstory info/_Notas/Timeline.md",
-    "Backstory info/_Notas/Work folder/TODO.md",
-    "Images/emblemas_clanes_corregidos.png",
-    "Backstory info/Grupos/Clanes/Clan Kazimir.md",
-    "Backstory info/Grupos/Orden de la Luminaria/Orden de la Luminaria.md",
-    "Backstory info/Personas/Aurora.md",
-    "Backstory info/Personas/Vampiros/Aurora de Vairae.md",
-    "Backstory info/Grupos/Clanes/Clan Xylia.md",
-    "Backstory info/Grupos/Clanes/Clan Neferata.md",
-    "Backstory info/Grupos/Clanes/Clan Dragos.md",
-    "Backstory info/Grupos/Clanes/Clan Astar.md",
-    "Backstory info/Grupos/Clanes/Clan Acheron.md",
-    "Backstory info/Personas/Vampiros/Alastor Val Astar.md",
-    "Resumen de todos los clanes.md",
-    "Backstory info/Personas/Vampiros/Amalfrida de Vairae.md",
-    "Backstory info/Personas/Vampiros/Gabriel Bellamy Vaor Kazmir.md",
+    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Thaddeus del Alba.md",
     "Backstory info/Personas/Vampiros/Ordelia Vaor Kazimir.md",
-    "Backstory info/Personas/Vampiros/Victoria Val Astar.md",
-    "Images/Ejército de Astar.png",
-    "Images/Cassius Vaer Dragos.png",
-    "Images/Valaine Vaer Dragos.png",
-    "Images/Druila Vaer Dragos.png",
-    "Images/Cornelius Vaer Dragos.png",
-    "Images/Álaric Vaer Dragos 2.png",
-    "Images/Ismael Orellana 2.png",
-    "Images/Ismael Orellana Joven.png",
+    "Backstory info/Personas/Vampiros/Marguerite de Rochefort Vaor Kazimir.md",
+    "Backstory info/Grupos/Clanes/Clan Kazimir.md",
+    "Images/Pasted Image 20261121183817_821.png",
+    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Anastasia del Alba.md",
+    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Nicodemus del Alba.md",
+    "Backstory info/Personas/Vampiros/Anastasia de Vairae.md",
+    "Images/Pasted Image 20261121183738_629.png",
+    "Images/Pasted Image 20261121183453_946.png",
+    "Images/13_Nicodemus_4.1.png",
+    "Images/13_Nicodemus_3.1.png",
+    "Images/Svitanie Area Faros.png",
+    "Backstory info/Lugares/Tierra de Nod.md",
+    "Images/Svitanie Area Noditas.png",
+    "Backstory info/Grupos/Orden de la Luminaria/Faros de la Luminaria.md",
+    "Images/Faerûn_Hex.png",
+    "Sin título.md",
+    "Backstory info/_Notas/Arlene/Arlene notas.md",
+    "Backstory info/_Notas/Arlene/Backstory.md",
+    "Backstory info/_Notas/Backstory.md",
+    "Images/Arlene",
+    "Backstory info/Personas/Vampiros/Mateo Soria Vaor Kazimir.md",
+    "Backstory info/Personas/Vampiros/Isolde March Vaor Kazimir.md",
+    "Backstory info/Personas/Vampiros/Tomás Alvar Vaor Kazimir.md",
+    "Backstory info/Personas/Vampiros/Mireille Vasseur Vaor Kazimir.md",
+    "Backstory info/Personas/Vampiros/Seraphine Duval Vaor Kazimir.md",
+    "Backstory info/Personas/Vampiros/Rafael Ibarra Vaor Kazimir.md",
     "Sin título.base",
     "Backstory info/_Notas/Work folder",
     "Backstory info/_Notas/Arlene/Arlene notas.pdf",
@@ -362,7 +323,6 @@
     "Arlene.pdf",
     "Backstory info/Grupos/Noditas/Hambrientos/Vampiros/_Jerarquía Vampiros.canvas",
     "Backstory info/Grupos/Noditas/Malditos",
-    "Backstory info/Grupos/Noditas/Inmateriales",
     "Backstory info/Grupos/aaaaVampiros/_Jerarquía Vampiros.canvas",
     "Untitled.canvas",
     "Backstory info/Lugares/Lugares.canvas",

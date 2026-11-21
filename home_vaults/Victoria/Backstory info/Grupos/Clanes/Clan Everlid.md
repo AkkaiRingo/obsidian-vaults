@@ -16,7 +16,7 @@ tags:
 ---
 
 ```dataview 
-table Maestro, embed(imagen) AS Imágen
+table Maestro, row["Tipo de V."] AS "Tipo de Vampiro", embed(imagen) AS Imágen
 from #Vampiro  
 where Clan = [[Clan Everlid|Everlid]]
 sort Maestro ASC
