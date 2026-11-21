@@ -40,52 +40,7 @@
             }
           },
           {
-            "id": "e30a238e9cbfd386",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan Acheron.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Clan Acheron"
-            }
-          },
-          {
-            "id": "31a4e876a295302e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan Astar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Clan Astar"
-            }
-          },
-          {
-            "id": "6dd9c5e9bf7f6839",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan Dragos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Clan Dragos"
-            }
-          },
-          {
-            "id": "8497abf39e3abcd5",
+            "id": "be2f5538a903b9f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -100,67 +55,103 @@
             }
           },
           {
-            "id": "c1da99049c85dd73",
+            "id": "d79ea85b7cbbd585",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Grupos/Orden de la Luminaria/Orden de la Luminaria.md",
+                "file": "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Orden del Lucero del Alba.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Orden de la Luminaria"
+              "title": "Orden del Lucero del Alba"
             }
           },
           {
-            "id": "2bb131e37e9305b7",
+            "id": "dc61d488cb326052",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan Kazimir.md",
+                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Anastasia del Alba.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Clan Kazimir"
+              "title": "Anastasia del Alba"
             }
           },
           {
-            "id": "91e5f3c3836fbf43",
+            "id": "d8a7e8b24d16300b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan Neferata.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Backstory info/Personas/1º Gen. del Alba de Lioncourt/_Generación_del_Alba.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Clan Neferata"
+              "icon": "excalidraw-icon",
+              "title": "_Generación_del_Alba.excalidraw"
             }
           },
           {
-            "id": "e75bcf9f4bff43c2",
+            "id": "952c47109ca769e8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Backstory info/Grupos/Orden de la Luminaria/_Jerarquía_Lumbre.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "_Jerarquía_Lumbre.excalidraw"
+            }
+          },
+          {
+            "id": "d635afd98867d751",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Backstory info/_Notas/Timeline (old).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Timeline (old)"
+            }
+          },
+          {
+            "id": "0ad216885da4b109",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Grupos/Clanes/Clan Xylia.md",
+                "file": "Backstory info/_Notas/Timeline.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Clan Xylia"
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "f60990a229fa289f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -235,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backstory info/Grupos/Clanes/Clanes.md",
+                "file": "Sin título.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,7 +297,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -322,44 +314,44 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "2b992e60f5684b42",
+  "active": "f60990a229fa289f",
   "lastOpenFiles": [
+    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Anastasia del Alba.md",
+    "Images/Pasted image 20261121014807.png",
+    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/1º Gen. del Alba de Lioncourt.md",
+    "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Orden del Lucero del Alba.md",
+    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/_Generación_del_Alba.excalidraw.md",
+    "Backstory info/Grupos/Clanes/Clan Everlid.md",
+    "Backstory info/Grupos/Clanes/Clanes.md",
+    "Sin título.md",
+    "Backstory info/Grupos/Orden de la Luminaria/_Jerarquía_Lumbre.excalidraw.md",
+    "Backstory info/_Notas/Timeline (old).md",
+    "Backstory info/_Notas/Timeline.md",
+    "Backstory info/_Notas/Work folder/TODO.md",
     "Images/emblemas_clanes_corregidos.png",
     "Backstory info/Grupos/Clanes/Clan Kazimir.md",
     "Backstory info/Grupos/Orden de la Luminaria/Orden de la Luminaria.md",
     "Backstory info/Personas/Aurora.md",
     "Backstory info/Personas/Vampiros/Aurora de Vairae.md",
-    "Backstory info/Grupos/Clanes/Clan Everlid.md",
     "Backstory info/Grupos/Clanes/Clan Xylia.md",
     "Backstory info/Grupos/Clanes/Clan Neferata.md",
     "Backstory info/Grupos/Clanes/Clan Dragos.md",
     "Backstory info/Grupos/Clanes/Clan Astar.md",
     "Backstory info/Grupos/Clanes/Clan Acheron.md",
-    "Backstory info/Grupos/Clanes/Clanes.md",
     "Backstory info/Personas/Vampiros/Alastor Val Astar.md",
     "Resumen de todos los clanes.md",
     "Backstory info/Personas/Vampiros/Amalfrida de Vairae.md",
     "Backstory info/Personas/Vampiros/Gabriel Bellamy Vaor Kazmir.md",
     "Backstory info/Personas/Vampiros/Ordelia Vaor Kazimir.md",
     "Backstory info/Personas/Vampiros/Victoria Val Astar.md",
-    "Backstory info/_Notas/Work folder/Nombres de Vampiros.md",
     "Images/Ejército de Astar.png",
-    "Backstory info/Personas/Vampiros/Cassius Vaer Dragos.md",
     "Images/Cassius Vaer Dragos.png",
-    "Backstory info/Personas/Vampiros/Druila Vaer Dragos.md",
-    "Backstory info/Personas/Vampiros/Valaine Vaer Dragos.md",
     "Images/Valaine Vaer Dragos.png",
-    "Backstory info/Personas/Vampiros/Cornelius Vaer Dragos.md",
     "Images/Druila Vaer Dragos.png",
-    "Backstory info/Personas/Vampiros/Álaric Vaer Dragos.md",
-    "Backstory info/_Notas/Work folder/TODO.md",
     "Images/Cornelius Vaer Dragos.png",
     "Images/Álaric Vaer Dragos 2.png",
-    "Backstory info/Personas/Ismael Orellana.md",
     "Images/Ismael Orellana 2.png",
     "Images/Ismael Orellana Joven.png",
-    "Images/Ismael Orellana.png",
-    "Images/Orden de la Luminaria.png",
     "Sin título.base",
     "Backstory info/_Notas/Work folder",
     "Backstory info/_Notas/Arlene/Arlene notas.pdf",

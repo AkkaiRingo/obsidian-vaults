@@ -1,6 +1,6 @@
 #TODO
 
-- [ ] Buscar plugin para hacer timelines
+- [x] Buscar plugin para hacer timelines
 #### Imágenes
 - [x] [[Astoria Vas Astar|Astoria]]
 - [x] [[Nathaniel del Alba]]
@@ -28,10 +28,10 @@
 - [x] Sacar imágenes para otros personajes principales
 	- [x] [[Alastor Val Astar|Alastor]]
 	- [x] [[Madelaine Bescond]]
-- [ ] Vampiros
-	- [ ] [[Vampiros|vampiros]] de la corte de [[Vairae]]
+- [x] Vampiros
+	- [x] [[Vampiros|vampiros]] de la corte de [[Vairae]]
 		- [x] completar clanes (imágenes)
-		- [ ] escudos para los clanes de [[Vampiros|vampiros]] owo
+		- [x] escudos para los clanes de [[Vampiros|vampiros]] owo
 	- [x] buscar nombres de grupos de [[Vampiros]]
 		- [x] clan?
 		- [x] akelarre?

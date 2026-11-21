@@ -24,3 +24,5 @@ Sus padres eran nobles de [[Sinar]]. Murieron la noche del ataque.
 ![[01_Anastasia_2.1.png]]
 
 ![[01_Anastasia_3.1.png]]
+
+![[Pasted image 20261121014807.png]]
