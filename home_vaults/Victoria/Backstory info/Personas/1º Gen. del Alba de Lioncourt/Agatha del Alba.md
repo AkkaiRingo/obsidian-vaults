@@ -17,6 +17,8 @@ aliases:
 ---
 Sus padres eran nobles de [[Sinar]]. Murieron la noche del ataque. 
 
+![[Pasted image 20261121203547.png]]
+
 ![[02_Agatha_1.1.jpg]]
 
 ![[02_Agatha_2.1.png]]
