@@ -16,3 +16,8 @@ tags:
   - "#Grupo"
   - Gremio
 ---
+- travesías por el [[Arterial]] para la re-ignición de los [[Faros de la Luminaria]] 
+	- anual?
+- fabricación de [[Lámparas de los Noctívagos]]
+
+Mantiene las llamas sagradas y garantiza la protección frente a la maldición exterior. Sus miembros deben desplazarse periódicamente para atender los Faros.

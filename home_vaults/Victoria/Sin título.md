@@ -1,3 +1,5 @@
+Podemos volver a retomar la generación de la imagen de Agatha. ¿Podrías volver a resumirme la información que habíamos acordado para su imagen de los 55 años?
+
 ## Nombre
 
 Nombre del personaje.

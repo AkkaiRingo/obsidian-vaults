@@ -25,21 +25,6 @@
             }
           },
           {
-            "id": "2b992e60f5684b42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backstory info/Grupos/Clanes/Clanes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Clanes"
-            }
-          },
-          {
             "id": "bf3af4fed63d22f5",
             "type": "leaf",
             "state": {
@@ -55,7 +40,52 @@
             }
           },
           {
-            "id": "423792eae1b5e495",
+            "id": "804fcfc3254ed268",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Orden del Sol Velado.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Orden del Sol Velado"
+            }
+          },
+          {
+            "id": "99af776e8fc451ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Reliquias/El Sol Velado.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "El Sol Velado"
+            }
+          },
+          {
+            "id": "67a1a17e96b16dcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Orden del Lirio de Plata.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Orden del Lirio de Plata"
+            }
+          },
+          {
+            "id": "f8e006cf9b19debd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,33 +100,33 @@
             }
           },
           {
-            "id": "2b7d9a5d3ee4e764",
+            "id": "bd348cf005492fc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Reliquias/La Lámpara de la Última Vigilia.md",
+                "file": "Aguja de Plata.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "La Lámpara de la Última Vigilia"
+              "title": "Aguja de Plata"
             }
           },
           {
-            "id": "b183d2e6464e46ff",
+            "id": "1b10857741aec1dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lámparas de los Noctívagos.md",
+                "file": "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Reliquias/El Lirio de Plata.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lámparas de los Noctívagos"
+              "title": "El Lirio de Plata"
             }
           },
           {
@@ -172,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -206,7 +236,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "aurora",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -227,12 +257,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "75e87a799dde3557",
@@ -336,23 +366,33 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "b183d2e6464e46ff",
+  "active": "1b10857741aec1dc",
   "lastOpenFiles": [
+    "Images/Pasted image 20261124001415.png",
+    "Aguja de Plata.md",
+    "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Gremio del Noctívago.md",
+    "Backstory info/Grupos/Clanes/Clanes.md",
+    "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Reliquias/El Lirio de Plata.md",
+    "Images/Pasted image 20261123235351.png",
+    "Backstory info/Personas/Ismael Orellana.md",
     "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Orden del Lucero del Alba.md",
+    "Backstory info/Personas/Vampiros/Aurora de Vairae.md",
+    "Backstory info/Personas/Aurora.md",
+    "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Orden del Lirio de Plata.md",
+    "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Orden del Sol Velado.md",
+    "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Reliquias/El Sol Velado.md",
+    "Sin título.md",
+    "Images/Aguja de Plata.png",
     "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Orden de la Lámpara de la Última Vigilia.md",
     "Lámparas de los Noctívagos.md",
-    "Backstory info/Grupos/Orden de la Luminaria/Faros de la Luminaria.md",
     "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Reliquias/La Lámpara de la Última Vigilia.md",
+    "Backstory info/Grupos/Orden de la Luminaria/Faros de la Luminaria.md",
     "Images/Pasted image 20261122160942.png",
-    "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Gremio del Noctívago.md",
-    "Backstory info/Personas/Ismael Orellana.md",
-    "Backstory info/Grupos/Clanes/Clanes.md",
     "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Agatha del Alba.md",
     "Backstory info/Personas/1º Gen. del Alba de Lioncourt/1º Gen. del Alba de Lioncourt.md",
     "Backstory info/Personas/1º Gen. del Alba de Lioncourt/_Generación_del_Alba.excalidraw.md",
     "Backstory info/Grupos/Orden de la Luminaria/Gremio del Noctívago/Reliquias/El Lucero del Alba.md",
     "Images/Pasted image 20261121203547.png",
-    "Sin título.md",
     "Backstory info/Lugares/Faerûn.md",
     "Images/Faerûn mapa hex.png",
     "Images/Faerûn mapa político.png",
@@ -360,20 +400,10 @@
     "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Thaddeus del Alba.md",
     "Backstory info/Personas/Vampiros/Ordelia Vaor Kazimir.md",
     "Backstory info/Personas/Vampiros/Marguerite de Rochefort Vaor Kazimir.md",
-    "Backstory info/Grupos/Clanes/Clan Kazimir.md",
     "Images/Pasted Image 20261121183817_821.png",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Anastasia del Alba.md",
-    "Backstory info/Personas/1º Gen. del Alba de Lioncourt/Nicodemus del Alba.md",
-    "Backstory info/Personas/Vampiros/Anastasia de Vairae.md",
     "Images/Pasted Image 20261121183738_629.png",
     "Images/Pasted Image 20261121183453_946.png",
     "Images/13_Nicodemus_4.1.png",
-    "Images/13_Nicodemus_3.1.png",
-    "Images/Svitanie Area Faros.png",
-    "Backstory info/Lugares/Tierra de Nod.md",
-    "Backstory info/_Notas/Arlene/Arlene notas.md",
-    "Backstory info/_Notas/Arlene/Backstory.md",
-    "Backstory info/_Notas/Backstory.md",
     "Images/Arlene",
     "Sin título.base",
     "Backstory info/_Notas/Work folder",
